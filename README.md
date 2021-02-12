@@ -66,7 +66,7 @@ Once open, the collection can be browsed once open, the collection can be browse
 
 ## IIIF and OCR 
 
-OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso content, attached to a specific canvas. Here, we attache the ALTO file to canvas #19:
+OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso content, attached to a specific canvas. In this IIIF document manifest ([bpt6k9604118j](https://github.com/altomator/IIIF/blob/main/collection/bpt6k9604118j.json) ID), we are linking the ALTO file X/X00000019.xml to canvas #19:
 
 ```json
 ...
@@ -96,6 +96,7 @@ OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso conten
           }, ...
 ```
 
-
+These ALTO files may be dereferenced on the fly thanks to the Gallica OCR API:
+[ALTO file #19, document ID bpt6k9604118j](https://gallica.bnf.fr/RequestDigitalElement?O=bpt6k9604118j&E=ALTO&Deb=19)
 
 
