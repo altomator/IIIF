@@ -63,7 +63,7 @@ Each sub-collection must setup links to the IIIF document manifests:
 The Biblissima Mirador 3 instance can be used to open this collection:
 [https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
 
-Once open, the collection can be browsed once open, the collection can be browsed with the Information side panel:
+Once open, the collection can be browsed, starting from the Information side panel:
 
 ![IIIF collection in Mirador](/images/collection.jpg)
 
