@@ -137,3 +137,6 @@ IIIF viewers need an extension to display the OCR content. Johannes Baiter (MDZ 
 
 OCR text may be described as an annotations list linked to a canvas.
 
+### OCR as XML fragments
+
+Transcription of content into XML, XPaths being used to select a segment.
