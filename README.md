@@ -6,7 +6,7 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 
 ## IIIF Collections
 
-This IIIF test collection describes a sub-collection of the [Vogue](https://gallica.bnf.fr/ark:/12148/cb343833568/date.item) magazine (French edition, 1920-1940), organized by publication date (year).
+This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) describes a sub-collection of the [Vogue](https://gallica.bnf.fr/ark:/12148/cb343833568/date.item) magazine (French edition, 1920-1940), organized by publication date (year).
 
 [cb343833568.json](https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json) is the collection's manifest that can be opened in a IIIF compliant viewer like Mirador. 
 
@@ -69,6 +69,19 @@ Once open, the collection can be browsed once open, the collection can be browse
 
 ## IIIF Annotations
 
+[IIIF annotations](https://iiif.io/api/presentation/3.0/#56-annotation) are a convenient way to disseminate annotations, transcriptions, comments, etc.  that may have been produced regarding a specific image or region of an image. IIIF annoations follow the [Web Annotation](http://w3.org/TR/annotation-model/) model.
+
+This IIIF demonstration leverages the GallicaPix [objects detection](https://github.com/altomator/Image_Retrieval) data that are available when the GallicaPix database acts a IIIF annotations server.
+
+1. From GallicaPix or using [this URL](https://manuscrits-france-angleterre.org/), open the Vogue June 1920 issue in a Mirador instance, like the BnF https://manuscrits-france-angleterre.org/ portal.
+
+![Open in Mirador](/images/open.jpg)
+
+2. Download the [GallicaPix IIIF annotations](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json) on your local disk: 
+3. Load the annotations file in Mirador (on the upper right corner, Download button + Importing Annotation option).
+4. Display the annotations (upper left corner, Toogle annotation button).
+
+![GallicaPix Annotations in Mirador](/images/annotations.jpg)
 
 ## IIIF and OCR 
 
