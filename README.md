@@ -1,4 +1,4 @@
-# IIIF
+# IIIF Experiments
 
 This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) documents.
 
@@ -13,7 +13,7 @@ This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) d
 ```json
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568ocr.json",
+  "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json",
   "@type": "sc:Collection",
   ...
   "related": [{
