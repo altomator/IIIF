@@ -1,6 +1,10 @@
 # IIIF
 
-## IIIF Collection
+This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) documents.
+
+***
+
+## IIIF Collections
 
 This IIIF test collection describes a sub-collection of the [Vogue](https://gallica.bnf.fr/ark:/12148/cb343833568/date.item) magazine (French edition, 1920-1940), organized by publication date (year).
 
@@ -102,11 +106,11 @@ OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso conten
 These ALTO files may be dereferenced on the fly thanks to the Gallica OCR API:
 [ALTO file #19, document ID bpt6k9604118j](https://gallica.bnf.fr/RequestDigitalElement?O=bpt6k9604118j&E=ALTO&Deb=19)
 
-IIIF viewers need an extension to display the OCR content.  Johannes Baiter () developped such a Mirador 3 [plugin](https://github.com/dbmdz/mirador-textoverlay) that can be used to open our test:
+IIIF viewers need an extension to display the OCR content. Johannes Baiter (MDZ Digital Library team, Bavarian State Library) developped such a Mirador 3 [plugin](https://github.com/dbmdz/mirador-textoverlay) that can be used to open our OCR test:
 
 1. Open the Mirador demo instance: https://mirador-textoverlay.netlify.app/
-2. Add a new IIIF resource (blue + button) and load the collection manifest.
-3. Navigate to the 1920 June issue and then to image #19 (page folio #3).
+2. Add a new IIIF resource (the + blue button) and load the [collection manifest](https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json) with its URL.
+3. Using the Info side panel, navigate to the 1920 sub-collection, then to the June issue and then to image #19 (page folio #3).
 4. The text overlay toolbox must be visible, and the OCR content displayed as overlays.
 
 ![OCR text as overlays](/images/ocr.jpg)
@@ -114,5 +118,5 @@ IIIF viewers need an extension to display the OCR content.  Johannes Baiter () d
 
 ### OCR as Annotations
 
-
+OCR 
 
