@@ -73,7 +73,7 @@ Once open, the collection can be browsed once open, the collection can be browse
 
 This IIIF demonstration leverages the GallicaPix [objects detection](https://github.com/altomator/Image_Retrieval) data that are available when the GallicaPix database acts a IIIF annotations server.
 
-1. From GallicaPix or using [this URL](https://manuscrits-france-angleterre.org/), open the Vogue June 1920 issue in a Mirador instance, like the BnF https://manuscrits-france-angleterre.org/ portal.
+1. From GallicaPix or using [this URL](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en), open the Vogue [June 1920](https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/f11.item) issue in a Mirador instance, like the BnF https://manuscrits-france-angleterre.org/ portal.
 
 ![Open in Mirador](/images/open.jpg)
 
