@@ -32,7 +32,7 @@ This IIIF test collection describes a sub-collection of the [Vogue](https://gall
   }
 ```
 
-Each sub-collection links to the IIIF document manifests:
+Each sub-collection must setup links to the IIIF document manifests:
 
 ```json
 {
@@ -63,9 +63,12 @@ Once open, the collection can be browsed once open, the collection can be browse
 
 ![IIIF collection in Mirador](/images/collection.jpg)
 
+## IIIF Annotations
+
 
 ## IIIF and OCR 
 
+### SeeAlso
 OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso content, attached to a specific canvas. In this IIIF document manifest ([bpt6k9604118j](https://github.com/altomator/IIIF/blob/main/collection/bpt6k9604118j.json) ID), we are linking the ALTO file X/X00000019.xml to canvas #19:
 
 ```json
@@ -98,5 +101,18 @@ OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso conten
 
 These ALTO files may be dereferenced on the fly thanks to the Gallica OCR API:
 [ALTO file #19, document ID bpt6k9604118j](https://gallica.bnf.fr/RequestDigitalElement?O=bpt6k9604118j&E=ALTO&Deb=19)
+
+IIIF viewers need an extension to display the OCR content.  Johannes Baiter () developped such a Mirador 3 [plugin](https://github.com/dbmdz/mirador-textoverlay) that can be used to open our test:
+
+1. Open the Mirador demo instance: https://mirador-textoverlay.netlify.app/
+2. Add a new IIIF resource (blue + button) and load the collection manifest.
+3. Navigate to the 1920 June issue and then to image #19 (page folio #3).
+4. The text overlay toolbox must be visible, and the OCR content displayed as overlays.
+
+![OCR text as overlays](/images/ocr.jpg)
+
+
+### OCR as Annotations
+
 
 
