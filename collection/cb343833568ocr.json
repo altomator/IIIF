@@ -1,0 +1,67 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:8984/static/collection/cb343833568.json",
+  "@type": "sc:Collection",
+  "viewingHint": "top",
+  "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/thumbnail",
+  "label": "Vogue, édition française (1920-1940)",
+  "description": "Cette collection IIIF inclut 12 numéros annotés (illustrations segmentées et indexées, 832 pages).",
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "related": [{
+			"@id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+			"format": "text/html",
+			"label": "Digital object in Gallica"
+		},{
+  			"@id": "https://catalogue.bnf.fr/ark:/12148/cb343833568",
+  			"format": "text/html",
+  			"label": "Record in BnF Catalog"
+  		}],
+  "seeAlso": [
+      {
+         "@id": "http://catoai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=ark:/12148/cb343833568",
+         "format": "text/xml",
+         "profile": "http://www.openarchives.org/OAI/2.0/",
+         "label": "OAI-PMH record describing this object"
+      },
+      {
+         "@id": "https://data.bnf.fr/fr/34383356/vogue__paris_/rdf.xml",
+         "format": "application/rdf+xml",
+         "label": "RDF-XML metadata describing this object"
+      },
+      {
+         "@id": "https://data.bnf.fr/fr/34383356/vogue__paris_/rdf.n3",
+         "format": "text/rdf+n3",
+         "label": "RDF n3 serialisation of metadata describing this object"
+      }],
+  "collections": [
+    {
+      "@id": "http://localhost:8984/static/collection/cb343833568-1920ocr.json",
+      "@type": "sc:Collection",
+      "label": "1920 (ocr)"
+    },{
+      "@id": "http://localhost:8984/static/collection/cb343833568-1921.json",
+      "@type": "sc:Collection",
+      "label": "1921"
+    }
+    ,{
+      "@id": "http://localhost:8984/static/collection/cb343833568-1928.json",
+      "@type": "sc:Collection",
+      "label": "1928"
+    },
+    {
+      "@id": "http://localhost:8984/static/collection/cb343833568-1936.json",
+      "@type": "sc:Collection",
+      "label": "1936"
+    },{
+      "@id": "http://localhost:8984/static/collection/cb343833568-1938.json",
+      "@type": "sc:Collection",
+      "label": "1938"
+    },{
+      "@id": "http://localhost:8984/static/collection/cb343833568-1940.json",
+      "@type": "sc:Collection",
+      "label": "1940"
+    }
+      ]
+  }

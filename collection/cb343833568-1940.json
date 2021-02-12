@@ -1,0 +1,19 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://localhost:8984/static/collection/cb343833568-1940.json",
+	"@type": "sc:Collection",
+	"label": "Vogue 1940",
+	"description": "https://gallica.bnf.fr/ark:/12148/cb343833568/date1940",
+	"attribution": "BnF - Gallica, gallica.bnf.fr",
+	"logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+	"manifests": [{
+		"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6542642j/manifest.json",
+		"@type": "sc:Manifest",
+		"label": "mars 1940"
+	},{
+		"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6542643z/manifest.json",
+		"@type": "sc:Manifest",
+		"label": "avril 1940"
+	}
+]
+}

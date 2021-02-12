@@ -1,0 +1,18 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://localhost:8984/static/collection/cb343833568-1936.json",
+	"@type": "sc:Collection",
+	"label": "Vogue 1936",
+	"description": "https://gallica.bnf.fr/ark:/12148/cb343833568/date1936",
+	"attribution": "BnF - Gallica, gallica.bnf.fr",
+	"logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+	"manifests": [{
+		"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6539882n/manifest.json",
+		"@type": "sc:Manifest",
+		"label": "janvier 1936"
+	},{
+		"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65398832/manifest.json",
+		"@type": "sc:Manifest",
+		"label": "février 1936"
+	}]
+}
