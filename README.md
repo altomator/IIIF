@@ -16,7 +16,7 @@ This IIIF test collection describes a sub-collection of the [Vogue](https://gall
 			"@id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
 			"format": "text/html",
 			"label": "Digital object in Gallica"
-		}, . . .],
+		}, ...],
   "seeAlso": [...],
   "collections": [
     {
@@ -27,12 +27,12 @@ This IIIF test collection describes a sub-collection of the [Vogue](https://gall
       "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1921.json",
       "@type": "sc:Collection",
       "label": "1921"
-    }, . . .
+    }, ...
       ]
   }
 ```
 
-Each sub-collection links to the IIIF document manifests:
+Each sub-collection must setup links to the IIIF document manifests:
 
 ```json
 {
@@ -62,5 +62,57 @@ The Biblissima Mirador 3 instance can be used to open this collection:
 Once open, the collection can be browsed once open, the collection can be browsed with the Information side panel:
 
 ![IIIF collection in Mirador](/images/collection.jpg)
+
+## IIIF Annotations
+
+
+## IIIF and OCR 
+
+### SeeAlso
+OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso content, attached to a specific canvas. In this IIIF document manifest ([bpt6k9604118j](https://github.com/altomator/IIIF/blob/main/collection/bpt6k9604118j.json) ID), we are linking the ALTO file X/X00000019.xml to canvas #19:
+
+```json
+...
+, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/canvas/f19",
+      "label" : "3",
+      "height" : 5221,
+      "width" : 3791,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/canvas/f19",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/f19"
+          },
+          ...
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "seeAlso": {
+            "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/X/X00000019.xml",
+            "profile": "http://www.loc.gov/standards/alto/ns-v4#",
+            "format": "text/xml"
+          }, ...
+```
+
+These ALTO files may be dereferenced on the fly thanks to the Gallica OCR API:
+[ALTO file #19, document ID bpt6k9604118j](https://gallica.bnf.fr/RequestDigitalElement?O=bpt6k9604118j&E=ALTO&Deb=19)
+
+IIIF viewers need an extension to display the OCR content.  Johannes Baiter () developped such a Mirador 3 [plugin](https://github.com/dbmdz/mirador-textoverlay) that can be used to open our test:
+
+1. Open the Mirador demo instance: https://mirador-textoverlay.netlify.app/
+2. Add a new IIIF resource (blue + button) and load the collection manifest.
+3. Navigate to the 1920 June issue and then to image #19 (page folio #3).
+4. The text overlay toolbox must be visible, and the OCR content displayed as overlays.
+
+![OCR text as overlays](/images/ocr.jpg)
+
+
+### OCR as Annotations
+
 
 
