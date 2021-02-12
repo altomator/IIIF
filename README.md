@@ -1,5 +1,9 @@
 # IIIF
 
+This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) documents.
+
+***
+
 ## IIIF Collections
 
 This IIIF test collection describes a sub-collection of the [Vogue](https://gallica.bnf.fr/ark:/12148/cb343833568/date.item) magazine (French edition, 1920-1940), organized by publication date (year).
