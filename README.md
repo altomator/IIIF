@@ -135,7 +135,7 @@ IIIF viewers need an extension to display the OCR content. Johannes Baiter (MDZ 
 
 ### OCR as Annotations
 
-OCR text may be described as an annotations list linked to a canvas.
+OCR text may be described as an annotations list linked to a canvas (look at this [IIIF recipe](https://iiif.io/api/cookbook/recipe/0068-newspaper/)). 
 
 ### OCR as XML fragments
 
