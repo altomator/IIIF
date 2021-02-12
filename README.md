@@ -16,7 +16,7 @@ This IIIF test collection describes a sub-collection of the [Vogue](https://gall
 			"@id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
 			"format": "text/html",
 			"label": "Digital object in Gallica"
-		},...],
+		}, . . .],
   "seeAlso": [...],
   "collections": [
     {
@@ -27,7 +27,7 @@ This IIIF test collection describes a sub-collection of the [Vogue](https://gall
       "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1921.json",
       "@type": "sc:Collection",
       "label": "1921"
-    }, ...
+    }, . . .
       ]
   }
 ```
@@ -59,6 +59,8 @@ Each sub-collection links to the IIIF document manifests:
 The Biblissima Mirador 3 instance can be used to open this collection:
 [https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
 
+Once open, the collection can be browsed once open, the collection can be browsed with the Information side panel:
 
+![IIIF collection in Mirador](/images/collection.jpg)
 
 
