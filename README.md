@@ -139,4 +139,4 @@ OCR text may be described as an annotations list linked to a canvas (look at thi
 
 ### OCR as XML fragments
 
-Transcription of content into XML, XPaths being used to select a segment.
+Transcription of content into XML, XPaths being used to select a [segment](https://iiif.io/api/metadata/1.0/#api-advanced-segments).
