@@ -77,13 +77,17 @@ This IIIF demonstration leverages the GallicaPix [objects detection](https://git
 
 ![Open in Mirador](/images/open.jpg)
 
-2. Download the [GallicaPix IIIF annotations](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json) on your local disk: 
+2. Download the [GallicaPix IIIF annotations](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json) on your local disk. 
 3. Load the annotations file in Mirador (on the upper right corner, Download button + Importing Annotation option).
-4. Display the annotations (upper left corner, Toogle annotation button).
+4. Display the annotations (upper left corner, Toogle annotations button).
 
 ![GallicaPix Annotations in Mirador](/images/annotations.jpg)
 
+These annotations could even be searchable using the [IIIF Content Search API](https://iiif.io/api/search/1.0/).
+
 ## IIIF and OCR 
+
+Texts produced by OCR engines can be disseminated using various mechanisms offered by IIIF (look at this [work](https://iiif.io/community/groups/text-granularity/charter/)).
 
 ### SeeAlso
 OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso content, attached to a specific canvas. In this IIIF document manifest ([bpt6k9604118j](https://github.com/altomator/IIIF/blob/main/collection/bpt6k9604118j.json) ID), we are linking the ALTO file X/X00000019.xml to canvas #19:
@@ -131,5 +135,5 @@ IIIF viewers need an extension to display the OCR content. Johannes Baiter (MDZ 
 
 ### OCR as Annotations
 
-OCR 
+OCR text may be described as an annotations list linked to a canvas.
 
