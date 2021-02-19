@@ -145,5 +145,5 @@ Transcription of content into XML, XPaths being used to select a [segment](https
 
 ## IIIF Stories
 
-Cogapp [Storiiies](https://storiiies.cogapp.com/) web app can be used for digital storytelling. Look at this example: https://storiiies.cogapp.com/viewer/ae11y/Egyptien19-Papyrus-de-Padiamonnebnsouttaouy
+Cogapp [Storiiies](https://storiiies.cogapp.com/) web app can be used for digital storytelling. Look at this [example](https://storiiies.cogapp.com/viewer/ae11y/Egyptien19-Papyrus-de-Padiamonnebnsouttaouy) based on an Egyptian [papyrus](https://gallica.bnf.fr/ark:/12148/btv1b8304462j.image).
 
