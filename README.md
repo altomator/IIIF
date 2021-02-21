@@ -6,7 +6,7 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 
 ## Documents comparaison
 
-[Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k9907264)
+[Gallica](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
 
 ![Gallica](images/iiif-drag-n-drop.png)
 
