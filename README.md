@@ -12,7 +12,7 @@ Comparing images was one of the initial objectives of the IIIF initiative. Just 
 
 [![Gallica](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
 
-[Standford Libraries manifest](https://purl.stanford.edu/tm309fq4104/iiif/manifest)
+[Standford Libraries IIIF manifest](https://purl.stanford.edu/tm309fq4104/iiif/manifest)
 
 [![Standford](images/iiif-drag-n-drop.png)](https://purl.stanford.edu/tm309fq4104/iiif/manifest)
 
