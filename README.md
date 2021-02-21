@@ -10,7 +10,7 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 
 ![Gallica](images/iiif-drag-n-drop.png)
 
-[Standford manifest](https%3A%2F%2Fpurl.stanford.edu%2Ftm309fq4104%2Fiiif%2Fmanifest)
+[Standford manifest](https://purl.stanford.edu/tm309fq4104/iiif/manifest)
 
 ![Standford](images/iiif-drag-n-drop.png)
 
