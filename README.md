@@ -4,6 +4,14 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 
 ***
 
+## Deep zoom with large images
+
+Large composite file of images can be fragmented into smaller tiled units allowing rapid load and smooth  deep zoom navigation in a browser.
+This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes use of OpenSeaDragon, an open-source, web-based viewer for high-resolution zoomable images.  OpenSeaDragon has support for the IIIF Image API (the example is not IIIF-compliant).
+
+![Deep zoom](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)
+
+
 ## IIIF Collections
 
 This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) describes a sub-collection of the [Vogue](https://gallica.bnf.fr/ark:/12148/cb343833568/date.item) magazine (French edition, 1920-1940), organized by publication date (year).
@@ -145,8 +153,7 @@ Transcription of content into XML, XPaths being used to select a [segment](https
 
 ## IIIF Stories
 
-IIIF can be used for digital storytelling round  images and documents. Look at the Cogapp [Storiiies](https://www.cogapp.com/storiiies) web app and this [example](https://storiiies.cogapp.com/viewer/ae11y/Egyptien19-Papyrus-de-Padiamonnebnsouttaouy) exploring an Egyptian [papyrus](https://gallica.bnf.fr/ark:/12148/btv1b8304462j.image).
+IIIF can be used for digital storytelling round  images and documents. Look at the Cogapp [Storiiies](https://www.cogapp.com/storiiies) web app and this [example](https://storiiies.cogapp.com/viewer/ae11y/Egyptien19-Papyrus-de-Padiamonnebnsouttaouy) exploring an Egyptian [papyrus](https://gallica.bnf.fr/ark:/12148/btv1b8304462j.image). See also this [post](https://gallica.bnf.fr/blog/27052020/le-livre-pour-sortir-au-jour-ou-livre-des-morts-des-anciens-egyptiens?mode=desktop) (FR).  
 
-See also this [post](https://gallica.bnf.fr/blog/27052020/le-livre-pour-sortir-au-jour-ou-livre-des-morts-des-anciens-egyptiens?mode=desktop) (FR).  
 ![Storiiies](/images/papyrus.jpg)
 
