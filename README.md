@@ -8,7 +8,7 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 
 [Gallica IIIF manifest](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
 
-![Gallica](images/iiif-drag-n-drop.png)
+[![Gallica](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
 
 [Standford manifest](https://purl.stanford.edu/tm309fq4104/iiif/manifest)
 
