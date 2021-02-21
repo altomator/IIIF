@@ -14,7 +14,7 @@ Comparing images was one of the initial objectives of the IIIF initiative. Just 
 
 [Standford Libraries IIIF manifest](https://purl.stanford.edu/tm309fq4104/iiif/manifest)
 
-[![Standford](images/iiif-drag-n-drop.png)](https://purl.stanford.edu/tm309fq4104/iiif/manifest&page=3)
+[![Standford](images/iiif-drag-n-drop.png)](https://purl.stanford.edu/tm309fq4104/iiif/manifest.json&page=3)
 
 
 ## Deep zoom with large images
