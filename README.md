@@ -27,7 +27,7 @@ Comparing images was one of the initial objectives of the IIIF initiative. Just 
 
 ![Comparing documents)](images/2documents.jpg)
 
-Comparing a IIIF document and a local images is also possible in [Mirador 3](https://projectmirador.org/embed/?iiif-content=). Open this black & white picture in Mirador 3 using the drag-and-drop technique: 
+Comparing a IIIF document and a local images is also possible in [Mirador 3](https://projectmirador.org/embed/?iiif-content=). Open this [black & white picture](https://gallica.bnf.fr/ark:/12148/btv1b531454753) in Mirador 3 using the drag-and-drop technique: 
 
 [![B&W](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/ark:/12148/btv1b531454753?manifest=https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
 
