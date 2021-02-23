@@ -17,6 +17,15 @@ Comparing images was one of the initial objectives of the IIIF initiative. Just 
 [![Standford](images/iiif-drag-n-drop.png)](https://purl.stanford.edu/tm309fq4104/iiif/manifest.json)
 
 
+[Black&white picture](https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
+
+[![Gallica](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
+
+[Colorized version](http://free.iiifhosting.com/iiif/d2a2a5fe1c58dfcf9a2f2c21351959a29038ab495a1f832113cf2aaf4c5a31e0/manifest.json)
+
+[![Gallica](images/iiif-drag-n-drop.png)](http://free.iiifhosting.com/iiif/d2a2a5fe1c58dfcf9a2f2c21351959a29038ab495a1f832113cf2aaf4c5a31e0/manifest.json)
+
+
 ## Deep zoom with large images
 
 Large composite file of images can be fragmented into smaller tiled units allowing rapid load and smooth  deep zoom navigation in a browser.
