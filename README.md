@@ -35,7 +35,7 @@ Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) vers
 
 ![Comparing images](images/2images.jpg)
 
-A [mixed manifest](manifests/colorized-manifest.json) may also be build agregating the non-IIIF colorized version and the original IIIF document as a sequence of canvas. Open it in [Mirador 3](https://projectmirador.org/embed/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/colorized-manifest.json).
+Note: A [mixed manifest](manifests/colorized-manifest.json) may also be build agregating the non-IIIF colorized version and the original IIIF document as a sequence of canvas. Open it in [Mirador 3](https://projectmirador.org/embed/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/colorized-manifest.json). (Based on [Glen Robson](https://glenrobson.github.io/) sample.)
 
 
 ## Deep zoom with large images
