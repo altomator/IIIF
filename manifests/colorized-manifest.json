@@ -27,7 +27,7 @@
                 {
 					"@id": "http://a292a51f-5975-497f-b9a4-8a962e380762-2",
 					"@type": "sc:Canvas",
-					"label": "Colorized and enhanced photo (https://github.com/jantic/DeOldify)",
+					"label": "Colorized and enhanced photo using DeOldify (https://github.com/jantic/DeOldify)",
                     "thumbnail": "https://raw.githubusercontent.com/altomator/IIIF/main/images/btv1b531454753-Enhanced-Colorized.jpg",
 					"height": 7638,
 					"width": 10472,
@@ -48,24 +48,27 @@
 					]
 				},
                 {
-					"@id": "http://a292a51f-5975-497f-b9a4-8a962e380762",
+					"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/canvas/f1",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Original photo",
 					"height": 3024,
 					"width": 4032,
+					"thumbnail" : {
+             "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k9907264/f1.thumbnail"
+          },
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://3e071cbb-e37e-49c9-8b60-4d996885f5e8",
+							"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/f1",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.archivelab.org/iiif/img-8664_202009/full/full/0/default.jpg",
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/f1/full/full/0/native.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.archivelab.org/iiif/img-8664_202009",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/f1",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json"
 									]
@@ -73,7 +76,7 @@
 								"height": 3024,
 								"width": 4032
 							},
-							"on": "http://a292a51f-5975-497f-b9a4-8a962e380762"
+							"on": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/canvas/f1"
 						}
 					]
 				}
