@@ -35,7 +35,7 @@ Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) vers
 
 ![Comparing images](images/2images.jpg)
 
-
+A [mixed manifest](manifests/colorized-manifest.json) may also be build agregating the non-IIIF colorised version and the original IIIF document.
 
 
 ## Deep zoom with large images
