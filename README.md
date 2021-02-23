@@ -19,15 +19,14 @@ Comparing images was one of the initial objectives of the IIIF initiative. Just 
 
 ![Comparing documents)](images/2documents.jpg)
 
-
+Comparing a IIIF document and a local images is also possible in Mirador 3.  
 
 [Black&white picture](https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
 
 [![Gallica](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
 
-[Colorized version](http://free.iiifhosting.com/iiif/d2a2a5fe1c58dfcf9a2f2c21351959a29038ab495a1f832113cf2aaf4c5a31e0/manifest.json)
+[Colorized version](images/btv1b531454753-Enhanced-Colorized.jpg)
 
-[![Gallica](images/iiif-drag-n-drop.png)](http://free.iiifhosting.com/iiif/d2a2a5fe1c58dfcf9a2f2c21351959a29038ab495a1f832113cf2aaf4c5a31e0/manifest.json)
 
 
 ## Deep zoom with large images
