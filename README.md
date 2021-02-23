@@ -21,13 +21,15 @@ Comparing images was one of the initial objectives of the IIIF initiative. Just 
 
 Comparing a IIIF document and a local images is also possible in [Mirador 3](https://projectmirador.org/). Open the black & white picture manifest in Mirador 3.  
 
-[Black&white picture](https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
+[https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json](https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
 
 Then download this colorized version of the picture on your disk.
 
 [Colorized version](images/btv1b531454753-Enhanced-Colorized.jpg)
 
 Finally, drag and drop the file in Mirador.
+
+[Comparing images](images/btv1b531454753-Enhanced-Colorized.jpg)
 
 
 ## Deep zoom with large images
