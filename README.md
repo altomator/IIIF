@@ -33,6 +33,8 @@ Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) vers
 
 ![Comparing images](images/2images.jpg)
 
+[one](https://manuscrits-france-angleterre.org/view3if/?manifest=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
+
 
 ## Deep zoom with large images
 
