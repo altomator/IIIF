@@ -35,7 +35,12 @@ Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) vers
 
 ![Comparing images](images/2images.jpg)
 
-Note: A [mixed manifest](manifests/colorized-manifest.json) may also be build agregating the non IIIF colorized version and the original IIIF document as a sequence of canvas. Open it in [Mirador 3](https://projectmirador.org/embed/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/colorized-manifest.json). (Based on [Glen Robson](https://glenrobson.github.io/) sample.)
+A [mixed manifest](manifests/colorized-manifest.json) may also be build agregating the non IIIF colorized version and the original IIIF document as a sequence of canvas. Open it in [Mirador 3](https://projectmirador.org/embed/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/colorized-manifest.json). (Based on [Glen Robson](https://glenrobson.github.io/) sample.)
+
+*tbc: using Compariscope*
+
+*tbc: using [Leaflet-iiif](https://bl.ocks.org/mejackreed)*
+https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/
 
 
 ## Deep zoom with large images
@@ -45,7 +50,7 @@ This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes us
 
 ![Deep zoom (38 800 × 21 000 pixels)](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)
 
-
+*tbc: large map *
 
 
 ## IIIF Collections
@@ -111,6 +116,9 @@ Once open, the collection can be browsed, starting from the Information side pan
 
 ![IIIF collection in Mirador](/images/collection.jpg)
 
+*tbc: [embedded collections v3](https://glenrobson.github.io/iiif_stuff/collections) *
+
+
 ## IIIF Annotations
 
 [IIIF annotations](https://iiif.io/api/presentation/3.0/#56-annotation) are a convenient way to disseminate annotations, transcriptions, comments, etc., that may have been produced regarding a specific image or region of an image. IIIF annotations follow the [Web Annotation](http://w3.org/TR/annotation-model/) model.
@@ -128,6 +136,10 @@ This IIIF demonstration leverages the GallicaPix [objects detection](https://git
 ![GallicaPix Annotations in Mirador](/images/annotations.jpg)
 
 These annotations could even be searchable using the [IIIF Content Search API](https://iiif.io/api/search/1.0/).
+
+## IIIF Range
+
+*tbc*
 
 ## IIIF and OCR 
 
@@ -187,9 +199,21 @@ Transcription of content into XML, XPaths being used to select a [segment](https
 
 ## IIIF Curation
 
+*tbc* 
+
 ## IIIF Stories
 
-IIIF can be used for digital storytelling round  images and documents. Look at the Cogapp [Storiiies](https://www.cogapp.com/storiiies) web app and this [example](https://storiiies.cogapp.com/viewer/ae11y/Egyptien19-Papyrus-de-Padiamonnebnsouttaouy) exploring an Egyptian [papyrus](https://gallica.bnf.fr/ark:/12148/btv1b8304462j.image). See also this [post](https://gallica.bnf.fr/blog/27052020/le-livre-pour-sortir-au-jour-ou-livre-des-morts-des-anciens-egyptiens?mode=desktop) (FR).  
+IIIF can be used for digital storytelling round  images and documents. 
+
+### Storiiies
+Look at the Cogapp [Storiiies](https://www.cogapp.com/storiiies) web app and this [example](https://storiiies.cogapp.com/viewer/ae11y/Egyptien19-Papyrus-de-Padiamonnebnsouttaouy) exploring an Egyptian [papyrus](https://gallica.bnf.fr/ark:/12148/btv1b8304462j.image). See also this [post](https://gallica.bnf.fr/blog/27052020/le-livre-pour-sortir-au-jour-ou-livre-des-morts-des-anciens-egyptiens?mode=desktop) (FR).  
 
 ![Storiiies](/images/papyrus.jpg)
 
+The stories editor is [here](https://storiiies-editor.cogapp.com/).
+
+### Exhibit
+
+*tbc: https://exhibit.so/
+
+exemple moto
