@@ -219,10 +219,11 @@ The stories editor is [here](https://storiiies-editor.cogapp.com/).
 
 ### Exhibit
 
-[Exhibit](https://exhibit.so) is another IIIF applications editor developped by [Mnemoscene](mnemoscene.io).
+[Exhibit](https://exhibit.so) is another IIIF applications editor developped by [Mnemoscene](https://mnemoscene.io/).
 
+This example demonstrates how to use Exhibit to create narratives based on IIIF documents:
 
-https://exhibit.so/exhibits/A1hizd7vics1l7gFCnXm
+[![Exhibit](images/ROL800029.jpg)](https://exhibit.so/exhibits/A1hizd7vics1l7gFCnXm)
 
 Opening a IIIF manifest with Exhibit is straightforward:
 
