@@ -219,7 +219,7 @@ The stories editor is [here](https://storiiies-editor.cogapp.com/).
 
 ### Exhibit
 
-[Exhibit](https://exhibit.so) is another IIIF applications editor developped by .
+[Exhibit](https://exhibit.so) is another IIIF applications editor developped by [Mnemoscene](mnemoscene.io).
 
 
 https://exhibit.so/exhibits/A1hizd7vics1l7gFCnXm
