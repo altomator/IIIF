@@ -219,9 +219,14 @@ The stories editor is [here](https://storiiies-editor.cogapp.com/).
 
 ### Exhibit
 
-*tbc: https://exhibit.so/
+[Exhibit](https://exhibit.so) is another IIIF applications editor developped by .
 
-exemple moto
+
+https://exhibit.so/exhibits/A1hizd7vics1l7gFCnXm
+
+[![Add to Exhibit](https://exhibit.so/assets/svg/add-to-exhibit-button.svg)](https://exhibit.so/exhibits/create?item=https://gallica.bnf.fr/iiif/ark:/12148/btv1b53096152d/manifest.json)
+
+
 
 ### CanvasPanel
 
