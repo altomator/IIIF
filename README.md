@@ -33,9 +33,11 @@ Comparing a IIIF document and a local images is also possible in [Mirador 3](htt
 
 Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) version (produced with [DeOldify](https://www.myheritage.fr/incolor/))  on your disk. Finally, drag and drop the image file in Mirador.
 
-![Comparing images](images/2images.jpg)
+![Comparing images: non IIIF image](images/2images.jpg)
 
 A [mixed manifest](manifests/colorized-manifest.json) may also be build agregating the non IIIF colorized version and the original IIIF document as a sequence of canvas. Open it in [Mirador 3](https://projectmirador.org/embed/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/colorized-manifest.json). (Based on [Glen Robson](https://glenrobson.github.io/) sample.)
+
+![Comparing images: mixed images](images/mixte.jpg)
 
 *tbc: using Compariscope*
 
