@@ -224,7 +224,9 @@ The stories editor is [here](https://storiiies-editor.cogapp.com/).
 
 https://exhibit.so/exhibits/A1hizd7vics1l7gFCnXm
 
-[![Add to Exhibit](https://exhibit.so/assets/svg/add-to-exhibit-button.svg)](https://exhibit.so/exhibits/create?item=https://gallica.bnf.fr/iiif/ark:/12148/btv1b53096152d/manifest.json)
+Opening a IIIF manifest with Exhibit is straightforward:
+
+[![Add to Exhibit](images/exhibit.jpg)](https://exhibit.so/exhibits/create?item=https://gallica.bnf.fr/iiif/ark:/12148/btv1b53096152d/manifest.json)
 
 
 
