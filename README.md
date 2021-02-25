@@ -223,7 +223,7 @@ The stories editor is [here](https://storiiies-editor.cogapp.com/).
 
 This example demonstrates how to use Exhibit to create narratives based on IIIF documents:
 
-[![Exhibit](images/ROL800029.jpg)](https://exhibit.so/exhibits/A1hizd7vics1l7gFCnXm)
+[![Exhibit](images/ROL80029.jpg)](https://exhibit.so/exhibits/A1hizd7vics1l7gFCnXm)
 
 Opening a IIIF manifest with Exhibit is straightforward:
 
