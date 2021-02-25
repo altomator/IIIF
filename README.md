@@ -225,7 +225,7 @@ This example demonstrates how to use Exhibit to create narratives based on IIIF 
 
 [![Exhibit](images/ROL80029.jpg)](https://exhibit.so/exhibits/A1hizd7vics1l7gFCnXm)
 
-Opening a IIIF manifest with Exhibit is straightforward:
+Opening a IIIF manifest to start working with Exhibit is straightforward:
 
 [![Add to Exhibit](images/exhibit.jpg)](https://exhibit.so/exhibits/create?item=https://gallica.bnf.fr/iiif/ark:/12148/btv1b53096152d/manifest.json)
 
