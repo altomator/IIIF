@@ -39,10 +39,10 @@ A [mixed manifest](manifests/colorized-manifest.json) may also be build agregati
 
 ![Comparing images: mixed images](images/mixte.jpg)
 
-
-Digitally layering multiple images can also be needed for specific use cases. Each image can be gradually exposed by the user to allow the differences to be compared (e.g. the [Raphael cartoons](https://www.vam.ac.uk/articles/explore-the-raphael-cartoons#slideshow=3891&slide=0), Victoria and Albert Museum)
+Digitally layering multiple images can also be needed for specific use cases. Each image can be gradually exposed by the user to allow the differences to be compared (e.g. the [Raphael Cartoons](https://www.vam.ac.uk/articles/explore-the-raphael-cartoons#slideshow=3891&slide=0), Victoria and Albert Museum)
 
 *tbc: using Compariscope*
+
 
 *tbc: using [Leaflet-iiif](https://bl.ocks.org/mejackreed)*
 https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/
