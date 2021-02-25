@@ -219,3 +219,9 @@ The stories editor is [here](https://storiiies-editor.cogapp.com/).
 *tbc: https://exhibit.so/
 
 exemple moto
+
+### CanvasPanel
+
+Digirati [CanvasPanel](https://canvas-panel.netlify.app/#/about) is another way to build IIIF applications with complex layout and  rendering requirements.
+
+
