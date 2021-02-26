@@ -1,0 +1,41 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Video Example: Gallica"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/bpt6k1321500g/f1/canvas",
+      "type": "Canvas",
+      "height": 360,
+      "width": 640,
+      "duration": 572.034,
+      "items": [
+        {
+          "id": "https://gallica.bnf.fr/ark:/12148/bpt6k1321500g/f1/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://gallica.bnf.fr/ark:/12148/bpt6k1321500g/f1/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://gallica.bnf.fr/videolabs/bpt6k1321500g.mp4",
+                "type": "Video",
+                "height": 360,
+                "width": 480,
+                "duration": 4 102,
+                "format": "video/mp4"
+              },
+              "target": "https://gallica.bnf.fr/ark:/12148/bpt6k1321500g/f1/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
