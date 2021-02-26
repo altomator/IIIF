@@ -47,7 +47,7 @@ A [mixed manifest](manifests/colorized-manifest.json) may also be build agregati
 
 Digitally layering multiple images can also be needed for specific use cases. Each image can be gradually exposed by the user to allow the differences to be compared (e.g. the [Raphael Cartoons](https://www.vam.ac.uk/articles/explore-the-raphael-cartoons#slideshow=3891&slide=0), Victoria and Albert Museum)
 
-First, the [Compariscope](https://github.com/vanda/iiif-features#the-compariscope) utility app (Luca Carini) can be used to align IIIF documents. In this example, we align three states of a Rembrandt engraving.
+First, the [Compariscope](https://github.com/vanda/iiif-features#the-compariscope) utility app (Luca Carini) can be used to align IIIF documents. In this example, we align three states of a [Rembrandt engraving](https://gallica.bnf.fr/ark:/12148/btv1b105218666?rk=343349;2).
 
 ![Comparing images: mixed images](images/rembrandt1.jpg)
 
@@ -242,7 +242,6 @@ This example demonstrates how to use Exhibit to create narratives based on IIIF 
 Opening a IIIF manifest to start working with Exhibit is straightforward:
 
 [![Add to Exhibit](images/exhibit.jpg)](https://exhibit.so/exhibits/create?item=https://gallica.bnf.fr/iiif/ark:/12148/btv1b53096152d/manifest.json)
-
 
 
 ### CanvasPanel
