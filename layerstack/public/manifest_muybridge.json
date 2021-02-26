@@ -1,0 +1,236 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "LayerStack demo"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Comment"
+        ]
+      },
+      "value": {
+        "@none": [
+          "LayerStack demo"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "LayerStack demo"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "#TODO",
+      "type": "Image",
+      "width": 200,
+      "height": 300,
+      "service": {
+        "id": "#TODO",
+        "type": "ImageService2",
+        "profile": "level1"
+      }
+    }
+  ],
+  "rights": "https://creativecommons.org/licenses/by/4.0/",
+  "homepage": {
+    "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json",
+    "type": "Text",
+    "label": {
+      "en": [
+        "LayerStack demo"
+      ]
+    },
+    "format": "text/html"
+  },
+  "items": [
+    {
+      "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+      "type": "AnnotationPage",
+      "label": {
+        "en": [
+          "Camel trotting (Photograph), Muybridge"
+        ]
+      },
+      "items": [
+        {
+          "@id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/list/1",
+          "@type": "Canvas",
+          "label": "Empty canvas",
+          "height": 2334,
+          "width": 3000,
+          "items": [
+            {
+              "@id": "http://1e283e74-783f-4f3c-a203-31c6dd166b6f",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "@id": "https://framemark.vam.ac.uk/collections/2018KU6176/full/full/0/default",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://framemark.vam.ac.uk/collections/2018KU6176",
+                  "type": "ImageService2",
+                  "profile": "level1"
+                },
+                "height": 2334,
+                "width": 3000
+              },
+              "target": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+	],
+  "structures": [
+    {
+      "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/range/1",
+      "type": "Range",
+      "label": { "en": [ "Superimposed regions" ] },
+      "behavior": [
+        "superimpose-regions"
+      ],
+      "items": [
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:69.002,71.129,20.741,20.739"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:48.881,71.303,20.553,20.552"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:28.749,71.221,20.685,20.689"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:8.835,71.046,20.863,20.861"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:69.178,49.946,20.703,20.705"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:49.587,50.046,20.583,20.579"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:29.59,49.959,20.789,20.789"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:9.554,49.912,20.894,20.895"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:69.577,28.955,20.789,20.789"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:49.502,28.937,20.832,20.833"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:29.414,29.013,20.694,20.694"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:10.027,28.911,20.832,20.828"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:70.07,7.809,20.955,20.952"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:50.036,8.004,20.651,20.65"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:30.212,8.124,20.364,20.363"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:10.366,8.156,20.347,20.347"
+          }
+        }
+      ]
+    }
+  ]
+}

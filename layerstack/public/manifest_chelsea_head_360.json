@@ -1,0 +1,1863 @@
+
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://e01b6946-ee16-4436-914e-c3f0c26023a1",
+              "@type": "sc:Manifest",
+              "label": "[Click to edit label]",
+              "metadata": [],
+              "description": [
+                {
+                  "@value": "[Click to edit description]",
+                  "@language": "en"
+                }
+              ],
+              "license": "https://creativecommons.org/licenses/by/3.0/",
+              "attribution": "[Click to edit attribution]",
+              "sequences": [
+                {
+                  "@id": "http://eb55878b-dd9a-4397-9187-8dd2d2f568f9",
+                  "@type": "sc:Sequence",
+                  "label": "Normal Sequence",
+                  "canvases": [
+            
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/1",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 1",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/1",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/01/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/01",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/1"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/2",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 2",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/2",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/02/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/02",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/2"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/3",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 3",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/3",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/03/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/03",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/3"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/4",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 4",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/4",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/04/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/04",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/4"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/5",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 5",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/5",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/05/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/05",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/5"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/6",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 6",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/6",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/06/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/06",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/6"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/7",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 7",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/7",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/07/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/07",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/7"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/8",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 8",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/8",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/08/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/08",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/8"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/9",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 9",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/9",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/09/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/09",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/9"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/10",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 10",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/10",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/10/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/10",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/10"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/11",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 11",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/11",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/11/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/11",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/11"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/12",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 12",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/12",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/12/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/12",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/12"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/13",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 13",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/13",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/13/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/13",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/13"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/14",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 14",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/14",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/14/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/14",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/14"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/15",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 15",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/15",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/15/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/15",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/15"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/16",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 16",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/16",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/16/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/16",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/16"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/17",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 17",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/17",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/17/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/17",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/17"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/18",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 18",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/18",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/18/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/18",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/18"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/19",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 19",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/19",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/19/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/19",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/19"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/20",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 20",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/20",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/20/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/20",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/20"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/21",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 21",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/21",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/21/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/21",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/21"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/22",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 22",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/22",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/22/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/22",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/22"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/23",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 23",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/23",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/23/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/23",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/23"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/24",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 24",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/24",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/24/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/24",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/24"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/25",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 25",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/25",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/25/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/25",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/25"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/26",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 26",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/26",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/26/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/26",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/26"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/27",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 27",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/27",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/27/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/27",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/27"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/28",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 28",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/28",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/28/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/28",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/28"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/29",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 29",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/29",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/29/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/29",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/29"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/30",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 30",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/30",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/30/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/30",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/30"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/31",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 31",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/31",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/31/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/31",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/31"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/32",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 32",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/32",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/32/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/32",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/32"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/33",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 33",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/33",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/33/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/33",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/33"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/34",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 34",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/34",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/34/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/34",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/34"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/35",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 35",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/35",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/35/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/35",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/35"
+                    }
+                  ],
+                  "related": ""
+                },
+                {
+                  "@id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/36",
+                  "@type": "sc:Canvas",
+                  "label": "canvas 36",
+                  "width": 4480,
+                  "height": 6720,
+                  "images": [
+                    {
+                      "@context": "http://iiif.io/api/presentation/2/context.json",
+                      "@id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/36",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/36/full/full/0/default",
+                        "@type": "dctypes:Image",
+                        "format": "image/png",
+                        "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://framemark-int.vam.ac.uk/demo/chelsea_head/36",
+                          "profile": [
+                            "http://iiif.io/api/image/2/level1.json",
+                            {
+                              "formats": [
+                                "png",
+                                "jpg"
+                              ],
+                              "qualities": [
+                                "native",
+                                "color",
+                                "gray"
+                              ],
+                              "supports": [
+                                "regionByPct",
+                                "sizeByForcedWh",
+                                "sizeByWh",
+                                "sizeAboveFull",
+                                "rotationBy90s",
+                                "mirroring",
+                                "gray"
+                              ]
+                            }
+                          ]
+                        },
+                        "width": 4480,
+                        "height": 6720
+                      },
+                      "on": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/36"
+                    }
+                  ],
+                  "related": ""
+                }
+                  ]
+                }
+              ]
+            }
+            

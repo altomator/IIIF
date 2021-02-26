@@ -1,0 +1,256 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "LayerStack demo"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Comment"
+        ]
+      },
+      "value": {
+        "@none": [
+          "LayerStack demo"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "LayerStack demo"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "#TODO",
+      "type": "Image",
+      "width": 200,
+      "height": 300,
+      "service": {
+        "id": "#TODO",
+        "type": "ImageService2",
+        "profile": "level1"
+      }
+    }
+  ],
+  "rights": "https://creativecommons.org/licenses/by/4.0/",
+  "homepage": {
+    "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json",
+    "type": "Text",
+    "label": {
+      "en": [
+        "LayerStack demo"
+      ]
+    },
+    "format": "text/html"
+  },
+  "items": [
+    {
+      "id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Fig. 2, Visible light, © Victoria and Albert Museum, London"
+        ]
+      },
+      "summary": {
+        "en": [
+          ""
+        ]
+      },
+      "width": 4992,
+      "height": 6668,
+      "requiredStatement": {
+        "label": {
+          "en": [
+            ""
+          ]
+        },
+        "value": {
+          "en": [
+            ""
+          ]
+        }
+      },
+      "items": [
+        {
+          "id": "https://vanda.github.io/iiif-features/img/manifest.json/list/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "@id": "https://framemark-int.vam.ac.uk/demo/layerStack/Fig2/full/full/0/default",
+                "type": "Image",
+                "format": "img/jpeg",
+                "width": 4992,
+                "height": 6668,
+                "service": {
+                  "id": "https://framemark-int.vam.ac.uk/demo/layerStack/Fig2",
+                  "type": "ImageService2",
+                  "profile": "level1"
+                }
+              },
+              "target": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Fig. 3, X-ray, © Victoria and Albert Museum, London"
+        ]
+      },
+      "summary": {
+        "en": [
+          ""
+        ]
+      },
+      "width": 2556,
+      "height": 3803,
+      "requiredStatement": {
+        "label": {
+          "en": [
+            ""
+          ]
+        },
+        "value": {
+          "en": [
+            ""
+          ]
+        }
+      },
+      "items": [
+        {
+          "id": "https://vanda.github.io/iiif-features/img/manifest.json/list/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "@id": "https://framemark-int.vam.ac.uk/demo/layerStack/Fig3/full/full/0/default",
+                "type": "Image",
+                "format": "img/jpeg",
+                "width": 2556,
+                "height": 3803,
+                "service": {
+                  "id": "https://framemark-int.vam.ac.uk/demo/layerStack/Fig3",
+                  "type": "ImageService2",
+                  "profile": "level1"
+                }
+              },
+              "target": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Fig. 4, Infrared, © Victoria and Albert Museum, London"
+        ]
+      },
+      "summary": {
+        "en": [
+          ""
+        ]
+      },
+      "width": 2447,
+      "height": 3774,
+      "requiredStatement": {
+        "label": {
+          "en": [
+            ""
+          ]
+        },
+        "value": {
+          "en": [
+            ""
+          ]
+        }
+      },
+      "items": [
+        {
+          "id": "https://vanda.github.io/iiif-features/img/manifest.json/list/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vanda.github.io/iiif-features/img/manifest.json/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "@id": "https://framemark-int.vam.ac.uk/demo/layerStack/Fig4/full/full/0/default",
+                "type": "Image",
+                "format": "img/jpeg",
+                "width": 2447,
+                "height": 3774,
+                "service": {
+                  "id": "https://framemark-int.vam.ac.uk/demo/layerStack/Fig4",
+                  "type": "ImageService2",
+                  "profile": "level1"
+                }
+              },
+              "target": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://vanda.github.io/iiif-features/img/manifest.json/range/1",
+      "type": "Range",
+      "label": { "en": [ "Superimposed regions" ] },
+      "behavior": [
+        "superimpose-regions"
+      ],
+      "items": [
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/2",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:9.668,8.395,80.414,82.422"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/3",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:5.328,3.063,91.985,91.33"
+          }
+        },
+        {
+          "type": "SpecificResource",
+          "source": "https://vanda.github.io/iiif-features/img/manifest.json/canvas/1",
+          "selector": {
+            "type": "FragmentSelector",
+            "value": "xywh=pct:13.368,4.892,76.284,87.089"
+          }
+        }
+      ]
+    }
+  ]
+}
