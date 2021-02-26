@@ -7,13 +7,14 @@ map = L.map('map', {
 });
 
 
-var layer1 = L.tileLayer.iiif('https://stacks.stanford.edu/image/iiif/zf275jj8939%2FMartellus_300ppi_natural_color_panorama_WIP2/info.json', {
+var layer1 = L.tileLayer.iiif('https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303825m/f1/info.json', {
     fitBounds: false,
   }
 ).addTo(map);
 
 var layer2 = L.tileLayer.iiif(
-  'https://stacks.stanford.edu/image/iiif/zf275jj8939%2FMartellus_300ppi_combined_processes_WIP2_panorama_with_blue_water/info.json'
+  'https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303825m/f1/info.json',
+  {quality: 'gray'}
 ).addTo(map);
 
 L.control.sideBySide(layer1, layer2).addTo(map);
