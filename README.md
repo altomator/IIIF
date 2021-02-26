@@ -8,6 +8,7 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 - [*IIIF Annotations*](#iiif-annotations)
 - [*IIIF Range*](#iiif-range)
 - [*IIIF and OCR*](#iiif-and-ocr)
+- *IIIF and A/V*
 - [*IIIF Curation*](#iiif-curation)
 - [*IIIF Stories*](#iiif-stories)
 
