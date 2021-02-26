@@ -230,11 +230,13 @@ Transcription of content into XML, XPaths being used to select a [segment](https
 
 ### Video
 This simple  manifest  presents a single video file in a IIIF Presentation resource. The [video](https://gallica.bnf.fr/ark:/12148/bpt6k1321500g/f1.media) file is referenced as a Gallica URL. 
-Mirador and Universal Viewer can handle this [A/V manifest](https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fmanifests%2Fvideo.json).
+Mirador and Universal Viewer can handle this [A/V manifest](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/video.json).
 
-[![Video in UV](/images/uv.png)](https://uv-v3.netlify.app/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fmanifests%2Fvideo.json)
+[![Video in UV](/images/uv.png)](https://uv-v3.netlify.app/#?c=&m=&s=&cv=&manifest=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/video.json)
 
 ### Audio
+
+tbc
 
 ### 
 
