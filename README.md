@@ -66,7 +66,7 @@ Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer
 Large composite file of images can be fragmented into smaller tiled units allowing rapid load and smooth  deep zoom navigation in a browser.
 This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes use of OpenSeaDragon, an open-source, web-based viewer for high-resolution zoomable images.  OpenSeaDragon has [support](https://openseadragon.github.io/examples/tilesource-iiif/) for the IIIF Image API (the example is not IIIF-compliant).
 
-![Deep zoom (38 800 × 21 000 pixels)](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)
+[![Deep zoom (38 800 × 21 000 pixels)](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)](http://www.euklides.fr/blog/altomator/Megapixel/Visages-1418.html)
 
 *tbc: large Cassini map *
 
