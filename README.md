@@ -228,6 +228,7 @@ Transcription of content into XML, XPaths being used to select a [segment](https
 ## IIIF Curation
 
 *tbc* 
+http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/962dc427-6241-4200-82ad-69a0821b573c&lang=en
 
 ## IIIF Stories
 
