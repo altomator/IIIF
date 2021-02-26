@@ -148,7 +148,7 @@ This IIIF demonstration leverages the GallicaPix [objects detection](https://git
 
 1. From GallicaPix or using [this URL](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en), open the Vogue [June 1920](https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/f11.item) issue in a Mirador instance, like the BnF https://manuscrits-france-angleterre.org/ portal.
 
-![Open in Mirador](/images/open.jpg)
+[![Open in Mirador](/images/open.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
 2. Download the [GallicaPix IIIF annotations](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json) on your local disk. 
 3. Load the annotations file in Mirador (on the upper right corner, Download button + Importing Annotation option).
@@ -160,9 +160,9 @@ These annotations could even be searchable using the [IIIF Content Search API](h
 
 ### Scientific Annotations
 
-Some of the Mandragore database of enlightened manscripts has been exported as [IIIF annotations](https://api.bnf.fr/fr/mandragore-echantillon-segmente-2019). After opening a [manuscript](https://projectmirador.org/embed/?iiif-content=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b8419219x%2Fmanifest.json) in an Mirador instance, one can visualize the annotations.
+Some of the Mandragore database of enlightened manscripts has been exported as [IIIF annotations](https://api.bnf.fr/fr/mandragore-echantillon-segmente-2019). After opening a [manuscript](https://manuscrits-france-angleterre.org/view3if/?target=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b8419219x%2Fmanifest.json&page=11&lang=en) in an Mirador instance, one can visualize the [Mandragore annotations](ftp://ftp.bnf.fr/api/jeux_docs_num/Mandragore/Segmentation2019/MiradorAnnotations/btv1b8419219x/MiradorAnnotations_Mixed2.json).
 
-
+[![Open in Mirador](/images/open.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
 
 ## IIIF Range
