@@ -2,14 +2,14 @@
 
 This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) documents.
 
-- *Comparing Documents and Images*
-- *Deep Zoom with large images*
-- *IIIF Collections*
-- *IIIF Annotations*
-- *IIIF Range*
-- *IIIF and OCR*
-- *IIIF Curation*
-- *IIIF Stories*
+- [*Comparing Documents and Images*](#comparing-documents-and-images)
+- [*Deep Zoom with large images*](#deep-zoom-with-large-images)
+- [*IIIF Collections for Periodicals*](#iiif-collections-for-periodicals)
+- [*IIIF Annotations*](#iiif-annotations)
+- [*IIIF Range*](#iiif-range)
+- [*IIIF and OCR*](#iiif-and-ocr)
+- [*IIIF Curation*](#iiif-curation)
+- [*IIIF Stories*](#iiif-stories)
 
 ***
 
@@ -72,7 +72,7 @@ This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes us
 *tbc: large Cassini map *
 
 
-## IIIF Collections
+## IIIF Collections for Periodicals
 
 This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) describes a sub-collection of the [Vogue](https://gallica.bnf.fr/ark:/12148/cb343833568/date.item) magazine (French edition, 1920-1940), organized by publication date (year).
 
