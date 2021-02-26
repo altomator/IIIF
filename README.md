@@ -162,7 +162,7 @@ These annotations could even be searchable using the [IIIF Content Search API](h
 
 Some of the Mandragore database's enlightened manscripts has been exported as [IIIF annotations](https://api.bnf.fr/fr/mandragore-echantillon-segmente-2019). After opening a [manuscript](https://manuscrits-france-angleterre.org/view3if/?target=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b8419219x%2Fmanifest.json&page=12&lang=en) in an Mirador instance, one can visualize the [Mandragore annotations](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/Arabe-274.json).
 
-[![Mandragore annotations](/images/arabe-274.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
+[![Mandragore annotations](images/arabe-274.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
 
 ## IIIF Range
