@@ -35,7 +35,7 @@ Comparing a IIIF document and a local images is also possible in [Mirador 3](htt
 
 Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) version (produced with [DeOldify](https://www.myheritage.fr/incolor/))  on your disk. Finally, drag and drop the image file in Mirador.
 
-![Comparing images: non IIIF image](images/2images.jpg)
+[![Comparing images: non IIIF image](images/2images.jpg)](https://projectmirador.org/embed/?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
 
 ### Creating a mixed Manifest including Documents and Images
 
