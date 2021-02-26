@@ -56,9 +56,9 @@ Then the manifest is visualised using [LayerStack](https://github.com/vanda/laye
 
 [![Layering images](images/rembrandt2.jpg)](https://altomator.github.io/IIIF/#0)
 
-Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer different approaches for layering images. Leaflet-iiif is a JavaScript library for creating zoomable views of IIIF images. In this [example](https://altomator.github.io/IIIF/index-leaflet.html) based on [https://bl.ocks.org/mejackreed](https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/), we display side-by-side two maps.
+Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer different approaches for layering images. Leaflet-iiif is a JavaScript library for creating zoomable views of IIIF images. In this [example](https://altomator.github.io/IIIF/index-leaflet.html) based on [https://bl.ocks.org/mejackreed](https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/), we display side-by-side the [Quinatzin map](https://gallica.bnf.fr/ark:/12148/btv1b10303825m/f1), on which technical photography techniques have been applied (see [1](https://bnf.hypotheses.org/577) and [2](https://chsopensource.org/technical-photography-of-aztec-manuscripts-in-paris/)), and a spectral range photography (simulated with the IIIF quality parameter).
 
-[![Layering images](images/rembrandt2.jpg)](https://altomator.github.io/IIIF/#0)
+[![Layering images](images/mappa.jpg)](https://altomator.github.io/IIIF//index-leaflet.html)
 
 
 ## Deep zoom with large images
@@ -66,7 +66,7 @@ Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer
 Large composite file of images can be fragmented into smaller tiled units allowing rapid load and smooth  deep zoom navigation in a browser.
 This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes use of OpenSeaDragon, an open-source, web-based viewer for high-resolution zoomable images.  OpenSeaDragon has [support](https://openseadragon.github.io/examples/tilesource-iiif/) for the IIIF Image API (the example is not IIIF-compliant).
 
-![Deep zoom (38 800 × 21 000 pixels)](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)
+[![Deep zoom (38 800 × 21 000 pixels)](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)](http://www.euklides.fr/blog/altomator/Megapixel/Visages-1418.html)
 
 *tbc: large Cassini map *
 
@@ -200,7 +200,7 @@ These ALTO files may be dereferenced on the fly thanks to the Gallica OCR API:
 IIIF viewers need an extension to display the OCR content. Johannes Baiter (MDZ Digital Library team, Bavarian State Library) developped such a Mirador 3 [plugin](https://github.com/dbmdz/mirador-textoverlay) that can be used to open our OCR test:
 
 1. Open the Mirador demo instance: https://mirador-textoverlay.netlify.app/
-2. Add a new IIIF resource (use the + blue button) and load the Vogue [collection manifest](https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json) with its URL.
+2. Add a new IIIF resource (use the + blue button) and load the Vogue [collection manifest](https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568ocr.json) with its URL.
 3. Using the Info side panel, navigate to the 1920 sub-collection, then to the June issue and finally to image #19 (page folio #3).
 4. The text overlay toolbox must be visible, and the OCR content displayed as overlays.
 
