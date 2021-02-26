@@ -55,60 +55,6 @@
   },
   "items": [
     {
-      "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
-      "type": "Canvas",
-      "label": {
-        "fr": [
-          "[La fuite en Egypte] : [estampe] ([1er état]) / Rembrandt. inventor et fecit. 1633. BnF"
-        ]
-      },
-      "summary": {
-        "en": [
-          ""
-        ]
-      },
-      "width": 1589,
-      "height": 2224,
-      "requiredStatement": {
-        "label": {
-          "en": [
-            ""
-          ]
-        },
-        "value": {
-          "en": [
-            ""
-          ]
-        }
-      },
-      "items": [
-        {
-          "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/list/12",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/annotation/13",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10521786n/f1/full/full/0/native",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 1589,
-                "height": 2224,
-                "service": {
-                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10521786n/f1",
-                  "type": "ImageService2",
-                  "profile": "level1"
-                }
-              },
-              "target": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/2",
       "type": "Canvas",
       "label": {
@@ -162,6 +108,61 @@
         }
       ]
     },
+    {
+      "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "[La fuite en Egypte] : [estampe] ([5e état d'après le new Hollstein, avec reprise postérieure d'une autre main]) / [Rembrandt]. BnF"
+        ]
+      },
+      "summary": {
+        "en": [
+          ""
+        ]
+      },
+      "width": 1321,
+      "height": 1988,
+      "requiredStatement": {
+        "label": {
+          "en": [
+            ""
+          ]
+        },
+        "value": {
+          "en": [
+            ""
+          ]
+        }
+      },
+      "items": [
+        {
+          "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/list/12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10521888x/f1/full/full/0/native",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1321,
+                "height": 1988,
+                "service": {
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10521888x/f1",
+                  "type": "ImageService2",
+                  "profile": "level1"
+                }
+              },
+              "target": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+
     {
       "id": "https://vanda.github.io/iiif-features/img/compariscope_manifest.json/canvas/3",
       "type": "Canvas",
