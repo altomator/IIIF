@@ -8,6 +8,7 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 - [*IIIF Annotations*](#iiif-annotations)
 - [*IIIF Range*](#iiif-range)
 - [*IIIF and OCR*](#iiif-and-ocr)
+- [*IIIF and A/V*](#iiif-and-a/v)
 - [*IIIF Curation*](#iiif-curation)
 - [*IIIF Stories*](#iiif-stories)
 
@@ -140,7 +141,7 @@ Once open, the collection can be browsed, starting from the Information side pan
 
 ## IIIF Annotations
 
-[IIIF annotations](https://iiif.io/api/presentation/3.0/#56-annotation) are a convenient way to disseminate annotations, transcriptions, comments, etc., that may have been produced regarding a specific image or region of an image. IIIF annotations follow the [Web Annotation](http://w3.org/TR/annotation-model/) model.
+[IIIF annotations](https://iiif.io/api/presentation/3.0/#56-annotation) are a convenient way to disseminate annotations, transcriptions, comments, etc., that may have been produced regarding a specific image or region of an image. IIIF annotations follow the Open Annotations and the [W3C Web Annotation](http://w3.org/TR/annotation-model/) model for IIIF version 3.0.
 
 ### AI Annotations
 
@@ -225,9 +226,20 @@ OCR text may be described as an annotations list linked to a canvas (look at thi
 
 Transcription of content into XML, XPaths being used to select a [segment](https://iiif.io/api/metadata/1.0/#api-advanced-segments).
 
+## IIIF and A/V
+
+### Video
+This simple  manifest  presents a single video file in a IIIF Presentation resource. The [video](https://gallica.bnf.fr/ark:/12148/bpt6k1321500g/f1.media) is referenced as a Gallica URL. 
+Mirador or Universal Viewer can handle this video manifest.
+
+[![Video in UV](/images/uv.png)](https://uv-v3.netlify.app/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fmanifests%2Fvideo.json)
+
+
+
 ## IIIF Curation
 
 *tbc* 
+http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/962dc427-6241-4200-82ad-69a0821b573c&lang=en
 
 ## IIIF Stories
 
