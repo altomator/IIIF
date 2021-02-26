@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "LayerStack demo"
+      "LayerStack demo with Rembrandt [La fuite en Egypte]"
     ]
   },
   "metadata": [
@@ -19,14 +19,14 @@
       },
       "value": {
         "@none": [
-          "LayerStack demo"
+          "LayerStack demo with Rembrandt [La fuite en Egypte]"
         ]
       }
     }
   ],
   "summary": {
     "en": [
-      "LayerStack demo"
+      "LayerStack demo with Rembrandt [La fuite en Egypte]"
     ]
   },
   "thumbnail": [
@@ -48,7 +48,7 @@
     "type": "Text",
     "label": {
       "en": [
-        "LayerStack demo"
+        "LayerStack demo with Rembrandt [La fuite en Egypte]"
       ]
     },
     "format": "text/html"
@@ -59,7 +59,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Victoria and Albert Museum, London"
+          "[La fuite en Egypte] : [estampe] ([1er état]) / Rembrandt. inventor et fecit. 1633. BnF"
         ]
       },
       "summary": {
@@ -67,8 +67,8 @@
           ""
         ]
       },
-      "width": 2500,
-      "height": 1875,
+      "width": 1589,
+      "height": 2224,
       "requiredStatement": {
         "label": {
           "en": [
@@ -91,13 +91,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "@id": "https://framemark.vam.ac.uk/collections/2013GC0441/full/full/0/default",
+                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10521786n/f1/full/full/0/native.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 2500,
-                "height": 1875,
+                "width": 1589,
+                "height": 2224,
                 "service": {
-                  "id": "https://framemark.vam.ac.uk/collections/2013GC0441",
+                  "id": "https://gallica.bnf.fr/ark:/12148/btv1b10521786n",
                   "type": "ImageService2",
                   "profile": "level1"
                 }
@@ -113,7 +113,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Sketch of Hadleigh Castle, 1828–29, oil on millboard. Yale Center for British Art, Paul Mellon Collection"
+          " [La fuite en Egypte] : [estampe] ([3e état d'après le new Hollstein]) / [Rembrandt]. BnF"
         ]
       },
       "summary": {
@@ -121,8 +121,8 @@
           ""
         ]
       },
-      "width": 5218,
-      "height": 4486,
+      "width": 1306,
+      "height": 1959,
       "requiredStatement": {
         "label": {
           "en": [
@@ -145,13 +145,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "@id": "https://images.britishart.yale.edu/iiif/a866e10e-5a6f-4b87-b4ec-6f0488940796/full/full/0/native",
+                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105218666/f1/full/full/0/native.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5218,
-                "height": 4486,
+                "width": 1306,
+                "height": 1959,
                 "service": {
-                  "id": "https://images.britishart.yale.edu/iiif/a866e10e-5a6f-4b87-b4ec-6f0488940796",
+                  "id": "https://gallica.bnf.fr/ark:/12148/btv1b105218666",
                   "type": "ImageService2",
                   "profile": "level1"
                 }
@@ -167,7 +167,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Hadleigh Castle, The Mouth of the Thames—Morning after a Stormy Night, 1829, Oil on canvas. Yale Center for British Art, Paul Mellon Collection"
+          "[La fuite en Egypte] : [estampe] ([8e état d'après le new Hollstein, ]) / [Rembrandt]. BnF"
         ]
       },
       "summary": {
@@ -175,8 +175,8 @@
           ""
         ]
       },
-      "width": 7125,
-      "height": 5263,
+      "width": 1272,
+      "height": 1999,
       "requiredStatement": {
         "label": {
           "en": [
@@ -199,13 +199,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "@id": "https://images.britishart.yale.edu/iiif/6e961789-58ac-49de-a51e-5c7f268c7f5f/full/full/0/native",
+                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10521889c/f1/full/full/0/native.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 7125,
-                "height": 5263,
+                "width": 1272,
+                "height": 1999,
                 "service": {
-                  "id": "https://images.britishart.yale.edu/iiif/6e961789-58ac-49de-a51e-5c7f268c7f5f",
+                  "id": "https://gallica.bnf.fr/ark:/12148/btv1b10521889c",
                   "type": "ImageService2",
                   "profile": "level1"
                 }
