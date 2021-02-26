@@ -244,7 +244,6 @@ Opening a IIIF manifest to start working with Exhibit is straightforward:
 [![Add to Exhibit](images/exhibit.jpg)](https://exhibit.so/exhibits/create?item=https://gallica.bnf.fr/iiif/ark:/12148/btv1b53096152d/manifest.json)
 
 
-
 ### CanvasPanel
 
 Digirati [CanvasPanel](https://canvas-panel.netlify.app/#/about) is another way to build IIIF applications with complex layout and  rendering requirements.
