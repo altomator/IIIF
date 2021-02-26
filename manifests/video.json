@@ -3,8 +3,8 @@
   "id": "https://raw.githubusercontent.com/altomator/IIIF/main/manifests/video.json",
   "type": "Manifest",
   "label": {
-    "en": [
-      "Video Example: Gallica"
+    "fr": [
+      "Exemple vidéo: Madame de Staël (1766-1817) : conférence du lundi 8 octobre 2007 / Martine Reid, aut. du texte ; Martine Reid, participant ; Sabine Haudepin, voix, 2007"
     ]
   },
   "items": [
@@ -13,7 +13,7 @@
       "type": "Canvas",
       "height": 360,
       "width": 640,
-      "duration": 572.034,
+      "duration": 4102,
       "items": [
         {
           "id": "https://gallica.bnf.fr/ark:/12148/bpt6k1321500g/f1/canvas/page",
@@ -27,7 +27,7 @@
                 "id": "https://gallica.bnf.fr/videolabs/bpt6k1321500g.mp4",
                 "type": "Video",
                 "height": 360,
-                "width": 480,
+                "width": 640,
                 "duration": 4102,
                 "format": "video/mp4"
               },
