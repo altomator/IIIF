@@ -12,8 +12,9 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 
 ***
 
-## Comparing Documents
+## Comparing Documents and Images
 
+### Comparing Documents with Mirador
 Comparing images was one of the initial objectives of the IIIF initiative. Just drag and drop the IIIF icons in any IIIF viewer (like this [one](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)) to open side by side a BnF and a Standford digital edition of *Sidereus nuncius, magna... spectacula pandens... quae a Galileo Galileo,...* ([RES P-V-743](https://gallica.bnf.fr/ark:/12148/bpt6k9907264/))
 
 [Gallica IIIF manifest](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
@@ -27,6 +28,7 @@ Comparing images was one of the initial objectives of the IIIF initiative. Just 
 
 ![Comparing documents)](images/2documents.jpg)
 
+### Comparing Documents and Images with Mirador
 Comparing a IIIF document and a local images is also possible in [Mirador 3](https://projectmirador.org/embed/?iiif-content=). Open this [black & white photo](https://gallica.bnf.fr/ark:/12148/btv1b531454753) in Mirador 3 using the drag-and-drop technique: 
 
 [![B&W](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/ark:/12148/btv1b531454753?manifest=https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
@@ -35,17 +37,29 @@ Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) vers
 
 ![Comparing images: non IIIF image](images/2images.jpg)
 
+### Creating a mixed Manifest including Documents and Images
+
 A [mixed manifest](manifests/colorized-manifest.json) may also be build agregating the non IIIF colorized version and the original IIIF document as a sequence of canvas. Open it in [Mirador 3](https://projectmirador.org/embed/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/colorized-manifest.json). (Based on [Glen Robson](https://glenrobson.github.io/) sample.)
 
 ![Comparing images: mixed images](images/mixte.jpg)
 
+### Layering Multiple Images
+
 Digitally layering multiple images can also be needed for specific use cases. Each image can be gradually exposed by the user to allow the differences to be compared (e.g. the [Raphael Cartoons](https://www.vam.ac.uk/articles/explore-the-raphael-cartoons#slideshow=3891&slide=0), Victoria and Albert Museum)
 
-*tbc: using Compariscope*
+First, the [Compariscope](https://github.com/vanda/iiif-features#the-compariscope) utility app (Luca Carini) can be used to align IIIF documents. In this example, we align three states of a Rembrandt engraving.
 
+![Comparing images: mixed images](images/rembrandt1.jpg)
+
+Then the manifest is visualised using [LayerStack](https://github.com/vanda/layerstack), a viewer based on OpenSeaDragon.
+
+![Comparing images: mixed images](images/rembrandt2.jpg)
 
 *tbc: using [Leaflet-iiif](https://bl.ocks.org/mejackreed)*
 https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/
+
+
+
 
 
 ## Deep zoom with large images
