@@ -3,12 +3,12 @@
 This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) documents.
 
 - [*Comparing Documents and Images*](#comparing-documents-and-images)
-- *Deep Zoom with large images*
-- *IIIF Collections*
-- *IIIF Annotations*
-- *IIIF Range*
-- *IIIF and OCR*
-- *IIIF Curation*
+- [*Deep Zoom with large images*](#deep-zoom-with-large-images)
+- [*IIIF Collections*](#iiif-collections)
+- [*IIIF Annotations*](#iiif-annotations)
+- [*IIIF Range*](#iiif-annotations)
+- [*IIIF and OCR*](#iiif-and-ocr)
+- [*IIIF Curation*](#iiif-curation)
 - [*IIIF Stories*](#iiif-stories)
 
 ***
