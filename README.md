@@ -6,6 +6,7 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 - *Deep Zoom with large images*
 - *IIIF Collections*
 - *IIIF Annotations*
+- *IIIF Range*
 - *IIIF and OCR*
 - *IIIF Curation*
 - *IIIF Stories*
