@@ -56,12 +56,9 @@ Then the manifest is visualised using [LayerStack](https://github.com/vanda/laye
 
 [![Layering images](images/rembrandt2.jpg)](https://altomator.github.io/IIIF/#0)
 
-Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer different approaches for layering images. Leaflet-iiif is a JavaScript library for creating zoomable views of IIIF images. In this [example](https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/), 
+Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer different approaches for layering images. Leaflet-iiif is a JavaScript library for creating zoomable views of IIIF images. In this [example](https://altomator.github.io/IIIF/index-leaflet.html) based on [https://bl.ocks.org/mejackreed](https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/), we display side-by-side two maps.
 
-
-
-
-
+[![Layering images](images/rembrandt2.jpg)](https://altomator.github.io/IIIF/#0)
 
 
 ## Deep zoom with large images
