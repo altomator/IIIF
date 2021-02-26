@@ -142,6 +142,8 @@ Once open, the collection can be browsed, starting from the Information side pan
 
 [IIIF annotations](https://iiif.io/api/presentation/3.0/#56-annotation) are a convenient way to disseminate annotations, transcriptions, comments, etc., that may have been produced regarding a specific image or region of an image. IIIF annotations follow the [Web Annotation](http://w3.org/TR/annotation-model/) model.
 
+### AI Annotations
+
 This IIIF demonstration leverages the GallicaPix [objects detection](https://github.com/altomator/Image_Retrieval) data that are available when the GallicaPix database acts a IIIF annotations server.
 
 1. From GallicaPix or using [this URL](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en), open the Vogue [June 1920](https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/f11.item) issue in a Mirador instance, like the BnF https://manuscrits-france-angleterre.org/ portal.
@@ -155,6 +157,13 @@ This IIIF demonstration leverages the GallicaPix [objects detection](https://git
 ![GallicaPix Annotations in Mirador](/images/annotations.jpg)
 
 These annotations could even be searchable using the [IIIF Content Search API](https://iiif.io/api/search/1.0/).
+
+### Scientific Annotations
+
+Some of the Mandragore database of enlightened manscripts has been exported as [IIIF annotations](https://api.bnf.fr/fr/mandragore-echantillon-segmente-2019). After opening a [manuscript](https://projectmirador.org/embed/?iiif-content=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b8419219x%2Fmanifest.json) in an Mirador instance, one can visualize the annotations.
+
+
+
 
 ## IIIF Range
 
