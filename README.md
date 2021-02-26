@@ -31,7 +31,7 @@ Comparing images was one of the initial objectives of the IIIF initiative. Just 
 ### Comparing Documents and Images with Mirador
 Comparing a IIIF document and a local images is also possible in [Mirador 3](https://projectmirador.org/embed/?iiif-content=). Open this [black & white photo](https://gallica.bnf.fr/ark:/12148/btv1b531454753) in Mirador 3 using the drag-and-drop technique: 
 
-[![B&W](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/ark:/12148/btv1b531454753?manifest=https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
+[![Local images](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/ark:/12148/btv1b531454753?manifest=https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
 
 Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) version (produced with [DeOldify](https://www.myheritage.fr/incolor/))  on your disk. Finally, drag and drop the image file in Mirador.
 
@@ -41,21 +41,23 @@ Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) vers
 
 A [mixed manifest](manifests/colorized-manifest.json) may also be build agregating the non IIIF colorized version and the original IIIF document as a sequence of canvas. Open it in [Mirador 3](https://projectmirador.org/embed/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/colorized-manifest.json). (Based on [Glen Robson](https://glenrobson.github.io/) sample.)
 
-![Comparing images: mixed images](images/mixte.jpg)
+[![Comparing images: mixed images](images/mixte.jpg)](https://projectmirador.org/embed/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/colorized-manifest.json)
+
 
 ### Layering Multiple Images
 
 Digitally layering multiple images can also be needed for specific use cases. Each image can be gradually exposed by the user to allow the differences to be compared (e.g. the [Raphael Cartoons](https://www.vam.ac.uk/articles/explore-the-raphael-cartoons#slideshow=3891&slide=0), Victoria and Albert Museum)
 
-First, the [Compariscope](https://github.com/vanda/iiif-features#the-compariscope) utility app (Luca Carini) can be used to align IIIF documents. In this example, we align three states of a [Rembrandt engraving](https://gallica.bnf.fr/ark:/12148/btv1b105218666?rk=343349;2).
+First, the [Compariscope](https://github.com/vanda/iiif-features#the-compariscope) utility app (Luca Carini) can be used to align IIIF documents. In this example, we align three states of a [Rembrandt engraving](https://gallica.bnf.fr/ark:/12148/btv1b105218666?rk=343349;2). Click on the illustration bellow to open Compariscope on the Rembrandt example.
 
-![Comparing images: mixed images](images/rembrandt1.jpg)
+[![Layering images](images/rembrandt1.jpg)](https://vanda.github.io/iiif-features/compariscope.html?manifest=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/layerstack-rembrandt.json)
 
-Then the manifest is visualised using [LayerStack](https://github.com/vanda/layerstack), a viewer based on OpenSeaDragon.
+Then the manifest is visualised using [LayerStack](https://github.com/vanda/layerstack), a viewer based on OpenSeaDragon. Click on the illustration to see the result.
 
-![Comparing images: mixed images](images/rembrandt2.jpg)
+[![Layering images](images/rembrandt2.jpg)](https://altomator.github.io/IIIF/#0)
 
-*tbc: using [Leaflet-iiif](https://bl.ocks.org/mejackreed)*
+Other apps like [Leaflet-iiif](https://bl.ocks.org/mejackreed) offer different approaches for layering images.
+
 https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/
 
 
@@ -69,7 +71,7 @@ This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes us
 
 ![Deep zoom (38 800 × 21 000 pixels)](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)
 
-*tbc: large map *
+*tbc: large Cassini map *
 
 
 ## IIIF Collections
