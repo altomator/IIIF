@@ -4,7 +4,7 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) d
 
 - [*Comparing Documents and Images*](#comparing-documents-and-images)
 - [*Deep Zoom with large images*](#deep-zoom-with-large-images)
-- [*IIIF Collections for Periodicals*](#iiif-collections-for-periodicals)
+- [*IIIF Collections*](#iiif-collections)
 - [*IIIF Annotations*](#iiif-annotations)
 - [*IIIF Range*](#iiif-range)
 - [*IIIF and OCR*](#iiif-and-ocr)
@@ -73,7 +73,9 @@ This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes us
 *tbc: large Cassini map *
 
 
-## IIIF Collections for Periodicals
+## IIIF Collections 
+
+### For Periodicals
 
 This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) describes a sub-collection of the [Vogue](https://gallica.bnf.fr/ark:/12148/cb343833568/date.item) magazine (French edition, 1920-1940), organized by publication date (year).
 
@@ -134,9 +136,14 @@ The Biblissima Mirador 3 instance can be used to open this collection:
 
 Once open, the collection can be browsed, starting from the Information side panel:
 
-![IIIF collection in Mirador](/images/collection.jpg)
+[![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
 
-*tbc: [embedded collections v3](https://glenrobson.github.io/iiif_stuff/collections) *
+### For Thematic Collections
+
+IIIF collections are useful for organizing documents according to a filing plan. This example is inspired by a [Gallica selection](https://gallica.bnf.fr/html/und/litteratures/series-de-bande-dessinee) of comics published in the press.
+
+[![IIIF collection in Mirador](/images/bd.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json)
+
 
 
 ## IIIF Annotations
