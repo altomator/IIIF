@@ -144,8 +144,27 @@ IIIF collections are also useful for organizing documents according to a filing 
 
 [![IIIF collection in Mirador](/images/bd.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json)
 
+Launching Mirador with both a comics sample and the collection (as in the screenshot) is done with some [Javascript](https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.html):
 
-
+```
+...
+windows: [
+         {
+           manifestId: 'https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4130558s/manifest.json',
+           canvasId: "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4130558s/canvas/f28" //open on image #28
+         },
+         {
+           collectionPath: [
+              "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json"
+            ] ,
+            manifestId: "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json"
+         }
+       ],
+       catalog: [
+         { manifestId: "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json" },
+       ]
+...
+```
 
 ## IIIF Annotations
 
