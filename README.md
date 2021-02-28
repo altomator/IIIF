@@ -140,9 +140,10 @@ Once open, the collection can be browsed, starting from the Information side pan
 
 ### For Thematic Collections
 
-IIIF collections are useful for organizing documents according to a filing plan. This example is inspired by a [Gallica selection](https://gallica.bnf.fr/html/und/litteratures/series-de-bande-dessinee) of comics published in the press.
+IIIF collections are useful for organizing documents according to a filing plan. This example is inspired by a [Gallica selection](https://gallica.bnf.fr/html/und/litteratures/series-de-bande-dessinee) of comics published in the press. The [collection](https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json) (API Presentation [v3](https://iiif.io/api/presentation/3.0/#51-collection)) lists comics series as sub-collections. 
 
 [![IIIF collection in Mirador](/images/bd.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json)
+
 
 
 
