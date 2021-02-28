@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <title>Mirador démo: Séries de bande dessinée (Gallica, BnF)</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  </head>
+  <body>
+    <div id="mirador" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"></div>
+    <script>document.write("<script type='text/javascript' src='../../../dist/mirador.min.js?v=" + Date.now() + "'><\/script>");</script>
+    <script type="text/javascript">
+     var miradorInstance = Mirador.viewer({
+       id: 'mirador',
+       window: {
+         allowClose: true, // Configure if windows can be closed or not
+         allowFullscreen: true, // Configure to show a "fullscreen" button in the WindowTopBar
+         allowMaximize: true // Configure if windows can be maximized or not
+       },
+       windows: [
+         {
+           manifestId: 'https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4130558s/manifest.json',
+           canvasId: "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4130558s/canvas/f28" //open on image #28
+         },
+         {
+           collectionPath: [
+              "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json"
+            ] ,
+            manifestId: "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json"
+         }
+
+       ],
+       catalog: [
+         { manifestId: "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json" },
+       ]
+     });
+    </script>
+  </body>
+</html>
