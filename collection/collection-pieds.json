@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-fenouillard.json",
+    "type": "Collection",
+    "label":  "Les Pieds nickelés  (1912-1939)",
+    "description": {"fr": ["Publiée à partir de 1908 dans la revue L'Épatant, la série de bande dessinée Les Pieds nickelés est créée par Louis Forton. Elle raconte les tribulations du fameux trio de filous composé de Croquignol, Filochard et Ribouldingue." ],
+    "en": ["Published from 1908 in the magazine L'Épatant, the comic book series Les Pieds nickelés was created by Louis Forton. It recounts the tribulations of the famous trio of crooks composed of Croquignol, Filochard and Ribouldingue." ] },
+    "related": [{
+  			"@id": "https://gallica.bnf.fr/html/und/litteratures/les-pieds-nickeles",
+  			"format": "text/html",
+  			"label": { "fr": [ "Sélection Gallica" ],"en": [ "Gallica Selection" ] }
+  		}],
+    "items": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9111680r/manifest.json",
+          "type": "Manifest",
+          "label": { "fr": [ "L'Épatant : tous les jeudis pour toute la famille, 4 janvier 1912, page 5" ] },
+          "thumbnail": [
+            {
+              "id": "https://gallica.bnf.fr/ark:/12148/bpt6k9111680r/f5.thumbnail",
+              "type": "Image",
+              "format": "image/jpeg"
+            }
+          ]
+        }
+
+    ]
+
+}

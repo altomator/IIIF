@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-fenouillard.json",
+    "type": "Collection",
+    "label":  "Les Aventures du professeur Nimbus (1934-1944)",
+    "description": {"fr": ["Créé en 1934 par le dessinateur André Daix (1901-1976), le comic strip français Les Aventures du professeur Nimbus, sans aucun texte, fut publié dans de nombreux quotidiens, en France comme dans le monde entier." ],
+    "en": ["Created in 1934 by the cartoonist André Daix (1901-1976), the French comic strip Les Aventures du professeur Nimbus, without any text, was published in many daily newspapers in France and around the world." ] },
+    "related": [{
+  			"@id": "https://gallica.bnf.fr/html/und/litteratures/le-professeur-nimbus",
+  			"format": "text/html",
+  			"label": { "fr": [ "Sélection Gallica" ],"en": [ "Gallica Selection" ] }
+  		}],
+    "items": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k7630362t/manifest.json",
+          "type": "Manifest",
+          "label": { "fr": [ "Le Journal, 17 septembre 1934, page 4" ] },
+          "thumbnail": [
+            {
+              "id": "https://gallica.bnf.fr/ark:/12148/bpt6k7630362t/f4.thumbnail",
+              "type": "Image",
+              "format": "image/jpeg"
+            }
+          ]
+        }
+
+    ]
+
+}
