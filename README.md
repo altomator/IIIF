@@ -109,7 +109,7 @@ This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) d
   }
 ```
 
-Each sub-collection must setup links to the IIIF document manifests:
+Each sub-collection must setup links to the IIIF document manifests (or to other sub-collections):
 
 ```json
 {
