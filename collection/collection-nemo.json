@@ -1,0 +1,57 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-nemo.json",
+    "type": "Collection",
+    "label":  "Little Nemo in Slumberland (1905-1911)" ,
+    "description": {"fr": ["Créée en 1905 par Winsor McCay, la série Little Nemo in Slumberland fut publiée chaque dimanche jusqu'en 1914. Cette bande dessinée qui met en scène le jeune rêveur Little Nemo est consultable sur Gallica dans les pages de l'édition européenne du New York Herald." ],
+    "en": ["Created in 1905 by Winsor McCay, the series Little Nemo in Slumberland was published every Sunday until 1914. This comic strip featuring the young dreamer Little Nemo can be viewed on Gallica in the European edition of the New York Herald." ] },
+    "related": [{
+  			"@id": "https://gallica.bnf.fr/html/und/litteratures/little-nemo-slumberland",
+  			"format": "text/html",
+  			"label": { "fr": [ "Sélection Gallica" ],"en": [ "Gallica Selection" ] }
+  		}],
+    "items": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4130558s/manifest.json",
+          "type": "Manifest",
+          "label": { "fr": [ "New York Herald, 3 décembre 1905, page 28"]},
+          "start": {
+              "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4130558s/canvas/f28",
+              "type": "Canvas"
+            },
+          "thumbnail": [
+            {
+              "id": "https://gallica.bnf.fr/ark:/12148/bpt6k4130558s/f28.thumbnail",
+              "type": "Image",
+              "format": "image/jpeg"
+            }
+          ]
+        },
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4129955f/manifest.json",
+          "type": "Manifest",
+          "label": { "fr": [ "New York Herald, 7 janvier 1906, page 19" ] },
+          "thumbnail": [
+            {
+              "id": "https://gallica.bnf.fr/ark:/12148/bpt6k4129955f/f19.thumbnail",
+              "type": "Image",
+              "format": "image/jpeg"
+            }
+          ]
+        },
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4130234b/manifest.json",
+          "type": "Manifest",
+          "label": { "fr": [ "New York Herald, 14 octobre 1906, page 16" ] },
+          "thumbnail": [
+            {
+              "id": "https://gallica.bnf.fr/ark:/12148/bpt6k4130234b/f16.thumbnail",
+              "type": "Image",
+              "format": "image/jpeg"
+            }
+          ]
+        }
+
+    ]
+
+}

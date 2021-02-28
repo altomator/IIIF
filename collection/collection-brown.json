@@ -1,0 +1,64 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-brown.json",
+    "type": "Collection",
+    "label":  "Buster Brown (1904-1910)",
+    "description": {"fr": ["Créé par Richard F. Outcault en 1902 dans The New York Herald, le comic strip Buster Brown connut un succès international. Il narre les aventures d’un petit garçon de la bonne société qui, malgré les conseils de son chien Tige, passe son temps à faire des farces qui se retournent contre lui." ],
+    "en": ["Created by Richard F. Outcault in 1902 in The New York Herald, the comic strip Buster Brown was an international success. It recounts the adventures of a little boy from good society who, despite the advice of his dog Tige, spends his time making jokes that backfire on him." ] },
+    "related": [{
+  			"@id": "https://gallica.bnf.fr/html/und/litteratures/buster-brown",
+  			"format": "text/html",
+  			"label": { "fr": [ "Sélection Gallica" ],"en": [ "Gallica Selection" ] }
+  		}],
+    "items": [
+          {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4128603c/manifest.json",
+            "type": "Manifest",
+            "label": { "fr": [ "New York Herald, 21 février 1904, page 17" ] },
+            "thumbnail": [
+              {
+                "id": "https://gallica.bnf.fr/ark:/12148/bpt6k4128603c/f17.thumbnail",
+                "type": "Image",
+                "format": "image/jpeg"
+              }
+            ]
+          },
+          {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4128631p/manifest.json",
+            "type": "Manifest",
+            "label": { "fr": [ "New York Herald, 20 mars 1904, page 17" ] },
+            "thumbnail": [
+              {
+                "id": "https://gallica.bnf.fr/ark:/12148/bpt6k4128631p/f17.thumbnail",
+                "type": "Image",
+                "format": "image/jpeg"
+              }
+            ]
+          },
+          {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4128645q/manifest.json",
+            "type": "Manifest",
+            "label": { "fr": [ "New York Herald, 3 avril 1904, page 21" ] },
+            "thumbnail": [
+              {
+                "id": "https://gallica.bnf.fr/ark:/12148/bpt6k4128645q/f21.thumbnail",
+                "type": "Image",
+                "format": "image/jpeg"
+              }
+            ]
+          },
+          {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4128701w/manifest.json",
+            "type": "Manifest",
+            "label": { "fr": [ "New York Herald, 29 mai 1904, page 21" ] },
+            "thumbnail": [
+              {
+                "id": "https://gallica.bnf.fr/ark:/12148/bpt6k4128701w/f21.thumbnail",
+                "type": "Image",
+                "format": "image/jpeg"
+              }
+            ]
+          }
+
+      ]
+}

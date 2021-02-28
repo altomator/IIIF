@@ -1,0 +1,61 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json",
+  "type": "Collection",
+  "label": { "fr": [ "Séries de bande dessinée (Gallica, BnF)" ],
+  "en": [ "Comics series (Gallica, BnF)" ] },
+  "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/thumbnail",
+  "description": { "fr": [ "Cette collection IIIF est une adaptation de la sélection Gallica éponyme" ],
+  "en": [ "This IIIF collection is an adaptation of the Gallica selection of the same name  (Gallica, BnF)" ] },
+
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/html/und/litteratures/series-de-bande-dessinee",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica" ],"en": [ "Gallica Selection" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"@id": "https://gallica.bnf.fr/html/und/litteratures/series-de-bande-dessinee",
+			"format": "text/html",
+			"label": { "fr": [ "Sélection Gallica" ],"en": [ "Gallica Selection" ] }
+		}],
+  "items": [
+        {
+            "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-nemo.json",
+            "type": "Collection",
+            "label":  "Little Nemo in Slumberland (1905-1911)"
+        },
+        {
+            "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-brown.json",
+            "type": "Collection",
+            "label":  "Buster Brown (1904-1910)"
+        },
+        {
+            "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-felix.json",
+            "type": "Collection",
+            "label":  "Félix le chat (1932-1948)"
+        },
+        {
+            "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-fenouillard.json",
+            "type": "Collection",
+            "label":  "La Famille Fenouillard (1889-1893)"
+        },
+        {
+            "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-brown.json",
+            "type": "Collection",
+            "label":  "Le Professeur Nimbus (1934-1944)"
+        },
+        {
+            "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-brown.json",
+            "type": "Collection",
+            "label":  "Les Pieds nickelés (1908-1933)"
+        }
+
+    ]
+}

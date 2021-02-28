@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-fenouillard.json",
+    "type": "Collection",
+    "label":  "La Famille Fenouillard (1889-1893)",
+    "description": {"fr": ["Chef d’œuvre de Christophe, La Famille Fenouillard raconte les mésaventures d’une famille, composée du père, Agénor, de la mère, Léocadie et de deux filles, Artémise et Cunégonde, à l’occasion de son périple involontaire à travers le monde." ],
+    "en": ["Christophe's masterpiece, La Famille Fenouillard tells the story of the misadventures of a family, composed of the father, Agénor, the mother, Léocadie, and two daughters, Artémise and Cunégonde, on the occasion of his involuntary journey around the world." ] },
+    "related": [{
+  			"@id": "https://gallica.bnf.fr/html/und/litteratures/la-famille-fenouillard",
+  			"format": "text/html",
+  			"label": { "fr": [ "Sélection Gallica" ],"en": [ "Gallica Selection" ] }
+  		}],
+    "items": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9110912n/manifest.json",
+          "type": "Manifest",
+          "label": { "fr": [ "Le Petit journal, 31 août 1889, page 6" ] },
+          "thumbnail": [
+            {
+              "id": "https://gallica.bnf.fr/ark:/12148/bpt6k9110912n/f6.thumbnail",
+              "type": "Image",
+              "format": "image/jpeg"
+            }
+          ]
+        }
+
+    ]
+
+}

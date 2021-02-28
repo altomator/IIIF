@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-felix.json",
+    "type": "Collection",
+    "label":  "Félix le chat (1932-1948)",
+    "description": {"fr": ["Avant d’être un personnage de bande dessinée, Félix le Chat fut le héros d’une série de dessins animés créée par Otto Messmer et produite par Pat Sullivan à partir de 1919. L’adaptation sur papier voit le jour quelques années plus tard aux États-Unis, dès 1923." ],
+    "en": ["Before being a comic book character, Felix the Cat was the hero of a cartoon series created by Otto Messmer and produced by Pat Sullivan from 1919. The adaptation on paper came out a few years later in the United States, in 1923." ] },
+    "related": [{
+  			"@id": "https://gallica.bnf.fr/html/und/litteratures/felix-le-chat",
+  			"format": "text/html",
+  			"label": { "fr": [ "Sélection Gallica" ],"en": [ "Gallica Selection" ] }
+  		}],
+    "items": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k633106b/manifest.json",
+          "type": "Manifest",
+          "label": { "fr": [ "Le Petit journal, 25 décembre 1932, page 6" ] },
+          "thumbnail": [
+            {
+              "id": "https://gallica.bnf.fr/ark:/12148/bpt6k633106b/f6.thumbnail",
+              "type": "Image",
+              "format": "image/jpeg"
+            }
+          ]
+        }
+
+    ]
+
+}
