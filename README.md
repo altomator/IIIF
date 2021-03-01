@@ -1,6 +1,6 @@
 # IIIF Experiments
 
-This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) content and real life use cases.
+This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) content and real life use cases when working with IIIF documents.
 
 - [*Comparing Documents and Images*](#comparing-documents-and-images)
 - [*Deep Zoom with large images*](#deep-zoom-with-large-images)
@@ -50,7 +50,9 @@ A [mixed manifest](manifests/colorized-manifest.json) may also be build agregati
 
 Digitally layering multiple images can also be needed for specific use cases. Each image can be gradually exposed by the user to allow the differences to be compared (e.g. the [Raphael Cartoons](https://www.vam.ac.uk/articles/explore-the-raphael-cartoons#slideshow=3891&slide=0), Victoria and Albert Museum)
 
-First, the [Compariscope](https://github.com/vanda/iiif-features#the-compariscope) utility app (Luca Carini, V&A) can be used to align IIIF documents. In this example, we align three states of a [Rembrandt engraving](https://gallica.bnf.fr/ark:/12148/btv1b105218666?rk=343349;2). Click on the illustration bellow to open Compariscope on the Rembrandt example, built with a [IIIF manifest](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/layerstack-rembrandt.json) listing 3 Gallica documents.
+First, the [Compariscope](https://github.com/vanda/iiif-features#the-compariscope) utility app (Luca Carini, V&A) can be used to align IIIF documents. In this example, we align three states of a [Rembrandt engraving](https://gallica.bnf.fr/ark:/12148/btv1b105218666?rk=343349;2). A the end of the editing, we copy the alignment data into the manifest.
+
+Click on the illustration bellow to open Compariscope on the Rembrandt example, built with a [IIIF manifest](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/layerstack-rembrandt.json) listing 3 Gallica documents.
 
 [![Layering images](images/rembrandt1.jpg)](https://vanda.github.io/iiif-features/compariscope.html?manifest=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/layerstack-rembrandt.json)
 
@@ -66,7 +68,7 @@ Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer
 ## Deep zoom with large images
 
 Large composite file of images can be fragmented into smaller tiled units allowing rapid load and smooth  deep zoom navigation in a browser.
-This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes use of OpenSeaDragon, an open-source, web-based viewer for high-resolution zoomable images.  OpenSeaDragon has [support](https://openseadragon.github.io/examples/tilesource-iiif/) for the IIIF Image API (the example is not IIIF-compliant).
+This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes use of OpenSeaDragon, an open-source, web-based viewer for high-resolution zoomable images.  OpenSeaDragon has [support](https://openseadragon.github.io/examples/tilesource-iiif/) for the IIIF Image API (this example is not IIIF-compliant).
 
 [![Deep zoom (38 800 × 21 000 pixels)](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)](http://www.euklides.fr/blog/altomator/Megapixel/Visages-1418.html)
 
@@ -107,7 +109,7 @@ This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) d
   }
 ```
 
-Each sub-collection must setup links to the IIIF document manifests:
+Each sub-collection must setup links to the IIIF document manifests (or to other sub-collections):
 
 ```json
 {
@@ -166,6 +168,11 @@ windows: [
 ...
 ```
 
+Multiple collections can be used to organize a complex navigation scheme in the Mirador windows. In this example, comic book content is organized around two entry points, by series and by authors.
+
+![IIIF collection in Mirador](/images/bd2.jpg)
+
+
 ## IIIF Annotations
 
 [IIIF annotations](https://iiif.io/api/presentation/3.0/#56-annotation) are a convenient way to disseminate annotations, transcriptions, comments, etc., that may have been produced regarding a specific image or region of an image. IIIF annotations follow the Open Annotations and the [W3C Web Annotation](http://w3.org/TR/annotation-model/) model for IIIF version 3.0.
@@ -188,7 +195,7 @@ These annotations could even be searchable using the [IIIF Content Search API](h
 
 ### Scientific Annotations
 
-Some of the Mandragore database's enlightened manscripts has been exported as [IIIF annotations](https://api.bnf.fr/fr/mandragore-echantillon-segmente-2019). After opening a [manuscript](https://manuscrits-france-angleterre.org/view3if/?target=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b8419219x%2Fmanifest.json&page=12&lang=en) in an Mirador instance, one can visualize the [Mandragore annotations](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/Arabe-274.json).
+Some of the Mandragore database's enlightened manscripts has been exported as [IIIF annotations](https://api.bnf.fr/fr/mandragore-echantillon-segmente-2019). After opening a [manuscript](https://manuscrits-france-angleterre.org/view3if/?target=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b8419219x%2Fmanifest.json&page=12&lang=en) in an Mirador instance, one can visualize the [Mandragore annotations](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/Arabe-274.json). Try it on the [Arabe-274](https://gallica.bnf.fr/ark:/12148/bpt6k9604118j) manuscript.
 
 [![Mandragore annotations](images/arabe-274.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
