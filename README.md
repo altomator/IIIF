@@ -168,6 +168,11 @@ windows: [
 ...
 ```
 
+Multiple collections can be used to organize a complex navigation scheme in the Mirador windows. In this example, comic book content is organized around two entry points, by series and by authors.
+
+![IIIF collection in Mirador](/images/bd2.jpg)
+
+
 ## IIIF Annotations
 
 [IIIF annotations](https://iiif.io/api/presentation/3.0/#56-annotation) are a convenient way to disseminate annotations, transcriptions, comments, etc., that may have been produced regarding a specific image or region of an image. IIIF annotations follow the Open Annotations and the [W3C Web Annotation](http://w3.org/TR/annotation-model/) model for IIIF version 3.0.
