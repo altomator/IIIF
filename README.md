@@ -168,7 +168,7 @@ windows: [
 ...
 ```
 
-Multiple collections can be used to organize a complex navigation scheme in the Mirador windows. In this example, comic book content is organized around two entry points, by series and by authors.
+Multiple collections can be used to organize a complex navigation scheme as Mirador windows. In this example, comic book content is organized around two entry points, by series and by authors.
 
 ![IIIF collection in Mirador](/images/bd2.jpg)
 
