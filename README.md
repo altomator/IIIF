@@ -209,7 +209,7 @@ Some of the Mandragore database's enlightened manscripts has been exported as [I
 Texts produced by OCR engines can be disseminated using various mechanisms offered by IIIF (look at this [work](https://iiif.io/community/groups/text-granularity/charter/)).
 
 ### SeeAlso
-OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso content, attached to a specific canvas. In this IIIF document manifest ([bpt6k9604118j](https://github.com/altomator/IIIF/blob/main/collection/bpt6k9604118j.json) ID), we are linking the ALTO file X/X00000019.xml to canvas #19:
+OCR resources like ALTO files can be linked to a IIIF manifest as seeAlso content, attached to a specific canvas. In this IIIF document manifest ([bpt6k9604118j](https://github.com/altomator/IIIF/blob/main/collection/bpt6k9604118j.json) ID), we are linking the ALTO file X/X00000019.xml to canvas #19:
 
 ```json
 ...
@@ -239,7 +239,7 @@ OCR resources like ALTO files may be linked to a IIIF manifest as seeAlso conten
           }, ...
 ```
 
-These ALTO files may be dereferenced on the fly thanks to the Gallica OCR API:
+These ALTO files could also be dereferenced on the fly thanks to the Gallica OCR API:
 [ALTO file #19, document ID bpt6k9604118j](https://gallica.bnf.fr/RequestDigitalElement?O=bpt6k9604118j&E=ALTO&Deb=19)
 
 IIIF viewers need an extension to display the OCR content. Johannes Baiter (MDZ Digital Library team, Bavarian State Library) developped such a Mirador 3 [plugin](https://github.com/dbmdz/mirador-textoverlay) that can be used to open our OCR test:
@@ -254,7 +254,7 @@ IIIF viewers need an extension to display the OCR content. Johannes Baiter (MDZ 
 
 ### OCR as Annotations
 
-OCR text may be described as an annotations list linked to a canvas (look at this [IIIF recipe](https://iiif.io/api/cookbook/recipe/0068-newspaper/)) and this ALTO XML to IIIF annotations [XSLT script](https://glenrobson.github.io/iiif_stuff/alto2annotations/). 
+OCR text can be described as an annotations list linked to a canvas (look at this [IIIF recipe](https://iiif.io/api/cookbook/recipe/0068-newspaper/)). ALTO XML can be easily converted to IIIF annotations with [XSLT scripts](https://glenrobson.github.io/iiif_stuff/alto2annotations/). 
 
 ### OCR as XML fragments
 
