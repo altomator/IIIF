@@ -7,13 +7,13 @@ map = L.map('map', {
 });
 
 
-var layer1 = L.tileLayer.iiif('https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038173/f1/info.json', {
+var layer1 = L.tileLayer.iiif('https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038173/f2/info.json', {
     fitBounds: false,
   }
 ).addTo(map);
 
 var layer2 = L.tileLayer.iiif(
-  'https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303825m/f1/info.json',
+  'https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038173/f2/info.json',
   {quality: 'gray'}
 ).addTo(map);
 
