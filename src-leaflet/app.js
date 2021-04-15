@@ -13,7 +13,7 @@ var layer1 = L.tileLayer.iiif('https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303
 ).addTo(map);
 
 var layer2 = L.tileLayer.iiif(
-  'https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038173/f2/info.json',
+  'http://free.iiifhosting.com/iiif/d2a2a5fe1c58dfcf9a2f2c21351959a29038ab495a1f832113cf2aaf4c5a31e0/info.json',
   {quality: 'gray'}
 ).addTo(map);
 
