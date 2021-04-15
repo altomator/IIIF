@@ -60,7 +60,7 @@ Then the manifest is visualised using [LayerStack](https://github.com/vanda/laye
 
 [![Layering images](images/rembrandt2.jpg)](https://altomator.github.io/IIIF/#0)
 
-Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer different approaches for layering images. Leaflet-iiif is a JavaScript library for creating zoomable views of IIIF images. In this [example](https://altomator.github.io/IIIF/index-leaflet.html) based on [https://bl.ocks.org/mejackreed](https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/), we display side-by-side the [Quinatzin map](https://gallica.bnf.fr/ark:/12148/btv1b10303825m/f1), on which technical photography techniques have been applied (see [1](https://bnf.hypotheses.org/577) and [2](https://chsopensource.org/technical-photography-of-aztec-manuscripts-in-paris/)), and a spectral range photography (simulated with the IIIF quality parameter).
+Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer different approaches for layering images. Leaflet-iiif is a JavaScript library for creating zoomable views of IIIF images. In this [example](https://altomator.github.io/IIIF/index-leaflet.html) based on [https://bl.ocks.org/mejackreed](https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/), we display side-by-side the [Quinatzin mappe](https://gallica.bnf.fr/ark:/12148/btv1b103038173/f1), on which technical photography techniques have been applied (see [1](https://bnf.hypotheses.org/577) and [2](https://chsopensource.org/technical-photography-of-aztec-manuscripts-in-paris/)), and a spectral range photography (simulated with the IIIF quality parameter).
 
 [![Layering images](images/mappa.jpg)](https://altomator.github.io/IIIF//index-leaflet.html)
 
