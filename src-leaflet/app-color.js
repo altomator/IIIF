@@ -9,14 +9,14 @@ map = L.map('map', {
 
 var layer1 = L.tileLayer.iiif('https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/f1/info.json',
 {
-    fitBounds: false,
+    fitBounds: true,
   }
 ).addTo(map);
 
 var layer2 = L.tileLayer.iiif(
-  'http://free.iiifhosting.com/iiif/d2a2a5fe1c58dfcf9a2f2c21351959a29038ab495a1f832113cf2aaf4c5a31e0/info.json',
+  'http://free.iiifhosting.com/iiif/c99f9f1d892ff3d2aae2112332d8fdac17df0e92a0c9ad610f823fec955a4c34/info.json',
   {
-    fitBounds: false,
+    fitBounds: true,
   }
 ).addTo(map);
 
