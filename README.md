@@ -54,18 +54,21 @@ First, the [Compariscope](https://github.com/vanda/iiif-features#the-compariscop
 
 Click on the illustration bellow to open Compariscope on the Rembrandt example, built with a [IIIF manifest](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/layerstack-rembrandt.json) listing 3 Gallica documents.
 
-[![Layering images](images/rembrandt1.jpg)](https://vanda.github.io/iiif-features/compariscope.html?manifest=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/layerstack-rembrandt.json)
+[![Compariscope](images/rembrandt1.jpg)](https://vanda.github.io/iiif-features/compariscope.html?manifest=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/layerstack-rembrandt.json)
 
 Then the manifest is visualised using [LayerStack](https://github.com/vanda/layerstack), a viewer based on OpenSeaDragon. Click on the illustration to see the result.
 
-[![Layering images](images/rembrandt2.jpg)](https://altomator.github.io/IIIF/#0)
+[![LayerStack](images/rembrandt2.jpg)](https://altomator.github.io/IIIF/#0)
 
 Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer different approaches for layering images. Leaflet-iiif is a JavaScript library for creating zoomable views of IIIF images. In this [example](https://altomator.github.io/IIIF/index-leaflet-colors.html) based on [https://bl.ocks.org/mejackreed](https://bl.ocks.org/mejackreed/raw/cc99c87a27542fdcd5987076549ff271/), we display side-by-side the original photograph from the above example and its colorized version.
 
 This other [example](https://altomator.github.io/IIIF//index-leaflet_btv1b10303825m.html) displays the [Quinatzin mappe](https://gallica.bnf.fr/ark:/12148/btv1b10303825m/f1), on which technical photography techniques have been applied (see [1](https://bnf.hypotheses.org/577) and [2](https://chsopensource.org/technical-photography-of-aztec-manuscripts-in-paris/)), and its ultra violet version.
 
-[![Layering images](images/mappa.jpg)](https://altomator.github.io/IIIF//index-leaflet_btv1b10303825m.html)
+[![Leaflet-iiif](images/mappa.jpg)](https://altomator.github.io/IIIF//index-leaflet_btv1b10303825m.html)
 
+This last Leaflet-iiif example inspired from [https://bl.ocks.org/mejackreed](https://bl.ocks.org/mejackreed/6e3fb8e69189dadb4be7d0926a6a14a5) uses the Leaflet plugin Icon Layers, which allows layers switching control with a set of icons. The previous example is now implemented with [IR and UV versions](https://altomator.github.io/IIIF//index-leaflet_selector.html).
+
+[![Leaflet-iiif](images/mappa2.jpg)](https://altomator.github.io/IIIF//index-leaflet_selector.html)
 
 
 ## Deep zoom with large images
