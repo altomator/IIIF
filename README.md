@@ -68,7 +68,7 @@ This other [example](https://altomator.github.io/IIIF//index-leaflet_btv1b103038
 
 [![Leaflet-iiif](images/mappa.jpg)](https://altomator.github.io/IIIF//index-leaflet_btv1b10303825m.html)
 
-This last Leaflet-iiif example inspired from [https://bl.ocks.org/mejackreed](https://bl.ocks.org/mejackreed/6e3fb8e69189dadb4be7d0926a6a14a5) uses the Leaflet plugin Icon Layers, which allows layers switching control with a set of icons. The previous example is now implemented with [IR and UV versions](https://altomator.github.io/IIIF//index-leaflet_selector.html).
+This last Leaflet-iiif example derived from [https://bl.ocks.org/mejackreed](https://bl.ocks.org/mejackreed/6e3fb8e69189dadb4be7d0926a6a14a5) uses the Leaflet plugin Icon Layers, which allows layers switching control with a set of icons. The previous example is now implemented with [IR and UV versions](https://altomator.github.io/IIIF//index-leaflet_selector.html).
 
 [![Leaflet-iiif](images/mappa2.jpg)](https://altomator.github.io/IIIF//index-leaflet_selector.html)
 
