@@ -64,7 +64,7 @@ Other apps like [Leaflet-iiif](https://github.com/mejackreed/Leaflet-IIIF) offer
 
 [![Leaflet-iiif](images/colors.jpg)](https://altomator.github.io/IIIF/index-leaflet-colors.html)
 
-This other [example](https://altomator.github.io/IIIF//index-leaflet_btv1b10303825m.html) displays the [Quinatzin Mapa](https://gallica.bnf.fr/ark:/12148/btv1b10303825m/f1), on which technical photography techniques have been applied (see [1](https://bnf.hypotheses.org/577) and [2](https://chsopensource.org/technical-photography-of-aztec-manuscripts-in-paris/) for details on the scientific background), and its ultra violet version.
+This other [example](https://altomator.github.io/IIIF//index-leaflet_btv1b10303825m.html) displays the [Quinatzin Mapa](https://gallica.bnf.fr/ark:/12148/btv1b10303825m/f1), on which technical photography techniques have been applied (see [1](https://bnf.hypotheses.org/577) and [2](https://chsopensource.org/technical-photography-of-aztec-manuscripts-in-paris/) for details on the scientific background), and its ultra violet version. Mixing several techniques ( XRF or vis-NIR spectrophotometer, etc.) in addition to IR and fluorescent UV photographs helps to study the nature of the materials used. Traditionally, IR images are used alone to better see carbon black patterns (iron gall inks will be almost transparent in IR) but IR images are also used to produce false color images. By also using the visible images, it is sometimes possible to identify materials that appear similar in the visible but are different in the IR. Fluorescence under UV light can highlight materials that fluoresce (e.g. some organic materials used as binder or varnish). 
 
 [![Leaflet-iiif](images/mappa.jpg)](https://altomator.github.io/IIIF//index-leaflet_btv1b10303825m.html)
 
@@ -72,7 +72,7 @@ This last Leaflet-iiif example derived from [https://bl.ocks.org/mejackreed](htt
 
 [![Leaflet-iiif](images/mappa2.jpg)](https://altomator.github.io/IIIF//index-leaflet_selector.html)
 
-Mixing several techniques ( XRF or vis-NIR spectrophotometer, etc.) in addition to IR and fluorescent UV photographs helps to study the nature of the materials used. Traditionally, IR images are used alone to better see carbon black patterns (iron gall inks will be almost transparent in IR) but IR images are also used to produce false color images. By also using the visible images, it is sometimes possible to identify materials that appear similar in the visible but are different in the IR. Fluorescence under UV light can highlight materials that fluoresce (e.g. some organic materials used as binder or varnish). 
+
 
 ## Deep zoom with large images
 
