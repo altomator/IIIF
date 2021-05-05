@@ -72,6 +72,7 @@ This last Leaflet-iiif example derived from [https://bl.ocks.org/mejackreed](htt
 
 [![Leaflet-iiif](images/mappa2.jpg)](https://altomator.github.io/IIIF//index-leaflet_selector.html)
 
+Mixing several techniques ( XRF or vis-NIR spectrophotometer, etc.) in addition to IR and fluorescent UV photographs helps to study the nature of the materials used. Traditionally, IR images are used alone to better see carbon black patterns (iron gall inks will be almost transparent in IR) but IR images are also used to produce false color images. By also using the visible images, it is sometimes possible to identify materials that appear similar in the visible but are different in the IR. Fluorescence under UV light can highlight materials that fluoresce (e.g. some organic materials used as binder or varnish). 
 
 ## Deep zoom with large images
 
