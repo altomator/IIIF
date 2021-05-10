@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb387350355-1903.json",
+  "type": "Collection",
+  "label": { "fr": [ "Figaro-modes (Le) (1903)" ],
+  "en": [ "Figaro-modes (Le) (1903)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Figaro-modes (Le) pour 1903" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Figaro-modes (Le) pour 1903" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb387350355/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Figaro-modes (Le) (1903)" ],"en": [ "Gallica periodical: Figaro-modes (Le) (1903)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb387350355/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Figaro-modes (Le) (1903)" ],"en": [ "Gallica periodical: Figaro-modes (Le) (1903)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6558718c/manifest.json",
+          "label": "Figaro-modes (Le) (15 janvier 1903)",
+          "type": "Manifest",
+          "navDate": "1903-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6558719s/manifest.json",
+          "label": "Figaro-modes (Le) (15 fÃ©vrier 1903)",
+          "type": "Manifest",
+          "navDate": "1903-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6558720f/manifest.json",
+          "label": "Figaro-modes (Le) (15 mars 1903)",
+          "type": "Manifest",
+          "navDate": "1903-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6558721v/manifest.json",
+          "label": "Figaro-modes (Le) (15 avril 1903)",
+          "type": "Manifest",
+          "navDate": "1903-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65587228/manifest.json",
+          "label": "Figaro-modes (Le) (15 mai 1903)",
+          "type": "Manifest",
+          "navDate": "1903-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6558723p/manifest.json",
+          "label": "Figaro-modes (Le) (15 juin 1903)",
+          "type": "Manifest",
+          "navDate": "1903-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65587243/manifest.json",
+          "label": "Figaro-modes (Le) (15 juillet 1903)",
+          "type": "Manifest",
+          "navDate": "1903-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6558725h/manifest.json",
+          "label": "Figaro-modes (Le) (15 aoÃ»t 1903)",
+          "type": "Manifest",
+          "navDate": "1903-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6558726x/manifest.json",
+          "label": "Figaro-modes (Le) (15 septembre 1903)",
+          "type": "Manifest",
+          "navDate": "1903-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6558727b/manifest.json",
+          "label": "Figaro-modes (Le) (15 octobre 1903)",
+          "type": "Manifest",
+          "navDate": "1903-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6558728r/manifest.json",
+          "label": "Figaro-modes (Le) (15 novembre 1903)",
+          "type": "Manifest",
+          "navDate": "1903-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65587295/manifest.json",
+          "label": "Figaro-modes (Le) (15 dÃ©cembre 1903)",
+          "type": "Manifest",
+          "navDate": "1903-12-15"
+       }]
+    }

@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb387350355.json",
+  "type": "Collection",
+  "label": { "fr": [ "Figaro-modes (Le)" ],
+  "en": [ "Figaro-modes (Le)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Figaro-modes (Le) (4 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Figaro-modes (Le) (4 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb387350355/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Figaro-modes (Le)" ],"en": [ "Gallica periodical: Figaro-modes (Le)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb387350355/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Figaro-modes (Le)" ],"en": [ "Gallica periodical: Figaro-modes (Le)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb387350355-1903.json",
+          "label": "Figaro-modes (Le) (1903)",
+          "type": "Collection",
+          "navDate": "1903"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb387350355-1904.json",
+          "label": "Figaro-modes (Le) (1904)",
+          "type": "Collection",
+          "navDate": "1904"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb387350355-1905.json",
+          "label": "Figaro-modes (Le) (1905)",
+          "type": "Collection",
+          "navDate": "1905"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb387350355-1906.json",
+          "label": "Figaro-modes (Le) (1906)",
+          "type": "Collection",
+          "navDate": "1906"
+      }]
+    }
