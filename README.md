@@ -94,25 +94,25 @@ This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) d
 
 ```json
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json",
-  "@type": "sc:Collection",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json",
+  "type": "Collection",
   ...
   "related": [{
-			"@id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
 			"format": "text/html",
-			"label": "Digital object in Gallica"
+			"label": "Gallica periodical: Vogue"
 		}, ...],
   "seeAlso": [...],
-  "collections": [
+  "items": [
     {
-      "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1920ocr.json",
-      "@type": "sc:Collection",
-      "label": "1920 (test OCR)"
+      "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1920.json",
+      "type": "Collection",
+      "label": "Vogue (1920)"
     },{
-      "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1921.json",
-      "@type": "sc:Collection",
-      "label": "1921"
+      "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1921.json",
+      "type": "Collection",
+      "label": "Vogue (1921)"
     }, ...
       ]
   }
@@ -122,32 +122,34 @@ Each sub-collection must setup links to the IIIF document manifests (or to other
 
 ```json
 {
-	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1920ocr.json",
-	"@type": "sc:Collection",
-	"label": "Vogue 1920 (ocr)",
-	"description": "https://gallica.bnf.fr/ark:/12148/cb343833568/date1920",
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1920.json",
+	"type": "Collection",
+	"label": "Vogue 1920",
+	"description": "This collection gathers all the issues of the title Vogue for the year 1920",
 	"attribution": "BnF - Gallica, gallica.bnf.fr",
 	"logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
-	"manifests": [{
-		"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json",
-		"@type": "sc:Manifest",
-		"label": "Vogue, juin 1920"
-	},{
-		"@id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/bpt6k9604118j.json",
-		"@type": "sc:Manifest",
-		"label": "Vogue, juin 1920 (avec OCR)"
-	}
+	"related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date1920",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Vogue (1920)" ],"en": [ "Gallica periodical: Vogue (1920)" ] }
+		}],
+	"items": [{
+		"id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json",
+		"type": "Manifest",
+		"label": "Vogue, 15 juin 1920",
+		
+	},..
 	]
 }
 ```
 
 The Biblissima Mirador 3 instance can be used to open this collection:
-[https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
+[https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb343833568.json](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb343833568.json)
 
 Once open, the collection can be browsed, starting from the Information side panel:
 
-[![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
+[![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb343833568.json)
 
 
 ### For Thematic Collections
