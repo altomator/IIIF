@@ -1,0 +1,93 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32833138b-1925.json",
+  "type": "Collection",
+  "label": { "fr": [ "Parisiana (1925)" ],
+  "en": [ "Parisiana (1925)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1925" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1925" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Parisiana (1925)" ],"en": [ "Gallica periodical: Parisiana (1925)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Parisiana (1925)" ],"en": [ "Gallica periodical: Parisiana (1925)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5561905b/manifest.json",
+          "label": "Parisiana (10 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55511059/manifest.json",
+          "label": "Parisiana (17 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55539938/manifest.json",
+          "label": "Parisiana (24 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5554039p/manifest.json",
+          "label": "Parisiana (01 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5554084h/manifest.json",
+          "label": "Parisiana (08 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55650739/manifest.json",
+          "label": "Parisiana (15 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55650828/manifest.json",
+          "label": "Parisiana (22 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5565095w/manifest.json",
+          "label": "Parisiana (29 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5565097q/manifest.json",
+          "label": "Parisiana (05 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55650984/manifest.json",
+          "label": "Parisiana (26 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5565100r/manifest.json",
+          "label": "Parisiana (03 dÃ©cembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5565102k/manifest.json",
+          "label": "Parisiana (17 dÃ©cembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55651156/manifest.json",
+          "label": "Parisiana (31 dÃ©cembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-31"
+       }]
+    }

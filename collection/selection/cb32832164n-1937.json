@@ -1,0 +1,58 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32832164n-1937.json",
+  "type": "Collection",
+  "label": { "fr": [ "Paris-Alger magazine (1937)" ],
+  "en": [ "Paris-Alger magazine (1937)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Paris-Alger magazine pour 1937" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Paris-Alger magazine pour 1937" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32832164n/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Paris-Alger magazine (1937)" ],"en": [ "Gallica periodical: Paris-Alger magazine (1937)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32832164n/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Paris-Alger magazine (1937)" ],"en": [ "Gallica periodical: Paris-Alger magazine (1937)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5656055n/manifest.json",
+          "label": "Paris-Alger magazine ( janvier 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5656061c/manifest.json",
+          "label": "Paris-Alger magazine ( avril 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5656057g/manifest.json",
+          "label": "Paris-Alger magazine ( fÃ©vrier 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56560725/manifest.json",
+          "label": "Paris-Alger magazine ( juin 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5656058w/manifest.json",
+          "label": "Paris-Alger magazine ( mars 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5656064m/manifest.json",
+          "label": "Paris-Alger magazine ( mai 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       }]
+    }

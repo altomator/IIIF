@@ -1,0 +1,288 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32833138b-1931.json",
+  "type": "Collection",
+  "label": { "fr": [ "Parisiana (1931)" ],
+  "en": [ "Parisiana (1931)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1931" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1931" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Parisiana (1931)" ],"en": [ "Gallica periodical: Parisiana (1931)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Parisiana (1931)" ],"en": [ "Gallica periodical: Parisiana (1931)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55581613/manifest.json",
+          "label": "Parisiana (01 janvier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558167k/manifest.json",
+          "label": "Parisiana (08 janvier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55581702/manifest.json",
+          "label": "Parisiana (15 janvier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558172w/manifest.json",
+          "label": "Parisiana (22 janvier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558176j/manifest.json",
+          "label": "Parisiana (05 fÃ©vrier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558180f/manifest.json",
+          "label": "Parisiana (12 fÃ©vrier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558185h/manifest.json",
+          "label": "Parisiana (19 fÃ©vrier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558190t/manifest.json",
+          "label": "Parisiana (26 fÃ©vrier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558225k/manifest.json",
+          "label": "Parisiana (05 mars 1931)",
+          "type": "Manifest",
+          "navDate": "1931-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558227d/manifest.json",
+          "label": "Parisiana (12 mars 1931)",
+          "type": "Manifest",
+          "navDate": "1931-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55582319/manifest.json",
+          "label": "Parisiana (19 mars 1931)",
+          "type": "Manifest",
+          "navDate": "1931-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55582334/manifest.json",
+          "label": "Parisiana (26 mars 1931)",
+          "type": "Manifest",
+          "navDate": "1931-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558237s/manifest.json",
+          "label": "Parisiana (02 avril 1931)",
+          "type": "Manifest",
+          "navDate": "1931-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558239m/manifest.json",
+          "label": "Parisiana (09 avril 1931)",
+          "type": "Manifest",
+          "navDate": "1931-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55582423/manifest.json",
+          "label": "Parisiana (16 avril 1931)",
+          "type": "Manifest",
+          "navDate": "1931-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558253w/manifest.json",
+          "label": "Parisiana (23 avril 1931)",
+          "type": "Manifest",
+          "navDate": "1931-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558255q/manifest.json",
+          "label": "Parisiana (30 avril 1931)",
+          "type": "Manifest",
+          "navDate": "1931-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55582638/manifest.json",
+          "label": "Parisiana (07 mai 1931)",
+          "type": "Manifest",
+          "navDate": "1931-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55582653/manifest.json",
+          "label": "Parisiana (14 mai 1931)",
+          "type": "Manifest",
+          "navDate": "1931-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558269r/manifest.json",
+          "label": "Parisiana (21 mai 1931)",
+          "type": "Manifest",
+          "navDate": "1931-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55582779/manifest.json",
+          "label": "Parisiana (28 mai 1931)",
+          "type": "Manifest",
+          "navDate": "1931-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558282m/manifest.json",
+          "label": "Parisiana (04 juin 1931)",
+          "type": "Manifest",
+          "navDate": "1931-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55582868/manifest.json",
+          "label": "Parisiana (11 juin 1931)",
+          "type": "Manifest",
+          "navDate": "1931-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558287p/manifest.json",
+          "label": "Parisiana (18 juin 1931)",
+          "type": "Manifest",
+          "navDate": "1931-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55582883/manifest.json",
+          "label": "Parisiana (25 juin 1931)",
+          "type": "Manifest",
+          "navDate": "1931-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55582920/manifest.json",
+          "label": "Parisiana (02 juillet 1931)",
+          "type": "Manifest",
+          "navDate": "1931-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558299w/manifest.json",
+          "label": "Parisiana (09 juillet 1931)",
+          "type": "Manifest",
+          "navDate": "1931-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558303b/manifest.json",
+          "label": "Parisiana (16 juillet 1931)",
+          "type": "Manifest",
+          "navDate": "1931-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558308d/manifest.json",
+          "label": "Parisiana (23 juillet 1931)",
+          "type": "Manifest",
+          "navDate": "1931-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558311w/manifest.json",
+          "label": "Parisiana (30 juillet 1931)",
+          "type": "Manifest",
+          "navDate": "1931-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558331n/manifest.json",
+          "label": "Parisiana (06 aoÃ»t 1931)",
+          "type": "Manifest",
+          "navDate": "1931-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558336q/manifest.json",
+          "label": "Parisiana (13 aoÃ»t 1931)",
+          "type": "Manifest",
+          "navDate": "1931-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558338j/manifest.json",
+          "label": "Parisiana (20 aoÃ»t 1931)",
+          "type": "Manifest",
+          "navDate": "1931-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5558340m/manifest.json",
+          "label": "Parisiana (27 aoÃ»t 1931)",
+          "type": "Manifest",
+          "navDate": "1931-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5550215q/manifest.json",
+          "label": "Parisiana (03 septembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5551968k/manifest.json",
+          "label": "Parisiana (10 septembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552148c/manifest.json",
+          "label": "Parisiana (17 septembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552164g/manifest.json",
+          "label": "Parisiana (24 septembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552197v/manifest.json",
+          "label": "Parisiana (01 octobre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55522190/manifest.json",
+          "label": "Parisiana (08 octobre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552245g/manifest.json",
+          "label": "Parisiana (15 octobre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552266n/manifest.json",
+          "label": "Parisiana (22 octobre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55522672/manifest.json",
+          "label": "Parisiana (29 octobre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55522835/manifest.json",
+          "label": "Parisiana (05 novembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552293j/manifest.json",
+          "label": "Parisiana (12 novembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55523111/manifest.json",
+          "label": "Parisiana (19 novembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55523289/manifest.json",
+          "label": "Parisiana (26 novembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552340r/manifest.json",
+          "label": "Parisiana (03 dÃ©cembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552360h/manifest.json",
+          "label": "Parisiana (10 dÃ©cembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55523808/manifest.json",
+          "label": "Parisiana (17 dÃ©cembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552392g/manifest.json",
+          "label": "Parisiana (24 dÃ©cembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55524062/manifest.json",
+          "label": "Parisiana (31 dÃ©cembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-12-31"
+       }]
+    }

@@ -1,0 +1,63 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817516p-1901.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mode-palace (1901)" ],
+  "en": [ "Mode-palace (1901)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mode-palace pour 1901" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mode-palace pour 1901" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817516p/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mode-palace (1901)" ],"en": [ "Gallica periodical: Mode-palace (1901)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817516p/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mode-palace (1901)" ],"en": [ "Gallica periodical: Mode-palace (1901)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k957713m/manifest.json",
+          "label": "Mode-palace ( dÃ©cembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k957707s/manifest.json",
+          "label": "Mode-palace ( juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k957709j/manifest.json",
+          "label": "Mode-palace ( aoÃ»t 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9577085/manifest.json",
+          "label": "Mode-palace ( juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k957711v/manifest.json",
+          "label": "Mode-palace ( octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k957710g/manifest.json",
+          "label": "Mode-palace ( septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9577127/manifest.json",
+          "label": "Mode-palace ( novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-01"
+       }]
+    }

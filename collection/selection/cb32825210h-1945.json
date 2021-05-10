@@ -1,0 +1,63 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32825210h-1945.json",
+  "type": "Collection",
+  "label": { "fr": [ "Notre journal (Union féminine civique et sociale) (1945)" ],
+  "en": [ "Notre journal (Union féminine civique et sociale) (1945)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Notre journal (Union féminine civique et sociale) pour 1945" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Notre journal (Union féminine civique et sociale) pour 1945" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32825210h/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Notre journal (Union féminine civique et sociale) (1945)" ],"en": [ "Gallica periodical: Notre journal (Union féminine civique et sociale) (1945)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32825210h/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Notre journal (Union féminine civique et sociale) (1945)" ],"en": [ "Gallica periodical: Notre journal (Union féminine civique et sociale) (1945)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548002d/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( juin 1945)",
+          "type": "Manifest",
+          "navDate": "1945-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480062/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( novembre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480010/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( mai 1945)",
+          "type": "Manifest",
+          "navDate": "1945-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480047/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( septembre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548007g/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( dÃ©cembre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548003t/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( aoÃ»t 1945)",
+          "type": "Manifest",
+          "navDate": "1945-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548005n/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( octobre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-01-01"
+       }]
+    }

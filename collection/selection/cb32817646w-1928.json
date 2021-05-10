@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817646w-1928.json",
+  "type": "Collection",
+  "label": { "fr": [ "Modes (Les) (1928)" ],
+  "en": [ "Modes (Les) (1928)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1928" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1928" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Modes (Les) (1928)" ],"en": [ "Gallica periodical: Modes (Les) (1928)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Modes (Les) (1928)" ],"en": [ "Gallica periodical: Modes (Les) (1928)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57256908/manifest.json",
+          "label": "Modes (Les) ( juillet 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5725695b/manifest.json",
+          "label": "Modes (Les) ( octobre 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5725693h/manifest.json",
+          "label": "Modes (Les) ( septembre 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5725682q/manifest.json",
+          "label": "Modes (Les) ( mars 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57256975/manifest.json",
+          "label": "Modes (Les) ( novembre 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5725689m/manifest.json",
+          "label": "Modes (Les) ( juin 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5725687s/manifest.json",
+          "label": "Modes (Les) ( mai 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5725691p/manifest.json",
+          "label": "Modes (Les) ( aoÃ»t 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5725666m/manifest.json",
+          "label": "Modes (Les) ( janvier 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57256797/manifest.json",
+          "label": "Modes (Les) ( fÃ©vrier 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57257006/manifest.json",
+          "label": "Modes (Les) ( dÃ©cembre 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5725685z/manifest.json",
+          "label": "Modes (Les) ( avril 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       }]
+    }

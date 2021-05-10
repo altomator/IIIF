@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817646w-1920.json",
+  "type": "Collection",
+  "label": { "fr": [ "Modes (Les) (1920)" ],
+  "en": [ "Modes (Les) (1920)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1920" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1920" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Modes (Les) (1920)" ],"en": [ "Gallica periodical: Modes (Les) (1920)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Modes (Les) (1920)" ],"en": [ "Gallica periodical: Modes (Les) (1920)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57263716/manifest.json",
+          "label": "Modes (Les) (  1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57263694/manifest.json",
+          "label": "Modes (Les) (  1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57263857/manifest.json",
+          "label": "Modes (Les) (  1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726386n/manifest.json",
+          "label": "Modes (Les) (  1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726391z/manifest.json",
+          "label": "Modes (Les) (  1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726370s/manifest.json",
+          "label": "Modes (Les) (  1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726374f/manifest.json",
+          "label": "Modes (Les) (  1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726324j/manifest.json",
+          "label": "Modes (Les) (  1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57263961/manifest.json",
+          "label": "Modes (Les) (  1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726397f/manifest.json",
+          "label": "Modes (Les) ( dÃ©cembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       }]
+    }

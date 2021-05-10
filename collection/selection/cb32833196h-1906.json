@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32833196h-1906.json",
+  "type": "Collection",
+  "label": { "fr": [ "Parisiennes (Les) (1906)" ],
+  "en": [ "Parisiennes (Les) (1906)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiennes (Les) pour 1906" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Parisiennes (Les) pour 1906" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32833196h/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Parisiennes (Les) (1906)" ],"en": [ "Gallica periodical: Parisiennes (Les) (1906)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32833196h/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Parisiennes (Les) (1906)" ],"en": [ "Gallica periodical: Parisiennes (Les) (1906)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k971984v/manifest.json",
+          "label": "Parisiennes (Les) ( octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k971977n/manifest.json",
+          "label": "Parisiennes (Les) ( janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k971986m/manifest.json",
+          "label": "Parisiennes (Les) ( dÃ©cembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9719781/manifest.json",
+          "label": "Parisiennes (Les) ( fÃ©vrier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9719823/manifest.json",
+          "label": "Parisiennes (Les) ( aoÃ»t 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k971981q/manifest.json",
+          "label": "Parisiennes (Les) ( mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k971979d/manifest.json",
+          "label": "Parisiennes (Les) ( mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k971980b/manifest.json",
+          "label": "Parisiennes (Les) ( avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9719857/manifest.json",
+          "label": "Parisiennes (Les) ( novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k971983g/manifest.json",
+          "label": "Parisiennes (Les) ( septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       }]
+    }

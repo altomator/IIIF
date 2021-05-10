@@ -1,0 +1,258 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32833138b-1932.json",
+  "type": "Collection",
+  "label": { "fr": [ "Parisiana (1932)" ],
+  "en": [ "Parisiana (1932)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1932" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1932" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Parisiana (1932)" ],"en": [ "Gallica periodical: Parisiana (1932)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Parisiana (1932)" ],"en": [ "Gallica periodical: Parisiana (1932)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55759157/manifest.json",
+          "label": "Parisiana (07 janvier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552456z/manifest.json",
+          "label": "Parisiana (14 janvier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55524937/manifest.json",
+          "label": "Parisiana (21 janvier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552534q/manifest.json",
+          "label": "Parisiana (28 janvier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552547b/manifest.json",
+          "label": "Parisiana (04 fÃ©vrier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55525888/manifest.json",
+          "label": "Parisiana (11 fÃ©vrier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55526698/manifest.json",
+          "label": "Parisiana (18 fÃ©vrier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552707h/manifest.json",
+          "label": "Parisiana (25 fÃ©vrier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552749v/manifest.json",
+          "label": "Parisiana (03 mars 1932)",
+          "type": "Manifest",
+          "navDate": "1932-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55529091/manifest.json",
+          "label": "Parisiana (10 mars 1932)",
+          "type": "Manifest",
+          "navDate": "1932-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552935h/manifest.json",
+          "label": "Parisiana (17 mars 1932)",
+          "type": "Manifest",
+          "navDate": "1932-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552965n/manifest.json",
+          "label": "Parisiana (24 mars 1932)",
+          "type": "Manifest",
+          "navDate": "1932-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5552985d/manifest.json",
+          "label": "Parisiana (31 mars 1932)",
+          "type": "Manifest",
+          "navDate": "1932-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553017s/manifest.json",
+          "label": "Parisiana (07 avril 1932)",
+          "type": "Manifest",
+          "navDate": "1932-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553037j/manifest.json",
+          "label": "Parisiana (14 avril 1932)",
+          "type": "Manifest",
+          "navDate": "1932-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553065v/manifest.json",
+          "label": "Parisiana (21 avril 1932)",
+          "type": "Manifest",
+          "navDate": "1932-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553094k/manifest.json",
+          "label": "Parisiana (28 avril 1932)",
+          "type": "Manifest",
+          "navDate": "1932-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553119z/manifest.json",
+          "label": "Parisiana (05 mai 1932)",
+          "type": "Manifest",
+          "navDate": "1932-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55531567/manifest.json",
+          "label": "Parisiana (12 mai 1932)",
+          "type": "Manifest",
+          "navDate": "1932-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553180w/manifest.json",
+          "label": "Parisiana (19 mai 1932)",
+          "type": "Manifest",
+          "navDate": "1932-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553224m/manifest.json",
+          "label": "Parisiana (26 mai 1932)",
+          "type": "Manifest",
+          "navDate": "1932-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55532911/manifest.json",
+          "label": "Parisiana (16 juin 1932)",
+          "type": "Manifest",
+          "navDate": "1932-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553305m/manifest.json",
+          "label": "Parisiana (23 juin 1932)",
+          "type": "Manifest",
+          "navDate": "1932-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553330p/manifest.json",
+          "label": "Parisiana (30 juin 1932)",
+          "type": "Manifest",
+          "navDate": "1932-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553357b/manifest.json",
+          "label": "Parisiana (07 juillet 1932)",
+          "type": "Manifest",
+          "navDate": "1932-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553382d/manifest.json",
+          "label": "Parisiana (11 aoÃ»t 1932)",
+          "type": "Manifest",
+          "navDate": "1932-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553423w/manifest.json",
+          "label": "Parisiana (18 aoÃ»t 1932)",
+          "type": "Manifest",
+          "navDate": "1932-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553457p/manifest.json",
+          "label": "Parisiana (25 aoÃ»t 1932)",
+          "type": "Manifest",
+          "navDate": "1932-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553491q/manifest.json",
+          "label": "Parisiana (01 septembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553517h/manifest.json",
+          "label": "Parisiana (08 septembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55535504/manifest.json",
+          "label": "Parisiana (15 septembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553565k/manifest.json",
+          "label": "Parisiana (22 septembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553575z/manifest.json",
+          "label": "Parisiana (29 septembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553597j/manifest.json",
+          "label": "Parisiana (06 octobre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553612s/manifest.json",
+          "label": "Parisiana (13 octobre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553630q/manifest.json",
+          "label": "Parisiana (20 octobre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553757q/manifest.json",
+          "label": "Parisiana (27 octobre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553766p/manifest.json",
+          "label": "Parisiana (03 novembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553775n/manifest.json",
+          "label": "Parisiana (10 novembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55538164/manifest.json",
+          "label": "Parisiana (17 novembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553835g/manifest.json",
+          "label": "Parisiana (24 novembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55497898/manifest.json",
+          "label": "Parisiana (01 dÃ©cembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556409j/manifest.json",
+          "label": "Parisiana (08 dÃ©cembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55564121/manifest.json",
+          "label": "Parisiana (15 dÃ©cembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55564247/manifest.json",
+          "label": "Parisiana (22 dÃ©cembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55564299/manifest.json",
+          "label": "Parisiana (29 dÃ©cembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-12-29"
+       }]
+    }

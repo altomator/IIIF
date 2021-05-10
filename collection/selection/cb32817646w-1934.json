@@ -1,0 +1,83 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817646w-1934.json",
+  "type": "Collection",
+  "label": { "fr": [ "Modes (Les) (1934)" ],
+  "en": [ "Modes (Les) (1934)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1934" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1934" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Modes (Les) (1934)" ],"en": [ "Gallica periodical: Modes (Les) (1934)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Modes (Les) (1934)" ],"en": [ "Gallica periodical: Modes (Les) (1934)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5722767f/manifest.json",
+          "label": "Modes (Les) ( aoÃ»t 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5722759w/manifest.json",
+          "label": "Modes (Les) ( fÃ©vrier 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5722770x/manifest.json",
+          "label": "Modes (Les) ( novembre 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5722771b/manifest.json",
+          "label": "Modes (Les) ( dÃ©cembre 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5722768v/manifest.json",
+          "label": "Modes (Les) ( septembre 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57227572/manifest.json",
+          "label": "Modes (Les) ( janvier 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5722760j/manifest.json",
+          "label": "Modes (Les) ( avril 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57227698/manifest.json",
+          "label": "Modes (Les) ( octobre 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57227661/manifest.json",
+          "label": "Modes (Les) ( juillet 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57227646/manifest.json",
+          "label": "Modes (Les) ( juin 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5722762c/manifest.json",
+          "label": "Modes (Les) ( mai 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       }]
+    }

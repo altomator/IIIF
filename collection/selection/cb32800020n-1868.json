@@ -1,0 +1,58 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32800020n-1868.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal des marchandes de modes (Le) (1868)" ],
+  "en": [ "Journal des marchandes de modes (Le) (1868)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal des marchandes de modes (Le) pour 1868" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal des marchandes de modes (Le) pour 1868" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32800020n/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal des marchandes de modes (Le) (1868)" ],"en": [ "Gallica periodical: Journal des marchandes de modes (Le) (1868)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32800020n/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal des marchandes de modes (Le) (1868)" ],"en": [ "Gallica periodical: Journal des marchandes de modes (Le) (1868)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58192970/manifest.json",
+          "label": "Journal des marchandes de modes (Le) ( janvier 1868)",
+          "type": "Manifest",
+          "navDate": "1868-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58193194/manifest.json",
+          "label": "Journal des marchandes de modes (Le) ( juin 1868)",
+          "type": "Manifest",
+          "navDate": "1868-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5819306h/manifest.json",
+          "label": "Journal des marchandes de modes (Le) ( mars 1868)",
+          "type": "Manifest",
+          "navDate": "1868-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5819311t/manifest.json",
+          "label": "Journal des marchandes de modes (Le) ( avril 1868)",
+          "type": "Manifest",
+          "navDate": "1868-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5819301f/manifest.json",
+          "label": "Journal des marchandes de modes (Le) ( fÃ©vrier 1868)",
+          "type": "Manifest",
+          "navDate": "1868-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58193142/manifest.json",
+          "label": "Journal des marchandes de modes (Le) ( mai 1868)",
+          "type": "Manifest",
+          "navDate": "1868-01-01"
+       }]
+    }

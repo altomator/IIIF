@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817646w-1936.json",
+  "type": "Collection",
+  "label": { "fr": [ "Modes (Les) (1936)" ],
+  "en": [ "Modes (Les) (1936)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1936" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1936" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Modes (Les) (1936)" ],"en": [ "Gallica periodical: Modes (Les) (1936)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Modes (Les) (1936)" ],"en": [ "Gallica periodical: Modes (Les) (1936)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726398v/manifest.json",
+          "label": "Modes (Les) ( mars 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726395m/manifest.json",
+          "label": "Modes (Les) ( fÃ©vrier 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726403q/manifest.json",
+          "label": "Modes (Les) ( aoÃ»t 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726372m/manifest.json",
+          "label": "Modes (Les) ( janvier 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57263998/manifest.json",
+          "label": "Modes (Les) ( avril 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726401w/manifest.json",
+          "label": "Modes (Les) ( juin 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726400g/manifest.json",
+          "label": "Modes (Les) ( mai 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57264029/manifest.json",
+          "label": "Modes (Les) ( juillet 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726406z/manifest.json",
+          "label": "Modes (Les) ( novembre 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726405j/manifest.json",
+          "label": "Modes (Les) ( octobre 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726407c/manifest.json",
+          "label": "Modes (Les) ( dÃ©cembre 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57264044/manifest.json",
+          "label": "Modes (Les) ( septembre 1936)",
+          "type": "Manifest",
+          "navDate": "1936-01-01"
+       }]
+    }

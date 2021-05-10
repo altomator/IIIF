@@ -1,0 +1,278 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32833138b-1929.json",
+  "type": "Collection",
+  "label": { "fr": [ "Parisiana (1929)" ],
+  "en": [ "Parisiana (1929)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1929" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1929" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Parisiana (1929)" ],"en": [ "Gallica periodical: Parisiana (1929)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Parisiana (1929)" ],"en": [ "Gallica periodical: Parisiana (1929)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130538f/manifest.json",
+          "label": "Parisiana (03 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61305534/manifest.json",
+          "label": "Parisiana (10 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130568k/manifest.json",
+          "label": "Parisiana (17 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130573w/manifest.json",
+          "label": "Parisiana (24 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130577j/manifest.json",
+          "label": "Parisiana (31 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61305801/manifest.json",
+          "label": "Parisiana (07 fÃ©vrier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130584p/manifest.json",
+          "label": "Parisiana (14 fÃ©vrier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61305853/manifest.json",
+          "label": "Parisiana (21 fÃ©vrier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130586h/manifest.json",
+          "label": "Parisiana (28 fÃ©vrier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130587x/manifest.json",
+          "label": "Parisiana (14 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130589r/manifest.json",
+          "label": "Parisiana (21 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130591t/manifest.json",
+          "label": "Parisiana (28 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61305927/manifest.json",
+          "label": "Parisiana (04 avril 1929)",
+          "type": "Manifest",
+          "navDate": "1929-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61305942/manifest.json",
+          "label": "Parisiana (11 avril 1929)",
+          "type": "Manifest",
+          "navDate": "1929-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130596w/manifest.json",
+          "label": "Parisiana (25 avril 1929)",
+          "type": "Manifest",
+          "navDate": "1929-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61305979/manifest.json",
+          "label": "Parisiana (02 mai 1929)",
+          "type": "Manifest",
+          "navDate": "1929-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130598q/manifest.json",
+          "label": "Parisiana (09 mai 1929)",
+          "type": "Manifest",
+          "navDate": "1929-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130600b/manifest.json",
+          "label": "Parisiana (16 mai 1929)",
+          "type": "Manifest",
+          "navDate": "1929-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61306025/manifest.json",
+          "label": "Parisiana (23 mai 1929)",
+          "type": "Manifest",
+          "navDate": "1929-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130603k/manifest.json",
+          "label": "Parisiana (30 mai 1929)",
+          "type": "Manifest",
+          "navDate": "1929-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61306040/manifest.json",
+          "label": "Parisiana (06 juin 1929)",
+          "type": "Manifest",
+          "navDate": "1929-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130605d/manifest.json",
+          "label": "Parisiana (13 juin 1929)",
+          "type": "Manifest",
+          "navDate": "1929-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61306077/manifest.json",
+          "label": "Parisiana (20 juin 1929)",
+          "type": "Manifest",
+          "navDate": "1929-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130608n/manifest.json",
+          "label": "Parisiana (27 juin 1929)",
+          "type": "Manifest",
+          "navDate": "1929-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61306092/manifest.json",
+          "label": "Parisiana (04 juillet 1929)",
+          "type": "Manifest",
+          "navDate": "1929-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130610q/manifest.json",
+          "label": "Parisiana (11 juillet 1929)",
+          "type": "Manifest",
+          "navDate": "1929-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61306114/manifest.json",
+          "label": "Parisiana (18 juillet 1929)",
+          "type": "Manifest",
+          "navDate": "1929-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130612j/manifest.json",
+          "label": "Parisiana (25 juillet 1929)",
+          "type": "Manifest",
+          "navDate": "1929-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130613z/manifest.json",
+          "label": "Parisiana (01 aoÃ»t 1929)",
+          "type": "Manifest",
+          "navDate": "1929-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130686v/manifest.json",
+          "label": "Parisiana (08 aoÃ»t 1929)",
+          "type": "Manifest",
+          "navDate": "1929-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61306878/manifest.json",
+          "label": "Parisiana (15 aoÃ»t 1929)",
+          "type": "Manifest",
+          "navDate": "1929-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130688p/manifest.json",
+          "label": "Parisiana (22 aoÃ»t 1929)",
+          "type": "Manifest",
+          "navDate": "1929-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61306915/manifest.json",
+          "label": "Parisiana (29 aoÃ»t 1929)",
+          "type": "Manifest",
+          "navDate": "1929-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130695t/manifest.json",
+          "label": "Parisiana (05 septembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61306967/manifest.json",
+          "label": "Parisiana (12 septembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61306982/manifest.json",
+          "label": "Parisiana (19 septembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130699g/manifest.json",
+          "label": "Parisiana (26 septembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130776t/manifest.json",
+          "label": "Parisiana (03 octobre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130702h/manifest.json",
+          "label": "Parisiana (10 octobre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130704b/manifest.json",
+          "label": "Parisiana (17 octobre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130705r/manifest.json",
+          "label": "Parisiana (24 octobre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130707k/manifest.json",
+          "label": "Parisiana (31 octobre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61307080/manifest.json",
+          "label": "Parisiana (07 novembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130709d/manifest.json",
+          "label": "Parisiana (14 novembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130711g/manifest.json",
+          "label": "Parisiana (21 novembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130714q/manifest.json",
+          "label": "Parisiana (28 novembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61307154/manifest.json",
+          "label": "Parisiana (05 dÃ©cembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130716j/manifest.json",
+          "label": "Parisiana (12 dÃ©cembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130717z/manifest.json",
+          "label": "Parisiana (19 dÃ©cembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130718c/manifest.json",
+          "label": "Parisiana (26 dÃ©cembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-12-26"
+       }]
+    }

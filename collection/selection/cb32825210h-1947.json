@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32825210h-1947.json",
+  "type": "Collection",
+  "label": { "fr": [ "Notre journal (Union féminine civique et sociale) (1947)" ],
+  "en": [ "Notre journal (Union féminine civique et sociale) (1947)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Notre journal (Union féminine civique et sociale) pour 1947" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Notre journal (Union féminine civique et sociale) pour 1947" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32825210h/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Notre journal (Union féminine civique et sociale) (1947)" ],"en": [ "Gallica periodical: Notre journal (Union féminine civique et sociale) (1947)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32825210h/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Notre journal (Union féminine civique et sociale) (1947)" ],"en": [ "Gallica periodical: Notre journal (Union féminine civique et sociale) (1947)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548028n/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( novembre 1947)",
+          "type": "Manifest",
+          "navDate": "1947-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480292/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( dÃ©cembre 1947)",
+          "type": "Manifest",
+          "navDate": "1947-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548025d/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( juin 1947)",
+          "type": "Manifest",
+          "navDate": "1947-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480277/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( septembre 1947)",
+          "type": "Manifest",
+          "navDate": "1947-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480240/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( avril 1947)",
+          "type": "Manifest",
+          "navDate": "1947-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480225/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( fÃ©vrier 1947)",
+          "type": "Manifest",
+          "navDate": "1947-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548026t/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( juillet 1947)",
+          "type": "Manifest",
+          "navDate": "1947-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548021r/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) (20 janvier 1947)",
+          "type": "Manifest",
+          "navDate": "1947-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548023k/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) (20 mars 1947)",
+          "type": "Manifest",
+          "navDate": "1947-03-20"
+       }]
+    }

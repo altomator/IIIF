@@ -1,0 +1,53 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817646w-1918.json",
+  "type": "Collection",
+  "label": { "fr": [ "Modes (Les) (1918)" ],
+  "en": [ "Modes (Les) (1918)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1918" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1918" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Modes (Les) (1918)" ],"en": [ "Gallica periodical: Modes (Les) (1918)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Modes (Les) (1918)" ],"en": [ "Gallica periodical: Modes (Les) (1918)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726315k/manifest.json",
+          "label": "Modes (Les) (  1918)",
+          "type": "Manifest",
+          "navDate": "1918-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726313r/manifest.json",
+          "label": "Modes (Les) (  1918)",
+          "type": "Manifest",
+          "navDate": "1918-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726310h/manifest.json",
+          "label": "Modes (Les) (  1918)",
+          "type": "Manifest",
+          "navDate": "1918-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57263145/manifest.json",
+          "label": "Modes (Les) (  1918)",
+          "type": "Manifest",
+          "navDate": "1918-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726311x/manifest.json",
+          "label": "Modes (Les) (  1918)",
+          "type": "Manifest",
+          "navDate": "1918-01-01"
+       }]
+    }

@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32800020n-1866.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal des marchandes de modes (Le) (1866)" ],
+  "en": [ "Journal des marchandes de modes (Le) (1866)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal des marchandes de modes (Le) pour 1866" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal des marchandes de modes (Le) pour 1866" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32800020n/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal des marchandes de modes (Le) (1866)" ],"en": [ "Gallica periodical: Journal des marchandes de modes (Le) (1866)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32800020n/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal des marchandes de modes (Le) (1866)" ],"en": [ "Gallica periodical: Journal des marchandes de modes (Le) (1866)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6214482f/manifest.json",
+          "label": "Journal des marchandes de modes (Le) (15 juillet 1866)",
+          "type": "Manifest",
+          "navDate": "1866-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6214483v/manifest.json",
+          "label": "Journal des marchandes de modes (Le) (01 aoÃ»t 1866)",
+          "type": "Manifest",
+          "navDate": "1866-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k62144848/manifest.json",
+          "label": "Journal des marchandes de modes (Le) (15 aoÃ»t 1866)",
+          "type": "Manifest",
+          "navDate": "1866-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6214485p/manifest.json",
+          "label": "Journal des marchandes de modes (Le) (01 septembre 1866)",
+          "type": "Manifest",
+          "navDate": "1866-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k62144863/manifest.json",
+          "label": "Journal des marchandes de modes (Le) (15 septembre 1866)",
+          "type": "Manifest",
+          "navDate": "1866-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6214487h/manifest.json",
+          "label": "Journal des marchandes de modes (Le) (01 octobre 1866)",
+          "type": "Manifest",
+          "navDate": "1866-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6214488x/manifest.json",
+          "label": "Journal des marchandes de modes (Le) (15 octobre 1866)",
+          "type": "Manifest",
+          "navDate": "1866-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6214489b/manifest.json",
+          "label": "Journal des marchandes de modes (Le) (01 novembre 1866)",
+          "type": "Manifest",
+          "navDate": "1866-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k62144900/manifest.json",
+          "label": "Journal des marchandes de modes (Le) (15 novembre 1866)",
+          "type": "Manifest",
+          "navDate": "1866-11-15"
+       }]
+    }

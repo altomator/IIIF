@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817646w-1922.json",
+  "type": "Collection",
+  "label": { "fr": [ "Modes (Les) (1922)" ],
+  "en": [ "Modes (Les) (1922)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1922" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1922" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Modes (Les) (1922)" ],"en": [ "Gallica periodical: Modes (Les) (1922)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Modes (Les) (1922)" ],"en": [ "Gallica periodical: Modes (Les) (1922)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65435235/manifest.json",
+          "label": "Modes (Les) ( mars 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6543526d/manifest.json",
+          "label": "Modes (Les) ( juin 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65435309/manifest.json",
+          "label": "Modes (Les) ( octobre 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6543524k/manifest.json",
+          "label": "Modes (Les) ( avril 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6543522r/manifest.json",
+          "label": "Modes (Les) ( fÃ©vrier 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6543531q/manifest.json",
+          "label": "Modes (Les) ( novembre 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6543527t/manifest.json",
+          "label": "Modes (Les) ( juillet 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65435287/manifest.json",
+          "label": "Modes (Les) ( aoÃ»t 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65435250/manifest.json",
+          "label": "Modes (Les) ( mai 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65435324/manifest.json",
+          "label": "Modes (Les) ( dÃ©cembre 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6543521b/manifest.json",
+          "label": "Modes (Les) ( janvier 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6543529n/manifest.json",
+          "label": "Modes (Les) ( septembre 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       }]
+    }

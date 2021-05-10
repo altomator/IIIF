@@ -1,0 +1,288 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32833138b-1927.json",
+  "type": "Collection",
+  "label": { "fr": [ "Parisiana (1927)" ],
+  "en": [ "Parisiana (1927)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1927" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1927" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Parisiana (1927)" ],"en": [ "Gallica periodical: Parisiana (1927)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Parisiana (1927)" ],"en": [ "Gallica periodical: Parisiana (1927)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55666906/manifest.json",
+          "label": "Parisiana (06 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5565396b/manifest.json",
+          "label": "Parisiana (13 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55666973/manifest.json",
+          "label": "Parisiana (20 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566698h/manifest.json",
+          "label": "Parisiana (27 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5565405v/manifest.json",
+          "label": "Parisiana (03 fÃ©vrier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55667004/manifest.json",
+          "label": "Parisiana (10 fÃ©vrier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566701j/manifest.json",
+          "label": "Parisiana (17 fÃ©vrier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566703c/manifest.json",
+          "label": "Parisiana (24 fÃ©vrier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566706m/manifest.json",
+          "label": "Parisiana (03 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566710h/manifest.json",
+          "label": "Parisiana (10 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55667145/manifest.json",
+          "label": "Parisiana (17 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566715k/manifest.json",
+          "label": "Parisiana (24 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566717d/manifest.json",
+          "label": "Parisiana (31 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566720w/manifest.json",
+          "label": "Parisiana (07 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55667219/manifest.json",
+          "label": "Parisiana (14 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55667234/manifest.json",
+          "label": "Parisiana (21 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566724j/manifest.json",
+          "label": "Parisiana (28 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566725z/manifest.json",
+          "label": "Parisiana (05 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566738k/manifest.json",
+          "label": "Parisiana (12 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566740n/manifest.json",
+          "label": "Parisiana (19 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55667412/manifest.json",
+          "label": "Parisiana (26 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566742g/manifest.json",
+          "label": "Parisiana (02 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566743w/manifest.json",
+          "label": "Parisiana (09 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55667449/manifest.json",
+          "label": "Parisiana (16 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5566745q/manifest.json",
+          "label": "Parisiana (23 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55667464/manifest.json",
+          "label": "Parisiana (30 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5550867h/manifest.json",
+          "label": "Parisiana (07 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55531085/manifest.json",
+          "label": "Parisiana (14 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55531174/manifest.json",
+          "label": "Parisiana (21 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553132t/manifest.json",
+          "label": "Parisiana (28 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55531426/manifest.json",
+          "label": "Parisiana (04 aoÃ»t 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553159g/manifest.json",
+          "label": "Parisiana (11 aoÃ»t 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553164s/manifest.json",
+          "label": "Parisiana (18 aoÃ»t 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55531745/manifest.json",
+          "label": "Parisiana (25 aoÃ»t 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553182q/manifest.json",
+          "label": "Parisiana (01 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553196r/manifest.json",
+          "label": "Parisiana (08 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553206p/manifest.json",
+          "label": "Parisiana (15 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55532199/manifest.json",
+          "label": "Parisiana (22 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553229p/manifest.json",
+          "label": "Parisiana (29 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553233k/manifest.json",
+          "label": "Parisiana (06 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553242j/manifest.json",
+          "label": "Parisiana (13 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553252x/manifest.json",
+          "label": "Parisiana (20 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553263q/manifest.json",
+          "label": "Parisiana (27 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55532696/manifest.json",
+          "label": "Parisiana (03 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553275x/manifest.json",
+          "label": "Parisiana (10 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55532822/manifest.json",
+          "label": "Parisiana (17 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55532874/manifest.json",
+          "label": "Parisiana (24 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553298x/manifest.json",
+          "label": "Parisiana (01 dÃ©cembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553317t/manifest.json",
+          "label": "Parisiana (08 dÃ©cembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55533224/manifest.json",
+          "label": "Parisiana (15 dÃ©cembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553328m/manifest.json",
+          "label": "Parisiana (22 dÃ©cembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5553334b/manifest.json",
+          "label": "Parisiana (29 dÃ©cembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-29"
+       }]
+    }

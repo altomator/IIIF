@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32833196h-1909.json",
+  "type": "Collection",
+  "label": { "fr": [ "Parisiennes (Les) (1909)" ],
+  "en": [ "Parisiennes (Les) (1909)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiennes (Les) pour 1909" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Parisiennes (Les) pour 1909" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32833196h/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Parisiennes (Les) (1909)" ],"en": [ "Gallica periodical: Parisiennes (Les) (1909)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32833196h/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Parisiennes (Les) (1909)" ],"en": [ "Gallica periodical: Parisiennes (Les) (1909)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k972005z/manifest.json",
+          "label": "Parisiennes (Les) ( avril 1909)",
+          "type": "Manifest",
+          "navDate": "1909-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k972009g/manifest.json",
+          "label": "Parisiennes (Les) ( octobre 1909)",
+          "type": "Manifest",
+          "navDate": "1909-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9720083/manifest.json",
+          "label": "Parisiennes (Les) ( septembre 1909)",
+          "type": "Manifest",
+          "navDate": "1909-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k972007q/manifest.json",
+          "label": "Parisiennes (Les) ( aoÃ»t 1909)",
+          "type": "Manifest",
+          "navDate": "1909-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k972002t/manifest.json",
+          "label": "Parisiennes (Les) ( janvier 1909)",
+          "type": "Manifest",
+          "navDate": "1909-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k972010d/manifest.json",
+          "label": "Parisiennes (Les) ( dÃ©cembre 1909)",
+          "type": "Manifest",
+          "navDate": "1909-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k972006b/manifest.json",
+          "label": "Parisiennes (Les) ( mai 1909)",
+          "type": "Manifest",
+          "navDate": "1909-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9720036/manifest.json",
+          "label": "Parisiennes (Les) ( fÃ©vrier 1909)",
+          "type": "Manifest",
+          "navDate": "1909-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k972004k/manifest.json",
+          "label": "Parisiennes (Les) ( mars 1909)",
+          "type": "Manifest",
+          "navDate": "1909-01-01"
+       }]
+    }

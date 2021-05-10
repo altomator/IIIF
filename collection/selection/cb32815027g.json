@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32815027g.json",
+  "type": "Collection",
+  "label": { "fr": [ "Messager des dames (Le)" ],
+  "en": [ "Messager des dames (Le)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Messager des dames (Le) (2 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Messager des dames (Le) (2 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32815027g/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Messager des dames (Le)" ],"en": [ "Gallica periodical: Messager des dames (Le)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32815027g/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Messager des dames (Le)" ],"en": [ "Gallica periodical: Messager des dames (Le)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32815027g-1832.json",
+          "label": "Messager des dames (Le) (1832)",
+          "type": "Collection",
+          "navDate": "1832"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32815027g-1833.json",
+          "label": "Messager des dames (Le) (1833)",
+          "type": "Collection",
+          "navDate": "1833"
+      }]
+    }

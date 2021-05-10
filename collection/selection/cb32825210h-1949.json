@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32825210h-1949.json",
+  "type": "Collection",
+  "label": { "fr": [ "Notre journal (Union féminine civique et sociale) (1949)" ],
+  "en": [ "Notre journal (Union féminine civique et sociale) (1949)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Notre journal (Union féminine civique et sociale) pour 1949" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Notre journal (Union féminine civique et sociale) pour 1949" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32825210h/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Notre journal (Union féminine civique et sociale) (1949)" ],"en": [ "Gallica periodical: Notre journal (Union féminine civique et sociale) (1949)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32825210h/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Notre journal (Union féminine civique et sociale) (1949)" ],"en": [ "Gallica periodical: Notre journal (Union féminine civique et sociale) (1949)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548044r/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( septembre 1949)",
+          "type": "Manifest",
+          "navDate": "1949-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548041h/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( mai 1949)",
+          "type": "Manifest",
+          "navDate": "1949-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480403/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( mars 1949)",
+          "type": "Manifest",
+          "navDate": "1949-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480381/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( janvier 1949)",
+          "type": "Manifest",
+          "navDate": "1949-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k45480455/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( novembre 1949)",
+          "type": "Manifest",
+          "navDate": "1949-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548042x/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( juin 1949)",
+          "type": "Manifest",
+          "navDate": "1949-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548046k/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( dÃ©cembre 1949)",
+          "type": "Manifest",
+          "navDate": "1949-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548043b/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( juillet 1949)",
+          "type": "Manifest",
+          "navDate": "1949-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k4548039f/manifest.json",
+          "label": "Notre journal (Union féminine civique et sociale) ( fÃ©vrier 1949)",
+          "type": "Manifest",
+          "navDate": "1949-01-01"
+       }]
+    }

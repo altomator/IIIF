@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32832164n-1934.json",
+  "type": "Collection",
+  "label": { "fr": [ "Paris-Alger magazine (1934)" ],
+  "en": [ "Paris-Alger magazine (1934)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Paris-Alger magazine pour 1934" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Paris-Alger magazine pour 1934" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32832164n/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Paris-Alger magazine (1934)" ],"en": [ "Gallica periodical: Paris-Alger magazine (1934)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32832164n/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Paris-Alger magazine (1934)" ],"en": [ "Gallica periodical: Paris-Alger magazine (1934)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5653808t/manifest.json",
+          "label": "Paris-Alger magazine ( octobre 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5655838k/manifest.json",
+          "label": "Paris-Alger magazine ( novembre 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56558501/manifest.json",
+          "label": "Paris-Alger magazine ( dÃ©cembre 1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       }]
+    }

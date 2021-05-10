@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817516p-1905.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mode-palace (1905)" ],
+  "en": [ "Mode-palace (1905)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mode-palace pour 1905" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mode-palace pour 1905" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817516p/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mode-palace (1905)" ],"en": [ "Gallica periodical: Mode-palace (1905)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817516p/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mode-palace (1905)" ],"en": [ "Gallica periodical: Mode-palace (1905)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959464b/manifest.json",
+          "label": "Mode-palace ( juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959460t/manifest.json",
+          "label": "Mode-palace ( fÃ©vrier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9594616/manifest.json",
+          "label": "Mode-palace ( mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959467g/manifest.json",
+          "label": "Mode-palace ( septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959463z/manifest.json",
+          "label": "Mode-palace ( mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959462k/manifest.json",
+          "label": "Mode-palace ( avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9594697/manifest.json",
+          "label": "Mode-palace ( novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9594705/manifest.json",
+          "label": "Mode-palace ( dÃ©cembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959465q/manifest.json",
+          "label": "Mode-palace ( juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959468v/manifest.json",
+          "label": "Mode-palace ( octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959459w/manifest.json",
+          "label": "Mode-palace ( janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9594663/manifest.json",
+          "label": "Mode-palace ( aoÃ»t 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       }]
+    }

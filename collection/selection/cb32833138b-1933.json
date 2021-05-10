@@ -1,0 +1,253 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32833138b-1933.json",
+  "type": "Collection",
+  "label": { "fr": [ "Parisiana (1933)" ],
+  "en": [ "Parisiana (1933)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1933" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1933" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Parisiana (1933)" ],"en": [ "Gallica periodical: Parisiana (1933)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Parisiana (1933)" ],"en": [ "Gallica periodical: Parisiana (1933)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556432s/manifest.json",
+          "label": "Parisiana (05 janvier 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556452j/manifest.json",
+          "label": "Parisiana (12 janvier 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556455s/manifest.json",
+          "label": "Parisiana (19 janvier 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556462x/manifest.json",
+          "label": "Parisiana (26 janvier 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556466k/manifest.json",
+          "label": "Parisiana (02 fÃ©vrier 1933)",
+          "type": "Manifest",
+          "navDate": "1933-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556469t/manifest.json",
+          "label": "Parisiana (09 fÃ©vrier 1933)",
+          "type": "Manifest",
+          "navDate": "1933-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55564729/manifest.json",
+          "label": "Parisiana (16 fÃ©vrier 1933)",
+          "type": "Manifest",
+          "navDate": "1933-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556478s/manifest.json",
+          "label": "Parisiana (23 fÃ©vrier 1933)",
+          "type": "Manifest",
+          "navDate": "1933-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556485x/manifest.json",
+          "label": "Parisiana (02 mars 1933)",
+          "type": "Manifest",
+          "navDate": "1933-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556487r/manifest.json",
+          "label": "Parisiana (16 mars 1933)",
+          "type": "Manifest",
+          "navDate": "1933-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55564885/manifest.json",
+          "label": "Parisiana (23 mars 1933)",
+          "type": "Manifest",
+          "navDate": "1933-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55564959/manifest.json",
+          "label": "Parisiana (30 mars 1933)",
+          "type": "Manifest",
+          "navDate": "1933-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55564974/manifest.json",
+          "label": "Parisiana (06 avril 1933)",
+          "type": "Manifest",
+          "navDate": "1933-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556499z/manifest.json",
+          "label": "Parisiana (13 avril 1933)",
+          "type": "Manifest",
+          "navDate": "1933-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556504t/manifest.json",
+          "label": "Parisiana (20 avril 1933)",
+          "type": "Manifest",
+          "navDate": "1933-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556508g/manifest.json",
+          "label": "Parisiana (18 mai 1933)",
+          "type": "Manifest",
+          "navDate": "1933-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556518v/manifest.json",
+          "label": "Parisiana (25 mai 1933)",
+          "type": "Manifest",
+          "navDate": "1933-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556521b/manifest.json",
+          "label": "Parisiana (01 juin 1933)",
+          "type": "Manifest",
+          "navDate": "1933-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556522r/manifest.json",
+          "label": "Parisiana (08 juin 1933)",
+          "type": "Manifest",
+          "navDate": "1933-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556524k/manifest.json",
+          "label": "Parisiana (15 juin 1933)",
+          "type": "Manifest",
+          "navDate": "1933-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556533j/manifest.json",
+          "label": "Parisiana (22 juin 1933)",
+          "type": "Manifest",
+          "navDate": "1933-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556534z/manifest.json",
+          "label": "Parisiana (29 juin 1933)",
+          "type": "Manifest",
+          "navDate": "1933-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556535c/manifest.json",
+          "label": "Parisiana (06 juillet 1933)",
+          "type": "Manifest",
+          "navDate": "1933-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556538m/manifest.json",
+          "label": "Parisiana (13 juillet 1933)",
+          "type": "Manifest",
+          "navDate": "1933-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556540p/manifest.json",
+          "label": "Parisiana (10 aoÃ»t 1933)",
+          "type": "Manifest",
+          "navDate": "1933-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556543x/manifest.json",
+          "label": "Parisiana (17 aoÃ»t 1933)",
+          "type": "Manifest",
+          "navDate": "1933-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55565465/manifest.json",
+          "label": "Parisiana (24 aoÃ»t 1933)",
+          "type": "Manifest",
+          "navDate": "1933-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556547k/manifest.json",
+          "label": "Parisiana (31 aoÃ»t 1933)",
+          "type": "Manifest",
+          "navDate": "1933-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55565502/manifest.json",
+          "label": "Parisiana (07 septembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556552w/manifest.json",
+          "label": "Parisiana (14 septembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55565539/manifest.json",
+          "label": "Parisiana (21 septembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556579j/manifest.json",
+          "label": "Parisiana (28 septembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556581m/manifest.json",
+          "label": "Parisiana (05 octobre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556586p/manifest.json",
+          "label": "Parisiana (12 octobre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55565910/manifest.json",
+          "label": "Parisiana (19 octobre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556597g/manifest.json",
+          "label": "Parisiana (26 octobre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556600h/manifest.json",
+          "label": "Parisiana (02 novembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556605k/manifest.json",
+          "label": "Parisiana (09 novembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556610w/manifest.json",
+          "label": "Parisiana (16 novembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556614j/manifest.json",
+          "label": "Parisiana (23 novembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55566208/manifest.json",
+          "label": "Parisiana (30 novembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556624x/manifest.json",
+          "label": "Parisiana (07 dÃ©cembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55566312/manifest.json",
+          "label": "Parisiana (14 dÃ©cembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556635q/manifest.json",
+          "label": "Parisiana (21 dÃ©cembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55566364/manifest.json",
+          "label": "Parisiana (28 dÃ©cembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-12-28"
+       }]
+    }

@@ -1,0 +1,58 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32815027g-1832.json",
+  "type": "Collection",
+  "label": { "fr": [ "Messager des dames (Le) (1832)" ],
+  "en": [ "Messager des dames (Le) (1832)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Messager des dames (Le) pour 1832" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Messager des dames (Le) pour 1832" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32815027g/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Messager des dames (Le) (1832)" ],"en": [ "Gallica periodical: Messager des dames (Le) (1832)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32815027g/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Messager des dames (Le) (1832)" ],"en": [ "Gallica periodical: Messager des dames (Le) (1832)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5446202f/manifest.json",
+          "label": "Messager des dames (Le) (17 novembre 1832)",
+          "type": "Manifest",
+          "navDate": "1832-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5446393m/manifest.json",
+          "label": "Messager des dames (Le) (24 novembre 1832)",
+          "type": "Manifest",
+          "navDate": "1832-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54463941/manifest.json",
+          "label": "Messager des dames (Le) (01 dÃ©cembre 1832)",
+          "type": "Manifest",
+          "navDate": "1832-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5446395f/manifest.json",
+          "label": "Messager des dames (Le) (08 dÃ©cembre 1832)",
+          "type": "Manifest",
+          "navDate": "1832-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54463978/manifest.json",
+          "label": "Messager des dames (Le) (15 dÃ©cembre 1832)",
+          "type": "Manifest",
+          "navDate": "1832-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5446398p/manifest.json",
+          "label": "Messager des dames (Le) (27 dÃ©cembre 1832)",
+          "type": "Manifest",
+          "navDate": "1832-12-27"
+       }]
+    }

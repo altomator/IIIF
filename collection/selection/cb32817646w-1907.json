@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817646w-1907.json",
+  "type": "Collection",
+  "label": { "fr": [ "Modes (Les) (1907)" ],
+  "en": [ "Modes (Les) (1907)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1907" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1907" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Modes (Les) (1907)" ],"en": [ "Gallica periodical: Modes (Les) (1907)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Modes (Les) (1907)" ],"en": [ "Gallica periodical: Modes (Les) (1907)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807424w/manifest.json",
+          "label": "Modes (Les) ( dÃ©cembre 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58074222/manifest.json",
+          "label": "Modes (Les) ( octobre 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807403q/manifest.json",
+          "label": "Modes (Les) ( avril 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807412p/manifest.json",
+          "label": "Modes (Les) ( juillet 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807408s/manifest.json",
+          "label": "Modes (Les) ( juin 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807423g/manifest.json",
+          "label": "Modes (Les) ( novembre 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807398v/manifest.json",
+          "label": "Modes (Les) ( janvier 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807419k/manifest.json",
+          "label": "Modes (Les) ( septembre 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58074029/manifest.json",
+          "label": "Modes (Les) ( mars 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807405j/manifest.json",
+          "label": "Modes (Les) ( mai 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807401w/manifest.json",
+          "label": "Modes (Les) ( fÃ©vrier 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5807417r/manifest.json",
+          "label": "Modes (Les) ( aoÃ»t 1907)",
+          "type": "Manifest",
+          "navDate": "1907-01-01"
+       }]
+    }

@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817516p-1908.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mode-palace (1908)" ],
+  "en": [ "Mode-palace (1908)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mode-palace pour 1908" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mode-palace pour 1908" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817516p/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mode-palace (1908)" ],"en": [ "Gallica periodical: Mode-palace (1908)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817516p/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mode-palace (1908)" ],"en": [ "Gallica periodical: Mode-palace (1908)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9594998/manifest.json",
+          "label": "Mode-palace ( mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959505z/manifest.json",
+          "label": "Mode-palace ( novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959504k/manifest.json",
+          "label": "Mode-palace ( octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959498w/manifest.json",
+          "label": "Mode-palace ( avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959501f/manifest.json",
+          "label": "Mode-palace ( juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959497h/manifest.json",
+          "label": "Mode-palace ( mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959495r/manifest.json",
+          "label": "Mode-palace ( janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959506b/manifest.json",
+          "label": "Mode-palace ( dÃ©cembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k959502t/manifest.json",
+          "label": "Mode-palace ( aoÃ»t 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9595002/manifest.json",
+          "label": "Mode-palace ( juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9595036/manifest.json",
+          "label": "Mode-palace ( septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9594964/manifest.json",
+          "label": "Mode-palace ( fÃ©vrier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       }]
+    }

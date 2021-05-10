@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817646w-1930.json",
+  "type": "Collection",
+  "label": { "fr": [ "Modes (Les) (1930)" ],
+  "en": [ "Modes (Les) (1930)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1930" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1930" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Modes (Les) (1930)" ],"en": [ "Gallica periodical: Modes (Les) (1930)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Modes (Les) (1930)" ],"en": [ "Gallica periodical: Modes (Les) (1930)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726796d/manifest.json",
+          "label": "Modes (Les) ( mai 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57267987/manifest.json",
+          "label": "Modes (Les) ( juin 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726804h/manifest.json",
+          "label": "Modes (Les) ( octobre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726794k/manifest.json",
+          "label": "Modes (Les) ( mars 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726805x/manifest.json",
+          "label": "Modes (Les) ( novembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726799n/manifest.json",
+          "label": "Modes (Les) ( juillet 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57267950/manifest.json",
+          "label": "Modes (Les) ( avril 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726806b/manifest.json",
+          "label": "Modes (Les) ( dÃ©cembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57267683/manifest.json",
+          "label": "Modes (Les) ( janvier 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726800v/manifest.json",
+          "label": "Modes (Les) ( aoÃ»t 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5726790x/manifest.json",
+          "label": "Modes (Les) ( fÃ©vrier 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57268033/manifest.json",
+          "label": "Modes (Les) ( septembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       }]
+    }

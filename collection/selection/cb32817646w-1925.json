@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32817646w-1925.json",
+  "type": "Collection",
+  "label": { "fr": [ "Modes (Les) (1925)" ],
+  "en": [ "Modes (Les) (1925)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1925" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Modes (Les) pour 1925" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Modes (Les) (1925)" ],"en": [ "Gallica periodical: Modes (Les) (1925)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32817646w/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Modes (Les) (1925)" ],"en": [ "Gallica periodical: Modes (Les) (1925)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5731077c/manifest.json",
+          "label": "Modes (Les) ( septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57310833/manifest.json",
+          "label": "Modes (Les) ( novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5731066k/manifest.json",
+          "label": "Modes (Les) ( mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57310581/manifest.json",
+          "label": "Modes (Les) ( janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5731073q/manifest.json",
+          "label": "Modes (Les) ( juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5731069t/manifest.json",
+          "label": "Modes (Les) ( mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57310655/manifest.json",
+          "label": "Modes (Les) ( fÃ©vrier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5731071w/manifest.json",
+          "label": "Modes (Les) ( juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57310885/manifest.json",
+          "label": "Modes (Les) ( dÃ©cembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5731075j/manifest.json",
+          "label": "Modes (Les) ( aoÃ»t 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5731068d/manifest.json",
+          "label": "Modes (Les) ( avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5731080v/manifest.json",
+          "label": "Modes (Les) ( octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       }]
+    }
