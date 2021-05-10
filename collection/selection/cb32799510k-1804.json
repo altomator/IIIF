@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32799510k-1804.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32799510k-1804.json",
   "type": "Collection",
-  "label": { "fr": [ "Journal des dames et des modes (1804)" ],
-  "en": [ "Journal des dames et des modes (1804)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal des dames et des modes pour 1804" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Journal des dames et des modes pour 1804" ] },
+  "label": { "fr": [ "Journal des dames et des modes (1804)" ], "en": [ "Journal des dames et des modes (1804)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal des dames et des modes pour 1804" ], "en": [ "This collection gathers all the issues of the title Journal des dames et des modes for the year 1804" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb32799510k/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32799510k/date1804",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Journal des dames et des modes (1804)" ],"en": [ "Gallica periodical: Journal des dames et des modes (1804)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb32799510k/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32799510k/date1804",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Journal des dames et des modes (1804)" ],"en": [ "Gallica periodical: Journal des dames et des modes (1804)" ] }
 		}],

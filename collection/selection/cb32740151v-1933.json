@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32740151v-1933.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32740151v-1933.json",
   "type": "Collection",
-  "label": { "fr": [ "Chapeaux d'été (1933)" ],
-  "en": [ "Chapeaux d'été (1933)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Chapeaux d'été pour 1933" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Chapeaux d'été pour 1933" ] },
+  "label": { "fr": [ "Chapeaux d'été (1933)" ], "en": [ "Chapeaux d'été (1933)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Chapeaux d'été pour 1933" ], "en": [ "This collection gathers all the issues of the title Chapeaux d'été for the year 1933" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb32740151v/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32740151v/date1933",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Chapeaux d'été (1933)" ],"en": [ "Gallica periodical: Chapeaux d'été (1933)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb32740151v/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32740151v/date1933",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Chapeaux d'été (1933)" ],"en": [ "Gallica periodical: Chapeaux d'été (1933)" ] }
 		}],

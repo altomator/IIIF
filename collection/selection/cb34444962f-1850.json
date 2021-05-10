@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34444962f-1850.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb34444962f-1850.json",
   "type": "Collection",
-  "label": { "fr": [ "Sylphide (La) (1850)" ],
-  "en": [ "Sylphide (La) (1850)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Sylphide (La) pour 1850" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Sylphide (La) pour 1850" ] },
+  "label": { "fr": [ "Sylphide (La) (1850)" ], "en": [ "Sylphide (La) (1850)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Sylphide (La) pour 1850" ], "en": [ "This collection gathers all the issues of the title Sylphide (La) for the year 1850" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb34444962f/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34444962f/date1850",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Sylphide (La) (1850)" ],"en": [ "Gallica periodical: Sylphide (La) (1850)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb34444962f/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34444962f/date1850",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Sylphide (La) (1850)" ],"en": [ "Gallica periodical: Sylphide (La) (1850)" ] }
 		}],

@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343488519-1941.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb343488519-1941.json",
   "type": "Collection",
-  "label": { "fr": [ "Marie-Claire (1941)" ],
-  "en": [ "Marie-Claire (1941)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Marie-Claire pour 1941" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Marie-Claire pour 1941" ] },
+  "label": { "fr": [ "Marie-Claire (1941)" ], "en": [ "Marie-Claire (1941)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Marie-Claire pour 1941" ], "en": [ "This collection gathers all the issues of the title Marie-Claire for the year 1941" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb343488519/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343488519/date1941",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Marie-Claire (1941)" ],"en": [ "Gallica periodical: Marie-Claire (1941)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb343488519/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343488519/date1941",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Marie-Claire (1941)" ],"en": [ "Gallica periodical: Marie-Claire (1941)" ] }
 		}],

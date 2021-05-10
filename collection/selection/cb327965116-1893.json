@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327965116-1893.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb327965116-1893.json",
   "type": "Collection",
-  "label": { "fr": [ "Joie de la maison (La) (1893)" ],
-  "en": [ "Joie de la maison (La) (1893)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Joie de la maison (La) pour 1893" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Joie de la maison (La) pour 1893" ] },
+  "label": { "fr": [ "Joie de la maison (La) (1893)" ], "en": [ "Joie de la maison (La) (1893)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Joie de la maison (La) pour 1893" ], "en": [ "This collection gathers all the issues of the title Joie de la maison (La) for the year 1893" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb327965116/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327965116/date1893",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Joie de la maison (La) (1893)" ],"en": [ "Gallica periodical: Joie de la maison (La) (1893)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb327965116/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327965116/date1893",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Joie de la maison (La) (1893)" ],"en": [ "Gallica periodical: Joie de la maison (La) (1893)" ] }
 		}],

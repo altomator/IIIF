@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32896302v-1788.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32896302v-1788.json",
   "type": "Collection",
-  "label": { "fr": [ "Magasin des modes nouvelles, françaises et anglaises (1788)" ],
-  "en": [ "Magasin des modes nouvelles, françaises et anglaises (1788)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Magasin des modes nouvelles, françaises et anglaises pour 1788" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Magasin des modes nouvelles, françaises et anglaises pour 1788" ] },
+  "label": { "fr": [ "Magasin des modes nouvelles, françaises et anglaises (1788)" ], "en": [ "Magasin des modes nouvelles, françaises et anglaises (1788)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Magasin des modes nouvelles, françaises et anglaises pour 1788" ], "en": [ "This collection gathers all the issues of the title Magasin des modes nouvelles, françaises et anglaises for the year 1788" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date1788",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Magasin des modes nouvelles, françaises et anglaises (1788)" ],"en": [ "Gallica periodical: Magasin des modes nouvelles, françaises et anglaises (1788)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date1788",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Magasin des modes nouvelles, françaises et anglaises (1788)" ],"en": [ "Gallica periodical: Magasin des modes nouvelles, françaises et anglaises (1788)" ] }
 		}],

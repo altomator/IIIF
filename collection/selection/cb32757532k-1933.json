@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32757532k-1933.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32757532k-1933.json",
   "type": "Collection",
-  "label": { "fr": [ "Dimanches de la femme (Les) (1933)" ],
-  "en": [ "Dimanches de la femme (Les) (1933)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Dimanches de la femme (Les) pour 1933" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Dimanches de la femme (Les) pour 1933" ] },
+  "label": { "fr": [ "Dimanches de la femme (Les) (1933)" ], "en": [ "Dimanches de la femme (Les) (1933)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Dimanches de la femme (Les) pour 1933" ], "en": [ "This collection gathers all the issues of the title Dimanches de la femme (Les) for the year 1933" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb32757532k/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32757532k/date1933",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Dimanches de la femme (Les) (1933)" ],"en": [ "Gallica periodical: Dimanches de la femme (Les) (1933)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb32757532k/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32757532k/date1933",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Dimanches de la femme (Les) (1933)" ],"en": [ "Gallica periodical: Dimanches de la femme (Les) (1933)" ] }
 		}],

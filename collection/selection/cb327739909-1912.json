@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327739909-1912.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb327739909-1912.json",
   "type": "Collection",
-  "label": { "fr": [ "Femme aux courses et dans les sports (La) (1912)" ],
-  "en": [ "Femme aux courses et dans les sports (La) (1912)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Femme aux courses et dans les sports (La) pour 1912" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Femme aux courses et dans les sports (La) pour 1912" ] },
+  "label": { "fr": [ "Femme aux courses et dans les sports (La) (1912)" ], "en": [ "Femme aux courses et dans les sports (La) (1912)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Femme aux courses et dans les sports (La) pour 1912" ], "en": [ "This collection gathers all the issues of the title Femme aux courses et dans les sports (La) for the year 1912" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb327739909/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327739909/date1912",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Femme aux courses et dans les sports (La) (1912)" ],"en": [ "Gallica periodical: Femme aux courses et dans les sports (La) (1912)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb327739909/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327739909/date1912",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Femme aux courses et dans les sports (La) (1912)" ],"en": [ "Gallica periodical: Femme aux courses et dans les sports (La) (1912)" ] }
 		}],

@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32779914n-1888.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779914n-1888.json",
   "type": "Collection",
-  "label": { "fr": [ "Gauloises (Les) (1888)" ],
-  "en": [ "Gauloises (Les) (1888)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Gauloises (Les) pour 1888" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Gauloises (Les) pour 1888" ] },
+  "label": { "fr": [ "Gauloises (Les) (1888)" ], "en": [ "Gauloises (Les) (1888)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Gauloises (Les) pour 1888" ], "en": [ "This collection gathers all the issues of the title Gauloises (Les) for the year 1888" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb32779914n/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779914n/date1888",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Gauloises (Les) (1888)" ],"en": [ "Gallica periodical: Gauloises (Les) (1888)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb32779914n/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779914n/date1888",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Gauloises (Les) (1888)" ],"en": [ "Gallica periodical: Gauloises (Les) (1888)" ] }
 		}],

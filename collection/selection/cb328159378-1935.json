@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb328159378-1935.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb328159378-1935.json",
   "type": "Collection",
-  "label": { "fr": [ "Midinette (1935)" ],
-  "en": [ "Midinette (1935)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Midinette pour 1935" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Midinette pour 1935" ] },
+  "label": { "fr": [ "Midinette (1935)" ], "en": [ "Midinette (1935)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Midinette pour 1935" ], "en": [ "This collection gathers all the issues of the title Midinette for the year 1935" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb328159378/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb328159378/date1935",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Midinette (1935)" ],"en": [ "Gallica periodical: Midinette (1935)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb328159378/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb328159378/date1935",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Midinette (1935)" ],"en": [ "Gallica periodical: Midinette (1935)" ] }
 		}],

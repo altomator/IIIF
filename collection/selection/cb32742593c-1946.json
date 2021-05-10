@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32742593c-1946.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32742593c-1946.json",
   "type": "Collection",
-  "label": { "fr": [ "Circulaire de la Ligue féminine d'action catholique française (1946)" ],
-  "en": [ "Circulaire de la Ligue féminine d'action catholique française (1946)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Circulaire de la Ligue féminine d'action catholique française pour 1946" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Circulaire de la Ligue féminine d'action catholique française pour 1946" ] },
+  "label": { "fr": [ "Circulaire de la Ligue féminine d'action catholique française (1946)" ], "en": [ "Circulaire de la Ligue féminine d'action catholique française (1946)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Circulaire de la Ligue féminine d'action catholique française pour 1946" ], "en": [ "This collection gathers all the issues of the title Circulaire de la Ligue féminine d'action catholique française for the year 1946" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb32742593c/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32742593c/date1946",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Circulaire de la Ligue féminine d'action catholique française (1946)" ],"en": [ "Gallica periodical: Circulaire de la Ligue féminine d'action catholique française (1946)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb32742593c/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32742593c/date1946",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Circulaire de la Ligue féminine d'action catholique française (1946)" ],"en": [ "Gallica periodical: Circulaire de la Ligue féminine d'action catholique française (1946)" ] }
 		}],

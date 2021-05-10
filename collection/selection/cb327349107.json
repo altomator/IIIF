@@ -1,11 +1,9 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327349107.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb327349107.json",
   "type": "Collection",
-  "label": { "fr": [ "Cabinet des modes" ],
-  "en": [ "Cabinet des modes" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Cabinet des modes (2 ans)" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Cabinet des modes (2 ans)" ] },
+  "label": { "fr": [ "Cabinet des modes" ], "en": [ "Cabinet des modes" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Cabinet des modes (2 ans)" ], "en": [ "This collection gathers all the issues of the title Cabinet des modes (2 years)" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
@@ -25,12 +23,12 @@
 		}],
   "items": [
 {
-          "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327349107-1785.json",
+          "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb327349107-1785.json",
           "label": "Cabinet des modes (1785)",
           "type": "Collection",
           "navDate": "1785"
       },{
-          "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327349107-1786.json",
+          "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb327349107-1786.json",
           "label": "Cabinet des modes (1786)",
           "type": "Collection",
           "navDate": "1786"

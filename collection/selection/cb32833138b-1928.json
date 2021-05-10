@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32833138b-1928.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32833138b-1928.json",
   "type": "Collection",
-  "label": { "fr": [ "Parisiana (1928)" ],
-  "en": [ "Parisiana (1928)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1928" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1928" ] },
+  "label": { "fr": [ "Parisiana (1928)" ], "en": [ "Parisiana (1928)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Parisiana pour 1928" ], "en": [ "This collection gathers all the issues of the title Parisiana for the year 1928" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date1928",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Parisiana (1928)" ],"en": [ "Gallica periodical: Parisiana (1928)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32833138b/date1928",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Parisiana (1928)" ],"en": [ "Gallica periodical: Parisiana (1928)" ] }
 		}],

@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb344249203-1932.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb344249203-1932.json",
   "type": "Collection",
-  "label": { "fr": [ "Mère éducatrice (La) (1932)" ],
-  "en": [ "Mère éducatrice (La) (1932)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1932" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1932" ] },
+  "label": { "fr": [ "Mère éducatrice (La) (1932)" ], "en": [ "Mère éducatrice (La) (1932)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1932" ], "en": [ "This collection gathers all the issues of the title Mère éducatrice (La) for the year 1932" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date1932",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1932)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1932)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date1932",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1932)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1932)" ] }
 		}],

@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32774118m-1949.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32774118m-1949.json",
   "type": "Collection",
-  "label": { "fr": [ "Femmes françaises (1949)" ],
-  "en": [ "Femmes françaises (1949)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Femmes françaises pour 1949" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Femmes françaises pour 1949" ] },
+  "label": { "fr": [ "Femmes françaises (1949)" ], "en": [ "Femmes françaises (1949)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Femmes françaises pour 1949" ], "en": [ "This collection gathers all the issues of the title Femmes françaises for the year 1949" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date1949",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Femmes françaises (1949)" ],"en": [ "Gallica periodical: Femmes françaises (1949)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date1949",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Femmes françaises (1949)" ],"en": [ "Gallica periodical: Femmes françaises (1949)" ] }
 		}],

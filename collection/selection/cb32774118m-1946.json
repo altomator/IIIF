@@ -1,17 +1,15 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32774118m-1946.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32774118m-1946.json",
   "type": "Collection",
-  "label": { "fr": [ "Femmes françaises (1946)" ],
-  "en": [ "Femmes françaises (1946)" ] },
-  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Femmes françaises pour 1946" ],
-  "en": [ "Cette collection regroupe tous les fascicules du titre Femmes françaises pour 1946" ] },
+  "label": { "fr": [ "Femmes françaises (1946)" ], "en": [ "Femmes françaises (1946)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Femmes françaises pour 1946" ], "en": [ "This collection gathers all the issues of the title Femmes françaises for the year 1946" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date",
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date1946",
       "type": "Text",
       "label": { "fr": [ "Périodique Gallica : Femmes françaises (1946)" ],"en": [ "Gallica periodical: Femmes françaises (1946)" ] },
       "format": "text/html",
@@ -19,7 +17,7 @@
     }
   ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date",
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date1946",
 			"format": "text/html",
 			"label": { "fr": [ "Périodique Gallica : Femmes françaises (1946)" ],"en": [ "Gallica periodical: Femmes françaises (1946)" ] }
 		}],
