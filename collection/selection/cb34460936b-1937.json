@@ -1,0 +1,58 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34460936b-1937.json",
+  "type": "Collection",
+  "label": { "fr": [ "Union des Femmes de France (1937)" ],
+  "en": [ "Union des Femmes de France (1937)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1937" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1937" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1937)" ],"en": [ "Gallica periodical: Union des Femmes de France (1937)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1937)" ],"en": [ "Gallica periodical: Union des Femmes de France (1937)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5771816j/manifest.json",
+          "label": "Union des Femmes de France ( juillet 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5771812w/manifest.json",
+          "label": "Union des Femmes de France ( avril 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57718243/manifest.json",
+          "label": "Union des Femmes de France ( novembre 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5771818c/manifest.json",
+          "label": "Union des Femmes de France ( septembre 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5771803x/manifest.json",
+          "label": "Union des Femmes de France ( fÃ©vrier 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5771809d/manifest.json",
+          "label": "Union des Femmes de France ( mars 1937)",
+          "type": "Manifest",
+          "navDate": "1937-01-01"
+       }]
+    }

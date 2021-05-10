@@ -1,0 +1,83 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb40216887k-1692.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mercure galant (1678) (1692)" ],
+  "en": [ "Mercure galant (1678) (1692)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mercure galant (1678) pour 1692" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mercure galant (1678) pour 1692" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb40216887k/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mercure galant (1678) (1692)" ],"en": [ "Gallica periodical: Mercure galant (1678) (1692)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb40216887k/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mercure galant (1678) (1692)" ],"en": [ "Gallica periodical: Mercure galant (1678) (1692)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6227996d/manifest.json",
+          "label": "Mercure galant (1678) ( avril 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6228530k/manifest.json",
+          "label": "Mercure galant (1678) ( janvier 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6263540h/manifest.json",
+          "label": "Mercure galant (1678) ( septembre 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6317789j/manifest.json",
+          "label": "Mercure galant (1678) ( juin 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6334255n/manifest.json",
+          "label": "Mercure galant (1678) (  1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k62574315/manifest.json",
+          "label": "Mercure galant (1678) ( octobre 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6228003z/manifest.json",
+          "label": "Mercure galant (1678) ( mars 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6312498x/manifest.json",
+          "label": "Mercure galant (1678) ( novembre 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6274143z/manifest.json",
+          "label": "Mercure galant (1678) ( mai 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6319342c/manifest.json",
+          "label": "Mercure galant (1678) ( juillet 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k62762732/manifest.json",
+          "label": "Mercure galant (1678) ( aoÃ»t 1692)",
+          "type": "Manifest",
+          "navDate": "1692-01-01"
+       }]
+    }

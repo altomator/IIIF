@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34444568d-1864.json",
+  "type": "Collection",
+  "label": { "fr": [ "Boîte à ouvrage (La) (1864)" ],
+  "en": [ "Boîte à ouvrage (La) (1864)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Boîte à ouvrage (La) pour 1864" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Boîte à ouvrage (La) pour 1864" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34444568d/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Boîte à ouvrage (La) (1864)" ],"en": [ "Gallica periodical: Boîte à ouvrage (La) (1864)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34444568d/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Boîte à ouvrage (La) (1864)" ],"en": [ "Gallica periodical: Boîte à ouvrage (La) (1864)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484381w/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 janvier 1864)",
+          "type": "Manifest",
+          "navDate": "1864-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484407p/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 fÃ©vrier 1864)",
+          "type": "Manifest",
+          "navDate": "1864-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54844083/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 mars 1864)",
+          "type": "Manifest",
+          "navDate": "1864-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484409h/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 avril 1864)",
+          "type": "Manifest",
+          "navDate": "1864-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54844105/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 mai 1864)",
+          "type": "Manifest",
+          "navDate": "1864-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484411k/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 juin 1864)",
+          "type": "Manifest",
+          "navDate": "1864-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54844120/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 juillet 1864)",
+          "type": "Manifest",
+          "navDate": "1864-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484413d/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 aoÃ»t 1864)",
+          "type": "Manifest",
+          "navDate": "1864-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484414t/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 septembre 1864)",
+          "type": "Manifest",
+          "navDate": "1864-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54844157/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 octobre 1864)",
+          "type": "Manifest",
+          "navDate": "1864-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484416n/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 novembre 1864)",
+          "type": "Manifest",
+          "navDate": "1864-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54844172/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 dÃ©cembre 1864)",
+          "type": "Manifest",
+          "navDate": "1864-12-01"
+       }]
+    }

@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34460936b-1926.json",
+  "type": "Collection",
+  "label": { "fr": [ "Union des Femmes de France (1926)" ],
+  "en": [ "Union des Femmes de France (1926)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1926" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1926" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1926)" ],"en": [ "Gallica periodical: Union des Femmes de France (1926)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1926)" ],"en": [ "Gallica periodical: Union des Femmes de France (1926)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5809004c/manifest.json",
+          "label": "Union des Femmes de France ( mars 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5809028s/manifest.json",
+          "label": "Union des Femmes de France ( dÃ©cembre 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5809002j/manifest.json",
+          "label": "Union des Femmes de France ( janvier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5809011h/manifest.json",
+          "label": "Union des Femmes de France ( juin 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5809009f/manifest.json",
+          "label": "Union des Femmes de France ( mai 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5809021w/manifest.json",
+          "label": "Union des Femmes de France ( septembre 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5809013b/manifest.json",
+          "label": "Union des Femmes de France ( juillet 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5809007m/manifest.json",
+          "label": "Union des Femmes de France ( avril 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5809023q/manifest.json",
+          "label": "Union des Femmes de France ( octobre 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       }]
+    }

@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34444962f-1841.json",
+  "type": "Collection",
+  "label": { "fr": [ "Sylphide (La) (1841)" ],
+  "en": [ "Sylphide (La) (1841)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Sylphide (La) pour 1841" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Sylphide (La) pour 1841" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34444962f/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Sylphide (La) (1841)" ],"en": [ "Gallica periodical: Sylphide (La) (1841)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34444962f/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Sylphide (La) (1841)" ],"en": [ "Gallica periodical: Sylphide (La) (1841)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109723n/manifest.json",
+          "label": "Sylphide (La) (  1841)",
+          "type": "Manifest",
+          "navDate": "1841-01-01"
+       }]
+    }

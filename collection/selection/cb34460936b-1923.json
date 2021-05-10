@@ -1,0 +1,83 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34460936b-1923.json",
+  "type": "Collection",
+  "label": { "fr": [ "Union des Femmes de France (1923)" ],
+  "en": [ "Union des Femmes de France (1923)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1923" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1923" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1923)" ],"en": [ "Gallica periodical: Union des Femmes de France (1923)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1923)" ],"en": [ "Gallica periodical: Union des Femmes de France (1923)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5847741j/manifest.json",
+          "label": "Union des Femmes de France (01 janvier 1923)",
+          "type": "Manifest",
+          "navDate": "1923-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58477471/manifest.json",
+          "label": "Union des Femmes de France (01 fÃ©vrier 1923)",
+          "type": "Manifest",
+          "navDate": "1923-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5847750h/manifest.json",
+          "label": "Union des Femmes de France (01 mars 1923)",
+          "type": "Manifest",
+          "navDate": "1923-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5847752b/manifest.json",
+          "label": "Union des Femmes de France (01 avril 1923)",
+          "type": "Manifest",
+          "navDate": "1923-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5847755k/manifest.json",
+          "label": "Union des Femmes de France (01 mai 1923)",
+          "type": "Manifest",
+          "navDate": "1923-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58477560/manifest.json",
+          "label": "Union des Femmes de France (01 juin 1923)",
+          "type": "Manifest",
+          "navDate": "1923-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5847758t/manifest.json",
+          "label": "Union des Femmes de France (01 juillet 1923)",
+          "type": "Manifest",
+          "navDate": "1923-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58477597/manifest.json",
+          "label": "Union des Femmes de France (01 aoÃ»t 1923)",
+          "type": "Manifest",
+          "navDate": "1923-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58477619/manifest.json",
+          "label": "Union des Femmes de France (01 septembre 1923)",
+          "type": "Manifest",
+          "navDate": "1923-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5847764j/manifest.json",
+          "label": "Union des Femmes de France (01 novembre 1923)",
+          "type": "Manifest",
+          "navDate": "1923-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5847765z/manifest.json",
+          "label": "Union des Femmes de France (01 dÃ©cembre 1923)",
+          "type": "Manifest",
+          "navDate": "1923-12-01"
+       }]
+    }

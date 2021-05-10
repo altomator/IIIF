@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32896302v-1786.json",
+  "type": "Collection",
+  "label": { "fr": [ "Magasin des modes nouvelles, françaises et anglaises (1786)" ],
+  "en": [ "Magasin des modes nouvelles, françaises et anglaises (1786)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Magasin des modes nouvelles, françaises et anglaises pour 1786" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Magasin des modes nouvelles, françaises et anglaises pour 1786" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Magasin des modes nouvelles, françaises et anglaises (1786)" ],"en": [ "Gallica periodical: Magasin des modes nouvelles, françaises et anglaises (1786)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Magasin des modes nouvelles, françaises et anglaises (1786)" ],"en": [ "Gallica periodical: Magasin des modes nouvelles, françaises et anglaises (1786)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1025111d/manifest.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (  1786)",
+          "type": "Manifest",
+          "navDate": "1786-01-01"
+       }]
+    }

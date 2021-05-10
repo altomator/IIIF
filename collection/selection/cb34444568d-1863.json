@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34444568d-1863.json",
+  "type": "Collection",
+  "label": { "fr": [ "Boîte à ouvrage (La) (1863)" ],
+  "en": [ "Boîte à ouvrage (La) (1863)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Boîte à ouvrage (La) pour 1863" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Boîte à ouvrage (La) pour 1863" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34444568d/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Boîte à ouvrage (La) (1863)" ],"en": [ "Gallica periodical: Boîte à ouvrage (La) (1863)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34444568d/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Boîte à ouvrage (La) (1863)" ],"en": [ "Gallica periodical: Boîte à ouvrage (La) (1863)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484385j/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 janvier 1863)",
+          "type": "Manifest",
+          "navDate": "1863-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484396b/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 fÃ©vrier 1863)",
+          "type": "Manifest",
+          "navDate": "1863-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484397r/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 mars 1863)",
+          "type": "Manifest",
+          "navDate": "1863-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54843985/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 avril 1863)",
+          "type": "Manifest",
+          "navDate": "1863-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484399k/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 mai 1863)",
+          "type": "Manifest",
+          "navDate": "1863-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484400s/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 juin 1863)",
+          "type": "Manifest",
+          "navDate": "1863-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54844016/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 juillet 1863)",
+          "type": "Manifest",
+          "navDate": "1863-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484402m/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 aoÃ»t 1863)",
+          "type": "Manifest",
+          "navDate": "1863-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54844031/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 septembre 1863)",
+          "type": "Manifest",
+          "navDate": "1863-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484404f/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 octobre 1863)",
+          "type": "Manifest",
+          "navDate": "1863-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5484405v/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 novembre 1863)",
+          "type": "Manifest",
+          "navDate": "1863-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54844068/manifest.json",
+          "label": "Boîte à ouvrage (La) (01 dÃ©cembre 1863)",
+          "type": "Manifest",
+          "navDate": "1863-12-01"
+       }]
+    }

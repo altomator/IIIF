@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34460936b-1931.json",
+  "type": "Collection",
+  "label": { "fr": [ "Union des Femmes de France (1931)" ],
+  "en": [ "Union des Femmes de France (1931)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1931" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1931" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1931)" ],"en": [ "Gallica periodical: Union des Femmes de France (1931)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1931)" ],"en": [ "Gallica periodical: Union des Femmes de France (1931)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841412x/manifest.json",
+          "label": "Union des Femmes de France ( mai 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841452f/manifest.json",
+          "label": "Union des Femmes de France ( dÃ©cembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5839353q/manifest.json",
+          "label": "Union des Femmes de France ( janvier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841405s/manifest.json",
+          "label": "Union des Femmes de France ( fÃ©vrier 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841418d/manifest.json",
+          "label": "Union des Femmes de France ( juillet 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58414244/manifest.json",
+          "label": "Union des Femmes de France ( aoÃ»t 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841437r/manifest.json",
+          "label": "Union des Femmes de France ( octobre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58414422/manifest.json",
+          "label": "Union des Femmes de France ( novembre 1931)",
+          "type": "Manifest",
+          "navDate": "1931-01-01"
+       }]
+    }

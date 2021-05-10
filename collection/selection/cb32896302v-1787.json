@@ -1,0 +1,53 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32896302v-1787.json",
+  "type": "Collection",
+  "label": { "fr": [ "Magasin des modes nouvelles, françaises et anglaises (1787)" ],
+  "en": [ "Magasin des modes nouvelles, françaises et anglaises (1787)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Magasin des modes nouvelles, françaises et anglaises pour 1787" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Magasin des modes nouvelles, françaises et anglaises pour 1787" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Magasin des modes nouvelles, françaises et anglaises (1787)" ],"en": [ "Gallica periodical: Magasin des modes nouvelles, françaises et anglaises (1787)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Magasin des modes nouvelles, françaises et anglaises (1787)" ],"en": [ "Gallica periodical: Magasin des modes nouvelles, françaises et anglaises (1787)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1527863c/manifest.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (20 novembre 1787)",
+          "type": "Manifest",
+          "navDate": "1787-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k15278656/manifest.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (30 novembre 1787)",
+          "type": "Manifest",
+          "navDate": "1787-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k15278671/manifest.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (10 dÃ©cembre 1787)",
+          "type": "Manifest",
+          "navDate": "1787-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1527869v/manifest.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (20 dÃ©cembre 1787)",
+          "type": "Manifest",
+          "navDate": "1787-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1527871x/manifest.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (30 dÃ©cembre 1787)",
+          "type": "Manifest",
+          "navDate": "1787-12-30"
+       }]
+    }

@@ -1,0 +1,83 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34460936b-1930.json",
+  "type": "Collection",
+  "label": { "fr": [ "Union des Femmes de France (1930)" ],
+  "en": [ "Union des Femmes de France (1930)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1930" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1930" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1930)" ],"en": [ "Gallica periodical: Union des Femmes de France (1930)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1930)" ],"en": [ "Gallica periodical: Union des Femmes de France (1930)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61307866/manifest.json",
+          "label": "Union des Femmes de France ( fÃ©vrier 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61308053/manifest.json",
+          "label": "Union des Femmes de France ( dÃ©cembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130783z/manifest.json",
+          "label": "Union des Femmes de France ( janvier 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130793b/manifest.json",
+          "label": "Union des Femmes de France ( mai 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130791h/manifest.json",
+          "label": "Union des Femmes de France ( avril 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130801f/manifest.json",
+          "label": "Union des Femmes de France ( octobre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61307881/manifest.json",
+          "label": "Union des Femmes de France ( mars 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130794r/manifest.json",
+          "label": "Union des Femmes de France ( juin 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130796k/manifest.json",
+          "label": "Union des Femmes de France ( juillet 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6130798d/manifest.json",
+          "label": "Union des Femmes de France ( septembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61308038/manifest.json",
+          "label": "Union des Femmes de France ( novembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       }]
+    }

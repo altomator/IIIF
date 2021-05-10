@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34460936b-1935.json",
+  "type": "Collection",
+  "label": { "fr": [ "Union des Femmes de France (1935)" ],
+  "en": [ "Union des Femmes de France (1935)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1935" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1935" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1935)" ],"en": [ "Gallica periodical: Union des Femmes de France (1935)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1935)" ],"en": [ "Gallica periodical: Union des Femmes de France (1935)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6148949c/manifest.json",
+          "label": "Union des Femmes de France ( octobre 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6148954p/manifest.json",
+          "label": "Union des Femmes de France ( novembre 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61488958/manifest.json",
+          "label": "Union des Femmes de France ( janvier 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6148931p/manifest.json",
+          "label": "Union des Femmes de France ( juin 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6148936r/manifest.json",
+          "label": "Union des Femmes de France ( juillet 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6148960d/manifest.json",
+          "label": "Union des Femmes de France ( dÃ©cembre 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6148924j/manifest.json",
+          "label": "Union des Femmes de France ( mai 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6148918t/manifest.json",
+          "label": "Union des Femmes de France ( mars 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61489449/manifest.json",
+          "label": "Union des Femmes de France ( septembre 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61489219/manifest.json",
+          "label": "Union des Femmes de France ( avril 1935)",
+          "type": "Manifest",
+          "navDate": "1935-01-01"
+       }]
+    }

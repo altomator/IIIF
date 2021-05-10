@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32896302v.json",
+  "type": "Collection",
+  "label": { "fr": [ "Magasin des modes nouvelles, françaises et anglaises" ],
+  "en": [ "Magasin des modes nouvelles, françaises et anglaises" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Magasin des modes nouvelles, françaises et anglaises (4 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Magasin des modes nouvelles, françaises et anglaises (4 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Magasin des modes nouvelles, françaises et anglaises" ],"en": [ "Gallica periodical: Magasin des modes nouvelles, françaises et anglaises" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32896302v/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Magasin des modes nouvelles, françaises et anglaises" ],"en": [ "Gallica periodical: Magasin des modes nouvelles, françaises et anglaises" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32896302v-1786.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (1786)",
+          "type": "Collection",
+          "navDate": "1786"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32896302v-1787.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (1787)",
+          "type": "Collection",
+          "navDate": "1787"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32896302v-1788.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (1788)",
+          "type": "Collection",
+          "navDate": "1788"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32896302v-1789.json",
+          "label": "Magasin des modes nouvelles, françaises et anglaises (1789)",
+          "type": "Collection",
+          "navDate": "1789"
+      }]
+    }

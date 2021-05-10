@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34460936b-1928.json",
+  "type": "Collection",
+  "label": { "fr": [ "Union des Femmes de France (1928)" ],
+  "en": [ "Union des Femmes de France (1928)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1928" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1928" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1928)" ],"en": [ "Gallica periodical: Union des Femmes de France (1928)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1928)" ],"en": [ "Gallica periodical: Union des Femmes de France (1928)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61805523/manifest.json",
+          "label": "Union des Femmes de France ( juillet 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6180555b/manifest.json",
+          "label": "Union des Femmes de France ( novembre 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6180547s/manifest.json",
+          "label": "Union des Femmes de France ( fÃ©vrier 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6180553h/manifest.json",
+          "label": "Union des Femmes de France ( septembre 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6180551p/manifest.json",
+          "label": "Union des Femmes de France ( juin 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6180554x/manifest.json",
+          "label": "Union des Femmes de France ( octobre 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6180549m/manifest.json",
+          "label": "Union des Femmes de France ( mars 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61805508/manifest.json",
+          "label": "Union des Femmes de France ( mai 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       }]
+    }

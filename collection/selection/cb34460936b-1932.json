@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34460936b-1932.json",
+  "type": "Collection",
+  "label": { "fr": [ "Union des Femmes de France (1932)" ],
+  "en": [ "Union des Femmes de France (1932)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1932" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Union des Femmes de France pour 1932" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1932)" ],"en": [ "Gallica periodical: Union des Femmes de France (1932)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34460936b/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Union des Femmes de France (1932)" ],"en": [ "Gallica periodical: Union des Femmes de France (1932)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841515h/manifest.json",
+          "label": "Union des Femmes de France ( novembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841494s/manifest.json",
+          "label": "Union des Femmes de France ( mai 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841794t/manifest.json",
+          "label": "Union des Femmes de France ( dÃ©cembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841510f/manifest.json",
+          "label": "Union des Femmes de France ( septembre 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58414778/manifest.json",
+          "label": "Union des Femmes de France ( fÃ©vrier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841499v/manifest.json",
+          "label": "Union des Femmes de France ( juillet 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58414830/manifest.json",
+          "label": "Union des Femmes de France ( mars 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5841469q/manifest.json",
+          "label": "Union des Femmes de France ( janvier 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58414904/manifest.json",
+          "label": "Union des Femmes de France ( avril 1932)",
+          "type": "Manifest",
+          "navDate": "1932-01-01"
+       }]
+    }

@@ -1,0 +1,118 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb34444962f-1851.json",
+  "type": "Collection",
+  "label": { "fr": [ "Sylphide (La) (1851)" ],
+  "en": [ "Sylphide (La) (1851)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Sylphide (La) pour 1851" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Sylphide (La) pour 1851" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34444962f/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Sylphide (La) (1851)" ],"en": [ "Gallica periodical: Sylphide (La) (1851)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34444962f/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Sylphide (La) (1851)" ],"en": [ "Gallica periodical: Sylphide (La) (1851)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109660k/manifest.json",
+          "label": "Sylphide (La) (10 juillet 1851)",
+          "type": "Manifest",
+          "navDate": "1851-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109774z/manifest.json",
+          "label": "Sylphide (La) (20 juillet 1851)",
+          "type": "Manifest",
+          "navDate": "1851-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109775c/manifest.json",
+          "label": "Sylphide (La) (30 juillet 1851)",
+          "type": "Manifest",
+          "navDate": "1851-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109776s/manifest.json",
+          "label": "Sylphide (La) (11 aoÃ»t 1851)",
+          "type": "Manifest",
+          "navDate": "1851-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61098052/manifest.json",
+          "label": "Sylphide (La) (20 aoÃ»t 1851)",
+          "type": "Manifest",
+          "navDate": "1851-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61097776/manifest.json",
+          "label": "Sylphide (La) (30 aoÃ»t 1851)",
+          "type": "Manifest",
+          "navDate": "1851-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109778m/manifest.json",
+          "label": "Sylphide (La) (10 septembre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61097791/manifest.json",
+          "label": "Sylphide (La) (20 septembre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109780p/manifest.json",
+          "label": "Sylphide (La) (30 septembre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109783x/manifest.json",
+          "label": "Sylphide (La) (10 octobre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109785r/manifest.json",
+          "label": "Sylphide (La) (20 octobre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61097865/manifest.json",
+          "label": "Sylphide (La) (30 octobre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61097880/manifest.json",
+          "label": "Sylphide (La) (11 novembre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109789d/manifest.json",
+          "label": "Sylphide (La) (20 novembre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61097902/manifest.json",
+          "label": "Sylphide (La) (01 dÃ©cembre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109792w/manifest.json",
+          "label": "Sylphide (La) (11 dÃ©cembre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k61097939/manifest.json",
+          "label": "Sylphide (La) (20 dÃ©cembre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6109796j/manifest.json",
+          "label": "Sylphide (La) (30 dÃ©cembre 1851)",
+          "type": "Manifest",
+          "navDate": "1851-12-30"
+       }]
+    }
