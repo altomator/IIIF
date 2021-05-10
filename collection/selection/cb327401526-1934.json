@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327401526-1934.json",
+  "type": "Collection",
+  "label": { "fr": [ "Chapeaux d'hiver (1934)" ],
+  "en": [ "Chapeaux d'hiver (1934)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Chapeaux d'hiver pour 1934" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Chapeaux d'hiver pour 1934" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327401526/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Chapeaux d'hiver (1934)" ],"en": [ "Gallica periodical: Chapeaux d'hiver (1934)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327401526/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Chapeaux d'hiver (1934)" ],"en": [ "Gallica periodical: Chapeaux d'hiver (1934)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5542691t/manifest.json",
+          "label": "Chapeaux d'hiver (  1934)",
+          "type": "Manifest",
+          "navDate": "1934-01-01"
+       }]
+    }

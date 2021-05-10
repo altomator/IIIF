@@ -1,0 +1,83 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327808310-1878.json",
+  "type": "Collection",
+  "label": { "fr": [ "Gazette des femmes (La) (1878)" ],
+  "en": [ "Gazette des femmes (La) (1878)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Gazette des femmes (La) pour 1878" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Gazette des femmes (La) pour 1878" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327808310/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Gazette des femmes (La) (1878)" ],"en": [ "Gallica periodical: Gazette des femmes (La) (1878)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327808310/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Gazette des femmes (La) (1878)" ],"en": [ "Gallica periodical: Gazette des femmes (La) (1878)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743592p/manifest.json",
+          "label": "Gazette des femmes (La) (16 janvier 1878)",
+          "type": "Manifest",
+          "navDate": "1878-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57435933/manifest.json",
+          "label": "Gazette des femmes (La) (16 fÃ©vrier 1878)",
+          "type": "Manifest",
+          "navDate": "1878-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743594h/manifest.json",
+          "label": "Gazette des femmes (La) (16 mars 1878)",
+          "type": "Manifest",
+          "navDate": "1878-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743595x/manifest.json",
+          "label": "Gazette des femmes (La) (16 avril 1878)",
+          "type": "Manifest",
+          "navDate": "1878-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743596b/manifest.json",
+          "label": "Gazette des femmes (La) (16 mai 1878)",
+          "type": "Manifest",
+          "navDate": "1878-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743597r/manifest.json",
+          "label": "Gazette des femmes (La) (16 juin 1878)",
+          "type": "Manifest",
+          "navDate": "1878-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57435985/manifest.json",
+          "label": "Gazette des femmes (La) (16 juillet 1878)",
+          "type": "Manifest",
+          "navDate": "1878-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743599k/manifest.json",
+          "label": "Gazette des femmes (La) (16 aoÃ»t 1878)",
+          "type": "Manifest",
+          "navDate": "1878-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743600s/manifest.json",
+          "label": "Gazette des femmes (La) (10 octobre 1878)",
+          "type": "Manifest",
+          "navDate": "1878-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743602m/manifest.json",
+          "label": "Gazette des femmes (La) (10 novembre 1878)",
+          "type": "Manifest",
+          "navDate": "1878-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57436031/manifest.json",
+          "label": "Gazette des femmes (La) (10 dÃ©cembre 1878)",
+          "type": "Manifest",
+          "navDate": "1878-12-10"
+       }]
+    }

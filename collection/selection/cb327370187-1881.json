@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327370187-1881.json",
+  "type": "Collection",
+  "label": { "fr": [ "Canastilla infantil (La) (1881)" ],
+  "en": [ "Canastilla infantil (La) (1881)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Canastilla infantil (La) pour 1881" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Canastilla infantil (La) pour 1881" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327370187/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Canastilla infantil (La) (1881)" ],"en": [ "Gallica periodical: Canastilla infantil (La) (1881)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327370187/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Canastilla infantil (La) (1881)" ],"en": [ "Gallica periodical: Canastilla infantil (La) (1881)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k8600897/manifest.json",
+          "label": "Canastilla infantil (La) ( dÃ©cembre 1881)",
+          "type": "Manifest",
+          "navDate": "1881-01-01"
+       }]
+    }

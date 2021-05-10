@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327958600-1905.json",
+  "type": "Collection",
+  "label": { "fr": [ "Jeune mère ou l'éducation du premier âge (La) (1905)" ],
+  "en": [ "Jeune mère ou l'éducation du premier âge (La) (1905)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Jeune mère ou l'éducation du premier âge (La) pour 1905" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Jeune mère ou l'éducation du premier âge (La) pour 1905" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327958600/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Jeune mère ou l'éducation du premier âge (La) (1905)" ],"en": [ "Gallica periodical: Jeune mère ou l'éducation du premier âge (La) (1905)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327958600/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Jeune mère ou l'éducation du premier âge (La) (1905)" ],"en": [ "Gallica periodical: Jeune mère ou l'éducation du premier âge (La) (1905)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5490466k/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) (  1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54904603/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) (  1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       }]
+    }

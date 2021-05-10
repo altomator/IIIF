@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327795523.json",
+  "type": "Collection",
+  "label": { "fr": [ "Gallery of fashion" ],
+  "en": [ "Gallery of fashion" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Gallery of fashion (2 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Gallery of fashion (2 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327795523/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Gallery of fashion" ],"en": [ "Gallica periodical: Gallery of fashion" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327795523/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Gallery of fashion" ],"en": [ "Gallica periodical: Gallery of fashion" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb327795523-1799.json",
+          "label": "Gallery of fashion (1799)",
+          "type": "Collection",
+          "navDate": "1799"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb327795523-1800.json",
+          "label": "Gallery of fashion (1800)",
+          "type": "Collection",
+          "navDate": "1800"
+      }]
+    }

@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327958600-1876.json",
+  "type": "Collection",
+  "label": { "fr": [ "Jeune mère ou l'éducation du premier âge (La) (1876)" ],
+  "en": [ "Jeune mère ou l'éducation du premier âge (La) (1876)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Jeune mère ou l'éducation du premier âge (La) pour 1876" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Jeune mère ou l'éducation du premier âge (La) pour 1876" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327958600/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Jeune mère ou l'éducation du premier âge (La) (1876)" ],"en": [ "Gallica periodical: Jeune mère ou l'éducation du premier âge (La) (1876)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327958600/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Jeune mère ou l'éducation du premier âge (La) (1876)" ],"en": [ "Gallica periodical: Jeune mère ou l'éducation du premier âge (La) (1876)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5492990k/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( janvier 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5492998w/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( juillet 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493015t/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( dÃ©cembre 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54930026/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( septembre 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54929999/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( aoÃ»t 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54929962/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( mai 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5492992d/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( fÃ©vrier 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5492995n/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( avril 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493003m/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( octobre 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54930093/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( novembre 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5492997g/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( juin 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5492993t/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( mars 1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       }]
+    }

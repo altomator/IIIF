@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327808310-1881.json",
+  "type": "Collection",
+  "label": { "fr": [ "Gazette des femmes (La) (1881)" ],
+  "en": [ "Gazette des femmes (La) (1881)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Gazette des femmes (La) pour 1881" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Gazette des femmes (La) pour 1881" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327808310/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Gazette des femmes (La) (1881)" ],"en": [ "Gallica periodical: Gazette des femmes (La) (1881)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327808310/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Gazette des femmes (La) (1881)" ],"en": [ "Gallica periodical: Gazette des femmes (La) (1881)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57434730/manifest.json",
+          "label": "Gazette des femmes (La) (10 janvier 1881)",
+          "type": "Manifest",
+          "navDate": "1881-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743500f/manifest.json",
+          "label": "Gazette des femmes (La) (10 fÃ©vrier 1881)",
+          "type": "Manifest",
+          "navDate": "1881-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57435028/manifest.json",
+          "label": "Gazette des femmes (La) (10 mars 1881)",
+          "type": "Manifest",
+          "navDate": "1881-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57435043/manifest.json",
+          "label": "Gazette des femmes (La) (10 avril 1881)",
+          "type": "Manifest",
+          "navDate": "1881-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743505h/manifest.json",
+          "label": "Gazette des femmes (La) (10 juin 1881)",
+          "type": "Manifest",
+          "navDate": "1881-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743506x/manifest.json",
+          "label": "Gazette des femmes (La) (10 juillet 1881)",
+          "type": "Manifest",
+          "navDate": "1881-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743507b/manifest.json",
+          "label": "Gazette des femmes (La) (10 septembre 1881)",
+          "type": "Manifest",
+          "navDate": "1881-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743508r/manifest.json",
+          "label": "Gazette des femmes (La) (10 octobre 1881)",
+          "type": "Manifest",
+          "navDate": "1881-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57435095/manifest.json",
+          "label": "Gazette des femmes (La) (10 novembre 1881)",
+          "type": "Manifest",
+          "navDate": "1881-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5743512n/manifest.json",
+          "label": "Gazette des femmes (La) (10 dÃ©cembre 1881)",
+          "type": "Manifest",
+          "navDate": "1881-12-10"
+       }]
+    }

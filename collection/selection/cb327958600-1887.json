@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327958600-1887.json",
+  "type": "Collection",
+  "label": { "fr": [ "Jeune mère ou l'éducation du premier âge (La) (1887)" ],
+  "en": [ "Jeune mère ou l'éducation du premier âge (La) (1887)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Jeune mère ou l'éducation du premier âge (La) pour 1887" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Jeune mère ou l'éducation du premier âge (La) pour 1887" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327958600/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Jeune mère ou l'éducation du premier âge (La) (1887)" ],"en": [ "Gallica periodical: Jeune mère ou l'éducation du premier âge (La) (1887)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327958600/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Jeune mère ou l'éducation du premier âge (La) (1887)" ],"en": [ "Gallica periodical: Jeune mère ou l'éducation du premier âge (La) (1887)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493506k/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( aoÃ»t 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493501h/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493504r/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493509t/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493487p/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493493d/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493502x/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493508d/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5493491k/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( fÃ©vrier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k54934972/manifest.json",
+          "label": "Jeune mère ou l'éducation du premier âge (La) ( avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       }]
+    }

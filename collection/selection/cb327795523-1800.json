@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327795523-1800.json",
+  "type": "Collection",
+  "label": { "fr": [ "Gallery of fashion (1800)" ],
+  "en": [ "Gallery of fashion (1800)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Gallery of fashion pour 1800" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Gallery of fashion pour 1800" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327795523/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Gallery of fashion (1800)" ],"en": [ "Gallica periodical: Gallery of fashion (1800)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327795523/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Gallery of fashion (1800)" ],"en": [ "Gallica periodical: Gallery of fashion (1800)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1075046n/manifest.json",
+          "label": "Gallery of fashion ( mars 1800)",
+          "type": "Manifest",
+          "navDate": "1800-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k10750420/manifest.json",
+          "label": "Gallery of fashion ( janvier 1800)",
+          "type": "Manifest",
+          "navDate": "1800-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1075044t/manifest.json",
+          "label": "Gallery of fashion ( fÃ©vrier 1800)",
+          "type": "Manifest",
+          "navDate": "1800-01-01"
+       }]
+    }

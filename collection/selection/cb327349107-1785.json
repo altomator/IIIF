@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327349107-1785.json",
+  "type": "Collection",
+  "label": { "fr": [ "Cabinet des modes (1785)" ],
+  "en": [ "Cabinet des modes (1785)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Cabinet des modes pour 1785" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Cabinet des modes pour 1785" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327349107/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Cabinet des modes (1785)" ],"en": [ "Gallica periodical: Cabinet des modes (1785)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327349107/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Cabinet des modes (1785)" ],"en": [ "Gallica periodical: Cabinet des modes (1785)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5608591g/manifest.json",
+          "label": "Cabinet des modes (  1785)",
+          "type": "Manifest",
+          "navDate": "1785-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k10400416/manifest.json",
+          "label": "Cabinet des modes (15 novembre 1785)",
+          "type": "Manifest",
+          "navDate": "1785-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1040042m/manifest.json",
+          "label": "Cabinet des modes (01 dÃ©cembre 1785)",
+          "type": "Manifest",
+          "navDate": "1785-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k10400431/manifest.json",
+          "label": "Cabinet des modes (15 dÃ©cembre 1785)",
+          "type": "Manifest",
+          "navDate": "1785-12-15"
+       }]
+    }

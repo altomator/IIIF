@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327739773.json",
+  "type": "Collection",
+  "label": { "fr": [ "Femme (La)" ],
+  "en": [ "Femme (La)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Femme (La) (2 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Femme (La) (2 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327739773/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Femme (La)" ],"en": [ "Gallica periodical: Femme (La)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327739773/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Femme (La)" ],"en": [ "Gallica periodical: Femme (La)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb327739773-1945.json",
+          "label": "Femme (La) (1945)",
+          "type": "Collection",
+          "navDate": "1945"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb327739773-1946.json",
+          "label": "Femme (La) (1946)",
+          "type": "Collection",
+          "navDate": "1946"
+      }]
+    }

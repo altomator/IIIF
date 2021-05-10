@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327980804-1894.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal de la Jeune fille (1894)" ],
+  "en": [ "Journal de la Jeune fille (1894)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1894" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1894" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1894)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1894)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1894)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1894)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524115s/manifest.json",
+          "label": "Journal de la Jeune fille (25 janvier 1894)",
+          "type": "Manifest",
+          "navDate": "1894-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55233637/manifest.json",
+          "label": "Journal de la Jeune fille (25 fÃ©vrier 1894)",
+          "type": "Manifest",
+          "navDate": "1894-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55233652/manifest.json",
+          "label": "Journal de la Jeune fille (25 mars 1894)",
+          "type": "Manifest",
+          "navDate": "1894-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55233689/manifest.json",
+          "label": "Journal de la Jeune fille (25 avril 1894)",
+          "type": "Manifest",
+          "navDate": "1894-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523371s/manifest.json",
+          "label": "Journal de la Jeune fille (25 mai 1894)",
+          "type": "Manifest",
+          "navDate": "1894-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523375f/manifest.json",
+          "label": "Journal de la Jeune fille (25 juin 1894)",
+          "type": "Manifest",
+          "navDate": "1894-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55233793/manifest.json",
+          "label": "Journal de la Jeune fille (25 juillet 1894)",
+          "type": "Manifest",
+          "navDate": "1894-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55233815/manifest.json",
+          "label": "Journal de la Jeune fille (25 aoÃ»t 1894)",
+          "type": "Manifest",
+          "navDate": "1894-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523384d/manifest.json",
+          "label": "Journal de la Jeune fille (25 septembre 1894)",
+          "type": "Manifest",
+          "navDate": "1894-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523387n/manifest.json",
+          "label": "Journal de la Jeune fille (25 octobre 1894)",
+          "type": "Manifest",
+          "navDate": "1894-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55233904/manifest.json",
+          "label": "Journal de la Jeune fille (25 novembre 1894)",
+          "type": "Manifest",
+          "navDate": "1894-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523392z/manifest.json",
+          "label": "Journal de la Jeune fille (25 dÃ©cembre 1894)",
+          "type": "Manifest",
+          "navDate": "1894-12-25"
+       }]
+    }
