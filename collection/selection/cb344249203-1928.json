@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb344249203-1928.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mère éducatrice (La) (1928)" ],
+  "en": [ "Mère éducatrice (La) (1928)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1928" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1928" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1928)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1928)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1928)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1928)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k124233j/manifest.json",
+          "label": "Mère éducatrice (La) (  1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182157m/manifest.json",
+          "label": "Mère éducatrice (La) ( juillet 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182153z/manifest.json",
+          "label": "Mère éducatrice (La) ( mars 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182154c/manifest.json",
+          "label": "Mère éducatrice (La) ( avril 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k71821603/manifest.json",
+          "label": "Mère éducatrice (La) ( dÃ©cembre 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k71821581/manifest.json",
+          "label": "Mère éducatrice (La) ( aoÃ»t 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182155s/manifest.json",
+          "label": "Mère éducatrice (La) ( mai 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182159f/manifest.json",
+          "label": "Mère éducatrice (La) ( octobre 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182152j/manifest.json",
+          "label": "Mère éducatrice (La) ( janvier 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k71821566/manifest.json",
+          "label": "Mère éducatrice (La) ( juillet 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       }]
+    }

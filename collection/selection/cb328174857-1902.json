@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb328174857-1902.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mode et beauté (1902)" ],
+  "en": [ "Mode et beauté (1902)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mode et beauté pour 1902" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mode et beauté pour 1902" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb328174857/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mode et beauté (1902)" ],"en": [ "Gallica periodical: Mode et beauté (1902)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb328174857/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mode et beauté (1902)" ],"en": [ "Gallica periodical: Mode et beauté (1902)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5545292s/manifest.json",
+          "label": "Mode et beauté ( janvier 1902)",
+          "type": "Manifest",
+          "navDate": "1902-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5545294m/manifest.json",
+          "label": "Mode et beauté ( fÃ©vrier 1902)",
+          "type": "Manifest",
+          "navDate": "1902-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5545299p/manifest.json",
+          "label": "Mode et beauté ( dÃ©cembre 1902)",
+          "type": "Manifest",
+          "navDate": "1902-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55452951/manifest.json",
+          "label": "Mode et beauté ( mars 1902)",
+          "type": "Manifest",
+          "navDate": "1902-01-01"
+       }]
+    }

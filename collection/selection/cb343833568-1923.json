@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1923.json",
+  "type": "Collection",
+  "label": { "fr": [ "Vogue  (1923)" ],
+  "en": [ "Vogue  (1923)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1923" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1923" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Vogue  (1923)" ],"en": [ "Gallica periodical: Vogue  (1923)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Vogue  (1923)" ],"en": [ "Gallica periodical: Vogue  (1923)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6537796q/manifest.json",
+          "label": "Vogue  (01 janvier 1923)",
+          "type": "Manifest",
+          "navDate": "1923-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538662w/manifest.json",
+          "label": "Vogue  (01 juillet 1923)",
+          "type": "Manifest",
+          "navDate": "1923-07-01"
+       }]
+    }

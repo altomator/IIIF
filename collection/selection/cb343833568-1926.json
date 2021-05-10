@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1926.json",
+  "type": "Collection",
+  "label": { "fr": [ "Vogue  (1926)" ],
+  "en": [ "Vogue  (1926)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1926" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1926" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Vogue  (1926)" ],"en": [ "Gallica periodical: Vogue  (1926)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Vogue  (1926)" ],"en": [ "Gallica periodical: Vogue  (1926)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538824w/manifest.json",
+          "label": "Vogue  (01 janvier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65388259/manifest.json",
+          "label": "Vogue  (01 fÃ©vrier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538826q/manifest.json",
+          "label": "Vogue  (01 mars 1926)",
+          "type": "Manifest",
+          "navDate": "1926-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65388274/manifest.json",
+          "label": "Vogue  (01 avril 1926)",
+          "type": "Manifest",
+          "navDate": "1926-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538828j/manifest.json",
+          "label": "Vogue  (01 mai 1926)",
+          "type": "Manifest",
+          "navDate": "1926-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538829z/manifest.json",
+          "label": "Vogue  (01 juin 1926)",
+          "type": "Manifest",
+          "navDate": "1926-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65386958/manifest.json",
+          "label": "Vogue  (01 juillet 1926)",
+          "type": "Manifest",
+          "navDate": "1926-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538696p/manifest.json",
+          "label": "Vogue  (01 aoÃ»t 1926)",
+          "type": "Manifest",
+          "navDate": "1926-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65386973/manifest.json",
+          "label": "Vogue  (01 septembre 1926)",
+          "type": "Manifest",
+          "navDate": "1926-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538698h/manifest.json",
+          "label": "Vogue  (01 octobre 1926)",
+          "type": "Manifest",
+          "navDate": "1926-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538699x/manifest.json",
+          "label": "Vogue  (01 novembre 1926)",
+          "type": "Manifest",
+          "navDate": "1926-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65387004/manifest.json",
+          "label": "Vogue  (01 dÃ©cembre 1926)",
+          "type": "Manifest",
+          "navDate": "1926-12-01"
+       }]
+    }

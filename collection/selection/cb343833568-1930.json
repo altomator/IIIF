@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1930.json",
+  "type": "Collection",
+  "label": { "fr": [ "Vogue  (1930)" ],
+  "en": [ "Vogue  (1930)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1930" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1930" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Vogue  (1930)" ],"en": [ "Gallica periodical: Vogue  (1930)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Vogue  (1930)" ],"en": [ "Gallica periodical: Vogue  (1930)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65395030/manifest.json",
+          "label": "Vogue  ( aoÃ»t 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539855r/manifest.json",
+          "label": "Vogue  ( janvier 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65398580/manifest.json",
+          "label": "Vogue  ( avril 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65398602/manifest.json",
+          "label": "Vogue  ( juin 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539505t/manifest.json",
+          "label": "Vogue  ( octobre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539859d/manifest.json",
+          "label": "Vogue  ( mai 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65398565/manifest.json",
+          "label": "Vogue  ( fÃ©vrier 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65395067/manifest.json",
+          "label": "Vogue  ( novembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539857k/manifest.json",
+          "label": "Vogue  ( mars 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539507n/manifest.json",
+          "label": "Vogue  ( dÃ©cembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539502k/manifest.json",
+          "label": "Vogue  ( juillet 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539504d/manifest.json",
+          "label": "Vogue  ( septembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-01-01"
+       }]
+    }

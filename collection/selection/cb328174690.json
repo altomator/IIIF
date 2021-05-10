@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb328174690.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mode du jour (La)" ],
+  "en": [ "Mode du jour (La)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mode du jour (La) (2 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mode du jour (La) (2 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb328174690/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mode du jour (La)" ],"en": [ "Gallica periodical: Mode du jour (La)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb328174690/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mode du jour (La)" ],"en": [ "Gallica periodical: Mode du jour (La)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb328174690-1925.json",
+          "label": "Mode du jour (La) (1925)",
+          "type": "Collection",
+          "navDate": "1925"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb328174690-1926.json",
+          "label": "Mode du jour (La) (1926)",
+          "type": "Collection",
+          "navDate": "1926"
+      }]
+    }

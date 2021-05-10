@@ -1,0 +1,93 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1920.json",
+  "type": "Collection",
+  "label": { "fr": [ "Vogue  (1920)" ],
+  "en": [ "Vogue  (1920)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1920" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1920" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Vogue  (1920)" ],"en": [ "Gallica periodical: Vogue  (1920)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Vogue  (1920)" ],"en": [ "Gallica periodical: Vogue  (1920)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9604118j/manifest.json",
+          "label": "Vogue  (15 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9604123v/manifest.json",
+          "label": "Vogue  (01 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9604524n/manifest.json",
+          "label": "Vogue  (15 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9605084h/manifest.json",
+          "label": "Vogue  (01 aoÃ»t 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9604120m/manifest.json",
+          "label": "Vogue  (15 aoÃ»t 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k96041263/manifest.json",
+          "label": "Vogue  (01 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9604125p/manifest.json",
+          "label": "Vogue  (15 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k96041248/manifest.json",
+          "label": "Vogue  (01 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9604119z/manifest.json",
+          "label": "Vogue  (15 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9604122f/manifest.json",
+          "label": "Vogue  (01 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9604431f/manifest.json",
+          "label": "Vogue  (15 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k96041211/manifest.json",
+          "label": "Vogue  (01 dÃ©cembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6537260c/manifest.json",
+          "label": "Vogue  (15 dÃ©cembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-15"
+       }]
+    }

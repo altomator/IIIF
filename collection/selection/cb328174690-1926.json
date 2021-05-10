@@ -1,0 +1,103 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb328174690-1926.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mode du jour (La) (1926)" ],
+  "en": [ "Mode du jour (La) (1926)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mode du jour (La) pour 1926" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mode du jour (La) pour 1926" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb328174690/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mode du jour (La) (1926)" ],"en": [ "Gallica periodical: Mode du jour (La) (1926)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb328174690/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mode du jour (La) (1926)" ],"en": [ "Gallica periodical: Mode du jour (La) (1926)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55229185/manifest.json",
+          "label": "Mode du jour (La) (14 janvier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522930m/manifest.json",
+          "label": "Mode du jour (La) (21 janvier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522941d/manifest.json",
+          "label": "Mode du jour (La) (28 janvier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55229489/manifest.json",
+          "label": "Mode du jour (La) (04 fÃ©vrier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522955f/manifest.json",
+          "label": "Mode du jour (La) (11 fÃ©vrier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55229756/manifest.json",
+          "label": "Mode du jour (La) (18 fÃ©vrier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522982b/manifest.json",
+          "label": "Mode du jour (La) (25 fÃ©vrier 1926)",
+          "type": "Manifest",
+          "navDate": "1926-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522983r/manifest.json",
+          "label": "Mode du jour (La) (04 mars 1926)",
+          "type": "Manifest",
+          "navDate": "1926-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55229845/manifest.json",
+          "label": "Mode du jour (La) (11 mars 1926)",
+          "type": "Manifest",
+          "navDate": "1926-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522985k/manifest.json",
+          "label": "Mode du jour (La) (18 mars 1926)",
+          "type": "Manifest",
+          "navDate": "1926-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522992q/manifest.json",
+          "label": "Mode du jour (La) (25 mars 1926)",
+          "type": "Manifest",
+          "navDate": "1926-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522999m/manifest.json",
+          "label": "Mode du jour (La) (01 avril 1926)",
+          "type": "Manifest",
+          "navDate": "1926-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55230080/manifest.json",
+          "label": "Mode du jour (La) (08 avril 1926)",
+          "type": "Manifest",
+          "navDate": "1926-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523017z/manifest.json",
+          "label": "Mode du jour (La) (15 avril 1926)",
+          "type": "Manifest",
+          "navDate": "1926-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523030t/manifest.json",
+          "label": "Mode du jour (La) (29 avril 1926)",
+          "type": "Manifest",
+          "navDate": "1926-04-29"
+       }]
+    }

@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327980804-1914.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal de la Jeune fille (1914)" ],
+  "en": [ "Journal de la Jeune fille (1914)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1914" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1914" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1914)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1914)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1914)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1914)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524642d/manifest.json",
+          "label": "Journal de la Jeune fille ( dÃ©cembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524639x/manifest.json",
+          "label": "Journal de la Jeune fille ( juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55246358/manifest.json",
+          "label": "Journal de la Jeune fille ( fÃ©vrier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524638h/manifest.json",
+          "label": "Journal de la Jeune fille ( mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55246410/manifest.json",
+          "label": "Journal de la Jeune fille ( octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524636p/manifest.json",
+          "label": "Journal de la Jeune fille ( mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523645b/manifest.json",
+          "label": "Journal de la Jeune fille ( janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55246373/manifest.json",
+          "label": "Journal de la Jeune fille ( avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524640k/manifest.json",
+          "label": "Journal de la Jeune fille ( juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       }]
+    }

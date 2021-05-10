@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb344212255.json",
+  "type": "Collection",
+  "label": { "fr": [ "Jardin des modes nouvelles" ],
+  "en": [ "Jardin des modes nouvelles" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Jardin des modes nouvelles (3 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Jardin des modes nouvelles (3 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb344212255/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Jardin des modes nouvelles" ],"en": [ "Gallica periodical: Jardin des modes nouvelles" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb344212255/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Jardin des modes nouvelles" ],"en": [ "Gallica periodical: Jardin des modes nouvelles" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb344212255-1912.json",
+          "label": "Jardin des modes nouvelles (1912)",
+          "type": "Collection",
+          "navDate": "1912"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb344212255-1913.json",
+          "label": "Jardin des modes nouvelles (1913)",
+          "type": "Collection",
+          "navDate": "1913"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb344212255-1914.json",
+          "label": "Jardin des modes nouvelles (1914)",
+          "type": "Collection",
+          "navDate": "1914"
+      }]
+    }

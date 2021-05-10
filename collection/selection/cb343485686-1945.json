@@ -1,0 +1,58 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343485686-1945.json",
+  "type": "Collection",
+  "label": { "fr": [ "Elle (Paris) (1945)" ],
+  "en": [ "Elle (Paris) (1945)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Elle (Paris) pour 1945" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Elle (Paris) pour 1945" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343485686/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Elle (Paris) (1945)" ],"en": [ "Gallica periodical: Elle (Paris) (1945)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343485686/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Elle (Paris) (1945)" ],"en": [ "Gallica periodical: Elle (Paris) (1945)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k3047318k/manifest.json",
+          "label": "Elle (Paris) (21 novembre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k30473190/manifest.json",
+          "label": "Elle (Paris) (28 novembre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k3047320n/manifest.json",
+          "label": "Elle (Paris) (05 dÃ©cembre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k30473212/manifest.json",
+          "label": "Elle (Paris) (12 dÃ©cembre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k3047322g/manifest.json",
+          "label": "Elle (Paris) (19 dÃ©cembre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k3047323w/manifest.json",
+          "label": "Elle (Paris) (26 dÃ©cembre 1945)",
+          "type": "Manifest",
+          "navDate": "1945-12-26"
+       }]
+    }

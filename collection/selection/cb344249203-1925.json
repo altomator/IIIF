@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb344249203-1925.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mère éducatrice (La) (1925)" ],
+  "en": [ "Mère éducatrice (La) (1925)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1925" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1925" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1925)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1925)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1925)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1925)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k71821336/manifest.json",
+          "label": "Mère éducatrice (La) ( dÃ©cembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182127g/manifest.json",
+          "label": "Mère éducatrice (La) ( mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k124230d/manifest.json",
+          "label": "Mère éducatrice (La) (  1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182123t/manifest.json",
+          "label": "Mère éducatrice (La) ( janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182132s/manifest.json",
+          "label": "Mère éducatrice (La) ( novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182130z/manifest.json",
+          "label": "Mère éducatrice (La) ( aoÃ»t 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k71821262/manifest.json",
+          "label": "Mère éducatrice (La) ( avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182128w/manifest.json",
+          "label": "Mère éducatrice (La) ( juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k71821247/manifest.json",
+          "label": "Mère éducatrice (La) ( fÃ©vrier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k71821299/manifest.json",
+          "label": "Mère éducatrice (La) ( juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182125n/manifest.json",
+          "label": "Mère éducatrice (La) ( mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182131c/manifest.json",
+          "label": "Mère éducatrice (La) ( octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       }]
+    }

@@ -1,0 +1,58 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343485686.json",
+  "type": "Collection",
+  "label": { "fr": [ "Elle (Paris)" ],
+  "en": [ "Elle (Paris)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Elle (Paris) (6 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Elle (Paris) (6 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343485686/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Elle (Paris)" ],"en": [ "Gallica periodical: Elle (Paris)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343485686/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Elle (Paris)" ],"en": [ "Gallica periodical: Elle (Paris)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb343485686-1945.json",
+          "label": "Elle (Paris) (1945)",
+          "type": "Collection",
+          "navDate": "1945"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb343485686-1946.json",
+          "label": "Elle (Paris) (1946)",
+          "type": "Collection",
+          "navDate": "1946"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb343485686-1947.json",
+          "label": "Elle (Paris) (1947)",
+          "type": "Collection",
+          "navDate": "1947"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb343485686-1948.json",
+          "label": "Elle (Paris) (1948)",
+          "type": "Collection",
+          "navDate": "1948"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb343485686-1949.json",
+          "label": "Elle (Paris) (1949)",
+          "type": "Collection",
+          "navDate": "1949"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb343485686-1950.json",
+          "label": "Elle (Paris) (1950)",
+          "type": "Collection",
+          "navDate": "1950"
+      }]
+    }

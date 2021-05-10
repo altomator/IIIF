@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1938.json",
+  "type": "Collection",
+  "label": { "fr": [ "Vogue  (1938)" ],
+  "en": [ "Vogue  (1938)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1938" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1938" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Vogue  (1938)" ],"en": [ "Gallica periodical: Vogue  (1938)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Vogue  (1938)" ],"en": [ "Gallica periodical: Vogue  (1938)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k936228j/manifest.json",
+          "label": "Vogue  (  1938)",
+          "type": "Manifest",
+          "navDate": "1938-01-01"
+       }]
+    }

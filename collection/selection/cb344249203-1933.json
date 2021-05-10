@@ -1,0 +1,63 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb344249203-1933.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mère éducatrice (La) (1933)" ],
+  "en": [ "Mère éducatrice (La) (1933)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1933" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1933" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1933)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1933)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1933)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1933)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k124238f/manifest.json",
+          "label": "Mère éducatrice (La) (  1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182196q/manifest.json",
+          "label": "Mère éducatrice (La) ( novembre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182193g/manifest.json",
+          "label": "Mère éducatrice (La) ( avril 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182194w/manifest.json",
+          "label": "Mère éducatrice (La) ( aoÃ»t 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k71821959/manifest.json",
+          "label": "Mère éducatrice (La) ( octobre 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k71821922/manifest.json",
+          "label": "Mère éducatrice (La) ( mars 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182191n/manifest.json",
+          "label": "Mère éducatrice (La) ( janvier 1933)",
+          "type": "Manifest",
+          "navDate": "1933-01-01"
+       }]
+    }

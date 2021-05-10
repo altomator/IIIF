@@ -1,0 +1,58 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327980804-1922.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal de la Jeune fille (1922)" ],
+  "en": [ "Journal de la Jeune fille (1922)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1922" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1922" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1922)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1922)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1922)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1922)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522874f/manifest.json",
+          "label": "Journal de la Jeune fille ( septembre 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522848z/manifest.json",
+          "label": "Journal de la Jeune fille ( janvier 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522870s/manifest.json",
+          "label": "Journal de la Jeune fille ( juillet 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522865g/manifest.json",
+          "label": "Journal de la Jeune fille ( mai 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5522879h/manifest.json",
+          "label": "Journal de la Jeune fille ( novembre 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55228538/manifest.json",
+          "label": "Journal de la Jeune fille ( mars 1922)",
+          "type": "Manifest",
+          "navDate": "1922-01-01"
+       }]
+    }

@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568-1924.json",
+  "type": "Collection",
+  "label": { "fr": [ "Vogue  (1924)" ],
+  "en": [ "Vogue  (1924)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1924" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Vogue  pour 1924" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Vogue  (1924)" ],"en": [ "Gallica periodical: Vogue  (1924)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343833568/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Vogue  (1924)" ],"en": [ "Gallica periodical: Vogue  (1924)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539771h/manifest.json",
+          "label": "Vogue  (01 janvier 1924)",
+          "type": "Manifest",
+          "navDate": "1924-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539772x/manifest.json",
+          "label": "Vogue  (01 fÃ©vrier 1924)",
+          "type": "Manifest",
+          "navDate": "1924-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539773b/manifest.json",
+          "label": "Vogue  (01 mars 1924)",
+          "type": "Manifest",
+          "navDate": "1924-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539774r/manifest.json",
+          "label": "Vogue  (01 avril 1924)",
+          "type": "Manifest",
+          "navDate": "1924-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65397755/manifest.json",
+          "label": "Vogue  (01 mai 1924)",
+          "type": "Manifest",
+          "navDate": "1924-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6539776k/manifest.json",
+          "label": "Vogue  (01 juin 1924)",
+          "type": "Manifest",
+          "navDate": "1924-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538223d/manifest.json",
+          "label": "Vogue  (01 juillet 1924)",
+          "type": "Manifest",
+          "navDate": "1924-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538224t/manifest.json",
+          "label": "Vogue  (01 aoÃ»t 1924)",
+          "type": "Manifest",
+          "navDate": "1924-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65382257/manifest.json",
+          "label": "Vogue  (01 septembre 1924)",
+          "type": "Manifest",
+          "navDate": "1924-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538226n/manifest.json",
+          "label": "Vogue  (01 octobre 1924)",
+          "type": "Manifest",
+          "navDate": "1924-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65382272/manifest.json",
+          "label": "Vogue  (01 novembre 1924)",
+          "type": "Manifest",
+          "navDate": "1924-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6538228g/manifest.json",
+          "label": "Vogue  (01 dÃ©cembre 1924)",
+          "type": "Manifest",
+          "navDate": "1924-12-01"
+       }]
+    }

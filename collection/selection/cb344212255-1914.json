@@ -1,0 +1,53 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb344212255-1914.json",
+  "type": "Collection",
+  "label": { "fr": [ "Jardin des modes nouvelles (1914)" ],
+  "en": [ "Jardin des modes nouvelles (1914)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Jardin des modes nouvelles pour 1914" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Jardin des modes nouvelles pour 1914" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb344212255/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Jardin des modes nouvelles (1914)" ],"en": [ "Gallica periodical: Jardin des modes nouvelles (1914)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb344212255/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Jardin des modes nouvelles (1914)" ],"en": [ "Gallica periodical: Jardin des modes nouvelles (1914)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6559773w/manifest.json",
+          "label": "Jardin des modes nouvelles (15 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65596227/manifest.json",
+          "label": "Jardin des modes nouvelles (15 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65599688/manifest.json",
+          "label": "Jardin des modes nouvelles (15 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65597853/manifest.json",
+          "label": "Jardin des modes nouvelles (15 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k65607363/manifest.json",
+          "label": "Jardin des modes nouvelles (15 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-15"
+       }]
+    }

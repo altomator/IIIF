@@ -1,0 +1,53 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb344249203-1929.json",
+  "type": "Collection",
+  "label": { "fr": [ "Mère éducatrice (La) (1929)" ],
+  "en": [ "Mère éducatrice (La) (1929)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1929" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Mère éducatrice (La) pour 1929" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1929)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1929)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb344249203/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Mère éducatrice (La) (1929)" ],"en": [ "Gallica periodical: Mère éducatrice (La) (1929)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k124234x/manifest.json",
+          "label": "Mère éducatrice (La) ( juillet 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182161h/manifest.json",
+          "label": "Mère éducatrice (La) ( juillet 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182164r/manifest.json",
+          "label": "Mère éducatrice (La) ( dÃ©cembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182163b/manifest.json",
+          "label": "Mère éducatrice (La) ( novembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7182162x/manifest.json",
+          "label": "Mère éducatrice (La) ( octobre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       }]
+    }

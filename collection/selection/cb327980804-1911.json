@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327980804-1911.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal de la Jeune fille (1911)" ],
+  "en": [ "Journal de la Jeune fille (1911)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1911" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1911" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1911)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1911)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1911)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1911)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523994v/manifest.json",
+          "label": "Journal de la Jeune fille ( juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524007w/manifest.json",
+          "label": "Journal de la Jeune fille ( dÃ©cembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524001d/manifest.json",
+          "label": "Journal de la Jeune fille ( septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55240037/manifest.json",
+          "label": "Journal de la Jeune fille ( novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523978r/manifest.json",
+          "label": "Journal de la Jeune fille ( fÃ©vrier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523991m/manifest.json",
+          "label": "Journal de la Jeune fille ( mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524002t/manifest.json",
+          "label": "Journal de la Jeune fille ( octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55239817/manifest.json",
+          "label": "Journal de la Jeune fille ( mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5523996p/manifest.json",
+          "label": "Journal de la Jeune fille ( juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5524103k/manifest.json",
+          "label": "Journal de la Jeune fille ( janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       }]
+    }

@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb327980804-1929.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal de la Jeune fille (1929)" ],
+  "en": [ "Journal de la Jeune fille (1929)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1929" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal de la Jeune fille pour 1929" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1929)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1929)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327980804/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal de la Jeune fille (1929)" ],"en": [ "Gallica periodical: Journal de la Jeune fille (1929)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58255334/manifest.json",
+          "label": "Journal de la Jeune fille ( mai 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5825543h/manifest.json",
+          "label": "Journal de la Jeune fille ( novembre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58255156/manifest.json",
+          "label": "Journal de la Jeune fille ( janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5825536c/manifest.json",
+          "label": "Journal de la Jeune fille ( juillet 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58255245/manifest.json",
+          "label": "Journal de la Jeune fille ( mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58255171/manifest.json",
+          "label": "Journal de la Jeune fille ( fÃ©vrier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5825541p/manifest.json",
+          "label": "Journal de la Jeune fille ( octobre 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58255319/manifest.json",
+          "label": "Journal de la Jeune fille ( avril 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5825539m/manifest.json",
+          "label": "Journal de la Jeune fille ( aoÃ»t 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       }]
+    }
