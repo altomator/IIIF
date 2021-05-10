@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32765738x-1912.json",
+  "type": "Collection",
+  "label": { "fr": [ "Elan de la mode (L') (1912)" ],
+  "en": [ "Elan de la mode (L') (1912)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Elan de la mode (L') pour 1912" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Elan de la mode (L') pour 1912" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32765738x/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Elan de la mode (L') (1912)" ],"en": [ "Gallica periodical: Elan de la mode (L') (1912)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32765738x/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Elan de la mode (L') (1912)" ],"en": [ "Gallica periodical: Elan de la mode (L') (1912)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k966284t/manifest.json",
+          "label": "Elan de la mode (L') (  1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k966281p/manifest.json",
+          "label": "Elan de la mode (L') (28 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9662822/manifest.json",
+          "label": "Elan de la mode (L') (28 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k966283f/manifest.json",
+          "label": "Elan de la mode (L') (27 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-27"
+       }]
+    }

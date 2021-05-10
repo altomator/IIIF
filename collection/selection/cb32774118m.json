@@ -1,0 +1,63 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32774118m.json",
+  "type": "Collection",
+  "label": { "fr": [ "Femmes françaises" ],
+  "en": [ "Femmes françaises" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Femmes françaises (7 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Femmes françaises (7 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Femmes françaises" ],"en": [ "Gallica periodical: Femmes françaises" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32774118m/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Femmes françaises" ],"en": [ "Gallica periodical: Femmes françaises" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32774118m-1944.json",
+          "label": "Femmes françaises (1944)",
+          "type": "Collection",
+          "navDate": "1944"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32774118m-1945.json",
+          "label": "Femmes françaises (1945)",
+          "type": "Collection",
+          "navDate": "1945"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32774118m-1946.json",
+          "label": "Femmes françaises (1946)",
+          "type": "Collection",
+          "navDate": "1946"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32774118m-1947.json",
+          "label": "Femmes françaises (1947)",
+          "type": "Collection",
+          "navDate": "1947"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32774118m-1948.json",
+          "label": "Femmes françaises (1948)",
+          "type": "Collection",
+          "navDate": "1948"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32774118m-1949.json",
+          "label": "Femmes françaises (1949)",
+          "type": "Collection",
+          "navDate": "1949"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32774118m-1950.json",
+          "label": "Femmes françaises (1950)",
+          "type": "Collection",
+          "navDate": "1950"
+      }]
+    }

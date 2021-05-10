@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32774128x-1928.json",
+  "type": "Collection",
+  "label": { "fr": [ "Femmes seules : leur avenir (1928)" ],
+  "en": [ "Femmes seules : leur avenir (1928)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Femmes seules : leur avenir pour 1928" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Femmes seules : leur avenir pour 1928" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32774128x/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Femmes seules : leur avenir (1928)" ],"en": [ "Gallica periodical: Femmes seules : leur avenir (1928)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32774128x/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Femmes seules : leur avenir (1928)" ],"en": [ "Gallica periodical: Femmes seules : leur avenir (1928)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56057257/manifest.json",
+          "label": "Femmes seules : leur avenir ( aoÃ»t 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5605723d/manifest.json",
+          "label": "Femmes seules : leur avenir ( mai 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5603559q/manifest.json",
+          "label": "Femmes seules : leur avenir ( mars 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5605724t/manifest.json",
+          "label": "Femmes seules : leur avenir ( juillet 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7158674w/manifest.json",
+          "label": "Femmes seules : leur avenir ( mars 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7159147k/manifest.json",
+          "label": "Femmes seules : leur avenir ( aoÃ»t 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7159122r/manifest.json",
+          "label": "Femmes seules : leur avenir ( juillet 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k7159110j/manifest.json",
+          "label": "Femmes seules : leur avenir ( mai 1928)",
+          "type": "Manifest",
+          "navDate": "1928-01-01"
+       }]
+    }

@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32765738x-1910.json",
+  "type": "Collection",
+  "label": { "fr": [ "Elan de la mode (L') (1910)" ],
+  "en": [ "Elan de la mode (L') (1910)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Elan de la mode (L') pour 1910" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Elan de la mode (L') pour 1910" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32765738x/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Elan de la mode (L') (1910)" ],"en": [ "Gallica periodical: Elan de la mode (L') (1910)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32765738x/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Elan de la mode (L') (1910)" ],"en": [ "Gallica periodical: Elan de la mode (L') (1910)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9662733/manifest.json",
+          "label": "Elan de la mode (L') (23 janvier 1910)",
+          "type": "Manifest",
+          "navDate": "1910-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k966274g/manifest.json",
+          "label": "Elan de la mode (L') (24 avril 1910)",
+          "type": "Manifest",
+          "navDate": "1910-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k966275v/manifest.json",
+          "label": "Elan de la mode (L') (24 juillet 1910)",
+          "type": "Manifest",
+          "navDate": "1910-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9662767/manifest.json",
+          "label": "Elan de la mode (L') (23 octobre 1910)",
+          "type": "Manifest",
+          "navDate": "1910-10-23"
+       }]
+    }

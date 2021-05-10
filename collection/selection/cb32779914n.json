@@ -1,0 +1,58 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32779914n.json",
+  "type": "Collection",
+  "label": { "fr": [ "Gauloises (Les)" ],
+  "en": [ "Gauloises (Les)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Gauloises (Les) (6 ans)" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Gauloises (Les) (6 ans)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779914n/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Gauloises (Les)" ],"en": [ "Gallica periodical: Gauloises (Les)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779914n/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Gauloises (Les)" ],"en": [ "Gallica periodical: Gauloises (Les)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32779914n-1875.json",
+          "label": "Gauloises (Les) (1875)",
+          "type": "Collection",
+          "navDate": "1875"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32779914n-1876.json",
+          "label": "Gauloises (Les) (1876)",
+          "type": "Collection",
+          "navDate": "1876"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32779914n-1877.json",
+          "label": "Gauloises (Les) (1877)",
+          "type": "Collection",
+          "navDate": "1877"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32779914n-1878.json",
+          "label": "Gauloises (Les) (1878)",
+          "type": "Collection",
+          "navDate": "1878"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32779914n-1879.json",
+          "label": "Gauloises (Les) (1879)",
+          "type": "Collection",
+          "navDate": "1879"
+      },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/cb32779914n-1888.json",
+          "label": "Gauloises (Les) (1888)",
+          "type": "Collection",
+          "navDate": "1888"
+      }]
+    }

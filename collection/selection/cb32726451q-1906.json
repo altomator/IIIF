@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32726451q-1906.json",
+  "type": "Collection",
+  "label": { "fr": [ "Bulletin des patronages de jeunes filles (1906)" ],
+  "en": [ "Bulletin des patronages de jeunes filles (1906)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Bulletin des patronages de jeunes filles pour 1906" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Bulletin des patronages de jeunes filles pour 1906" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32726451q/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Bulletin des patronages de jeunes filles (1906)" ],"en": [ "Gallica periodical: Bulletin des patronages de jeunes filles (1906)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32726451q/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Bulletin des patronages de jeunes filles (1906)" ],"en": [ "Gallica periodical: Bulletin des patronages de jeunes filles (1906)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556371j/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (15 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556376m/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (15 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-15"
+       }]
+    }

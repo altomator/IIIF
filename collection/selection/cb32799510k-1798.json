@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32799510k-1798.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal des dames et des modes (1798)" ],
+  "en": [ "Journal des dames et des modes (1798)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal des dames et des modes pour 1798" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal des dames et des modes pour 1798" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32799510k/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal des dames et des modes (1798)" ],"en": [ "Gallica periodical: Journal des dames et des modes (1798)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32799510k/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal des dames et des modes (1798)" ],"en": [ "Gallica periodical: Journal des dames et des modes (1798)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57090g/manifest.json",
+          "label": "Journal des dames et des modes (17 aoÃ»t 1798)",
+          "type": "Manifest",
+          "navDate": "1798-08-17"
+       }]
+    }

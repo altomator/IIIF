@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32757532k-1927.json",
+  "type": "Collection",
+  "label": { "fr": [ "Dimanches de la femme (Les) (1927)" ],
+  "en": [ "Dimanches de la femme (Les) (1927)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Dimanches de la femme (Les) pour 1927" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Dimanches de la femme (Les) pour 1927" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32757532k/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Dimanches de la femme (Les) (1927)" ],"en": [ "Gallica periodical: Dimanches de la femme (Les) (1927)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32757532k/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Dimanches de la femme (Les) (1927)" ],"en": [ "Gallica periodical: Dimanches de la femme (Les) (1927)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5844702h/manifest.json",
+          "label": "Dimanches de la femme (Les) (02 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5844703x/manifest.json",
+          "label": "Dimanches de la femme (Les) (16 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5844704b/manifest.json",
+          "label": "Dimanches de la femme (Les) (23 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5844705r/manifest.json",
+          "label": "Dimanches de la femme (Les) (30 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58447065/manifest.json",
+          "label": "Dimanches de la femme (Les) (06 fÃ©vrier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5844707k/manifest.json",
+          "label": "Dimanches de la femme (Les) (13 fÃ©vrier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58447080/manifest.json",
+          "label": "Dimanches de la femme (Les) (20 fÃ©vrier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5844709d/manifest.json",
+          "label": "Dimanches de la femme (Les) (27 fÃ©vrier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58447102/manifest.json",
+          "label": "Dimanches de la femme (Les) (06 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5844711g/manifest.json",
+          "label": "Dimanches de la femme (Les) (13 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5844712w/manifest.json",
+          "label": "Dimanches de la femme (Les) (20 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k58447139/manifest.json",
+          "label": "Dimanches de la femme (Les) (27 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-27"
+       }]
+    }

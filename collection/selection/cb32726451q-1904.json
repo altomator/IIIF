@@ -1,0 +1,53 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32726451q-1904.json",
+  "type": "Collection",
+  "label": { "fr": [ "Bulletin des patronages de jeunes filles (1904)" ],
+  "en": [ "Bulletin des patronages de jeunes filles (1904)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Bulletin des patronages de jeunes filles pour 1904" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Bulletin des patronages de jeunes filles pour 1904" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32726451q/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Bulletin des patronages de jeunes filles (1904)" ],"en": [ "Gallica periodical: Bulletin des patronages de jeunes filles (1904)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32726451q/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Bulletin des patronages de jeunes filles (1904)" ],"en": [ "Gallica periodical: Bulletin des patronages de jeunes filles (1904)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556917t/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles ( septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5556916d/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles ( mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55569187/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles ( mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55569291/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles ( fÃ©vrier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k55518049/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles ( janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-01"
+       }]
+    }

@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32726451q-1902.json",
+  "type": "Collection",
+  "label": { "fr": [ "Bulletin des patronages de jeunes filles (1902)" ],
+  "en": [ "Bulletin des patronages de jeunes filles (1902)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Bulletin des patronages de jeunes filles pour 1902" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Bulletin des patronages de jeunes filles pour 1902" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32726451q/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Bulletin des patronages de jeunes filles (1902)" ],"en": [ "Gallica periodical: Bulletin des patronages de jeunes filles (1902)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32726451q/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Bulletin des patronages de jeunes filles (1902)" ],"en": [ "Gallica periodical: Bulletin des patronages de jeunes filles (1902)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57822785/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (01 janvier 1902)",
+          "type": "Manifest",
+          "navDate": "1902-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5782307f/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (01 fÃ©vrier 1902)",
+          "type": "Manifest",
+          "navDate": "1902-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5782314k/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (01 mars 1902)",
+          "type": "Manifest",
+          "navDate": "1902-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57823150/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (01 avril 1902)",
+          "type": "Manifest",
+          "navDate": "1902-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57823224/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (01 mai 1902)",
+          "type": "Manifest",
+          "navDate": "1902-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5782324z/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (01 juin 1902)",
+          "type": "Manifest",
+          "navDate": "1902-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57823276/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (01 juillet 1902)",
+          "type": "Manifest",
+          "navDate": "1902-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k5782379x/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (01 aoÃ»t 1902)",
+          "type": "Manifest",
+          "navDate": "1902-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k57823313/manifest.json",
+          "label": "Bulletin des patronages de jeunes filles (01 octobre 1902)",
+          "type": "Manifest",
+          "navDate": "1902-10-01"
+       }]
+    }

@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32799912c-1894.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal des jeunes filles françaises et de la famille (Le) (1894)" ],
+  "en": [ "Journal des jeunes filles françaises et de la famille (Le) (1894)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal des jeunes filles françaises et de la famille (Le) pour 1894" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal des jeunes filles françaises et de la famille (Le) pour 1894" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32799912c/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal des jeunes filles françaises et de la famille (Le) (1894)" ],"en": [ "Gallica periodical: Journal des jeunes filles françaises et de la famille (Le) (1894)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32799912c/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal des jeunes filles françaises et de la famille (Le) (1894)" ],"en": [ "Gallica periodical: Journal des jeunes filles françaises et de la famille (Le) (1894)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k143690x/manifest.json",
+          "label": "Journal des jeunes filles françaises et de la famille (Le) (  1894)",
+          "type": "Manifest",
+          "navDate": "1894-01-01"
+       }]
+    }

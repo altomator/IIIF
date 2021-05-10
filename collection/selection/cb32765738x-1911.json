@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32765738x-1911.json",
+  "type": "Collection",
+  "label": { "fr": [ "Elan de la mode (L') (1911)" ],
+  "en": [ "Elan de la mode (L') (1911)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Elan de la mode (L') pour 1911" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Elan de la mode (L') pour 1911" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32765738x/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Elan de la mode (L') (1911)" ],"en": [ "Gallica periodical: Elan de la mode (L') (1911)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32765738x/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Elan de la mode (L') (1911)" ],"en": [ "Gallica periodical: Elan de la mode (L') (1911)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k966277m/manifest.json",
+          "label": "Elan de la mode (L') (22 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9662780/manifest.json",
+          "label": "Elan de la mode (L') (23 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k966279c/manifest.json",
+          "label": "Elan de la mode (L') (23 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9662809/manifest.json",
+          "label": "Elan de la mode (L') (22 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-22"
+       }]
+    }

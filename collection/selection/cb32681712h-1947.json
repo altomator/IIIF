@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32681712h-1947.json",
+  "type": "Collection",
+  "label": { "fr": [ "Action. Revue sociale féminine, littéraire, artistique (L') (1947)" ],
+  "en": [ "Action. Revue sociale féminine, littéraire, artistique (L') (1947)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Action. Revue sociale féminine, littéraire, artistique (L') pour 1947" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Action. Revue sociale féminine, littéraire, artistique (L') pour 1947" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32681712h/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Action. Revue sociale féminine, littéraire, artistique (L') (1947)" ],"en": [ "Gallica periodical: Action. Revue sociale féminine, littéraire, artistique (L') (1947)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32681712h/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Action. Revue sociale féminine, littéraire, artistique (L') (1947)" ],"en": [ "Gallica periodical: Action. Revue sociale féminine, littéraire, artistique (L') (1947)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k23759295/manifest.json",
+          "label": "Action. Revue sociale féminine, littéraire, artistique (L') (25 septembre 1947)",
+          "type": "Manifest",
+          "navDate": "1947-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k2375930t/manifest.json",
+          "label": "Action. Revue sociale féminine, littéraire, artistique (L') (25 octobre 1947)",
+          "type": "Manifest",
+          "navDate": "1947-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k23759317/manifest.json",
+          "label": "Action. Revue sociale féminine, littéraire, artistique (L') (25 novembre 1947)",
+          "type": "Manifest",
+          "navDate": "1947-11-25"
+       }]
+    }

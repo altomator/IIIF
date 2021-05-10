@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32765738x-1908.json",
+  "type": "Collection",
+  "label": { "fr": [ "Elan de la mode (L') (1908)" ],
+  "en": [ "Elan de la mode (L') (1908)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Elan de la mode (L') pour 1908" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Elan de la mode (L') pour 1908" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32765738x/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Elan de la mode (L') (1908)" ],"en": [ "Gallica periodical: Elan de la mode (L') (1908)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32765738x/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Elan de la mode (L') (1908)" ],"en": [ "Gallica periodical: Elan de la mode (L') (1908)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k9662691/manifest.json",
+          "label": "Elan de la mode (L') (02 fÃ©vrier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k966270z/manifest.json",
+          "label": "Elan de la mode (L') (26 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k966271b/manifest.json",
+          "label": "Elan de la mode (L') (26 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-26"
+       }]
+    }

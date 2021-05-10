@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32779914n-1876.json",
+  "type": "Collection",
+  "label": { "fr": [ "Gauloises (Les) (1876)" ],
+  "en": [ "Gauloises (Les) (1876)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Gauloises (Les) pour 1876" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Gauloises (Les) pour 1876" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779914n/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Gauloises (Les) (1876)" ],"en": [ "Gallica periodical: Gauloises (Les) (1876)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779914n/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Gauloises (Les) (1876)" ],"en": [ "Gallica periodical: Gauloises (Les) (1876)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k123987p/manifest.json",
+          "label": "Gauloises (Les) (  1876)",
+          "type": "Manifest",
+          "navDate": "1876-01-01"
+       }]
+    }

@@ -1,0 +1,63 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb32799510k-1807.json",
+  "type": "Collection",
+  "label": { "fr": [ "Journal des dames et des modes (1807)" ],
+  "en": [ "Journal des dames et des modes (1807)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Journal des dames et des modes pour 1807" ],
+  "en": [ "Cette collection regroupe tous les fascicules du titre Journal des dames et des modes pour 1807" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32799510k/date",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Journal des dames et des modes (1807)" ],"en": [ "Gallica periodical: Journal des dames et des modes (1807)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32799510k/date",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Journal des dames et des modes (1807)" ],"en": [ "Gallica periodical: Journal des dames et des modes (1807)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1041114z/manifest.json",
+          "label": "Journal des dames et des modes (05 dÃ©cembre 1807)",
+          "type": "Manifest",
+          "navDate": "1807-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1041116s/manifest.json",
+          "label": "Journal des dames et des modes (10 dÃ©cembre 1807)",
+          "type": "Manifest",
+          "navDate": "1807-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1041118m/manifest.json",
+          "label": "Journal des dames et des modes (15 dÃ©cembre 1807)",
+          "type": "Manifest",
+          "navDate": "1807-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1041120p/manifest.json",
+          "label": "Journal des dames et des modes (20 dÃ©cembre 1807)",
+          "type": "Manifest",
+          "navDate": "1807-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1041122h/manifest.json",
+          "label": "Journal des dames et des modes (25 dÃ©cembre 1807)",
+          "type": "Manifest",
+          "navDate": "1807-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1041124b/manifest.json",
+          "label": "Journal des dames et des modes (31 dÃ©cembre 1807)",
+          "type": "Manifest",
+          "navDate": "1807-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148//bpt6k10411124/manifest.json",
+          "label": "Journal des dames et des modes (31 dÃ©cembre 1806)",
+          "type": "Manifest",
+          "navDate": "1807-12-31"
+       }]
+    }
