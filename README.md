@@ -90,7 +90,7 @@ This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes us
 
 This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) describes a sub-collection of the [Vogue](https://gallica.bnf.fr/ark:/12148/cb343833568/date.item) magazine (French edition, 1920-1940), organized by publication date (year).
 
-[cb343833568.json](https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json) is the collection's manifest that can be opened in a IIIF compliant viewer like Mirador. 
+[cb343833568.json](https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb343833568.json) is the collection's manifest that can be opened in a IIIF compliant viewer like Mirador. 
 
 ```json
 {
@@ -149,7 +149,6 @@ Once open, the collection can be browsed, starting from the Information side pan
 
 [![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
 
-See also: [*Vogue* complete collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/vogue.json)
 
 ### For Thematic Collections
 
