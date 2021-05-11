@@ -184,7 +184,7 @@ Multiple collections can be used to organize a complex navigation scheme as Mira
 
 ![IIIF collection in Mirador](/images/bd2.jpg)
 
-This final example shows the complete Gallica thematic selection of [women's magazines](https://gallica.bnf.fr/html/presse-et-revues/presse-feminine) transcribes as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_feminine.json). 
+This final example ((produced with this [Perl script]()) shows the complete Gallica thematic selection of [women's magazines](https://gallica.bnf.fr/html/presse-et-revues/presse-feminine) transcribes as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_feminine.json). 
 
 ## IIIF Annotations
 
