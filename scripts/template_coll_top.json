@@ -1,0 +1,25 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "<baseURL><name>.json",
+  "type": "Collection",
+  "label": { "fr": [ "<label> (sélection Gallica)" ], "en": [ "<label> (Gallica selection)" ] },
+  "thumbnail": "<thumbnail>",
+  "description": { "fr": [ "<description_fr>" ], "en": [ "<description_en>" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "<url>",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : <label>" ],"en": [ "Gallica Selection: <label>" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "<url>",
+			"format": "text/html",
+			"label": { "fr": [ "Sélection Gallica : <label>" ],"en": [ "Gallica Selection: <label>" ] }
+		}],
+  "items": [
