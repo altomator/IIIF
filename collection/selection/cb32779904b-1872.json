@@ -1,0 +1,1401 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1872.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1872)" ], "en": [ "Le Gaulois (1872)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1872" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1872" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1872",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1872)" ],"en": [ "Gallica periodical: Le Gaulois (1872)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1872",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1872)" ],"en": [ "Gallica periodical: Le Gaulois (1872)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520483m/manifest.json",
+          "label": "Le Gaulois (01 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5204840/manifest.json",
+          "label": "Le Gaulois (02 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520485c/manifest.json",
+          "label": "Le Gaulois (04 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520486r/manifest.json",
+          "label": "Le Gaulois (05 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5204874/manifest.json",
+          "label": "Le Gaulois (06 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520488h/manifest.json",
+          "label": "Le Gaulois (07 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520489w/manifest.json",
+          "label": "Le Gaulois (08 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520490t/manifest.json",
+          "label": "Le Gaulois (09 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5204916/manifest.json",
+          "label": "Le Gaulois (10 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520492k/manifest.json",
+          "label": "Le Gaulois (11 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520493z/manifest.json",
+          "label": "Le Gaulois (12 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520494b/manifest.json",
+          "label": "Le Gaulois (13 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520495q/manifest.json",
+          "label": "Le Gaulois (14 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5204963/manifest.json",
+          "label": "Le Gaulois (15 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520497g/manifest.json",
+          "label": "Le Gaulois (16 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520498v/manifest.json",
+          "label": "Le Gaulois (17 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5204997/manifest.json",
+          "label": "Le Gaulois (18 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205001/manifest.json",
+          "label": "Le Gaulois (19 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520501d/manifest.json",
+          "label": "Le Gaulois (20 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520502s/manifest.json",
+          "label": "Le Gaulois (21 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205035/manifest.json",
+          "label": "Le Gaulois (22 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520504j/manifest.json",
+          "label": "Le Gaulois (23 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520505x/manifest.json",
+          "label": "Le Gaulois (24 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205069/manifest.json",
+          "label": "Le Gaulois (25 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520507p/manifest.json",
+          "label": "Le Gaulois (26 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205082/manifest.json",
+          "label": "Le Gaulois (27 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520509f/manifest.json",
+          "label": "Le Gaulois (28 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520510c/manifest.json",
+          "label": "Le Gaulois (29 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520511r/manifest.json",
+          "label": "Le Gaulois (30 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205124/manifest.json",
+          "label": "Le Gaulois (31 janvier 1872)",
+          "type": "Manifest",
+          "navDate": "1872-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520513h/manifest.json",
+          "label": "Le Gaulois (01 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520514w/manifest.json",
+          "label": "Le Gaulois (02 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205158/manifest.json",
+          "label": "Le Gaulois (03 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520516n/manifest.json",
+          "label": "Le Gaulois (04 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205171/manifest.json",
+          "label": "Le Gaulois (05 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520518d/manifest.json",
+          "label": "Le Gaulois (06 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520519s/manifest.json",
+          "label": "Le Gaulois (07 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520520q/manifest.json",
+          "label": "Le Gaulois (08 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205213/manifest.json",
+          "label": "Le Gaulois (09 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520522g/manifest.json",
+          "label": "Le Gaulois (10 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520523v/manifest.json",
+          "label": "Le Gaulois (11 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205247/manifest.json",
+          "label": "Le Gaulois (12 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520525m/manifest.json",
+          "label": "Le Gaulois (13 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205260/manifest.json",
+          "label": "Le Gaulois (14 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520527c/manifest.json",
+          "label": "Le Gaulois (15 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520528r/manifest.json",
+          "label": "Le Gaulois (16 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205294/manifest.json",
+          "label": "Le Gaulois (17 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205302/manifest.json",
+          "label": "Le Gaulois (18 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520531f/manifest.json",
+          "label": "Le Gaulois (19 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520532t/manifest.json",
+          "label": "Le Gaulois (20 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205336/manifest.json",
+          "label": "Le Gaulois (21 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520534k/manifest.json",
+          "label": "Le Gaulois (22 février 1872)",
+          "type": "Manifest",
+          "navDate": "1872-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520535z/manifest.json",
+          "label": "Le Gaulois (23 mai 1872)",
+          "type": "Manifest",
+          "navDate": "1872-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520536b/manifest.json",
+          "label": "Le Gaulois (24 mai 1872)",
+          "type": "Manifest",
+          "navDate": "1872-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520537q/manifest.json",
+          "label": "Le Gaulois (25 mai 1872)",
+          "type": "Manifest",
+          "navDate": "1872-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205383/manifest.json",
+          "label": "Le Gaulois (26 mai 1872)",
+          "type": "Manifest",
+          "navDate": "1872-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520539g/manifest.json",
+          "label": "Le Gaulois (27 mai 1872)",
+          "type": "Manifest",
+          "navDate": "1872-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520540d/manifest.json",
+          "label": "Le Gaulois (28 mai 1872)",
+          "type": "Manifest",
+          "navDate": "1872-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520541s/manifest.json",
+          "label": "Le Gaulois (29 mai 1872)",
+          "type": "Manifest",
+          "navDate": "1872-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205425/manifest.json",
+          "label": "Le Gaulois (30 mai 1872)",
+          "type": "Manifest",
+          "navDate": "1872-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520543j/manifest.json",
+          "label": "Le Gaulois (31 mai 1872)",
+          "type": "Manifest",
+          "navDate": "1872-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520544x/manifest.json",
+          "label": "Le Gaulois (01 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205459/manifest.json",
+          "label": "Le Gaulois (02 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520546p/manifest.json",
+          "label": "Le Gaulois (03 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205472/manifest.json",
+          "label": "Le Gaulois (04 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520548f/manifest.json",
+          "label": "Le Gaulois (05 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520549t/manifest.json",
+          "label": "Le Gaulois (06 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520550r/manifest.json",
+          "label": "Le Gaulois (07 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205514/manifest.json",
+          "label": "Le Gaulois (08 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520552h/manifest.json",
+          "label": "Le Gaulois (09 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520553w/manifest.json",
+          "label": "Le Gaulois (10 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205548/manifest.json",
+          "label": "Le Gaulois (11 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520555n/manifest.json",
+          "label": "Le Gaulois (12 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205561/manifest.json",
+          "label": "Le Gaulois (13 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520557d/manifest.json",
+          "label": "Le Gaulois (14 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520558s/manifest.json",
+          "label": "Le Gaulois (15 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205595/manifest.json",
+          "label": "Le Gaulois (16 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205603/manifest.json",
+          "label": "Le Gaulois (17 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520561g/manifest.json",
+          "label": "Le Gaulois (18 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520562v/manifest.json",
+          "label": "Le Gaulois (19 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205637/manifest.json",
+          "label": "Le Gaulois (20 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520564m/manifest.json",
+          "label": "Le Gaulois (21 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205650/manifest.json",
+          "label": "Le Gaulois (22 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520566c/manifest.json",
+          "label": "Le Gaulois (23 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520567r/manifest.json",
+          "label": "Le Gaulois (24 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205684/manifest.json",
+          "label": "Le Gaulois (25 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520569h/manifest.json",
+          "label": "Le Gaulois (26 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520570f/manifest.json",
+          "label": "Le Gaulois (27 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520571t/manifest.json",
+          "label": "Le Gaulois (28 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205726/manifest.json",
+          "label": "Le Gaulois (29 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520573k/manifest.json",
+          "label": "Le Gaulois (30 juin 1872)",
+          "type": "Manifest",
+          "navDate": "1872-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520574z/manifest.json",
+          "label": "Le Gaulois (01 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520575b/manifest.json",
+          "label": "Le Gaulois (02 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520576q/manifest.json",
+          "label": "Le Gaulois (03 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205773/manifest.json",
+          "label": "Le Gaulois (04 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520578g/manifest.json",
+          "label": "Le Gaulois (05 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520579v/manifest.json",
+          "label": "Le Gaulois (06 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520580s/manifest.json",
+          "label": "Le Gaulois (07 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205815/manifest.json",
+          "label": "Le Gaulois (08 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520582j/manifest.json",
+          "label": "Le Gaulois (09 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520583x/manifest.json",
+          "label": "Le Gaulois (10 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205849/manifest.json",
+          "label": "Le Gaulois (11 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520585p/manifest.json",
+          "label": "Le Gaulois (12 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205862/manifest.json",
+          "label": "Le Gaulois (13 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520587f/manifest.json",
+          "label": "Le Gaulois (14 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520588t/manifest.json",
+          "label": "Le Gaulois (15 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205896/manifest.json",
+          "label": "Le Gaulois (16 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205904/manifest.json",
+          "label": "Le Gaulois (17 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520591h/manifest.json",
+          "label": "Le Gaulois (18 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520592w/manifest.json",
+          "label": "Le Gaulois (19 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205938/manifest.json",
+          "label": "Le Gaulois (20 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520594n/manifest.json",
+          "label": "Le Gaulois (21 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205951/manifest.json",
+          "label": "Le Gaulois (22 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520596d/manifest.json",
+          "label": "Le Gaulois (23 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520597s/manifest.json",
+          "label": "Le Gaulois (24 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5205985/manifest.json",
+          "label": "Le Gaulois (25 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520599j/manifest.json",
+          "label": "Le Gaulois (26 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520600b/manifest.json",
+          "label": "Le Gaulois (27 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520601q/manifest.json",
+          "label": "Le Gaulois (28 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206023/manifest.json",
+          "label": "Le Gaulois (29 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520603g/manifest.json",
+          "label": "Le Gaulois (30 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520604v/manifest.json",
+          "label": "Le Gaulois (31 juillet 1872)",
+          "type": "Manifest",
+          "navDate": "1872-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206057/manifest.json",
+          "label": "Le Gaulois (01 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520606m/manifest.json",
+          "label": "Le Gaulois (02 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206070/manifest.json",
+          "label": "Le Gaulois (03 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520608c/manifest.json",
+          "label": "Le Gaulois (04 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520609r/manifest.json",
+          "label": "Le Gaulois (05 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520610p/manifest.json",
+          "label": "Le Gaulois (06 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206112/manifest.json",
+          "label": "Le Gaulois (07 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520612f/manifest.json",
+          "label": "Le Gaulois (08 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520613t/manifest.json",
+          "label": "Le Gaulois (09 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206146/manifest.json",
+          "label": "Le Gaulois (10 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520615k/manifest.json",
+          "label": "Le Gaulois (11 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520616z/manifest.json",
+          "label": "Le Gaulois (12 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520617b/manifest.json",
+          "label": "Le Gaulois (13 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520618q/manifest.json",
+          "label": "Le Gaulois (14 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206193/manifest.json",
+          "label": "Le Gaulois (15 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206201/manifest.json",
+          "label": "Le Gaulois (16 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520621d/manifest.json",
+          "label": "Le Gaulois (17 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520622s/manifest.json",
+          "label": "Le Gaulois (19 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206235/manifest.json",
+          "label": "Le Gaulois (20 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520624j/manifest.json",
+          "label": "Le Gaulois (21 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520625x/manifest.json",
+          "label": "Le Gaulois (22 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206269/manifest.json",
+          "label": "Le Gaulois (23 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520627p/manifest.json",
+          "label": "Le Gaulois (24 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206282/manifest.json",
+          "label": "Le Gaulois (25 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520629f/manifest.json",
+          "label": "Le Gaulois (26 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520630c/manifest.json",
+          "label": "Le Gaulois (27 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520631r/manifest.json",
+          "label": "Le Gaulois (28 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206324/manifest.json",
+          "label": "Le Gaulois (29 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520633h/manifest.json",
+          "label": "Le Gaulois (30 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520634w/manifest.json",
+          "label": "Le Gaulois (31 août 1872)",
+          "type": "Manifest",
+          "navDate": "1872-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206358/manifest.json",
+          "label": "Le Gaulois (01 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520636n/manifest.json",
+          "label": "Le Gaulois (02 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206371/manifest.json",
+          "label": "Le Gaulois (03 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520638d/manifest.json",
+          "label": "Le Gaulois (05 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520639s/manifest.json",
+          "label": "Le Gaulois (06 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520640q/manifest.json",
+          "label": "Le Gaulois (07 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206413/manifest.json",
+          "label": "Le Gaulois (08 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520642g/manifest.json",
+          "label": "Le Gaulois (09 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520643v/manifest.json",
+          "label": "Le Gaulois (10 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206447/manifest.json",
+          "label": "Le Gaulois (11 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520645m/manifest.json",
+          "label": "Le Gaulois (12 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206460/manifest.json",
+          "label": "Le Gaulois (13 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520647c/manifest.json",
+          "label": "Le Gaulois (14 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520648r/manifest.json",
+          "label": "Le Gaulois (15 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206494/manifest.json",
+          "label": "Le Gaulois (16 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206502/manifest.json",
+          "label": "Le Gaulois (17 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520651f/manifest.json",
+          "label": "Le Gaulois (18 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520652t/manifest.json",
+          "label": "Le Gaulois (19 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206536/manifest.json",
+          "label": "Le Gaulois (20 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520654k/manifest.json",
+          "label": "Le Gaulois (21 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520655z/manifest.json",
+          "label": "Le Gaulois (22 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520656b/manifest.json",
+          "label": "Le Gaulois (23 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520657q/manifest.json",
+          "label": "Le Gaulois (24 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206583/manifest.json",
+          "label": "Le Gaulois (25 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520659g/manifest.json",
+          "label": "Le Gaulois (26 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520660d/manifest.json",
+          "label": "Le Gaulois (27 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520661s/manifest.json",
+          "label": "Le Gaulois (28 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206625/manifest.json",
+          "label": "Le Gaulois (29 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520663j/manifest.json",
+          "label": "Le Gaulois (30 septembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520664x/manifest.json",
+          "label": "Le Gaulois (01 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206659/manifest.json",
+          "label": "Le Gaulois (02 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520666p/manifest.json",
+          "label": "Le Gaulois (03 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206672/manifest.json",
+          "label": "Le Gaulois (04 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520668f/manifest.json",
+          "label": "Le Gaulois (05 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520669t/manifest.json",
+          "label": "Le Gaulois (06 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520670r/manifest.json",
+          "label": "Le Gaulois (07 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206714/manifest.json",
+          "label": "Le Gaulois (08 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520672h/manifest.json",
+          "label": "Le Gaulois (09 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520673w/manifest.json",
+          "label": "Le Gaulois (10 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206748/manifest.json",
+          "label": "Le Gaulois (11 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520675n/manifest.json",
+          "label": "Le Gaulois (12 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206761/manifest.json",
+          "label": "Le Gaulois (13 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520677d/manifest.json",
+          "label": "Le Gaulois (14 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520678s/manifest.json",
+          "label": "Le Gaulois (15 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206795/manifest.json",
+          "label": "Le Gaulois (16 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206803/manifest.json",
+          "label": "Le Gaulois (17 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520681g/manifest.json",
+          "label": "Le Gaulois (18 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520682v/manifest.json",
+          "label": "Le Gaulois (19 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206837/manifest.json",
+          "label": "Le Gaulois (20 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520684m/manifest.json",
+          "label": "Le Gaulois (21 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206850/manifest.json",
+          "label": "Le Gaulois (22 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520686c/manifest.json",
+          "label": "Le Gaulois (23 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520687r/manifest.json",
+          "label": "Le Gaulois (24 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206884/manifest.json",
+          "label": "Le Gaulois (25 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520689h/manifest.json",
+          "label": "Le Gaulois (26 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520690f/manifest.json",
+          "label": "Le Gaulois (27 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520691t/manifest.json",
+          "label": "Le Gaulois (28 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206926/manifest.json",
+          "label": "Le Gaulois (29 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520693k/manifest.json",
+          "label": "Le Gaulois (30 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520694z/manifest.json",
+          "label": "Le Gaulois (31 octobre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520695b/manifest.json",
+          "label": "Le Gaulois (01 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520696q/manifest.json",
+          "label": "Le Gaulois (02 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5206973/manifest.json",
+          "label": "Le Gaulois (03 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520698g/manifest.json",
+          "label": "Le Gaulois (04 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520699v/manifest.json",
+          "label": "Le Gaulois (05 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520700n/manifest.json",
+          "label": "Le Gaulois (06 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207011/manifest.json",
+          "label": "Le Gaulois (07 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520702d/manifest.json",
+          "label": "Le Gaulois (08 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520703s/manifest.json",
+          "label": "Le Gaulois (09 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207045/manifest.json",
+          "label": "Le Gaulois (10 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520705j/manifest.json",
+          "label": "Le Gaulois (11 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520706x/manifest.json",
+          "label": "Le Gaulois (12 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207079/manifest.json",
+          "label": "Le Gaulois (13 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520708p/manifest.json",
+          "label": "Le Gaulois (14 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207092/manifest.json",
+          "label": "Le Gaulois (15 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207100/manifest.json",
+          "label": "Le Gaulois (16 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520711c/manifest.json",
+          "label": "Le Gaulois (17 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520712r/manifest.json",
+          "label": "Le Gaulois (18 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207134/manifest.json",
+          "label": "Le Gaulois (19 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520714h/manifest.json",
+          "label": "Le Gaulois (20 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520715w/manifest.json",
+          "label": "Le Gaulois (21 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207168/manifest.json",
+          "label": "Le Gaulois (22 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520717n/manifest.json",
+          "label": "Le Gaulois (23 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207181/manifest.json",
+          "label": "Le Gaulois (24 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520719d/manifest.json",
+          "label": "Le Gaulois (25 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520720b/manifest.json",
+          "label": "Le Gaulois (26 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520721q/manifest.json",
+          "label": "Le Gaulois (27 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207223/manifest.json",
+          "label": "Le Gaulois (28 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520724v/manifest.json",
+          "label": "Le Gaulois (29 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520723g/manifest.json",
+          "label": "Le Gaulois (29 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207257/manifest.json",
+          "label": "Le Gaulois (30 novembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520726m/manifest.json",
+          "label": "Le Gaulois (01 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207270/manifest.json",
+          "label": "Le Gaulois (02 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520728c/manifest.json",
+          "label": "Le Gaulois (03 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520729r/manifest.json",
+          "label": "Le Gaulois (04 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520730p/manifest.json",
+          "label": "Le Gaulois (05 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207312/manifest.json",
+          "label": "Le Gaulois (06 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520732f/manifest.json",
+          "label": "Le Gaulois (07 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520733t/manifest.json",
+          "label": "Le Gaulois (08 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207346/manifest.json",
+          "label": "Le Gaulois (09 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520735k/manifest.json",
+          "label": "Le Gaulois (10 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520736z/manifest.json",
+          "label": "Le Gaulois (11 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520737b/manifest.json",
+          "label": "Le Gaulois (12 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520738q/manifest.json",
+          "label": "Le Gaulois (13 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207393/manifest.json",
+          "label": "Le Gaulois (14 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207401/manifest.json",
+          "label": "Le Gaulois (15 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520741d/manifest.json",
+          "label": "Le Gaulois (16 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520742s/manifest.json",
+          "label": "Le Gaulois (17 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207435/manifest.json",
+          "label": "Le Gaulois (18 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520744j/manifest.json",
+          "label": "Le Gaulois (19 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520745x/manifest.json",
+          "label": "Le Gaulois (20 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207469/manifest.json",
+          "label": "Le Gaulois (21 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520747p/manifest.json",
+          "label": "Le Gaulois (22 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207482/manifest.json",
+          "label": "Le Gaulois (23 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520749f/manifest.json",
+          "label": "Le Gaulois (24 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520750c/manifest.json",
+          "label": "Le Gaulois (25 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520751r/manifest.json",
+          "label": "Le Gaulois (26 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207524/manifest.json",
+          "label": "Le Gaulois (27 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520753h/manifest.json",
+          "label": "Le Gaulois (28 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520754w/manifest.json",
+          "label": "Le Gaulois (29 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5207558/manifest.json",
+          "label": "Le Gaulois (30 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5204827/manifest.json",
+          "label": "Le Gaulois (31 décembre 1871)",
+          "type": "Manifest",
+          "navDate": "1872-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k520756n/manifest.json",
+          "label": "Le Gaulois (31 décembre 1872)",
+          "type": "Manifest",
+          "navDate": "1872-12-31"
+       }]
+    }

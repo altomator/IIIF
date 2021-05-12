@@ -1,0 +1,1881 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1887.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1887)" ], "en": [ "Le Gaulois (1887)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1887" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1887" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1887",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1887)" ],"en": [ "Gallica periodical: Le Gaulois (1887)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1887",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1887)" ],"en": [ "Gallica periodical: Le Gaulois (1887)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5259859/manifest.json",
+          "label": "Le Gaulois (01 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525986p/manifest.json",
+          "label": "Le Gaulois (02 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5259872/manifest.json",
+          "label": "Le Gaulois (03 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525988f/manifest.json",
+          "label": "Le Gaulois (04 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525989t/manifest.json",
+          "label": "Le Gaulois (05 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525990r/manifest.json",
+          "label": "Le Gaulois (06 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5259914/manifest.json",
+          "label": "Le Gaulois (07 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525992h/manifest.json",
+          "label": "Le Gaulois (08 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525993w/manifest.json",
+          "label": "Le Gaulois (09 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5259948/manifest.json",
+          "label": "Le Gaulois (10 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525995n/manifest.json",
+          "label": "Le Gaulois (11 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5259961/manifest.json",
+          "label": "Le Gaulois (12 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525997d/manifest.json",
+          "label": "Le Gaulois (13 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525998s/manifest.json",
+          "label": "Le Gaulois (14 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5259995/manifest.json",
+          "label": "Le Gaulois (15 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260004/manifest.json",
+          "label": "Le Gaulois (16 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526001h/manifest.json",
+          "label": "Le Gaulois (17 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526002w/manifest.json",
+          "label": "Le Gaulois (18 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260038/manifest.json",
+          "label": "Le Gaulois (19 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526004n/manifest.json",
+          "label": "Le Gaulois (20 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260051/manifest.json",
+          "label": "Le Gaulois (21 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526006d/manifest.json",
+          "label": "Le Gaulois (22 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526007s/manifest.json",
+          "label": "Le Gaulois (23 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260085/manifest.json",
+          "label": "Le Gaulois (24 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526009j/manifest.json",
+          "label": "Le Gaulois (25 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526010g/manifest.json",
+          "label": "Le Gaulois (26 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526011v/manifest.json",
+          "label": "Le Gaulois (27 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260127/manifest.json",
+          "label": "Le Gaulois (28 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526013m/manifest.json",
+          "label": "Le Gaulois (29 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260140/manifest.json",
+          "label": "Le Gaulois (30 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526015c/manifest.json",
+          "label": "Le Gaulois (31 janvier 1887)",
+          "type": "Manifest",
+          "navDate": "1887-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526016r/manifest.json",
+          "label": "Le Gaulois (01 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260174/manifest.json",
+          "label": "Le Gaulois (02 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526018h/manifest.json",
+          "label": "Le Gaulois (03 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526019w/manifest.json",
+          "label": "Le Gaulois (04 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526020t/manifest.json",
+          "label": "Le Gaulois (05 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260216/manifest.json",
+          "label": "Le Gaulois (06 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526022k/manifest.json",
+          "label": "Le Gaulois (07 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526023z/manifest.json",
+          "label": "Le Gaulois (08 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526024b/manifest.json",
+          "label": "Le Gaulois (09 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526025q/manifest.json",
+          "label": "Le Gaulois (10 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260263/manifest.json",
+          "label": "Le Gaulois (11 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526027g/manifest.json",
+          "label": "Le Gaulois (12 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526028v/manifest.json",
+          "label": "Le Gaulois (13 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260297/manifest.json",
+          "label": "Le Gaulois (14 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260305/manifest.json",
+          "label": "Le Gaulois (15 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526031j/manifest.json",
+          "label": "Le Gaulois (16 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526032x/manifest.json",
+          "label": "Le Gaulois (17 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260339/manifest.json",
+          "label": "Le Gaulois (18 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526034p/manifest.json",
+          "label": "Le Gaulois (19 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260352/manifest.json",
+          "label": "Le Gaulois (20 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526036f/manifest.json",
+          "label": "Le Gaulois (21 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526037t/manifest.json",
+          "label": "Le Gaulois (22 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260386/manifest.json",
+          "label": "Le Gaulois (23 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526039k/manifest.json",
+          "label": "Le Gaulois (24 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526040h/manifest.json",
+          "label": "Le Gaulois (25 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526041w/manifest.json",
+          "label": "Le Gaulois (26 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260428/manifest.json",
+          "label": "Le Gaulois (27 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526043n/manifest.json",
+          "label": "Le Gaulois (28 février 1887)",
+          "type": "Manifest",
+          "navDate": "1887-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260441/manifest.json",
+          "label": "Le Gaulois (01 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526045d/manifest.json",
+          "label": "Le Gaulois (02 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526046s/manifest.json",
+          "label": "Le Gaulois (03 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260475/manifest.json",
+          "label": "Le Gaulois (04 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526048j/manifest.json",
+          "label": "Le Gaulois (05 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526049x/manifest.json",
+          "label": "Le Gaulois (06 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526050v/manifest.json",
+          "label": "Le Gaulois (07 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260517/manifest.json",
+          "label": "Le Gaulois (08 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526052m/manifest.json",
+          "label": "Le Gaulois (09 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260530/manifest.json",
+          "label": "Le Gaulois (10 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526054c/manifest.json",
+          "label": "Le Gaulois (11 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526055r/manifest.json",
+          "label": "Le Gaulois (12 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260564/manifest.json",
+          "label": "Le Gaulois (13 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526057h/manifest.json",
+          "label": "Le Gaulois (14 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526058w/manifest.json",
+          "label": "Le Gaulois (15 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260598/manifest.json",
+          "label": "Le Gaulois (16 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260606/manifest.json",
+          "label": "Le Gaulois (17 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526061k/manifest.json",
+          "label": "Le Gaulois (18 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526062z/manifest.json",
+          "label": "Le Gaulois (19 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526063b/manifest.json",
+          "label": "Le Gaulois (20 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526064q/manifest.json",
+          "label": "Le Gaulois (21 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260653/manifest.json",
+          "label": "Le Gaulois (22 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526066g/manifest.json",
+          "label": "Le Gaulois (23 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526067v/manifest.json",
+          "label": "Le Gaulois (24 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260687/manifest.json",
+          "label": "Le Gaulois (25 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526069m/manifest.json",
+          "label": "Le Gaulois (26 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526070j/manifest.json",
+          "label": "Le Gaulois (27 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526071x/manifest.json",
+          "label": "Le Gaulois (28 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260729/manifest.json",
+          "label": "Le Gaulois (29 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526073p/manifest.json",
+          "label": "Le Gaulois (30 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260742/manifest.json",
+          "label": "Le Gaulois (31 mars 1887)",
+          "type": "Manifest",
+          "navDate": "1887-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526075f/manifest.json",
+          "label": "Le Gaulois (01 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526076t/manifest.json",
+          "label": "Le Gaulois (02 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260776/manifest.json",
+          "label": "Le Gaulois (03 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526078k/manifest.json",
+          "label": "Le Gaulois (04 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526079z/manifest.json",
+          "label": "Le Gaulois (05 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526080w/manifest.json",
+          "label": "Le Gaulois (06 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260818/manifest.json",
+          "label": "Le Gaulois (07 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526082n/manifest.json",
+          "label": "Le Gaulois (08 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260831/manifest.json",
+          "label": "Le Gaulois (09 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526084d/manifest.json",
+          "label": "Le Gaulois (10 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526085s/manifest.json",
+          "label": "Le Gaulois (11 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260865/manifest.json",
+          "label": "Le Gaulois (12 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526087j/manifest.json",
+          "label": "Le Gaulois (13 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526088x/manifest.json",
+          "label": "Le Gaulois (14 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260899/manifest.json",
+          "label": "Le Gaulois (15 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260907/manifest.json",
+          "label": "Le Gaulois (16 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526091m/manifest.json",
+          "label": "Le Gaulois (17 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260920/manifest.json",
+          "label": "Le Gaulois (18 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526093c/manifest.json",
+          "label": "Le Gaulois (19 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526094r/manifest.json",
+          "label": "Le Gaulois (20 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260954/manifest.json",
+          "label": "Le Gaulois (21 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526096h/manifest.json",
+          "label": "Le Gaulois (22 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526097w/manifest.json",
+          "label": "Le Gaulois (23 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5260988/manifest.json",
+          "label": "Le Gaulois (24 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526099n/manifest.json",
+          "label": "Le Gaulois (25 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526100f/manifest.json",
+          "label": "Le Gaulois (26 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526101t/manifest.json",
+          "label": "Le Gaulois (27 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261026/manifest.json",
+          "label": "Le Gaulois (28 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526103k/manifest.json",
+          "label": "Le Gaulois (29 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526104z/manifest.json",
+          "label": "Le Gaulois (30 avril 1887)",
+          "type": "Manifest",
+          "navDate": "1887-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526105b/manifest.json",
+          "label": "Le Gaulois (01 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526106q/manifest.json",
+          "label": "Le Gaulois (02 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261073/manifest.json",
+          "label": "Le Gaulois (03 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526108g/manifest.json",
+          "label": "Le Gaulois (04 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526109v/manifest.json",
+          "label": "Le Gaulois (05 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526110s/manifest.json",
+          "label": "Le Gaulois (06 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261115/manifest.json",
+          "label": "Le Gaulois (07 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526112j/manifest.json",
+          "label": "Le Gaulois (08 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526113x/manifest.json",
+          "label": "Le Gaulois (09 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261149/manifest.json",
+          "label": "Le Gaulois (10 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526115p/manifest.json",
+          "label": "Le Gaulois (11 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261162/manifest.json",
+          "label": "Le Gaulois (12 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526117f/manifest.json",
+          "label": "Le Gaulois (13 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526118t/manifest.json",
+          "label": "Le Gaulois (14 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261196/manifest.json",
+          "label": "Le Gaulois (15 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261204/manifest.json",
+          "label": "Le Gaulois (16 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526121h/manifest.json",
+          "label": "Le Gaulois (17 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526122w/manifest.json",
+          "label": "Le Gaulois (18 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261238/manifest.json",
+          "label": "Le Gaulois (19 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526124n/manifest.json",
+          "label": "Le Gaulois (20 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261251/manifest.json",
+          "label": "Le Gaulois (21 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526126d/manifest.json",
+          "label": "Le Gaulois (22 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526127s/manifest.json",
+          "label": "Le Gaulois (23 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261285/manifest.json",
+          "label": "Le Gaulois (24 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526129j/manifest.json",
+          "label": "Le Gaulois (25 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526130g/manifest.json",
+          "label": "Le Gaulois (26 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526131v/manifest.json",
+          "label": "Le Gaulois (27 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261327/manifest.json",
+          "label": "Le Gaulois (28 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526133m/manifest.json",
+          "label": "Le Gaulois (29 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261340/manifest.json",
+          "label": "Le Gaulois (30 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526135c/manifest.json",
+          "label": "Le Gaulois (31 mai 1887)",
+          "type": "Manifest",
+          "navDate": "1887-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526136r/manifest.json",
+          "label": "Le Gaulois (01 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261374/manifest.json",
+          "label": "Le Gaulois (02 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526138h/manifest.json",
+          "label": "Le Gaulois (03 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526139w/manifest.json",
+          "label": "Le Gaulois (04 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526140t/manifest.json",
+          "label": "Le Gaulois (05 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261416/manifest.json",
+          "label": "Le Gaulois (06 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526142k/manifest.json",
+          "label": "Le Gaulois (07 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526143z/manifest.json",
+          "label": "Le Gaulois (08 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526144b/manifest.json",
+          "label": "Le Gaulois (09 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526145q/manifest.json",
+          "label": "Le Gaulois (10 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261463/manifest.json",
+          "label": "Le Gaulois (11 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526147g/manifest.json",
+          "label": "Le Gaulois (12 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526148v/manifest.json",
+          "label": "Le Gaulois (13 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261497/manifest.json",
+          "label": "Le Gaulois (14 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261505/manifest.json",
+          "label": "Le Gaulois (15 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526151j/manifest.json",
+          "label": "Le Gaulois (16 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526152x/manifest.json",
+          "label": "Le Gaulois (17 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261539/manifest.json",
+          "label": "Le Gaulois (18 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526154p/manifest.json",
+          "label": "Le Gaulois (19 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261552/manifest.json",
+          "label": "Le Gaulois (20 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526156f/manifest.json",
+          "label": "Le Gaulois (21 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526157t/manifest.json",
+          "label": "Le Gaulois (22 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261586/manifest.json",
+          "label": "Le Gaulois (23 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526159k/manifest.json",
+          "label": "Le Gaulois (24 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526160h/manifest.json",
+          "label": "Le Gaulois (25 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526161w/manifest.json",
+          "label": "Le Gaulois (26 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261628/manifest.json",
+          "label": "Le Gaulois (27 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526163n/manifest.json",
+          "label": "Le Gaulois (28 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261641/manifest.json",
+          "label": "Le Gaulois (29 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526165d/manifest.json",
+          "label": "Le Gaulois (30 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526166s/manifest.json",
+          "label": "Le Gaulois (30 juin 1887)",
+          "type": "Manifest",
+          "navDate": "1887-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261798/manifest.json",
+          "label": "Le Gaulois (01 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261806/manifest.json",
+          "label": "Le Gaulois (02 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526181k/manifest.json",
+          "label": "Le Gaulois (03 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526182z/manifest.json",
+          "label": "Le Gaulois (04 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526183b/manifest.json",
+          "label": "Le Gaulois (05 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526184q/manifest.json",
+          "label": "Le Gaulois (06 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261853/manifest.json",
+          "label": "Le Gaulois (07 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526186g/manifest.json",
+          "label": "Le Gaulois (08 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526187v/manifest.json",
+          "label": "Le Gaulois (09 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261887/manifest.json",
+          "label": "Le Gaulois (10 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526189m/manifest.json",
+          "label": "Le Gaulois (11 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526190j/manifest.json",
+          "label": "Le Gaulois (12 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526191x/manifest.json",
+          "label": "Le Gaulois (13 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261929/manifest.json",
+          "label": "Le Gaulois (14 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526193p/manifest.json",
+          "label": "Le Gaulois (15 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261942/manifest.json",
+          "label": "Le Gaulois (16 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526195f/manifest.json",
+          "label": "Le Gaulois (17 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526196t/manifest.json",
+          "label": "Le Gaulois (18 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5261976/manifest.json",
+          "label": "Le Gaulois (19 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526198k/manifest.json",
+          "label": "Le Gaulois (20 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526199z/manifest.json",
+          "label": "Le Gaulois (21 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526200r/manifest.json",
+          "label": "Le Gaulois (22 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262014/manifest.json",
+          "label": "Le Gaulois (23 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526202h/manifest.json",
+          "label": "Le Gaulois (24 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526203w/manifest.json",
+          "label": "Le Gaulois (25 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262048/manifest.json",
+          "label": "Le Gaulois (26 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526205n/manifest.json",
+          "label": "Le Gaulois (27 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262061/manifest.json",
+          "label": "Le Gaulois (28 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526207d/manifest.json",
+          "label": "Le Gaulois (29 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526208s/manifest.json",
+          "label": "Le Gaulois (30 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262095/manifest.json",
+          "label": "Le Gaulois (31 juillet 1887)",
+          "type": "Manifest",
+          "navDate": "1887-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262103/manifest.json",
+          "label": "Le Gaulois (01 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526211g/manifest.json",
+          "label": "Le Gaulois (02 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526212v/manifest.json",
+          "label": "Le Gaulois (03 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262137/manifest.json",
+          "label": "Le Gaulois (04 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526214m/manifest.json",
+          "label": "Le Gaulois (05 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262150/manifest.json",
+          "label": "Le Gaulois (06 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526216c/manifest.json",
+          "label": "Le Gaulois (07 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526217r/manifest.json",
+          "label": "Le Gaulois (08 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262184/manifest.json",
+          "label": "Le Gaulois (09 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526219h/manifest.json",
+          "label": "Le Gaulois (10 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526220f/manifest.json",
+          "label": "Le Gaulois (11 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526221t/manifest.json",
+          "label": "Le Gaulois (12 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262226/manifest.json",
+          "label": "Le Gaulois (13 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526223k/manifest.json",
+          "label": "Le Gaulois (14 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526224z/manifest.json",
+          "label": "Le Gaulois (15 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526225b/manifest.json",
+          "label": "Le Gaulois (16 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526226q/manifest.json",
+          "label": "Le Gaulois (17 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262273/manifest.json",
+          "label": "Le Gaulois (18 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526228g/manifest.json",
+          "label": "Le Gaulois (19 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526229v/manifest.json",
+          "label": "Le Gaulois (20 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526230s/manifest.json",
+          "label": "Le Gaulois (21 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262315/manifest.json",
+          "label": "Le Gaulois (22 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526232j/manifest.json",
+          "label": "Le Gaulois (23 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526233x/manifest.json",
+          "label": "Le Gaulois (24 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262349/manifest.json",
+          "label": "Le Gaulois (25 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526235p/manifest.json",
+          "label": "Le Gaulois (26 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262362/manifest.json",
+          "label": "Le Gaulois (27 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526237f/manifest.json",
+          "label": "Le Gaulois (28 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526238t/manifest.json",
+          "label": "Le Gaulois (29 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262396/manifest.json",
+          "label": "Le Gaulois (30 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262404/manifest.json",
+          "label": "Le Gaulois (31 août 1887)",
+          "type": "Manifest",
+          "navDate": "1887-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526241h/manifest.json",
+          "label": "Le Gaulois (01 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526242w/manifest.json",
+          "label": "Le Gaulois (02 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262438/manifest.json",
+          "label": "Le Gaulois (03 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526244n/manifest.json",
+          "label": "Le Gaulois (04 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262451/manifest.json",
+          "label": "Le Gaulois (05 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526246d/manifest.json",
+          "label": "Le Gaulois (06 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526247s/manifest.json",
+          "label": "Le Gaulois (07 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262485/manifest.json",
+          "label": "Le Gaulois (08 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526249j/manifest.json",
+          "label": "Le Gaulois (09 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526250g/manifest.json",
+          "label": "Le Gaulois (10 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526251v/manifest.json",
+          "label": "Le Gaulois (11 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262527/manifest.json",
+          "label": "Le Gaulois (12 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526253m/manifest.json",
+          "label": "Le Gaulois (13 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262540/manifest.json",
+          "label": "Le Gaulois (14 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526255c/manifest.json",
+          "label": "Le Gaulois (15 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526256r/manifest.json",
+          "label": "Le Gaulois (16 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262574/manifest.json",
+          "label": "Le Gaulois (17 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526258h/manifest.json",
+          "label": "Le Gaulois (18 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526259w/manifest.json",
+          "label": "Le Gaulois (19 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526260t/manifest.json",
+          "label": "Le Gaulois (20 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262616/manifest.json",
+          "label": "Le Gaulois (21 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526262k/manifest.json",
+          "label": "Le Gaulois (22 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526263z/manifest.json",
+          "label": "Le Gaulois (23 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526264b/manifest.json",
+          "label": "Le Gaulois (24 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526265q/manifest.json",
+          "label": "Le Gaulois (25 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262663/manifest.json",
+          "label": "Le Gaulois (26 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526267g/manifest.json",
+          "label": "Le Gaulois (27 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526268v/manifest.json",
+          "label": "Le Gaulois (28 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262697/manifest.json",
+          "label": "Le Gaulois (29 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262705/manifest.json",
+          "label": "Le Gaulois (30 septembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526271j/manifest.json",
+          "label": "Le Gaulois (01 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526272x/manifest.json",
+          "label": "Le Gaulois (02 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262739/manifest.json",
+          "label": "Le Gaulois (03 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526274p/manifest.json",
+          "label": "Le Gaulois (04 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262752/manifest.json",
+          "label": "Le Gaulois (05 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526276f/manifest.json",
+          "label": "Le Gaulois (06 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526277t/manifest.json",
+          "label": "Le Gaulois (07 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262786/manifest.json",
+          "label": "Le Gaulois (08 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526279k/manifest.json",
+          "label": "Le Gaulois (09 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526280h/manifest.json",
+          "label": "Le Gaulois (10 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526281w/manifest.json",
+          "label": "Le Gaulois (11 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262828/manifest.json",
+          "label": "Le Gaulois (12 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526283n/manifest.json",
+          "label": "Le Gaulois (13 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262841/manifest.json",
+          "label": "Le Gaulois (14 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526285d/manifest.json",
+          "label": "Le Gaulois (15 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526286s/manifest.json",
+          "label": "Le Gaulois (16 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262875/manifest.json",
+          "label": "Le Gaulois (17 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526288j/manifest.json",
+          "label": "Le Gaulois (18 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526289x/manifest.json",
+          "label": "Le Gaulois (19 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526290v/manifest.json",
+          "label": "Le Gaulois (20 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262917/manifest.json",
+          "label": "Le Gaulois (21 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526292m/manifest.json",
+          "label": "Le Gaulois (22 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262930/manifest.json",
+          "label": "Le Gaulois (23 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526294c/manifest.json",
+          "label": "Le Gaulois (24 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526295r/manifest.json",
+          "label": "Le Gaulois (25 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262964/manifest.json",
+          "label": "Le Gaulois (26 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526297h/manifest.json",
+          "label": "Le Gaulois (27 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526298w/manifest.json",
+          "label": "Le Gaulois (28 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5262998/manifest.json",
+          "label": "Le Gaulois (29 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263002/manifest.json",
+          "label": "Le Gaulois (30 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526301f/manifest.json",
+          "label": "Le Gaulois (31 octobre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526302t/manifest.json",
+          "label": "Le Gaulois (01 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263036/manifest.json",
+          "label": "Le Gaulois (02 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526304k/manifest.json",
+          "label": "Le Gaulois (03 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526305z/manifest.json",
+          "label": "Le Gaulois (04 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526306b/manifest.json",
+          "label": "Le Gaulois (05 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526307q/manifest.json",
+          "label": "Le Gaulois (06 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263083/manifest.json",
+          "label": "Le Gaulois (07 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526309g/manifest.json",
+          "label": "Le Gaulois (08 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526310d/manifest.json",
+          "label": "Le Gaulois (09 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526311s/manifest.json",
+          "label": "Le Gaulois (10 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263125/manifest.json",
+          "label": "Le Gaulois (11 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526313j/manifest.json",
+          "label": "Le Gaulois (12 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526314x/manifest.json",
+          "label": "Le Gaulois (13 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263159/manifest.json",
+          "label": "Le Gaulois (14 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526316p/manifest.json",
+          "label": "Le Gaulois (15 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263172/manifest.json",
+          "label": "Le Gaulois (16 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526318f/manifest.json",
+          "label": "Le Gaulois (17 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526319t/manifest.json",
+          "label": "Le Gaulois (18 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526320r/manifest.json",
+          "label": "Le Gaulois (19 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263214/manifest.json",
+          "label": "Le Gaulois (20 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526322h/manifest.json",
+          "label": "Le Gaulois (21 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526323w/manifest.json",
+          "label": "Le Gaulois (22 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263248/manifest.json",
+          "label": "Le Gaulois (23 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526325n/manifest.json",
+          "label": "Le Gaulois (24 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263261/manifest.json",
+          "label": "Le Gaulois (25 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526327d/manifest.json",
+          "label": "Le Gaulois (26 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526328s/manifest.json",
+          "label": "Le Gaulois (27 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263295/manifest.json",
+          "label": "Le Gaulois (28 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263303/manifest.json",
+          "label": "Le Gaulois (29 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526331g/manifest.json",
+          "label": "Le Gaulois (30 novembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526332v/manifest.json",
+          "label": "Le Gaulois (01 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263337/manifest.json",
+          "label": "Le Gaulois (02 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263350/manifest.json",
+          "label": "Le Gaulois (03 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526334m/manifest.json",
+          "label": "Le Gaulois (03 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526336c/manifest.json",
+          "label": "Le Gaulois (04 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526337r/manifest.json",
+          "label": "Le Gaulois (05 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263384/manifest.json",
+          "label": "Le Gaulois (06 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526339h/manifest.json",
+          "label": "Le Gaulois (07 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526340f/manifest.json",
+          "label": "Le Gaulois (08 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526341t/manifest.json",
+          "label": "Le Gaulois (09 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263426/manifest.json",
+          "label": "Le Gaulois (10 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526343k/manifest.json",
+          "label": "Le Gaulois (11 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526344z/manifest.json",
+          "label": "Le Gaulois (12 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526345b/manifest.json",
+          "label": "Le Gaulois (13 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526346q/manifest.json",
+          "label": "Le Gaulois (14 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263473/manifest.json",
+          "label": "Le Gaulois (15 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526348g/manifest.json",
+          "label": "Le Gaulois (16 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526349v/manifest.json",
+          "label": "Le Gaulois (17 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526350s/manifest.json",
+          "label": "Le Gaulois (18 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263515/manifest.json",
+          "label": "Le Gaulois (19 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526352j/manifest.json",
+          "label": "Le Gaulois (20 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263549/manifest.json",
+          "label": "Le Gaulois (21 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526353x/manifest.json",
+          "label": "Le Gaulois (21 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526355p/manifest.json",
+          "label": "Le Gaulois (22 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263562/manifest.json",
+          "label": "Le Gaulois (23 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526358t/manifest.json",
+          "label": "Le Gaulois (24 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526357f/manifest.json",
+          "label": "Le Gaulois (24 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263596/manifest.json",
+          "label": "Le Gaulois (25 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526361h/manifest.json",
+          "label": "Le Gaulois (26 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263604/manifest.json",
+          "label": "Le Gaulois (26 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526362w/manifest.json",
+          "label": "Le Gaulois (27 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263638/manifest.json",
+          "label": "Le Gaulois (28 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526364n/manifest.json",
+          "label": "Le Gaulois (29 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5263651/manifest.json",
+          "label": "Le Gaulois (30 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k526366d/manifest.json",
+          "label": "Le Gaulois (31 décembre 1887)",
+          "type": "Manifest",
+          "navDate": "1887-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525984x/manifest.json",
+          "label": "Le Gaulois (31 décembre 1886)",
+          "type": "Manifest",
+          "navDate": "1887-12-31"
+       }]
+    }

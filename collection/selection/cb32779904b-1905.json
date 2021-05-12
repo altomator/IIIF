@@ -1,0 +1,1856 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1905.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1905)" ], "en": [ "Le Gaulois (1905)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1905" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1905" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1905",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1905)" ],"en": [ "Gallica periodical: Le Gaulois (1905)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1905",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1905)" ],"en": [ "Gallica periodical: Le Gaulois (1905)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532738h/manifest.json",
+          "label": "Le Gaulois (01 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532739w/manifest.json",
+          "label": "Le Gaulois (02 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532740t/manifest.json",
+          "label": "Le Gaulois (03 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327416/manifest.json",
+          "label": "Le Gaulois (04 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532742k/manifest.json",
+          "label": "Le Gaulois (05 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532743z/manifest.json",
+          "label": "Le Gaulois (06 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532744b/manifest.json",
+          "label": "Le Gaulois (07 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532745q/manifest.json",
+          "label": "Le Gaulois (08 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327463/manifest.json",
+          "label": "Le Gaulois (09 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532747g/manifest.json",
+          "label": "Le Gaulois (10 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532748v/manifest.json",
+          "label": "Le Gaulois (11 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327497/manifest.json",
+          "label": "Le Gaulois (12 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327505/manifest.json",
+          "label": "Le Gaulois (13 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532751j/manifest.json",
+          "label": "Le Gaulois (14 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532752x/manifest.json",
+          "label": "Le Gaulois (15 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327539/manifest.json",
+          "label": "Le Gaulois (16 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532754p/manifest.json",
+          "label": "Le Gaulois (17 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327552/manifest.json",
+          "label": "Le Gaulois (18 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532756f/manifest.json",
+          "label": "Le Gaulois (19 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532757t/manifest.json",
+          "label": "Le Gaulois (20 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327586/manifest.json",
+          "label": "Le Gaulois (21 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532759k/manifest.json",
+          "label": "Le Gaulois (22 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532760h/manifest.json",
+          "label": "Le Gaulois (23 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532761w/manifest.json",
+          "label": "Le Gaulois (24 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327628/manifest.json",
+          "label": "Le Gaulois (25 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532763n/manifest.json",
+          "label": "Le Gaulois (26 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327641/manifest.json",
+          "label": "Le Gaulois (27 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532765d/manifest.json",
+          "label": "Le Gaulois (28 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532766s/manifest.json",
+          "label": "Le Gaulois (29 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327675/manifest.json",
+          "label": "Le Gaulois (30 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532768j/manifest.json",
+          "label": "Le Gaulois (31 janvier 1905)",
+          "type": "Manifest",
+          "navDate": "1905-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532769x/manifest.json",
+          "label": "Le Gaulois (01 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532770v/manifest.json",
+          "label": "Le Gaulois (02 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327717/manifest.json",
+          "label": "Le Gaulois (03 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532772m/manifest.json",
+          "label": "Le Gaulois (04 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327730/manifest.json",
+          "label": "Le Gaulois (05 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532774c/manifest.json",
+          "label": "Le Gaulois (06 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532775r/manifest.json",
+          "label": "Le Gaulois (07 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327764/manifest.json",
+          "label": "Le Gaulois (08 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532777h/manifest.json",
+          "label": "Le Gaulois (09 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532778w/manifest.json",
+          "label": "Le Gaulois (10 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327798/manifest.json",
+          "label": "Le Gaulois (11 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327806/manifest.json",
+          "label": "Le Gaulois (12 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532781k/manifest.json",
+          "label": "Le Gaulois (13 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532782z/manifest.json",
+          "label": "Le Gaulois (14 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532783b/manifest.json",
+          "label": "Le Gaulois (15 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532784q/manifest.json",
+          "label": "Le Gaulois (16 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327853/manifest.json",
+          "label": "Le Gaulois (17 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532786g/manifest.json",
+          "label": "Le Gaulois (18 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532787v/manifest.json",
+          "label": "Le Gaulois (19 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327887/manifest.json",
+          "label": "Le Gaulois (20 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532789m/manifest.json",
+          "label": "Le Gaulois (21 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532790j/manifest.json",
+          "label": "Le Gaulois (22 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532791x/manifest.json",
+          "label": "Le Gaulois (23 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327929/manifest.json",
+          "label": "Le Gaulois (24 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532793p/manifest.json",
+          "label": "Le Gaulois (25 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327942/manifest.json",
+          "label": "Le Gaulois (26 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532795f/manifest.json",
+          "label": "Le Gaulois (27 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532796t/manifest.json",
+          "label": "Le Gaulois (28 février 1905)",
+          "type": "Manifest",
+          "navDate": "1905-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327976/manifest.json",
+          "label": "Le Gaulois (01 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532798k/manifest.json",
+          "label": "Le Gaulois (02 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532799z/manifest.json",
+          "label": "Le Gaulois (03 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532800r/manifest.json",
+          "label": "Le Gaulois (04 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328014/manifest.json",
+          "label": "Le Gaulois (05 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532802h/manifest.json",
+          "label": "Le Gaulois (06 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532803w/manifest.json",
+          "label": "Le Gaulois (07 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328048/manifest.json",
+          "label": "Le Gaulois (08 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532805n/manifest.json",
+          "label": "Le Gaulois (09 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328061/manifest.json",
+          "label": "Le Gaulois (10 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532807d/manifest.json",
+          "label": "Le Gaulois (11 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532808s/manifest.json",
+          "label": "Le Gaulois (12 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328095/manifest.json",
+          "label": "Le Gaulois (13 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328103/manifest.json",
+          "label": "Le Gaulois (14 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532811g/manifest.json",
+          "label": "Le Gaulois (15 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532812v/manifest.json",
+          "label": "Le Gaulois (16 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328137/manifest.json",
+          "label": "Le Gaulois (17 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532814m/manifest.json",
+          "label": "Le Gaulois (18 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328150/manifest.json",
+          "label": "Le Gaulois (19 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532816c/manifest.json",
+          "label": "Le Gaulois (20 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532817r/manifest.json",
+          "label": "Le Gaulois (21 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328184/manifest.json",
+          "label": "Le Gaulois (22 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532819h/manifest.json",
+          "label": "Le Gaulois (23 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532820f/manifest.json",
+          "label": "Le Gaulois (24 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532821t/manifest.json",
+          "label": "Le Gaulois (25 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328226/manifest.json",
+          "label": "Le Gaulois (26 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532823k/manifest.json",
+          "label": "Le Gaulois (27 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532824z/manifest.json",
+          "label": "Le Gaulois (28 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532825b/manifest.json",
+          "label": "Le Gaulois (29 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532826q/manifest.json",
+          "label": "Le Gaulois (30 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328273/manifest.json",
+          "label": "Le Gaulois (31 mars 1905)",
+          "type": "Manifest",
+          "navDate": "1905-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532828g/manifest.json",
+          "label": "Le Gaulois (01 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532829v/manifest.json",
+          "label": "Le Gaulois (02 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532830s/manifest.json",
+          "label": "Le Gaulois (03 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328315/manifest.json",
+          "label": "Le Gaulois (04 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532832j/manifest.json",
+          "label": "Le Gaulois (05 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532833x/manifest.json",
+          "label": "Le Gaulois (06 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328349/manifest.json",
+          "label": "Le Gaulois (07 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532835p/manifest.json",
+          "label": "Le Gaulois (08 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328362/manifest.json",
+          "label": "Le Gaulois (09 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532837f/manifest.json",
+          "label": "Le Gaulois (10 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532838t/manifest.json",
+          "label": "Le Gaulois (11 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328396/manifest.json",
+          "label": "Le Gaulois (12 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328404/manifest.json",
+          "label": "Le Gaulois (13 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532841h/manifest.json",
+          "label": "Le Gaulois (14 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532842w/manifest.json",
+          "label": "Le Gaulois (15 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328438/manifest.json",
+          "label": "Le Gaulois (16 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532844n/manifest.json",
+          "label": "Le Gaulois (17 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328451/manifest.json",
+          "label": "Le Gaulois (18 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532846d/manifest.json",
+          "label": "Le Gaulois (19 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532847s/manifest.json",
+          "label": "Le Gaulois (20 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328485/manifest.json",
+          "label": "Le Gaulois (21 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532849j/manifest.json",
+          "label": "Le Gaulois (22 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532850g/manifest.json",
+          "label": "Le Gaulois (23 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532851v/manifest.json",
+          "label": "Le Gaulois (24 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328527/manifest.json",
+          "label": "Le Gaulois (25 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532853m/manifest.json",
+          "label": "Le Gaulois (26 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328540/manifest.json",
+          "label": "Le Gaulois (27 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532855c/manifest.json",
+          "label": "Le Gaulois (28 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532856r/manifest.json",
+          "label": "Le Gaulois (29 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328574/manifest.json",
+          "label": "Le Gaulois (30 avril 1905)",
+          "type": "Manifest",
+          "navDate": "1905-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532858h/manifest.json",
+          "label": "Le Gaulois (01 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532859w/manifest.json",
+          "label": "Le Gaulois (02 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532860t/manifest.json",
+          "label": "Le Gaulois (03 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328616/manifest.json",
+          "label": "Le Gaulois (04 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532862k/manifest.json",
+          "label": "Le Gaulois (05 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532863z/manifest.json",
+          "label": "Le Gaulois (06 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532864b/manifest.json",
+          "label": "Le Gaulois (07 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532865q/manifest.json",
+          "label": "Le Gaulois (08 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328663/manifest.json",
+          "label": "Le Gaulois (09 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532867g/manifest.json",
+          "label": "Le Gaulois (10 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532868v/manifest.json",
+          "label": "Le Gaulois (11 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328697/manifest.json",
+          "label": "Le Gaulois (12 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328705/manifest.json",
+          "label": "Le Gaulois (13 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532871j/manifest.json",
+          "label": "Le Gaulois (14 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532872x/manifest.json",
+          "label": "Le Gaulois (15 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328739/manifest.json",
+          "label": "Le Gaulois (16 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532874p/manifest.json",
+          "label": "Le Gaulois (17 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328752/manifest.json",
+          "label": "Le Gaulois (18 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532876f/manifest.json",
+          "label": "Le Gaulois (19 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532877t/manifest.json",
+          "label": "Le Gaulois (20 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328786/manifest.json",
+          "label": "Le Gaulois (21 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532879k/manifest.json",
+          "label": "Le Gaulois (22 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532880h/manifest.json",
+          "label": "Le Gaulois (23 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532881w/manifest.json",
+          "label": "Le Gaulois (24 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328828/manifest.json",
+          "label": "Le Gaulois (25 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532883n/manifest.json",
+          "label": "Le Gaulois (26 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328841/manifest.json",
+          "label": "Le Gaulois (27 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532885d/manifest.json",
+          "label": "Le Gaulois (28 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532886s/manifest.json",
+          "label": "Le Gaulois (29 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328875/manifest.json",
+          "label": "Le Gaulois (30 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532888j/manifest.json",
+          "label": "Le Gaulois (31 mai 1905)",
+          "type": "Manifest",
+          "navDate": "1905-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532889x/manifest.json",
+          "label": "Le Gaulois (01 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532890v/manifest.json",
+          "label": "Le Gaulois (02 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328917/manifest.json",
+          "label": "Le Gaulois (03 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532892m/manifest.json",
+          "label": "Le Gaulois (04 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328930/manifest.json",
+          "label": "Le Gaulois (05 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532894c/manifest.json",
+          "label": "Le Gaulois (06 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532895r/manifest.json",
+          "label": "Le Gaulois (07 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328964/manifest.json",
+          "label": "Le Gaulois (08 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532897h/manifest.json",
+          "label": "Le Gaulois (09 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532898w/manifest.json",
+          "label": "Le Gaulois (10 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5328998/manifest.json",
+          "label": "Le Gaulois (11 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329002/manifest.json",
+          "label": "Le Gaulois (12 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532901f/manifest.json",
+          "label": "Le Gaulois (13 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532902t/manifest.json",
+          "label": "Le Gaulois (14 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329036/manifest.json",
+          "label": "Le Gaulois (15 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532904k/manifest.json",
+          "label": "Le Gaulois (16 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532905z/manifest.json",
+          "label": "Le Gaulois (17 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532906b/manifest.json",
+          "label": "Le Gaulois (18 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532907q/manifest.json",
+          "label": "Le Gaulois (19 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329083/manifest.json",
+          "label": "Le Gaulois (20 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532909g/manifest.json",
+          "label": "Le Gaulois (21 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532910d/manifest.json",
+          "label": "Le Gaulois (22 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532911s/manifest.json",
+          "label": "Le Gaulois (23 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329125/manifest.json",
+          "label": "Le Gaulois (24 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532913j/manifest.json",
+          "label": "Le Gaulois (25 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532914x/manifest.json",
+          "label": "Le Gaulois (26 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329159/manifest.json",
+          "label": "Le Gaulois (27 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532916p/manifest.json",
+          "label": "Le Gaulois (28 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329172/manifest.json",
+          "label": "Le Gaulois (29 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532918f/manifest.json",
+          "label": "Le Gaulois (30 juin 1905)",
+          "type": "Manifest",
+          "navDate": "1905-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532919t/manifest.json",
+          "label": "Le Gaulois (01 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532920r/manifest.json",
+          "label": "Le Gaulois (02 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329214/manifest.json",
+          "label": "Le Gaulois (03 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532922h/manifest.json",
+          "label": "Le Gaulois (04 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532923w/manifest.json",
+          "label": "Le Gaulois (05 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329248/manifest.json",
+          "label": "Le Gaulois (06 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532925n/manifest.json",
+          "label": "Le Gaulois (07 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329261/manifest.json",
+          "label": "Le Gaulois (08 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532927d/manifest.json",
+          "label": "Le Gaulois (09 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532928s/manifest.json",
+          "label": "Le Gaulois (10 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329295/manifest.json",
+          "label": "Le Gaulois (11 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329303/manifest.json",
+          "label": "Le Gaulois (12 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532931g/manifest.json",
+          "label": "Le Gaulois (13 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532932v/manifest.json",
+          "label": "Le Gaulois (14 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329337/manifest.json",
+          "label": "Le Gaulois (15 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532934m/manifest.json",
+          "label": "Le Gaulois (16 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329350/manifest.json",
+          "label": "Le Gaulois (17 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532936c/manifest.json",
+          "label": "Le Gaulois (18 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532937r/manifest.json",
+          "label": "Le Gaulois (19 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329384/manifest.json",
+          "label": "Le Gaulois (20 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532939h/manifest.json",
+          "label": "Le Gaulois (21 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532940f/manifest.json",
+          "label": "Le Gaulois (22 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532941t/manifest.json",
+          "label": "Le Gaulois (23 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329426/manifest.json",
+          "label": "Le Gaulois (24 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532943k/manifest.json",
+          "label": "Le Gaulois (25 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532944z/manifest.json",
+          "label": "Le Gaulois (26 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532945b/manifest.json",
+          "label": "Le Gaulois (27 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532946q/manifest.json",
+          "label": "Le Gaulois (28 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329473/manifest.json",
+          "label": "Le Gaulois (29 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532948g/manifest.json",
+          "label": "Le Gaulois (30 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532949v/manifest.json",
+          "label": "Le Gaulois (31 juillet 1905)",
+          "type": "Manifest",
+          "navDate": "1905-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532950s/manifest.json",
+          "label": "Le Gaulois (01 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329515/manifest.json",
+          "label": "Le Gaulois (02 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532952j/manifest.json",
+          "label": "Le Gaulois (03 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532953x/manifest.json",
+          "label": "Le Gaulois (04 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329549/manifest.json",
+          "label": "Le Gaulois (05 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532955p/manifest.json",
+          "label": "Le Gaulois (06 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329562/manifest.json",
+          "label": "Le Gaulois (07 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532957f/manifest.json",
+          "label": "Le Gaulois (08 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532958t/manifest.json",
+          "label": "Le Gaulois (09 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329596/manifest.json",
+          "label": "Le Gaulois (10 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329604/manifest.json",
+          "label": "Le Gaulois (11 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532961h/manifest.json",
+          "label": "Le Gaulois (12 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532962w/manifest.json",
+          "label": "Le Gaulois (13 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329638/manifest.json",
+          "label": "Le Gaulois (14 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532964n/manifest.json",
+          "label": "Le Gaulois (15 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329651/manifest.json",
+          "label": "Le Gaulois (16 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532966d/manifest.json",
+          "label": "Le Gaulois (17 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532967s/manifest.json",
+          "label": "Le Gaulois (18 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329685/manifest.json",
+          "label": "Le Gaulois (19 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532969j/manifest.json",
+          "label": "Le Gaulois (20 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532970g/manifest.json",
+          "label": "Le Gaulois (21 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532971v/manifest.json",
+          "label": "Le Gaulois (22 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329727/manifest.json",
+          "label": "Le Gaulois (23 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532973m/manifest.json",
+          "label": "Le Gaulois (24 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329740/manifest.json",
+          "label": "Le Gaulois (25 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532975c/manifest.json",
+          "label": "Le Gaulois (26 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532976r/manifest.json",
+          "label": "Le Gaulois (27 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329774/manifest.json",
+          "label": "Le Gaulois (28 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532978h/manifest.json",
+          "label": "Le Gaulois (29 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532979w/manifest.json",
+          "label": "Le Gaulois (30 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532980t/manifest.json",
+          "label": "Le Gaulois (31 août 1905)",
+          "type": "Manifest",
+          "navDate": "1905-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329816/manifest.json",
+          "label": "Le Gaulois (01 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532982k/manifest.json",
+          "label": "Le Gaulois (02 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532983z/manifest.json",
+          "label": "Le Gaulois (03 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532984b/manifest.json",
+          "label": "Le Gaulois (04 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532985q/manifest.json",
+          "label": "Le Gaulois (05 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329863/manifest.json",
+          "label": "Le Gaulois (06 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532987g/manifest.json",
+          "label": "Le Gaulois (07 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532988v/manifest.json",
+          "label": "Le Gaulois (08 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329897/manifest.json",
+          "label": "Le Gaulois (09 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329905/manifest.json",
+          "label": "Le Gaulois (10 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532991j/manifest.json",
+          "label": "Le Gaulois (11 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532992x/manifest.json",
+          "label": "Le Gaulois (12 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329939/manifest.json",
+          "label": "Le Gaulois (13 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532994p/manifest.json",
+          "label": "Le Gaulois (14 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329952/manifest.json",
+          "label": "Le Gaulois (15 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532996f/manifest.json",
+          "label": "Le Gaulois (16 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532997t/manifest.json",
+          "label": "Le Gaulois (17 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5329986/manifest.json",
+          "label": "Le Gaulois (18 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532999k/manifest.json",
+          "label": "Le Gaulois (19 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533000j/manifest.json",
+          "label": "Le Gaulois (20 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533001x/manifest.json",
+          "label": "Le Gaulois (21 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330029/manifest.json",
+          "label": "Le Gaulois (22 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533003p/manifest.json",
+          "label": "Le Gaulois (23 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330042/manifest.json",
+          "label": "Le Gaulois (24 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533005f/manifest.json",
+          "label": "Le Gaulois (25 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533006t/manifest.json",
+          "label": "Le Gaulois (26 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330076/manifest.json",
+          "label": "Le Gaulois (27 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533008k/manifest.json",
+          "label": "Le Gaulois (28 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533009z/manifest.json",
+          "label": "Le Gaulois (29 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533010w/manifest.json",
+          "label": "Le Gaulois (30 septembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330118/manifest.json",
+          "label": "Le Gaulois (01 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533012n/manifest.json",
+          "label": "Le Gaulois (02 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330131/manifest.json",
+          "label": "Le Gaulois (03 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533014d/manifest.json",
+          "label": "Le Gaulois (04 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533015s/manifest.json",
+          "label": "Le Gaulois (05 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330165/manifest.json",
+          "label": "Le Gaulois (06 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533017j/manifest.json",
+          "label": "Le Gaulois (07 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533018x/manifest.json",
+          "label": "Le Gaulois (08 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330199/manifest.json",
+          "label": "Le Gaulois (09 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330207/manifest.json",
+          "label": "Le Gaulois (10 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533021m/manifest.json",
+          "label": "Le Gaulois (11 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330220/manifest.json",
+          "label": "Le Gaulois (12 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533023c/manifest.json",
+          "label": "Le Gaulois (13 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533024r/manifest.json",
+          "label": "Le Gaulois (14 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330254/manifest.json",
+          "label": "Le Gaulois (15 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533026h/manifest.json",
+          "label": "Le Gaulois (16 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533027w/manifest.json",
+          "label": "Le Gaulois (17 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330288/manifest.json",
+          "label": "Le Gaulois (18 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533029n/manifest.json",
+          "label": "Le Gaulois (19 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533030k/manifest.json",
+          "label": "Le Gaulois (20 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533031z/manifest.json",
+          "label": "Le Gaulois (21 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533032b/manifest.json",
+          "label": "Le Gaulois (22 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533033q/manifest.json",
+          "label": "Le Gaulois (23 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330343/manifest.json",
+          "label": "Le Gaulois (24 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533035g/manifest.json",
+          "label": "Le Gaulois (25 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533036v/manifest.json",
+          "label": "Le Gaulois (26 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330377/manifest.json",
+          "label": "Le Gaulois (27 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533038m/manifest.json",
+          "label": "Le Gaulois (28 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330390/manifest.json",
+          "label": "Le Gaulois (29 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533040x/manifest.json",
+          "label": "Le Gaulois (30 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330419/manifest.json",
+          "label": "Le Gaulois (31 octobre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533042p/manifest.json",
+          "label": "Le Gaulois (01 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330432/manifest.json",
+          "label": "Le Gaulois (02 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533044f/manifest.json",
+          "label": "Le Gaulois (03 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533045t/manifest.json",
+          "label": "Le Gaulois (04 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330466/manifest.json",
+          "label": "Le Gaulois (05 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533047k/manifest.json",
+          "label": "Le Gaulois (06 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533048z/manifest.json",
+          "label": "Le Gaulois (07 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533049b/manifest.json",
+          "label": "Le Gaulois (08 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330508/manifest.json",
+          "label": "Le Gaulois (09 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533051n/manifest.json",
+          "label": "Le Gaulois (10 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330521/manifest.json",
+          "label": "Le Gaulois (11 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533053d/manifest.json",
+          "label": "Le Gaulois (12 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533054s/manifest.json",
+          "label": "Le Gaulois (13 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330555/manifest.json",
+          "label": "Le Gaulois (14 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533056j/manifest.json",
+          "label": "Le Gaulois (15 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533057x/manifest.json",
+          "label": "Le Gaulois (16 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330589/manifest.json",
+          "label": "Le Gaulois (17 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533059p/manifest.json",
+          "label": "Le Gaulois (18 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533060m/manifest.json",
+          "label": "Le Gaulois (19 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330610/manifest.json",
+          "label": "Le Gaulois (20 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533062c/manifest.json",
+          "label": "Le Gaulois (21 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533063r/manifest.json",
+          "label": "Le Gaulois (22 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330644/manifest.json",
+          "label": "Le Gaulois (23 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533065h/manifest.json",
+          "label": "Le Gaulois (24 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533066w/manifest.json",
+          "label": "Le Gaulois (25 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330678/manifest.json",
+          "label": "Le Gaulois (26 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533068n/manifest.json",
+          "label": "Le Gaulois (27 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330691/manifest.json",
+          "label": "Le Gaulois (28 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533070z/manifest.json",
+          "label": "Le Gaulois (29 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533071b/manifest.json",
+          "label": "Le Gaulois (30 novembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533072q/manifest.json",
+          "label": "Le Gaulois (01 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330733/manifest.json",
+          "label": "Le Gaulois (02 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533074g/manifest.json",
+          "label": "Le Gaulois (03 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533075v/manifest.json",
+          "label": "Le Gaulois (04 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330767/manifest.json",
+          "label": "Le Gaulois (05 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533077m/manifest.json",
+          "label": "Le Gaulois (06 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330780/manifest.json",
+          "label": "Le Gaulois (07 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533079c/manifest.json",
+          "label": "Le Gaulois (08 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330809/manifest.json",
+          "label": "Le Gaulois (09 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533081p/manifest.json",
+          "label": "Le Gaulois (10 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330822/manifest.json",
+          "label": "Le Gaulois (11 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533083f/manifest.json",
+          "label": "Le Gaulois (12 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533084t/manifest.json",
+          "label": "Le Gaulois (13 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330856/manifest.json",
+          "label": "Le Gaulois (14 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533086k/manifest.json",
+          "label": "Le Gaulois (15 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533087z/manifest.json",
+          "label": "Le Gaulois (16 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533088b/manifest.json",
+          "label": "Le Gaulois (17 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533089q/manifest.json",
+          "label": "Le Gaulois (18 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533090n/manifest.json",
+          "label": "Le Gaulois (19 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330911/manifest.json",
+          "label": "Le Gaulois (20 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533092d/manifest.json",
+          "label": "Le Gaulois (21 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533093s/manifest.json",
+          "label": "Le Gaulois (22 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330945/manifest.json",
+          "label": "Le Gaulois (23 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533095j/manifest.json",
+          "label": "Le Gaulois (24 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533096x/manifest.json",
+          "label": "Le Gaulois (25 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330979/manifest.json",
+          "label": "Le Gaulois (26 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533098p/manifest.json",
+          "label": "Le Gaulois (27 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5330992/manifest.json",
+          "label": "Le Gaulois (28 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533100v/manifest.json",
+          "label": "Le Gaulois (29 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331017/manifest.json",
+          "label": "Le Gaulois (30 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533102m/manifest.json",
+          "label": "Le Gaulois (31 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1905-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327374/manifest.json",
+          "label": "Le Gaulois (31 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       }]
+    }

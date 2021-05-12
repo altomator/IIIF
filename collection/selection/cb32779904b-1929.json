@@ -1,0 +1,471 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1929.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1929)" ], "en": [ "Le Gaulois (1929)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1929" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1929" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1929",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1929)" ],"en": [ "Gallica periodical: Le Gaulois (1929)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1929",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1929)" ],"en": [ "Gallica periodical: Le Gaulois (1929)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5414820/manifest.json",
+          "label": "Le Gaulois (01 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541483c/manifest.json",
+          "label": "Le Gaulois (02 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541484r/manifest.json",
+          "label": "Le Gaulois (03 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5414854/manifest.json",
+          "label": "Le Gaulois (04 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541486h/manifest.json",
+          "label": "Le Gaulois (05 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541487w/manifest.json",
+          "label": "Le Gaulois (06 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5414888/manifest.json",
+          "label": "Le Gaulois (07 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541489n/manifest.json",
+          "label": "Le Gaulois (08 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541490k/manifest.json",
+          "label": "Le Gaulois (09 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541491z/manifest.json",
+          "label": "Le Gaulois (10 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541492b/manifest.json",
+          "label": "Le Gaulois (11 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541493q/manifest.json",
+          "label": "Le Gaulois (12 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5414943/manifest.json",
+          "label": "Le Gaulois (13 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541495g/manifest.json",
+          "label": "Le Gaulois (14 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541496v/manifest.json",
+          "label": "Le Gaulois (15 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5414977/manifest.json",
+          "label": "Le Gaulois (16 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541498m/manifest.json",
+          "label": "Le Gaulois (17 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5414990/manifest.json",
+          "label": "Le Gaulois (18 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541500s/manifest.json",
+          "label": "Le Gaulois (19 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415015/manifest.json",
+          "label": "Le Gaulois (20 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541502j/manifest.json",
+          "label": "Le Gaulois (21 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541503x/manifest.json",
+          "label": "Le Gaulois (22 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415049/manifest.json",
+          "label": "Le Gaulois (23 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541505p/manifest.json",
+          "label": "Le Gaulois (24 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415062/manifest.json",
+          "label": "Le Gaulois (25 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541507f/manifest.json",
+          "label": "Le Gaulois (26 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541508t/manifest.json",
+          "label": "Le Gaulois (27 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415096/manifest.json",
+          "label": "Le Gaulois (28 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415104/manifest.json",
+          "label": "Le Gaulois (29 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541511h/manifest.json",
+          "label": "Le Gaulois (30 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541512w/manifest.json",
+          "label": "Le Gaulois (31 janvier 1929)",
+          "type": "Manifest",
+          "navDate": "1929-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415138/manifest.json",
+          "label": "Le Gaulois (01 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541514n/manifest.json",
+          "label": "Le Gaulois (02 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415151/manifest.json",
+          "label": "Le Gaulois (03 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541516d/manifest.json",
+          "label": "Le Gaulois (04 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541517s/manifest.json",
+          "label": "Le Gaulois (05 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415185/manifest.json",
+          "label": "Le Gaulois (06 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541519j/manifest.json",
+          "label": "Le Gaulois (07 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541520g/manifest.json",
+          "label": "Le Gaulois (08 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541521v/manifest.json",
+          "label": "Le Gaulois (09 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415227/manifest.json",
+          "label": "Le Gaulois (10 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541523m/manifest.json",
+          "label": "Le Gaulois (11 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415240/manifest.json",
+          "label": "Le Gaulois (12 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541525c/manifest.json",
+          "label": "Le Gaulois (13 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541526r/manifest.json",
+          "label": "Le Gaulois (14 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415274/manifest.json",
+          "label": "Le Gaulois (15 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541528h/manifest.json",
+          "label": "Le Gaulois (16 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541529w/manifest.json",
+          "label": "Le Gaulois (17 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541530t/manifest.json",
+          "label": "Le Gaulois (18 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415316/manifest.json",
+          "label": "Le Gaulois (19 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541532k/manifest.json",
+          "label": "Le Gaulois (20 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541533z/manifest.json",
+          "label": "Le Gaulois (21 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541534b/manifest.json",
+          "label": "Le Gaulois (22 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541535q/manifest.json",
+          "label": "Le Gaulois (23 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415363/manifest.json",
+          "label": "Le Gaulois (24 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541537g/manifest.json",
+          "label": "Le Gaulois (25 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541538v/manifest.json",
+          "label": "Le Gaulois (26 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415397/manifest.json",
+          "label": "Le Gaulois (27 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415405/manifest.json",
+          "label": "Le Gaulois (28 février 1929)",
+          "type": "Manifest",
+          "navDate": "1929-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541541j/manifest.json",
+          "label": "Le Gaulois (01 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541542x/manifest.json",
+          "label": "Le Gaulois (02 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415439/manifest.json",
+          "label": "Le Gaulois (03 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541544p/manifest.json",
+          "label": "Le Gaulois (04 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415452/manifest.json",
+          "label": "Le Gaulois (05 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541546f/manifest.json",
+          "label": "Le Gaulois (06 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541547t/manifest.json",
+          "label": "Le Gaulois (07 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415486/manifest.json",
+          "label": "Le Gaulois (08 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541549k/manifest.json",
+          "label": "Le Gaulois (09 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541550h/manifest.json",
+          "label": "Le Gaulois (10 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541551w/manifest.json",
+          "label": "Le Gaulois (11 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415528/manifest.json",
+          "label": "Le Gaulois (12 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541553n/manifest.json",
+          "label": "Le Gaulois (13 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415541/manifest.json",
+          "label": "Le Gaulois (14 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541555d/manifest.json",
+          "label": "Le Gaulois (15 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541556s/manifest.json",
+          "label": "Le Gaulois (16 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415575/manifest.json",
+          "label": "Le Gaulois (17 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541558j/manifest.json",
+          "label": "Le Gaulois (18 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541559x/manifest.json",
+          "label": "Le Gaulois (19 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541560v/manifest.json",
+          "label": "Le Gaulois (20 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415617/manifest.json",
+          "label": "Le Gaulois (21 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541562m/manifest.json",
+          "label": "Le Gaulois (22 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415630/manifest.json",
+          "label": "Le Gaulois (23 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541564c/manifest.json",
+          "label": "Le Gaulois (24 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541565r/manifest.json",
+          "label": "Le Gaulois (25 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415664/manifest.json",
+          "label": "Le Gaulois (26 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541567h/manifest.json",
+          "label": "Le Gaulois (27 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541568w/manifest.json",
+          "label": "Le Gaulois (28 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415698/manifest.json",
+          "label": "Le Gaulois (29 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5415706/manifest.json",
+          "label": "Le Gaulois (30 mars 1929)",
+          "type": "Manifest",
+          "navDate": "1929-03-30"
+       }]
+    }

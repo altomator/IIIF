@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb327788531-1904.json",
+  "type": "Collection",
+  "label": { "fr": [ "La Fronde (1904)" ], "en": [ "La Fronde (1904)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre La Fronde pour l'ann&#xE9;e 1904" ], "en": [ "This collection gathers all the issues of the title La Fronde for the year 1904" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb327788531/date1904",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : La Fronde (1904)" ],"en": [ "Gallica periodical: La Fronde (1904)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb327788531/date1904",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : La Fronde (1904)" ],"en": [ "Gallica periodical: La Fronde (1904)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k67062095/manifest.json",
+          "label": "La Fronde (01 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6706210t/manifest.json",
+          "label": "La Fronde (01 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k67062117/manifest.json",
+          "label": "La Fronde (01 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6706212n/manifest.json",
+          "label": "La Fronde (01 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k67062132/manifest.json",
+          "label": "La Fronde (01 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6706214g/manifest.json",
+          "label": "La Fronde (01 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6706215w/manifest.json",
+          "label": "La Fronde (01 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k67062169/manifest.json",
+          "label": "La Fronde (01 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6706217q/manifest.json",
+          "label": "La Fronde (01 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k67062184/manifest.json",
+          "label": "La Fronde (01 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6706219j/manifest.json",
+          "label": "La Fronde (01 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k67062206/manifest.json",
+          "label": "La Fronde (01 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-01"
+       }]
+    }

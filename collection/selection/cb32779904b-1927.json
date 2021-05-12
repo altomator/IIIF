@@ -1,0 +1,1851 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1927.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1927)" ], "en": [ "Le Gaulois (1927)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1927" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1927" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1927",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1927)" ],"en": [ "Gallica periodical: Le Gaulois (1927)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1927",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1927)" ],"en": [ "Gallica periodical: Le Gaulois (1927)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407517/manifest.json",
+          "label": "Le Gaulois (01 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540752m/manifest.json",
+          "label": "Le Gaulois (02 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407530/manifest.json",
+          "label": "Le Gaulois (03 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540754c/manifest.json",
+          "label": "Le Gaulois (04 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540755r/manifest.json",
+          "label": "Le Gaulois (05 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407564/manifest.json",
+          "label": "Le Gaulois (06 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540757h/manifest.json",
+          "label": "Le Gaulois (07 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540758w/manifest.json",
+          "label": "Le Gaulois (08 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407598/manifest.json",
+          "label": "Le Gaulois (09 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407606/manifest.json",
+          "label": "Le Gaulois (10 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540761k/manifest.json",
+          "label": "Le Gaulois (11 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540762z/manifest.json",
+          "label": "Le Gaulois (12 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540763b/manifest.json",
+          "label": "Le Gaulois (13 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540764q/manifest.json",
+          "label": "Le Gaulois (14 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407653/manifest.json",
+          "label": "Le Gaulois (15 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540766g/manifest.json",
+          "label": "Le Gaulois (16 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540767v/manifest.json",
+          "label": "Le Gaulois (17 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407687/manifest.json",
+          "label": "Le Gaulois (18 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540769m/manifest.json",
+          "label": "Le Gaulois (19 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540770j/manifest.json",
+          "label": "Le Gaulois (20 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540771x/manifest.json",
+          "label": "Le Gaulois (21 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407729/manifest.json",
+          "label": "Le Gaulois (22 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540773p/manifest.json",
+          "label": "Le Gaulois (23 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407742/manifest.json",
+          "label": "Le Gaulois (24 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540775f/manifest.json",
+          "label": "Le Gaulois (25 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540776t/manifest.json",
+          "label": "Le Gaulois (26 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407776/manifest.json",
+          "label": "Le Gaulois (27 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540778k/manifest.json",
+          "label": "Le Gaulois (28 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540779z/manifest.json",
+          "label": "Le Gaulois (29 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540780w/manifest.json",
+          "label": "Le Gaulois (30 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407818/manifest.json",
+          "label": "Le Gaulois (31 janvier 1927)",
+          "type": "Manifest",
+          "navDate": "1927-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540782n/manifest.json",
+          "label": "Le Gaulois (01 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407831/manifest.json",
+          "label": "Le Gaulois (02 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540784d/manifest.json",
+          "label": "Le Gaulois (03 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540785s/manifest.json",
+          "label": "Le Gaulois (04 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407865/manifest.json",
+          "label": "Le Gaulois (05 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540787j/manifest.json",
+          "label": "Le Gaulois (06 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540788x/manifest.json",
+          "label": "Le Gaulois (07 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407899/manifest.json",
+          "label": "Le Gaulois (08 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407907/manifest.json",
+          "label": "Le Gaulois (09 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540791m/manifest.json",
+          "label": "Le Gaulois (10 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407920/manifest.json",
+          "label": "Le Gaulois (11 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540793c/manifest.json",
+          "label": "Le Gaulois (12 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540794r/manifest.json",
+          "label": "Le Gaulois (13 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407954/manifest.json",
+          "label": "Le Gaulois (14 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540796h/manifest.json",
+          "label": "Le Gaulois (15 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540797w/manifest.json",
+          "label": "Le Gaulois (16 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5407988/manifest.json",
+          "label": "Le Gaulois (17 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540799n/manifest.json",
+          "label": "Le Gaulois (18 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540800f/manifest.json",
+          "label": "Le Gaulois (19 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540801t/manifest.json",
+          "label": "Le Gaulois (20 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408026/manifest.json",
+          "label": "Le Gaulois (21 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540803k/manifest.json",
+          "label": "Le Gaulois (22 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540804z/manifest.json",
+          "label": "Le Gaulois (23 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540805b/manifest.json",
+          "label": "Le Gaulois (24 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540806q/manifest.json",
+          "label": "Le Gaulois (25 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408073/manifest.json",
+          "label": "Le Gaulois (26 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540808g/manifest.json",
+          "label": "Le Gaulois (27 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540809v/manifest.json",
+          "label": "Le Gaulois (28 février 1927)",
+          "type": "Manifest",
+          "navDate": "1927-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540810s/manifest.json",
+          "label": "Le Gaulois (01 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408115/manifest.json",
+          "label": "Le Gaulois (02 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540812j/manifest.json",
+          "label": "Le Gaulois (03 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540813x/manifest.json",
+          "label": "Le Gaulois (04 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408149/manifest.json",
+          "label": "Le Gaulois (05 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540815p/manifest.json",
+          "label": "Le Gaulois (06 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408162/manifest.json",
+          "label": "Le Gaulois (07 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540817f/manifest.json",
+          "label": "Le Gaulois (08 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540818t/manifest.json",
+          "label": "Le Gaulois (09 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408196/manifest.json",
+          "label": "Le Gaulois (10 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408204/manifest.json",
+          "label": "Le Gaulois (11 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540821h/manifest.json",
+          "label": "Le Gaulois (12 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540822w/manifest.json",
+          "label": "Le Gaulois (13 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408238/manifest.json",
+          "label": "Le Gaulois (14 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540824n/manifest.json",
+          "label": "Le Gaulois (15 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408251/manifest.json",
+          "label": "Le Gaulois (16 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540826d/manifest.json",
+          "label": "Le Gaulois (17 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540827s/manifest.json",
+          "label": "Le Gaulois (18 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408285/manifest.json",
+          "label": "Le Gaulois (19 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540829j/manifest.json",
+          "label": "Le Gaulois (20 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540830g/manifest.json",
+          "label": "Le Gaulois (21 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540831v/manifest.json",
+          "label": "Le Gaulois (22 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408327/manifest.json",
+          "label": "Le Gaulois (23 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540833m/manifest.json",
+          "label": "Le Gaulois (24 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408340/manifest.json",
+          "label": "Le Gaulois (25 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540835c/manifest.json",
+          "label": "Le Gaulois (26 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540836r/manifest.json",
+          "label": "Le Gaulois (27 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408374/manifest.json",
+          "label": "Le Gaulois (28 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540838h/manifest.json",
+          "label": "Le Gaulois (29 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540839w/manifest.json",
+          "label": "Le Gaulois (30 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540840t/manifest.json",
+          "label": "Le Gaulois (31 mars 1927)",
+          "type": "Manifest",
+          "navDate": "1927-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408416/manifest.json",
+          "label": "Le Gaulois (01 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540842k/manifest.json",
+          "label": "Le Gaulois (02 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540843z/manifest.json",
+          "label": "Le Gaulois (03 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540844b/manifest.json",
+          "label": "Le Gaulois (04 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540845q/manifest.json",
+          "label": "Le Gaulois (05 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408463/manifest.json",
+          "label": "Le Gaulois (06 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540847g/manifest.json",
+          "label": "Le Gaulois (07 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540848v/manifest.json",
+          "label": "Le Gaulois (08 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408497/manifest.json",
+          "label": "Le Gaulois (09 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408505/manifest.json",
+          "label": "Le Gaulois (10 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540851j/manifest.json",
+          "label": "Le Gaulois (11 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540852x/manifest.json",
+          "label": "Le Gaulois (12 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408539/manifest.json",
+          "label": "Le Gaulois (13 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540854p/manifest.json",
+          "label": "Le Gaulois (14 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408552/manifest.json",
+          "label": "Le Gaulois (15 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540856f/manifest.json",
+          "label": "Le Gaulois (16 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540857t/manifest.json",
+          "label": "Le Gaulois (17 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408586/manifest.json",
+          "label": "Le Gaulois (18 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540859k/manifest.json",
+          "label": "Le Gaulois (19 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540860h/manifest.json",
+          "label": "Le Gaulois (20 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540861w/manifest.json",
+          "label": "Le Gaulois (21 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408628/manifest.json",
+          "label": "Le Gaulois (22 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540863n/manifest.json",
+          "label": "Le Gaulois (23 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408641/manifest.json",
+          "label": "Le Gaulois (24 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540865d/manifest.json",
+          "label": "Le Gaulois (25 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540866s/manifest.json",
+          "label": "Le Gaulois (26 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408675/manifest.json",
+          "label": "Le Gaulois (27 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540868j/manifest.json",
+          "label": "Le Gaulois (28 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540869x/manifest.json",
+          "label": "Le Gaulois (29 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540870v/manifest.json",
+          "label": "Le Gaulois (30 avril 1927)",
+          "type": "Manifest",
+          "navDate": "1927-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408717/manifest.json",
+          "label": "Le Gaulois (01 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540872m/manifest.json",
+          "label": "Le Gaulois (02 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408730/manifest.json",
+          "label": "Le Gaulois (03 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540874c/manifest.json",
+          "label": "Le Gaulois (04 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540875r/manifest.json",
+          "label": "Le Gaulois (05 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408764/manifest.json",
+          "label": "Le Gaulois (06 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540877h/manifest.json",
+          "label": "Le Gaulois (07 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540878w/manifest.json",
+          "label": "Le Gaulois (08 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408798/manifest.json",
+          "label": "Le Gaulois (09 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408806/manifest.json",
+          "label": "Le Gaulois (10 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540881k/manifest.json",
+          "label": "Le Gaulois (11 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540882z/manifest.json",
+          "label": "Le Gaulois (12 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540883b/manifest.json",
+          "label": "Le Gaulois (13 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540884q/manifest.json",
+          "label": "Le Gaulois (14 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408853/manifest.json",
+          "label": "Le Gaulois (15 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540886g/manifest.json",
+          "label": "Le Gaulois (16 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540887v/manifest.json",
+          "label": "Le Gaulois (17 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408887/manifest.json",
+          "label": "Le Gaulois (18 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540889m/manifest.json",
+          "label": "Le Gaulois (19 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540890j/manifest.json",
+          "label": "Le Gaulois (20 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540891x/manifest.json",
+          "label": "Le Gaulois (21 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408929/manifest.json",
+          "label": "Le Gaulois (22 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540893p/manifest.json",
+          "label": "Le Gaulois (23 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408942/manifest.json",
+          "label": "Le Gaulois (24 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540895f/manifest.json",
+          "label": "Le Gaulois (25 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540896t/manifest.json",
+          "label": "Le Gaulois (26 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5408976/manifest.json",
+          "label": "Le Gaulois (27 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540898k/manifest.json",
+          "label": "Le Gaulois (28 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540899z/manifest.json",
+          "label": "Le Gaulois (29 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540900r/manifest.json",
+          "label": "Le Gaulois (30 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409014/manifest.json",
+          "label": "Le Gaulois (31 mai 1927)",
+          "type": "Manifest",
+          "navDate": "1927-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540902h/manifest.json",
+          "label": "Le Gaulois (01 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540903w/manifest.json",
+          "label": "Le Gaulois (02 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409048/manifest.json",
+          "label": "Le Gaulois (03 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540905n/manifest.json",
+          "label": "Le Gaulois (04 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409061/manifest.json",
+          "label": "Le Gaulois (05 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540907d/manifest.json",
+          "label": "Le Gaulois (06 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540908s/manifest.json",
+          "label": "Le Gaulois (07 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409095/manifest.json",
+          "label": "Le Gaulois (08 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409103/manifest.json",
+          "label": "Le Gaulois (09 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540911g/manifest.json",
+          "label": "Le Gaulois (10 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540912v/manifest.json",
+          "label": "Le Gaulois (11 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409137/manifest.json",
+          "label": "Le Gaulois (12 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540914m/manifest.json",
+          "label": "Le Gaulois (13 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409150/manifest.json",
+          "label": "Le Gaulois (14 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540916c/manifest.json",
+          "label": "Le Gaulois (15 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540917r/manifest.json",
+          "label": "Le Gaulois (16 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409184/manifest.json",
+          "label": "Le Gaulois (17 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540919h/manifest.json",
+          "label": "Le Gaulois (18 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540920f/manifest.json",
+          "label": "Le Gaulois (19 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540921t/manifest.json",
+          "label": "Le Gaulois (20 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409226/manifest.json",
+          "label": "Le Gaulois (21 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540923k/manifest.json",
+          "label": "Le Gaulois (22 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540924z/manifest.json",
+          "label": "Le Gaulois (23 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540925b/manifest.json",
+          "label": "Le Gaulois (24 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540926q/manifest.json",
+          "label": "Le Gaulois (25 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409273/manifest.json",
+          "label": "Le Gaulois (26 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540928g/manifest.json",
+          "label": "Le Gaulois (27 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540929v/manifest.json",
+          "label": "Le Gaulois (28 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540930s/manifest.json",
+          "label": "Le Gaulois (29 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409315/manifest.json",
+          "label": "Le Gaulois (30 juin 1927)",
+          "type": "Manifest",
+          "navDate": "1927-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540932j/manifest.json",
+          "label": "Le Gaulois (01 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540933x/manifest.json",
+          "label": "Le Gaulois (02 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409349/manifest.json",
+          "label": "Le Gaulois (03 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540935p/manifest.json",
+          "label": "Le Gaulois (04 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409362/manifest.json",
+          "label": "Le Gaulois (05 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540937f/manifest.json",
+          "label": "Le Gaulois (06 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540938t/manifest.json",
+          "label": "Le Gaulois (07 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409396/manifest.json",
+          "label": "Le Gaulois (08 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409404/manifest.json",
+          "label": "Le Gaulois (09 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540941h/manifest.json",
+          "label": "Le Gaulois (10 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540942w/manifest.json",
+          "label": "Le Gaulois (11 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409438/manifest.json",
+          "label": "Le Gaulois (12 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540944n/manifest.json",
+          "label": "Le Gaulois (13 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409451/manifest.json",
+          "label": "Le Gaulois (14 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540946d/manifest.json",
+          "label": "Le Gaulois (15 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540947s/manifest.json",
+          "label": "Le Gaulois (16 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409485/manifest.json",
+          "label": "Le Gaulois (17 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540949j/manifest.json",
+          "label": "Le Gaulois (18 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540950g/manifest.json",
+          "label": "Le Gaulois (19 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540951v/manifest.json",
+          "label": "Le Gaulois (20 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409527/manifest.json",
+          "label": "Le Gaulois (21 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540953m/manifest.json",
+          "label": "Le Gaulois (22 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409540/manifest.json",
+          "label": "Le Gaulois (23 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540955c/manifest.json",
+          "label": "Le Gaulois (24 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540956r/manifest.json",
+          "label": "Le Gaulois (25 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409574/manifest.json",
+          "label": "Le Gaulois (26 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540958h/manifest.json",
+          "label": "Le Gaulois (27 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540959w/manifest.json",
+          "label": "Le Gaulois (28 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540960t/manifest.json",
+          "label": "Le Gaulois (29 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409616/manifest.json",
+          "label": "Le Gaulois (30 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540962k/manifest.json",
+          "label": "Le Gaulois (31 juillet 1927)",
+          "type": "Manifest",
+          "navDate": "1927-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540963z/manifest.json",
+          "label": "Le Gaulois (01 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540964b/manifest.json",
+          "label": "Le Gaulois (02 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540965q/manifest.json",
+          "label": "Le Gaulois (03 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409663/manifest.json",
+          "label": "Le Gaulois (04 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540967g/manifest.json",
+          "label": "Le Gaulois (05 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540968v/manifest.json",
+          "label": "Le Gaulois (06 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409697/manifest.json",
+          "label": "Le Gaulois (07 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409705/manifest.json",
+          "label": "Le Gaulois (08 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540971j/manifest.json",
+          "label": "Le Gaulois (09 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540972x/manifest.json",
+          "label": "Le Gaulois (10 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409739/manifest.json",
+          "label": "Le Gaulois (11 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540974p/manifest.json",
+          "label": "Le Gaulois (12 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409752/manifest.json",
+          "label": "Le Gaulois (13 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540976f/manifest.json",
+          "label": "Le Gaulois (14 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540977t/manifest.json",
+          "label": "Le Gaulois (15 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409786/manifest.json",
+          "label": "Le Gaulois (16 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540979k/manifest.json",
+          "label": "Le Gaulois (17 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540980h/manifest.json",
+          "label": "Le Gaulois (18 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540981w/manifest.json",
+          "label": "Le Gaulois (19 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409828/manifest.json",
+          "label": "Le Gaulois (20 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540983n/manifest.json",
+          "label": "Le Gaulois (21 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409841/manifest.json",
+          "label": "Le Gaulois (22 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540985d/manifest.json",
+          "label": "Le Gaulois (23 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540986s/manifest.json",
+          "label": "Le Gaulois (24 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409875/manifest.json",
+          "label": "Le Gaulois (25 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540988j/manifest.json",
+          "label": "Le Gaulois (26 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540989x/manifest.json",
+          "label": "Le Gaulois (27 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540990v/manifest.json",
+          "label": "Le Gaulois (28 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409917/manifest.json",
+          "label": "Le Gaulois (29 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540992m/manifest.json",
+          "label": "Le Gaulois (30 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409930/manifest.json",
+          "label": "Le Gaulois (31 août 1927)",
+          "type": "Manifest",
+          "navDate": "1927-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540994c/manifest.json",
+          "label": "Le Gaulois (01 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540995r/manifest.json",
+          "label": "Le Gaulois (02 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409964/manifest.json",
+          "label": "Le Gaulois (03 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540997h/manifest.json",
+          "label": "Le Gaulois (04 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540998w/manifest.json",
+          "label": "Le Gaulois (05 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5409998/manifest.json",
+          "label": "Le Gaulois (06 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410007/manifest.json",
+          "label": "Le Gaulois (07 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541001m/manifest.json",
+          "label": "Le Gaulois (08 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410020/manifest.json",
+          "label": "Le Gaulois (09 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541003c/manifest.json",
+          "label": "Le Gaulois (10 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541004r/manifest.json",
+          "label": "Le Gaulois (11 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410054/manifest.json",
+          "label": "Le Gaulois (12 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541006h/manifest.json",
+          "label": "Le Gaulois (13 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541007w/manifest.json",
+          "label": "Le Gaulois (14 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410088/manifest.json",
+          "label": "Le Gaulois (15 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541009n/manifest.json",
+          "label": "Le Gaulois (16 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541010k/manifest.json",
+          "label": "Le Gaulois (17 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541011z/manifest.json",
+          "label": "Le Gaulois (18 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541012b/manifest.json",
+          "label": "Le Gaulois (19 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541013q/manifest.json",
+          "label": "Le Gaulois (20 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410143/manifest.json",
+          "label": "Le Gaulois (21 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541015g/manifest.json",
+          "label": "Le Gaulois (22 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541016v/manifest.json",
+          "label": "Le Gaulois (23 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410177/manifest.json",
+          "label": "Le Gaulois (24 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541018m/manifest.json",
+          "label": "Le Gaulois (25 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410190/manifest.json",
+          "label": "Le Gaulois (26 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541020x/manifest.json",
+          "label": "Le Gaulois (27 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410219/manifest.json",
+          "label": "Le Gaulois (28 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541022p/manifest.json",
+          "label": "Le Gaulois (29 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410232/manifest.json",
+          "label": "Le Gaulois (30 septembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541024f/manifest.json",
+          "label": "Le Gaulois (01 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541025t/manifest.json",
+          "label": "Le Gaulois (02 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410266/manifest.json",
+          "label": "Le Gaulois (03 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541027k/manifest.json",
+          "label": "Le Gaulois (04 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541028z/manifest.json",
+          "label": "Le Gaulois (05 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541029b/manifest.json",
+          "label": "Le Gaulois (06 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410308/manifest.json",
+          "label": "Le Gaulois (07 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541031n/manifest.json",
+          "label": "Le Gaulois (08 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410321/manifest.json",
+          "label": "Le Gaulois (09 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541033d/manifest.json",
+          "label": "Le Gaulois (10 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541034s/manifest.json",
+          "label": "Le Gaulois (11 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410355/manifest.json",
+          "label": "Le Gaulois (12 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541036j/manifest.json",
+          "label": "Le Gaulois (13 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541037x/manifest.json",
+          "label": "Le Gaulois (14 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410389/manifest.json",
+          "label": "Le Gaulois (15 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541039p/manifest.json",
+          "label": "Le Gaulois (16 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541040m/manifest.json",
+          "label": "Le Gaulois (17 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410410/manifest.json",
+          "label": "Le Gaulois (18 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541042c/manifest.json",
+          "label": "Le Gaulois (19 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541043r/manifest.json",
+          "label": "Le Gaulois (20 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410444/manifest.json",
+          "label": "Le Gaulois (21 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541045h/manifest.json",
+          "label": "Le Gaulois (22 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541046w/manifest.json",
+          "label": "Le Gaulois (23 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410478/manifest.json",
+          "label": "Le Gaulois (24 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541048n/manifest.json",
+          "label": "Le Gaulois (25 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410491/manifest.json",
+          "label": "Le Gaulois (26 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541050z/manifest.json",
+          "label": "Le Gaulois (27 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541051b/manifest.json",
+          "label": "Le Gaulois (28 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541052q/manifest.json",
+          "label": "Le Gaulois (29 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410533/manifest.json",
+          "label": "Le Gaulois (30 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541054g/manifest.json",
+          "label": "Le Gaulois (31 octobre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541055v/manifest.json",
+          "label": "Le Gaulois (01 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410567/manifest.json",
+          "label": "Le Gaulois (02 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541057m/manifest.json",
+          "label": "Le Gaulois (03 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410580/manifest.json",
+          "label": "Le Gaulois (04 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541059c/manifest.json",
+          "label": "Le Gaulois (05 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410609/manifest.json",
+          "label": "Le Gaulois (06 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541061p/manifest.json",
+          "label": "Le Gaulois (07 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410622/manifest.json",
+          "label": "Le Gaulois (08 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541063f/manifest.json",
+          "label": "Le Gaulois (09 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541064t/manifest.json",
+          "label": "Le Gaulois (10 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410656/manifest.json",
+          "label": "Le Gaulois (11 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541066k/manifest.json",
+          "label": "Le Gaulois (12 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541067z/manifest.json",
+          "label": "Le Gaulois (13 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541068b/manifest.json",
+          "label": "Le Gaulois (14 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541069q/manifest.json",
+          "label": "Le Gaulois (15 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541070n/manifest.json",
+          "label": "Le Gaulois (16 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410711/manifest.json",
+          "label": "Le Gaulois (17 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541072d/manifest.json",
+          "label": "Le Gaulois (18 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541073s/manifest.json",
+          "label": "Le Gaulois (19 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410745/manifest.json",
+          "label": "Le Gaulois (20 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541075j/manifest.json",
+          "label": "Le Gaulois (21 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541076x/manifest.json",
+          "label": "Le Gaulois (22 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410779/manifest.json",
+          "label": "Le Gaulois (23 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541078p/manifest.json",
+          "label": "Le Gaulois (24 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410792/manifest.json",
+          "label": "Le Gaulois (25 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410800/manifest.json",
+          "label": "Le Gaulois (26 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541081c/manifest.json",
+          "label": "Le Gaulois (27 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541082r/manifest.json",
+          "label": "Le Gaulois (28 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410834/manifest.json",
+          "label": "Le Gaulois (29 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541084h/manifest.json",
+          "label": "Le Gaulois (30 novembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541085w/manifest.json",
+          "label": "Le Gaulois (01 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410868/manifest.json",
+          "label": "Le Gaulois (02 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541087n/manifest.json",
+          "label": "Le Gaulois (03 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410881/manifest.json",
+          "label": "Le Gaulois (04 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541089d/manifest.json",
+          "label": "Le Gaulois (05 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541090b/manifest.json",
+          "label": "Le Gaulois (06 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541091q/manifest.json",
+          "label": "Le Gaulois (07 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410923/manifest.json",
+          "label": "Le Gaulois (08 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541093g/manifest.json",
+          "label": "Le Gaulois (09 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541094v/manifest.json",
+          "label": "Le Gaulois (10 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410957/manifest.json",
+          "label": "Le Gaulois (11 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541096m/manifest.json",
+          "label": "Le Gaulois (12 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5410970/manifest.json",
+          "label": "Le Gaulois (13 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541098c/manifest.json",
+          "label": "Le Gaulois (14 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541099r/manifest.json",
+          "label": "Le Gaulois (15 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541100j/manifest.json",
+          "label": "Le Gaulois (16 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541101x/manifest.json",
+          "label": "Le Gaulois (17 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5411029/manifest.json",
+          "label": "Le Gaulois (18 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541103p/manifest.json",
+          "label": "Le Gaulois (19 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5411042/manifest.json",
+          "label": "Le Gaulois (20 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541105f/manifest.json",
+          "label": "Le Gaulois (21 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541106t/manifest.json",
+          "label": "Le Gaulois (22 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5411076/manifest.json",
+          "label": "Le Gaulois (23 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541108k/manifest.json",
+          "label": "Le Gaulois (24 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541109z/manifest.json",
+          "label": "Le Gaulois (25 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541110w/manifest.json",
+          "label": "Le Gaulois (26 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5411118/manifest.json",
+          "label": "Le Gaulois (27 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541112n/manifest.json",
+          "label": "Le Gaulois (28 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5411131/manifest.json",
+          "label": "Le Gaulois (29 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541114d/manifest.json",
+          "label": "Le Gaulois (30 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k541115s/manifest.json",
+          "label": "Le Gaulois (31 décembre 1927)",
+          "type": "Manifest",
+          "navDate": "1927-12-31"
+       }]
+    }

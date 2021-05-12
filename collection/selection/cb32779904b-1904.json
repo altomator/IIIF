@@ -1,0 +1,1871 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1904.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1904)" ], "en": [ "Le Gaulois (1904)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1904" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1904" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1904",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1904)" ],"en": [ "Gallica periodical: Le Gaulois (1904)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1904",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1904)" ],"en": [ "Gallica periodical: Le Gaulois (1904)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532370m/manifest.json",
+          "label": "Le Gaulois (01 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323710/manifest.json",
+          "label": "Le Gaulois (02 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532372c/manifest.json",
+          "label": "Le Gaulois (03 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532373r/manifest.json",
+          "label": "Le Gaulois (04 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323744/manifest.json",
+          "label": "Le Gaulois (05 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532375h/manifest.json",
+          "label": "Le Gaulois (06 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532376w/manifest.json",
+          "label": "Le Gaulois (07 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323778/manifest.json",
+          "label": "Le Gaulois (08 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532378n/manifest.json",
+          "label": "Le Gaulois (09 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323791/manifest.json",
+          "label": "Le Gaulois (10 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532380z/manifest.json",
+          "label": "Le Gaulois (11 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532381b/manifest.json",
+          "label": "Le Gaulois (12 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532382q/manifest.json",
+          "label": "Le Gaulois (13 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323833/manifest.json",
+          "label": "Le Gaulois (14 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532384g/manifest.json",
+          "label": "Le Gaulois (15 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532385v/manifest.json",
+          "label": "Le Gaulois (16 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323867/manifest.json",
+          "label": "Le Gaulois (17 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532387m/manifest.json",
+          "label": "Le Gaulois (18 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323880/manifest.json",
+          "label": "Le Gaulois (19 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532389c/manifest.json",
+          "label": "Le Gaulois (20 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323909/manifest.json",
+          "label": "Le Gaulois (21 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532391p/manifest.json",
+          "label": "Le Gaulois (22 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323922/manifest.json",
+          "label": "Le Gaulois (23 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532393f/manifest.json",
+          "label": "Le Gaulois (24 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532394t/manifest.json",
+          "label": "Le Gaulois (25 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5323956/manifest.json",
+          "label": "Le Gaulois (26 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532396k/manifest.json",
+          "label": "Le Gaulois (27 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532397z/manifest.json",
+          "label": "Le Gaulois (28 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532399q/manifest.json",
+          "label": "Le Gaulois (29 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532398b/manifest.json",
+          "label": "Le Gaulois (29 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532400h/manifest.json",
+          "label": "Le Gaulois (30 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532401w/manifest.json",
+          "label": "Le Gaulois (31 janvier 1904)",
+          "type": "Manifest",
+          "navDate": "1904-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324028/manifest.json",
+          "label": "Le Gaulois (01 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532403n/manifest.json",
+          "label": "Le Gaulois (02 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324041/manifest.json",
+          "label": "Le Gaulois (03 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532405d/manifest.json",
+          "label": "Le Gaulois (04 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532406s/manifest.json",
+          "label": "Le Gaulois (05 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324075/manifest.json",
+          "label": "Le Gaulois (06 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532408j/manifest.json",
+          "label": "Le Gaulois (07 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532409x/manifest.json",
+          "label": "Le Gaulois (08 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532410v/manifest.json",
+          "label": "Le Gaulois (09 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324117/manifest.json",
+          "label": "Le Gaulois (10 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532412m/manifest.json",
+          "label": "Le Gaulois (11 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324130/manifest.json",
+          "label": "Le Gaulois (12 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532414c/manifest.json",
+          "label": "Le Gaulois (13 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532415r/manifest.json",
+          "label": "Le Gaulois (14 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324164/manifest.json",
+          "label": "Le Gaulois (15 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532417h/manifest.json",
+          "label": "Le Gaulois (16 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532418w/manifest.json",
+          "label": "Le Gaulois (17 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324198/manifest.json",
+          "label": "Le Gaulois (18 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324206/manifest.json",
+          "label": "Le Gaulois (19 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532421k/manifest.json",
+          "label": "Le Gaulois (20 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532422z/manifest.json",
+          "label": "Le Gaulois (21 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532423b/manifest.json",
+          "label": "Le Gaulois (22 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532424q/manifest.json",
+          "label": "Le Gaulois (23 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324253/manifest.json",
+          "label": "Le Gaulois (24 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532426g/manifest.json",
+          "label": "Le Gaulois (25 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532427v/manifest.json",
+          "label": "Le Gaulois (26 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324287/manifest.json",
+          "label": "Le Gaulois (27 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532429m/manifest.json",
+          "label": "Le Gaulois (28 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532430j/manifest.json",
+          "label": "Le Gaulois (29 février 1904)",
+          "type": "Manifest",
+          "navDate": "1904-02-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532431x/manifest.json",
+          "label": "Le Gaulois (01 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324329/manifest.json",
+          "label": "Le Gaulois (02 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532433p/manifest.json",
+          "label": "Le Gaulois (03 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324342/manifest.json",
+          "label": "Le Gaulois (04 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532435f/manifest.json",
+          "label": "Le Gaulois (05 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532436t/manifest.json",
+          "label": "Le Gaulois (06 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324376/manifest.json",
+          "label": "Le Gaulois (07 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532438k/manifest.json",
+          "label": "Le Gaulois (08 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532439z/manifest.json",
+          "label": "Le Gaulois (09 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532440w/manifest.json",
+          "label": "Le Gaulois (10 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324418/manifest.json",
+          "label": "Le Gaulois (11 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532442n/manifest.json",
+          "label": "Le Gaulois (12 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324431/manifest.json",
+          "label": "Le Gaulois (13 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532444d/manifest.json",
+          "label": "Le Gaulois (14 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532445s/manifest.json",
+          "label": "Le Gaulois (15 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324465/manifest.json",
+          "label": "Le Gaulois (16 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532447j/manifest.json",
+          "label": "Le Gaulois (17 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532448x/manifest.json",
+          "label": "Le Gaulois (18 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324499/manifest.json",
+          "label": "Le Gaulois (19 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324507/manifest.json",
+          "label": "Le Gaulois (20 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532451m/manifest.json",
+          "label": "Le Gaulois (21 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324520/manifest.json",
+          "label": "Le Gaulois (22 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532453c/manifest.json",
+          "label": "Le Gaulois (23 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532454r/manifest.json",
+          "label": "Le Gaulois (24 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324554/manifest.json",
+          "label": "Le Gaulois (25 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532456h/manifest.json",
+          "label": "Le Gaulois (26 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532457w/manifest.json",
+          "label": "Le Gaulois (27 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324588/manifest.json",
+          "label": "Le Gaulois (28 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532459n/manifest.json",
+          "label": "Le Gaulois (29 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532460k/manifest.json",
+          "label": "Le Gaulois (30 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532461z/manifest.json",
+          "label": "Le Gaulois (31 mars 1904)",
+          "type": "Manifest",
+          "navDate": "1904-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532462b/manifest.json",
+          "label": "Le Gaulois (01 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532463q/manifest.json",
+          "label": "Le Gaulois (02 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324643/manifest.json",
+          "label": "Le Gaulois (03 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532465g/manifest.json",
+          "label": "Le Gaulois (04 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532466v/manifest.json",
+          "label": "Le Gaulois (05 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324677/manifest.json",
+          "label": "Le Gaulois (06 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532468m/manifest.json",
+          "label": "Le Gaulois (07 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324690/manifest.json",
+          "label": "Le Gaulois (08 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532470x/manifest.json",
+          "label": "Le Gaulois (09 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324719/manifest.json",
+          "label": "Le Gaulois (10 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532472p/manifest.json",
+          "label": "Le Gaulois (11 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324732/manifest.json",
+          "label": "Le Gaulois (12 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532474f/manifest.json",
+          "label": "Le Gaulois (13 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532475t/manifest.json",
+          "label": "Le Gaulois (14 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324766/manifest.json",
+          "label": "Le Gaulois (15 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532477k/manifest.json",
+          "label": "Le Gaulois (16 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532478z/manifest.json",
+          "label": "Le Gaulois (17 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532479b/manifest.json",
+          "label": "Le Gaulois (18 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324808/manifest.json",
+          "label": "Le Gaulois (19 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532481n/manifest.json",
+          "label": "Le Gaulois (20 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324821/manifest.json",
+          "label": "Le Gaulois (21 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532483d/manifest.json",
+          "label": "Le Gaulois (22 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532484s/manifest.json",
+          "label": "Le Gaulois (23 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324855/manifest.json",
+          "label": "Le Gaulois (24 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532486j/manifest.json",
+          "label": "Le Gaulois (25 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532487x/manifest.json",
+          "label": "Le Gaulois (26 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324889/manifest.json",
+          "label": "Le Gaulois (27 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532489p/manifest.json",
+          "label": "Le Gaulois (28 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532490m/manifest.json",
+          "label": "Le Gaulois (29 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324910/manifest.json",
+          "label": "Le Gaulois (30 avril 1904)",
+          "type": "Manifest",
+          "navDate": "1904-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532492c/manifest.json",
+          "label": "Le Gaulois (01 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532493r/manifest.json",
+          "label": "Le Gaulois (02 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324944/manifest.json",
+          "label": "Le Gaulois (03 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532495h/manifest.json",
+          "label": "Le Gaulois (04 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532496w/manifest.json",
+          "label": "Le Gaulois (05 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324978/manifest.json",
+          "label": "Le Gaulois (06 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532498n/manifest.json",
+          "label": "Le Gaulois (07 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5324991/manifest.json",
+          "label": "Le Gaulois (08 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532500t/manifest.json",
+          "label": "Le Gaulois (09 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325016/manifest.json",
+          "label": "Le Gaulois (10 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532502k/manifest.json",
+          "label": "Le Gaulois (11 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532503z/manifest.json",
+          "label": "Le Gaulois (12 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532504b/manifest.json",
+          "label": "Le Gaulois (13 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532505q/manifest.json",
+          "label": "Le Gaulois (14 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325063/manifest.json",
+          "label": "Le Gaulois (15 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532507g/manifest.json",
+          "label": "Le Gaulois (16 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532508v/manifest.json",
+          "label": "Le Gaulois (17 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325097/manifest.json",
+          "label": "Le Gaulois (18 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325105/manifest.json",
+          "label": "Le Gaulois (19 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532511j/manifest.json",
+          "label": "Le Gaulois (20 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532512x/manifest.json",
+          "label": "Le Gaulois (21 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325139/manifest.json",
+          "label": "Le Gaulois (22 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532514p/manifest.json",
+          "label": "Le Gaulois (23 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325152/manifest.json",
+          "label": "Le Gaulois (24 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532516f/manifest.json",
+          "label": "Le Gaulois (25 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532517t/manifest.json",
+          "label": "Le Gaulois (26 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325186/manifest.json",
+          "label": "Le Gaulois (27 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532519k/manifest.json",
+          "label": "Le Gaulois (28 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532520h/manifest.json",
+          "label": "Le Gaulois (29 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532521w/manifest.json",
+          "label": "Le Gaulois (30 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325228/manifest.json",
+          "label": "Le Gaulois (31 mai 1904)",
+          "type": "Manifest",
+          "navDate": "1904-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532523n/manifest.json",
+          "label": "Le Gaulois (01 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325241/manifest.json",
+          "label": "Le Gaulois (02 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532525d/manifest.json",
+          "label": "Le Gaulois (03 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532526s/manifest.json",
+          "label": "Le Gaulois (04 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325275/manifest.json",
+          "label": "Le Gaulois (05 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532528j/manifest.json",
+          "label": "Le Gaulois (06 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532529x/manifest.json",
+          "label": "Le Gaulois (07 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532530v/manifest.json",
+          "label": "Le Gaulois (08 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325317/manifest.json",
+          "label": "Le Gaulois (09 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532532m/manifest.json",
+          "label": "Le Gaulois (10 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325330/manifest.json",
+          "label": "Le Gaulois (11 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532534c/manifest.json",
+          "label": "Le Gaulois (12 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532535r/manifest.json",
+          "label": "Le Gaulois (13 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325364/manifest.json",
+          "label": "Le Gaulois (14 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532537h/manifest.json",
+          "label": "Le Gaulois (15 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532538w/manifest.json",
+          "label": "Le Gaulois (16 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325398/manifest.json",
+          "label": "Le Gaulois (17 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325406/manifest.json",
+          "label": "Le Gaulois (18 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532541k/manifest.json",
+          "label": "Le Gaulois (19 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532542z/manifest.json",
+          "label": "Le Gaulois (20 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532543b/manifest.json",
+          "label": "Le Gaulois (21 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532544q/manifest.json",
+          "label": "Le Gaulois (22 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325453/manifest.json",
+          "label": "Le Gaulois (23 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532546g/manifest.json",
+          "label": "Le Gaulois (24 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532547v/manifest.json",
+          "label": "Le Gaulois (25 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325487/manifest.json",
+          "label": "Le Gaulois (26 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532549m/manifest.json",
+          "label": "Le Gaulois (27 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532550j/manifest.json",
+          "label": "Le Gaulois (28 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532551x/manifest.json",
+          "label": "Le Gaulois (29 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325529/manifest.json",
+          "label": "Le Gaulois (30 juin 1904)",
+          "type": "Manifest",
+          "navDate": "1904-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532553p/manifest.json",
+          "label": "Le Gaulois (01 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325542/manifest.json",
+          "label": "Le Gaulois (02 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532555f/manifest.json",
+          "label": "Le Gaulois (03 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532556t/manifest.json",
+          "label": "Le Gaulois (04 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325576/manifest.json",
+          "label": "Le Gaulois (05 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532558k/manifest.json",
+          "label": "Le Gaulois (06 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532559z/manifest.json",
+          "label": "Le Gaulois (07 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532560w/manifest.json",
+          "label": "Le Gaulois (08 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325618/manifest.json",
+          "label": "Le Gaulois (09 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532562n/manifest.json",
+          "label": "Le Gaulois (10 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325631/manifest.json",
+          "label": "Le Gaulois (11 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532564d/manifest.json",
+          "label": "Le Gaulois (12 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532565s/manifest.json",
+          "label": "Le Gaulois (13 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325665/manifest.json",
+          "label": "Le Gaulois (14 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532567j/manifest.json",
+          "label": "Le Gaulois (15 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532568x/manifest.json",
+          "label": "Le Gaulois (16 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325699/manifest.json",
+          "label": "Le Gaulois (17 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325707/manifest.json",
+          "label": "Le Gaulois (18 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532571m/manifest.json",
+          "label": "Le Gaulois (19 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325720/manifest.json",
+          "label": "Le Gaulois (20 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532573c/manifest.json",
+          "label": "Le Gaulois (21 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532574r/manifest.json",
+          "label": "Le Gaulois (22 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325754/manifest.json",
+          "label": "Le Gaulois (23 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532576h/manifest.json",
+          "label": "Le Gaulois (24 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532577w/manifest.json",
+          "label": "Le Gaulois (25 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325788/manifest.json",
+          "label": "Le Gaulois (26 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532579n/manifest.json",
+          "label": "Le Gaulois (27 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532580k/manifest.json",
+          "label": "Le Gaulois (28 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532581z/manifest.json",
+          "label": "Le Gaulois (29 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532582b/manifest.json",
+          "label": "Le Gaulois (30 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325843/manifest.json",
+          "label": "Le Gaulois (31 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532583q/manifest.json",
+          "label": "Le Gaulois (31 juillet 1904)",
+          "type": "Manifest",
+          "navDate": "1904-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532585g/manifest.json",
+          "label": "Le Gaulois (01 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532586v/manifest.json",
+          "label": "Le Gaulois (02 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325877/manifest.json",
+          "label": "Le Gaulois (03 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532588m/manifest.json",
+          "label": "Le Gaulois (04 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325890/manifest.json",
+          "label": "Le Gaulois (05 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532590x/manifest.json",
+          "label": "Le Gaulois (06 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325919/manifest.json",
+          "label": "Le Gaulois (07 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532592p/manifest.json",
+          "label": "Le Gaulois (08 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325932/manifest.json",
+          "label": "Le Gaulois (09 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532594f/manifest.json",
+          "label": "Le Gaulois (10 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532595t/manifest.json",
+          "label": "Le Gaulois (11 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5325966/manifest.json",
+          "label": "Le Gaulois (12 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532597k/manifest.json",
+          "label": "Le Gaulois (13 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532598z/manifest.json",
+          "label": "Le Gaulois (14 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532599b/manifest.json",
+          "label": "Le Gaulois (15 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326004/manifest.json",
+          "label": "Le Gaulois (16 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532601h/manifest.json",
+          "label": "Le Gaulois (17 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532602w/manifest.json",
+          "label": "Le Gaulois (18 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326038/manifest.json",
+          "label": "Le Gaulois (19 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532604n/manifest.json",
+          "label": "Le Gaulois (20 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326051/manifest.json",
+          "label": "Le Gaulois (21 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532606d/manifest.json",
+          "label": "Le Gaulois (22 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532607s/manifest.json",
+          "label": "Le Gaulois (23 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326085/manifest.json",
+          "label": "Le Gaulois (24 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532609j/manifest.json",
+          "label": "Le Gaulois (25 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532610g/manifest.json",
+          "label": "Le Gaulois (26 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532611v/manifest.json",
+          "label": "Le Gaulois (27 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326127/manifest.json",
+          "label": "Le Gaulois (28 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532613m/manifest.json",
+          "label": "Le Gaulois (29 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326140/manifest.json",
+          "label": "Le Gaulois (30 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532615c/manifest.json",
+          "label": "Le Gaulois (31 août 1904)",
+          "type": "Manifest",
+          "navDate": "1904-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532616r/manifest.json",
+          "label": "Le Gaulois (01 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326174/manifest.json",
+          "label": "Le Gaulois (02 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532618h/manifest.json",
+          "label": "Le Gaulois (03 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532619w/manifest.json",
+          "label": "Le Gaulois (04 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532620t/manifest.json",
+          "label": "Le Gaulois (05 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326216/manifest.json",
+          "label": "Le Gaulois (06 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532622k/manifest.json",
+          "label": "Le Gaulois (07 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532623z/manifest.json",
+          "label": "Le Gaulois (08 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532624b/manifest.json",
+          "label": "Le Gaulois (09 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532625q/manifest.json",
+          "label": "Le Gaulois (10 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326263/manifest.json",
+          "label": "Le Gaulois (11 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532627g/manifest.json",
+          "label": "Le Gaulois (12 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532628v/manifest.json",
+          "label": "Le Gaulois (13 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326297/manifest.json",
+          "label": "Le Gaulois (14 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326305/manifest.json",
+          "label": "Le Gaulois (15 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532631j/manifest.json",
+          "label": "Le Gaulois (16 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532632x/manifest.json",
+          "label": "Le Gaulois (17 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326339/manifest.json",
+          "label": "Le Gaulois (18 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532634p/manifest.json",
+          "label": "Le Gaulois (19 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326352/manifest.json",
+          "label": "Le Gaulois (20 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532636f/manifest.json",
+          "label": "Le Gaulois (21 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532637t/manifest.json",
+          "label": "Le Gaulois (22 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326386/manifest.json",
+          "label": "Le Gaulois (23 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532639k/manifest.json",
+          "label": "Le Gaulois (24 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532640h/manifest.json",
+          "label": "Le Gaulois (25 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532641w/manifest.json",
+          "label": "Le Gaulois (26 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326428/manifest.json",
+          "label": "Le Gaulois (27 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532643n/manifest.json",
+          "label": "Le Gaulois (28 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326441/manifest.json",
+          "label": "Le Gaulois (29 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532645d/manifest.json",
+          "label": "Le Gaulois (30 septembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532646s/manifest.json",
+          "label": "Le Gaulois (01 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326475/manifest.json",
+          "label": "Le Gaulois (02 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532648j/manifest.json",
+          "label": "Le Gaulois (03 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532649x/manifest.json",
+          "label": "Le Gaulois (04 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532650v/manifest.json",
+          "label": "Le Gaulois (05 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326517/manifest.json",
+          "label": "Le Gaulois (06 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532652m/manifest.json",
+          "label": "Le Gaulois (07 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326530/manifest.json",
+          "label": "Le Gaulois (08 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532654c/manifest.json",
+          "label": "Le Gaulois (09 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532655r/manifest.json",
+          "label": "Le Gaulois (10 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326564/manifest.json",
+          "label": "Le Gaulois (11 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532657h/manifest.json",
+          "label": "Le Gaulois (12 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532658w/manifest.json",
+          "label": "Le Gaulois (13 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326598/manifest.json",
+          "label": "Le Gaulois (14 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326606/manifest.json",
+          "label": "Le Gaulois (15 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532661k/manifest.json",
+          "label": "Le Gaulois (16 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532662z/manifest.json",
+          "label": "Le Gaulois (17 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532663b/manifest.json",
+          "label": "Le Gaulois (18 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532664q/manifest.json",
+          "label": "Le Gaulois (19 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326653/manifest.json",
+          "label": "Le Gaulois (20 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532666g/manifest.json",
+          "label": "Le Gaulois (21 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532667v/manifest.json",
+          "label": "Le Gaulois (22 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326687/manifest.json",
+          "label": "Le Gaulois (23 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532669m/manifest.json",
+          "label": "Le Gaulois (24 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532670j/manifest.json",
+          "label": "Le Gaulois (25 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532671x/manifest.json",
+          "label": "Le Gaulois (26 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326729/manifest.json",
+          "label": "Le Gaulois (27 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532673p/manifest.json",
+          "label": "Le Gaulois (28 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326742/manifest.json",
+          "label": "Le Gaulois (29 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532675f/manifest.json",
+          "label": "Le Gaulois (30 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532676t/manifest.json",
+          "label": "Le Gaulois (31 octobre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326776/manifest.json",
+          "label": "Le Gaulois (01 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532678k/manifest.json",
+          "label": "Le Gaulois (02 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532679z/manifest.json",
+          "label": "Le Gaulois (03 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532680w/manifest.json",
+          "label": "Le Gaulois (04 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326818/manifest.json",
+          "label": "Le Gaulois (05 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532682n/manifest.json",
+          "label": "Le Gaulois (06 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326831/manifest.json",
+          "label": "Le Gaulois (07 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532684d/manifest.json",
+          "label": "Le Gaulois (08 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532685s/manifest.json",
+          "label": "Le Gaulois (09 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326865/manifest.json",
+          "label": "Le Gaulois (10 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532687j/manifest.json",
+          "label": "Le Gaulois (11 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532688x/manifest.json",
+          "label": "Le Gaulois (12 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326899/manifest.json",
+          "label": "Le Gaulois (13 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326907/manifest.json",
+          "label": "Le Gaulois (14 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532691m/manifest.json",
+          "label": "Le Gaulois (15 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326920/manifest.json",
+          "label": "Le Gaulois (16 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532693c/manifest.json",
+          "label": "Le Gaulois (17 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532694r/manifest.json",
+          "label": "Le Gaulois (18 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326954/manifest.json",
+          "label": "Le Gaulois (19 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532696h/manifest.json",
+          "label": "Le Gaulois (20 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532697w/manifest.json",
+          "label": "Le Gaulois (21 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5326988/manifest.json",
+          "label": "Le Gaulois (22 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532699n/manifest.json",
+          "label": "Le Gaulois (23 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532700f/manifest.json",
+          "label": "Le Gaulois (24 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532701t/manifest.json",
+          "label": "Le Gaulois (25 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327026/manifest.json",
+          "label": "Le Gaulois (26 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532703k/manifest.json",
+          "label": "Le Gaulois (27 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532704z/manifest.json",
+          "label": "Le Gaulois (28 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532705b/manifest.json",
+          "label": "Le Gaulois (29 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532706q/manifest.json",
+          "label": "Le Gaulois (30 novembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327073/manifest.json",
+          "label": "Le Gaulois (01 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532708g/manifest.json",
+          "label": "Le Gaulois (02 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532709v/manifest.json",
+          "label": "Le Gaulois (03 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532710s/manifest.json",
+          "label": "Le Gaulois (04 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327115/manifest.json",
+          "label": "Le Gaulois (05 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532712j/manifest.json",
+          "label": "Le Gaulois (06 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532713x/manifest.json",
+          "label": "Le Gaulois (07 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327149/manifest.json",
+          "label": "Le Gaulois (08 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532715p/manifest.json",
+          "label": "Le Gaulois (09 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327162/manifest.json",
+          "label": "Le Gaulois (10 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532717f/manifest.json",
+          "label": "Le Gaulois (11 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532718t/manifest.json",
+          "label": "Le Gaulois (12 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327196/manifest.json",
+          "label": "Le Gaulois (13 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327204/manifest.json",
+          "label": "Le Gaulois (14 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532721h/manifest.json",
+          "label": "Le Gaulois (15 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532722w/manifest.json",
+          "label": "Le Gaulois (16 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327238/manifest.json",
+          "label": "Le Gaulois (17 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532724n/manifest.json",
+          "label": "Le Gaulois (18 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327251/manifest.json",
+          "label": "Le Gaulois (19 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532726d/manifest.json",
+          "label": "Le Gaulois (20 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532727s/manifest.json",
+          "label": "Le Gaulois (21 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327285/manifest.json",
+          "label": "Le Gaulois (22 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532729j/manifest.json",
+          "label": "Le Gaulois (23 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532730g/manifest.json",
+          "label": "Le Gaulois (24 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532731v/manifest.json",
+          "label": "Le Gaulois (25 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327327/manifest.json",
+          "label": "Le Gaulois (26 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532733m/manifest.json",
+          "label": "Le Gaulois (27 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327340/manifest.json",
+          "label": "Le Gaulois (28 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532735c/manifest.json",
+          "label": "Le Gaulois (29 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532736r/manifest.json",
+          "label": "Le Gaulois (30 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k532369p/manifest.json",
+          "label": "Le Gaulois (31 décembre 1903)",
+          "type": "Manifest",
+          "navDate": "1904-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5327374/manifest.json",
+          "label": "Le Gaulois (31 décembre 1904)",
+          "type": "Manifest",
+          "navDate": "1904-12-31"
+       }]
+    }

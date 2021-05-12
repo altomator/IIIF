@@ -1,0 +1,1991 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1896.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1896)" ], "en": [ "Le Gaulois (1896)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1896" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1896" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1896",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1896)" ],"en": [ "Gallica periodical: Le Gaulois (1896)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1896",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1896)" ],"en": [ "Gallica periodical: Le Gaulois (1896)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529358n/manifest.json",
+          "label": "Le Gaulois (01 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293591/manifest.json",
+          "label": "Le Gaulois (02 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529360z/manifest.json",
+          "label": "Le Gaulois (03 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529361b/manifest.json",
+          "label": "Le Gaulois (04 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529362q/manifest.json",
+          "label": "Le Gaulois (05 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293633/manifest.json",
+          "label": "Le Gaulois (06 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529364g/manifest.json",
+          "label": "Le Gaulois (07 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529365v/manifest.json",
+          "label": "Le Gaulois (08 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293667/manifest.json",
+          "label": "Le Gaulois (09 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529367m/manifest.json",
+          "label": "Le Gaulois (10 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293680/manifest.json",
+          "label": "Le Gaulois (11 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529369c/manifest.json",
+          "label": "Le Gaulois (12 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293709/manifest.json",
+          "label": "Le Gaulois (13 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529371p/manifest.json",
+          "label": "Le Gaulois (14 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293722/manifest.json",
+          "label": "Le Gaulois (15 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529373f/manifest.json",
+          "label": "Le Gaulois (16 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529374t/manifest.json",
+          "label": "Le Gaulois (17 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293756/manifest.json",
+          "label": "Le Gaulois (18 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529376k/manifest.json",
+          "label": "Le Gaulois (19 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529377z/manifest.json",
+          "label": "Le Gaulois (20 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529378b/manifest.json",
+          "label": "Le Gaulois (21 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529379q/manifest.json",
+          "label": "Le Gaulois (22 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529380n/manifest.json",
+          "label": "Le Gaulois (23 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293811/manifest.json",
+          "label": "Le Gaulois (24 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529382d/manifest.json",
+          "label": "Le Gaulois (25 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529383s/manifest.json",
+          "label": "Le Gaulois (26 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293845/manifest.json",
+          "label": "Le Gaulois (27 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529385j/manifest.json",
+          "label": "Le Gaulois (28 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529386x/manifest.json",
+          "label": "Le Gaulois (29 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293879/manifest.json",
+          "label": "Le Gaulois (30 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529388p/manifest.json",
+          "label": "Le Gaulois (31 janvier 1896)",
+          "type": "Manifest",
+          "navDate": "1896-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293892/manifest.json",
+          "label": "Le Gaulois (01 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293900/manifest.json",
+          "label": "Le Gaulois (02 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529391c/manifest.json",
+          "label": "Le Gaulois (03 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529392r/manifest.json",
+          "label": "Le Gaulois (04 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529394h/manifest.json",
+          "label": "Le Gaulois (05 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293934/manifest.json",
+          "label": "Le Gaulois (05 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529395w/manifest.json",
+          "label": "Le Gaulois (06 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293968/manifest.json",
+          "label": "Le Gaulois (07 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529397n/manifest.json",
+          "label": "Le Gaulois (08 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293981/manifest.json",
+          "label": "Le Gaulois (09 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529399d/manifest.json",
+          "label": "Le Gaulois (10 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294006/manifest.json",
+          "label": "Le Gaulois (11 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529401k/manifest.json",
+          "label": "Le Gaulois (12 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529402z/manifest.json",
+          "label": "Le Gaulois (13 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529403b/manifest.json",
+          "label": "Le Gaulois (14 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529404q/manifest.json",
+          "label": "Le Gaulois (15 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294053/manifest.json",
+          "label": "Le Gaulois (16 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529406g/manifest.json",
+          "label": "Le Gaulois (17 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529407v/manifest.json",
+          "label": "Le Gaulois (18 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294087/manifest.json",
+          "label": "Le Gaulois (19 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529409m/manifest.json",
+          "label": "Le Gaulois (20 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529410j/manifest.json",
+          "label": "Le Gaulois (21 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529411x/manifest.json",
+          "label": "Le Gaulois (22 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529413p/manifest.json",
+          "label": "Le Gaulois (23 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294129/manifest.json",
+          "label": "Le Gaulois (23 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294142/manifest.json",
+          "label": "Le Gaulois (24 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529415f/manifest.json",
+          "label": "Le Gaulois (25 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529416t/manifest.json",
+          "label": "Le Gaulois (26 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294176/manifest.json",
+          "label": "Le Gaulois (27 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529418k/manifest.json",
+          "label": "Le Gaulois (28 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529419z/manifest.json",
+          "label": "Le Gaulois (29 février 1896)",
+          "type": "Manifest",
+          "navDate": "1896-02-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529420w/manifest.json",
+          "label": "Le Gaulois (01 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294218/manifest.json",
+          "label": "Le Gaulois (02 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529422n/manifest.json",
+          "label": "Le Gaulois (03 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294231/manifest.json",
+          "label": "Le Gaulois (04 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529424d/manifest.json",
+          "label": "Le Gaulois (05 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529425s/manifest.json",
+          "label": "Le Gaulois (06 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294265/manifest.json",
+          "label": "Le Gaulois (07 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529427j/manifest.json",
+          "label": "Le Gaulois (08 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529428x/manifest.json",
+          "label": "Le Gaulois (09 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294299/manifest.json",
+          "label": "Le Gaulois (10 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294307/manifest.json",
+          "label": "Le Gaulois (11 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529431m/manifest.json",
+          "label": "Le Gaulois (12 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294320/manifest.json",
+          "label": "Le Gaulois (13 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529433c/manifest.json",
+          "label": "Le Gaulois (14 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529434r/manifest.json",
+          "label": "Le Gaulois (15 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294354/manifest.json",
+          "label": "Le Gaulois (16 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529436h/manifest.json",
+          "label": "Le Gaulois (17 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529437w/manifest.json",
+          "label": "Le Gaulois (18 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294388/manifest.json",
+          "label": "Le Gaulois (19 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529439n/manifest.json",
+          "label": "Le Gaulois (20 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529440k/manifest.json",
+          "label": "Le Gaulois (21 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529441z/manifest.json",
+          "label": "Le Gaulois (22 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529442b/manifest.json",
+          "label": "Le Gaulois (23 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529443q/manifest.json",
+          "label": "Le Gaulois (24 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294443/manifest.json",
+          "label": "Le Gaulois (25 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529445g/manifest.json",
+          "label": "Le Gaulois (26 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529446v/manifest.json",
+          "label": "Le Gaulois (27 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294477/manifest.json",
+          "label": "Le Gaulois (28 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529448m/manifest.json",
+          "label": "Le Gaulois (29 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294490/manifest.json",
+          "label": "Le Gaulois (30 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529450x/manifest.json",
+          "label": "Le Gaulois (31 mars 1896)",
+          "type": "Manifest",
+          "navDate": "1896-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294519/manifest.json",
+          "label": "Le Gaulois (01 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529452p/manifest.json",
+          "label": "Le Gaulois (01 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294532/manifest.json",
+          "label": "Le Gaulois (02 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529454f/manifest.json",
+          "label": "Le Gaulois (03 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529455t/manifest.json",
+          "label": "Le Gaulois (04 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294566/manifest.json",
+          "label": "Le Gaulois (05 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529457k/manifest.json",
+          "label": "Le Gaulois (06 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529458z/manifest.json",
+          "label": "Le Gaulois (07 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529459b/manifest.json",
+          "label": "Le Gaulois (08 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529461n/manifest.json",
+          "label": "Le Gaulois (09 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294608/manifest.json",
+          "label": "Le Gaulois (09 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294621/manifest.json",
+          "label": "Le Gaulois (10 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529463d/manifest.json",
+          "label": "Le Gaulois (11 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529464s/manifest.json",
+          "label": "Le Gaulois (12 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294655/manifest.json",
+          "label": "Le Gaulois (13 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529466j/manifest.json",
+          "label": "Le Gaulois (14 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529467x/manifest.json",
+          "label": "Le Gaulois (15 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294689/manifest.json",
+          "label": "Le Gaulois (16 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529469p/manifest.json",
+          "label": "Le Gaulois (17 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529470m/manifest.json",
+          "label": "Le Gaulois (17 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294710/manifest.json",
+          "label": "Le Gaulois (18 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529472c/manifest.json",
+          "label": "Le Gaulois (19 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529473r/manifest.json",
+          "label": "Le Gaulois (20 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294744/manifest.json",
+          "label": "Le Gaulois (21 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529475h/manifest.json",
+          "label": "Le Gaulois (22 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529476w/manifest.json",
+          "label": "Le Gaulois (23 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529478n/manifest.json",
+          "label": "Le Gaulois (24 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294778/manifest.json",
+          "label": "Le Gaulois (24 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294791/manifest.json",
+          "label": "Le Gaulois (25 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529480z/manifest.json",
+          "label": "Le Gaulois (26 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529481b/manifest.json",
+          "label": "Le Gaulois (27 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529482q/manifest.json",
+          "label": "Le Gaulois (28 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294833/manifest.json",
+          "label": "Le Gaulois (29 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529484g/manifest.json",
+          "label": "Le Gaulois (30 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529485v/manifest.json",
+          "label": "Le Gaulois (30 avril 1896)",
+          "type": "Manifest",
+          "navDate": "1896-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294867/manifest.json",
+          "label": "Le Gaulois (01 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529487m/manifest.json",
+          "label": "Le Gaulois (02 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294880/manifest.json",
+          "label": "Le Gaulois (03 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529489c/manifest.json",
+          "label": "Le Gaulois (04 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294909/manifest.json",
+          "label": "Le Gaulois (04 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529491p/manifest.json",
+          "label": "Le Gaulois (05 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294922/manifest.json",
+          "label": "Le Gaulois (06 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529493f/manifest.json",
+          "label": "Le Gaulois (07 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529494t/manifest.json",
+          "label": "Le Gaulois (08 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5294956/manifest.json",
+          "label": "Le Gaulois (09 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529496k/manifest.json",
+          "label": "Le Gaulois (10 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529497z/manifest.json",
+          "label": "Le Gaulois (11 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529498b/manifest.json",
+          "label": "Le Gaulois (12 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529499q/manifest.json",
+          "label": "Le Gaulois (13 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529500h/manifest.json",
+          "label": "Le Gaulois (14 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529501w/manifest.json",
+          "label": "Le Gaulois (15 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295028/manifest.json",
+          "label": "Le Gaulois (16 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529503n/manifest.json",
+          "label": "Le Gaulois (17 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295041/manifest.json",
+          "label": "Le Gaulois (18 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529505d/manifest.json",
+          "label": "Le Gaulois (19 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529506s/manifest.json",
+          "label": "Le Gaulois (20 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295075/manifest.json",
+          "label": "Le Gaulois (21 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529508j/manifest.json",
+          "label": "Le Gaulois (21 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529509x/manifest.json",
+          "label": "Le Gaulois (22 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529510v/manifest.json",
+          "label": "Le Gaulois (23 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295117/manifest.json",
+          "label": "Le Gaulois (24 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529512m/manifest.json",
+          "label": "Le Gaulois (25 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295130/manifest.json",
+          "label": "Le Gaulois (26 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529514c/manifest.json",
+          "label": "Le Gaulois (27 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529515r/manifest.json",
+          "label": "Le Gaulois (28 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295164/manifest.json",
+          "label": "Le Gaulois (29 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529517h/manifest.json",
+          "label": "Le Gaulois (30 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529518w/manifest.json",
+          "label": "Le Gaulois (31 mai 1896)",
+          "type": "Manifest",
+          "navDate": "1896-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295198/manifest.json",
+          "label": "Le Gaulois (01 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295206/manifest.json",
+          "label": "Le Gaulois (02 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529521k/manifest.json",
+          "label": "Le Gaulois (03 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529522z/manifest.json",
+          "label": "Le Gaulois (04 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529523b/manifest.json",
+          "label": "Le Gaulois (05 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529524q/manifest.json",
+          "label": "Le Gaulois (06 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295253/manifest.json",
+          "label": "Le Gaulois (07 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529526g/manifest.json",
+          "label": "Le Gaulois (08 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295287/manifest.json",
+          "label": "Le Gaulois (09 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529527v/manifest.json",
+          "label": "Le Gaulois (09 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529529m/manifest.json",
+          "label": "Le Gaulois (10 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529530j/manifest.json",
+          "label": "Le Gaulois (11 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529531x/manifest.json",
+          "label": "Le Gaulois (12 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529533p/manifest.json",
+          "label": "Le Gaulois (13 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295329/manifest.json",
+          "label": "Le Gaulois (13 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295342/manifest.json",
+          "label": "Le Gaulois (14 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529535f/manifest.json",
+          "label": "Le Gaulois (14 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529536t/manifest.json",
+          "label": "Le Gaulois (15 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295376/manifest.json",
+          "label": "Le Gaulois (16 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529538k/manifest.json",
+          "label": "Le Gaulois (17 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529539z/manifest.json",
+          "label": "Le Gaulois (18 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529540w/manifest.json",
+          "label": "Le Gaulois (19 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295418/manifest.json",
+          "label": "Le Gaulois (20 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529542n/manifest.json",
+          "label": "Le Gaulois (20 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295431/manifest.json",
+          "label": "Le Gaulois (21 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529544d/manifest.json",
+          "label": "Le Gaulois (22 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529545s/manifest.json",
+          "label": "Le Gaulois (23 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295465/manifest.json",
+          "label": "Le Gaulois (24 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529547j/manifest.json",
+          "label": "Le Gaulois (25 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529548x/manifest.json",
+          "label": "Le Gaulois (26 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295499/manifest.json",
+          "label": "Le Gaulois (27 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295507/manifest.json",
+          "label": "Le Gaulois (28 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529551m/manifest.json",
+          "label": "Le Gaulois (29 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295520/manifest.json",
+          "label": "Le Gaulois (30 juin 1896)",
+          "type": "Manifest",
+          "navDate": "1896-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529553c/manifest.json",
+          "label": "Le Gaulois (01 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529554r/manifest.json",
+          "label": "Le Gaulois (02 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295554/manifest.json",
+          "label": "Le Gaulois (03 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529556h/manifest.json",
+          "label": "Le Gaulois (04 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529557w/manifest.json",
+          "label": "Le Gaulois (05 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295588/manifest.json",
+          "label": "Le Gaulois (06 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529560k/manifest.json",
+          "label": "Le Gaulois (07 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529559n/manifest.json",
+          "label": "Le Gaulois (07 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529561z/manifest.json",
+          "label": "Le Gaulois (08 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529562b/manifest.json",
+          "label": "Le Gaulois (09 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529563q/manifest.json",
+          "label": "Le Gaulois (10 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295643/manifest.json",
+          "label": "Le Gaulois (11 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529565g/manifest.json",
+          "label": "Le Gaulois (12 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529566v/manifest.json",
+          "label": "Le Gaulois (13 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295677/manifest.json",
+          "label": "Le Gaulois (14 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529568m/manifest.json",
+          "label": "Le Gaulois (15 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295690/manifest.json",
+          "label": "Le Gaulois (16 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529570x/manifest.json",
+          "label": "Le Gaulois (17 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295719/manifest.json",
+          "label": "Le Gaulois (18 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529572p/manifest.json",
+          "label": "Le Gaulois (19 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295732/manifest.json",
+          "label": "Le Gaulois (20 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529574f/manifest.json",
+          "label": "Le Gaulois (21 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295766/manifest.json",
+          "label": "Le Gaulois (22 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529575t/manifest.json",
+          "label": "Le Gaulois (22 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529577k/manifest.json",
+          "label": "Le Gaulois (23 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529578z/manifest.json",
+          "label": "Le Gaulois (24 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529579b/manifest.json",
+          "label": "Le Gaulois (25 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295808/manifest.json",
+          "label": "Le Gaulois (26 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529581n/manifest.json",
+          "label": "Le Gaulois (27 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295821/manifest.json",
+          "label": "Le Gaulois (28 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529583d/manifest.json",
+          "label": "Le Gaulois (29 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295855/manifest.json",
+          "label": "Le Gaulois (30 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529584s/manifest.json",
+          "label": "Le Gaulois (30 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529586j/manifest.json",
+          "label": "Le Gaulois (31 juillet 1896)",
+          "type": "Manifest",
+          "navDate": "1896-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529587x/manifest.json",
+          "label": "Le Gaulois (01 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295889/manifest.json",
+          "label": "Le Gaulois (02 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529589p/manifest.json",
+          "label": "Le Gaulois (03 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529590m/manifest.json",
+          "label": "Le Gaulois (04 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295910/manifest.json",
+          "label": "Le Gaulois (05 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529592c/manifest.json",
+          "label": "Le Gaulois (06 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529593r/manifest.json",
+          "label": "Le Gaulois (07 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295944/manifest.json",
+          "label": "Le Gaulois (08 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529595h/manifest.json",
+          "label": "Le Gaulois (09 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529596w/manifest.json",
+          "label": "Le Gaulois (10 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295978/manifest.json",
+          "label": "Le Gaulois (11 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529598n/manifest.json",
+          "label": "Le Gaulois (12 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5295991/manifest.json",
+          "label": "Le Gaulois (13 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529600t/manifest.json",
+          "label": "Le Gaulois (14 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296016/manifest.json",
+          "label": "Le Gaulois (15 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529602k/manifest.json",
+          "label": "Le Gaulois (16 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529603z/manifest.json",
+          "label": "Le Gaulois (17 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529604b/manifest.json",
+          "label": "Le Gaulois (18 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529605q/manifest.json",
+          "label": "Le Gaulois (19 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296063/manifest.json",
+          "label": "Le Gaulois (20 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529607g/manifest.json",
+          "label": "Le Gaulois (21 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296097/manifest.json",
+          "label": "Le Gaulois (22 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529608v/manifest.json",
+          "label": "Le Gaulois (22 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296105/manifest.json",
+          "label": "Le Gaulois (23 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529611j/manifest.json",
+          "label": "Le Gaulois (24 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529612x/manifest.json",
+          "label": "Le Gaulois (25 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296139/manifest.json",
+          "label": "Le Gaulois (26 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529614p/manifest.json",
+          "label": "Le Gaulois (27 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296152/manifest.json",
+          "label": "Le Gaulois (28 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529616f/manifest.json",
+          "label": "Le Gaulois (29 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529617t/manifest.json",
+          "label": "Le Gaulois (30 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296186/manifest.json",
+          "label": "Le Gaulois (31 août 1896)",
+          "type": "Manifest",
+          "navDate": "1896-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529619k/manifest.json",
+          "label": "Le Gaulois (01 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529620h/manifest.json",
+          "label": "Le Gaulois (02 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529621w/manifest.json",
+          "label": "Le Gaulois (03 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296228/manifest.json",
+          "label": "Le Gaulois (04 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529623n/manifest.json",
+          "label": "Le Gaulois (05 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296241/manifest.json",
+          "label": "Le Gaulois (06 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529625d/manifest.json",
+          "label": "Le Gaulois (07 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529626s/manifest.json",
+          "label": "Le Gaulois (08 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296275/manifest.json",
+          "label": "Le Gaulois (09 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529628j/manifest.json",
+          "label": "Le Gaulois (10 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529629x/manifest.json",
+          "label": "Le Gaulois (11 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529630v/manifest.json",
+          "label": "Le Gaulois (12 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296317/manifest.json",
+          "label": "Le Gaulois (13 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529632m/manifest.json",
+          "label": "Le Gaulois (14 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296330/manifest.json",
+          "label": "Le Gaulois (15 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529634c/manifest.json",
+          "label": "Le Gaulois (16 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529635r/manifest.json",
+          "label": "Le Gaulois (17 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296364/manifest.json",
+          "label": "Le Gaulois (18 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529637h/manifest.json",
+          "label": "Le Gaulois (19 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529638w/manifest.json",
+          "label": "Le Gaulois (20 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296398/manifest.json",
+          "label": "Le Gaulois (21 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296406/manifest.json",
+          "label": "Le Gaulois (22 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529641k/manifest.json",
+          "label": "Le Gaulois (23 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529642z/manifest.json",
+          "label": "Le Gaulois (24 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529643b/manifest.json",
+          "label": "Le Gaulois (25 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529644q/manifest.json",
+          "label": "Le Gaulois (26 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296453/manifest.json",
+          "label": "Le Gaulois (27 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529646g/manifest.json",
+          "label": "Le Gaulois (28 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529647v/manifest.json",
+          "label": "Le Gaulois (29 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296487/manifest.json",
+          "label": "Le Gaulois (30 septembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529649m/manifest.json",
+          "label": "Le Gaulois (01 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529650j/manifest.json",
+          "label": "Le Gaulois (02 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529651x/manifest.json",
+          "label": "Le Gaulois (03 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296529/manifest.json",
+          "label": "Le Gaulois (04 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529653p/manifest.json",
+          "label": "Le Gaulois (05 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296542/manifest.json",
+          "label": "Le Gaulois (05 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529655f/manifest.json",
+          "label": "Le Gaulois (06 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529656t/manifest.json",
+          "label": "Le Gaulois (07 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296576/manifest.json",
+          "label": "Le Gaulois (08 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529658k/manifest.json",
+          "label": "Le Gaulois (08 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529659z/manifest.json",
+          "label": "Le Gaulois (09 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529660w/manifest.json",
+          "label": "Le Gaulois (10 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296618/manifest.json",
+          "label": "Le Gaulois (11 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529662n/manifest.json",
+          "label": "Le Gaulois (12 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296631/manifest.json",
+          "label": "Le Gaulois (13 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529664d/manifest.json",
+          "label": "Le Gaulois (14 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529665s/manifest.json",
+          "label": "Le Gaulois (15 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296665/manifest.json",
+          "label": "Le Gaulois (16 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529667j/manifest.json",
+          "label": "Le Gaulois (17 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529668x/manifest.json",
+          "label": "Le Gaulois (18 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296699/manifest.json",
+          "label": "Le Gaulois (19 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296707/manifest.json",
+          "label": "Le Gaulois (20 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529671m/manifest.json",
+          "label": "Le Gaulois (21 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296720/manifest.json",
+          "label": "Le Gaulois (22 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529673c/manifest.json",
+          "label": "Le Gaulois (23 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529674r/manifest.json",
+          "label": "Le Gaulois (24 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296754/manifest.json",
+          "label": "Le Gaulois (25 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529676h/manifest.json",
+          "label": "Le Gaulois (26 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529677w/manifest.json",
+          "label": "Le Gaulois (27 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296788/manifest.json",
+          "label": "Le Gaulois (28 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529679n/manifest.json",
+          "label": "Le Gaulois (29 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529680k/manifest.json",
+          "label": "Le Gaulois (30 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529681z/manifest.json",
+          "label": "Le Gaulois (31 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529682b/manifest.json",
+          "label": "Le Gaulois (31 octobre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529683q/manifest.json",
+          "label": "Le Gaulois (01 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296843/manifest.json",
+          "label": "Le Gaulois (02 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529685g/manifest.json",
+          "label": "Le Gaulois (03 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529686v/manifest.json",
+          "label": "Le Gaulois (04 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296877/manifest.json",
+          "label": "Le Gaulois (05 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529688m/manifest.json",
+          "label": "Le Gaulois (06 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296890/manifest.json",
+          "label": "Le Gaulois (07 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529690x/manifest.json",
+          "label": "Le Gaulois (08 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296919/manifest.json",
+          "label": "Le Gaulois (09 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529692p/manifest.json",
+          "label": "Le Gaulois (10 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296932/manifest.json",
+          "label": "Le Gaulois (11 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529694f/manifest.json",
+          "label": "Le Gaulois (12 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529695t/manifest.json",
+          "label": "Le Gaulois (13 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5296966/manifest.json",
+          "label": "Le Gaulois (14 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529697k/manifest.json",
+          "label": "Le Gaulois (15 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529698z/manifest.json",
+          "label": "Le Gaulois (16 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529699b/manifest.json",
+          "label": "Le Gaulois (17 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297004/manifest.json",
+          "label": "Le Gaulois (18 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529701h/manifest.json",
+          "label": "Le Gaulois (19 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529702w/manifest.json",
+          "label": "Le Gaulois (20 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297038/manifest.json",
+          "label": "Le Gaulois (21 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529704n/manifest.json",
+          "label": "Le Gaulois (22 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297051/manifest.json",
+          "label": "Le Gaulois (23 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529706d/manifest.json",
+          "label": "Le Gaulois (24 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529707s/manifest.json",
+          "label": "Le Gaulois (25 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297085/manifest.json",
+          "label": "Le Gaulois (26 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529709j/manifest.json",
+          "label": "Le Gaulois (27 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529711v/manifest.json",
+          "label": "Le Gaulois (28 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529710g/manifest.json",
+          "label": "Le Gaulois (28 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297127/manifest.json",
+          "label": "Le Gaulois (29 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529713m/manifest.json",
+          "label": "Le Gaulois (30 novembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297140/manifest.json",
+          "label": "Le Gaulois (01 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529715c/manifest.json",
+          "label": "Le Gaulois (02 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529716r/manifest.json",
+          "label": "Le Gaulois (03 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297174/manifest.json",
+          "label": "Le Gaulois (04 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529718h/manifest.json",
+          "label": "Le Gaulois (05 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529719w/manifest.json",
+          "label": "Le Gaulois (06 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529720t/manifest.json",
+          "label": "Le Gaulois (07 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297216/manifest.json",
+          "label": "Le Gaulois (08 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529722k/manifest.json",
+          "label": "Le Gaulois (09 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529723z/manifest.json",
+          "label": "Le Gaulois (10 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529724b/manifest.json",
+          "label": "Le Gaulois (11 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529725q/manifest.json",
+          "label": "Le Gaulois (12 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529727g/manifest.json",
+          "label": "Le Gaulois (13 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297263/manifest.json",
+          "label": "Le Gaulois (13 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529728v/manifest.json",
+          "label": "Le Gaulois (14 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297297/manifest.json",
+          "label": "Le Gaulois (15 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297305/manifest.json",
+          "label": "Le Gaulois (16 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529731j/manifest.json",
+          "label": "Le Gaulois (17 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529732x/manifest.json",
+          "label": "Le Gaulois (18 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529734p/manifest.json",
+          "label": "Le Gaulois (19 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297339/manifest.json",
+          "label": "Le Gaulois (19 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529736f/manifest.json",
+          "label": "Le Gaulois (20 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297352/manifest.json",
+          "label": "Le Gaulois (20 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529737t/manifest.json",
+          "label": "Le Gaulois (21 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297386/manifest.json",
+          "label": "Le Gaulois (22 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529739k/manifest.json",
+          "label": "Le Gaulois (22 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529740h/manifest.json",
+          "label": "Le Gaulois (23 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529741w/manifest.json",
+          "label": "Le Gaulois (24 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297428/manifest.json",
+          "label": "Le Gaulois (25 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529743n/manifest.json",
+          "label": "Le Gaulois (25 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297441/manifest.json",
+          "label": "Le Gaulois (26 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529745d/manifest.json",
+          "label": "Le Gaulois (27 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529746s/manifest.json",
+          "label": "Le Gaulois (28 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5297475/manifest.json",
+          "label": "Le Gaulois (29 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529748j/manifest.json",
+          "label": "Le Gaulois (30 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5293578/manifest.json",
+          "label": "Le Gaulois (31 décembre 1895)",
+          "type": "Manifest",
+          "navDate": "1896-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k529749x/manifest.json",
+          "label": "Le Gaulois (31 décembre 1896)",
+          "type": "Manifest",
+          "navDate": "1896-12-31"
+       }]
+    }

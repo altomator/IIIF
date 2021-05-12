@@ -1,0 +1,1846 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1877.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1877)" ], "en": [ "Le Gaulois (1877)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1877" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1877" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1877",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1877)" ],"en": [ "Gallica periodical: Le Gaulois (1877)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1877",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1877)" ],"en": [ "Gallica periodical: Le Gaulois (1877)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522215w/manifest.json",
+          "label": "Le Gaulois (01 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222168/manifest.json",
+          "label": "Le Gaulois (02 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522217n/manifest.json",
+          "label": "Le Gaulois (03 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222181/manifest.json",
+          "label": "Le Gaulois (04 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522219d/manifest.json",
+          "label": "Le Gaulois (05 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522220b/manifest.json",
+          "label": "Le Gaulois (06 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522221q/manifest.json",
+          "label": "Le Gaulois (07 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222223/manifest.json",
+          "label": "Le Gaulois (08 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522223g/manifest.json",
+          "label": "Le Gaulois (09 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522224v/manifest.json",
+          "label": "Le Gaulois (10 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222257/manifest.json",
+          "label": "Le Gaulois (11 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522226m/manifest.json",
+          "label": "Le Gaulois (12 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222270/manifest.json",
+          "label": "Le Gaulois (13 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522228c/manifest.json",
+          "label": "Le Gaulois (14 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522229r/manifest.json",
+          "label": "Le Gaulois (15 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522230p/manifest.json",
+          "label": "Le Gaulois (16 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222312/manifest.json",
+          "label": "Le Gaulois (17 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522232f/manifest.json",
+          "label": "Le Gaulois (18 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522233t/manifest.json",
+          "label": "Le Gaulois (19 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222346/manifest.json",
+          "label": "Le Gaulois (20 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522235k/manifest.json",
+          "label": "Le Gaulois (21 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522236z/manifest.json",
+          "label": "Le Gaulois (22 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522237b/manifest.json",
+          "label": "Le Gaulois (23 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522238q/manifest.json",
+          "label": "Le Gaulois (24 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222393/manifest.json",
+          "label": "Le Gaulois (25 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222401/manifest.json",
+          "label": "Le Gaulois (26 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522241d/manifest.json",
+          "label": "Le Gaulois (27 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522242s/manifest.json",
+          "label": "Le Gaulois (28 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222435/manifest.json",
+          "label": "Le Gaulois (29 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522245x/manifest.json",
+          "label": "Le Gaulois (30 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522244j/manifest.json",
+          "label": "Le Gaulois (30 janvier 1877)",
+          "type": "Manifest",
+          "navDate": "1877-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222469/manifest.json",
+          "label": "Le Gaulois (01 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522247p/manifest.json",
+          "label": "Le Gaulois (02 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222482/manifest.json",
+          "label": "Le Gaulois (03 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522249f/manifest.json",
+          "label": "Le Gaulois (04 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522250c/manifest.json",
+          "label": "Le Gaulois (05 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522251r/manifest.json",
+          "label": "Le Gaulois (06 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222524/manifest.json",
+          "label": "Le Gaulois (07 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522253h/manifest.json",
+          "label": "Le Gaulois (08 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522254w/manifest.json",
+          "label": "Le Gaulois (09 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222558/manifest.json",
+          "label": "Le Gaulois (10 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522256n/manifest.json",
+          "label": "Le Gaulois (11 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222571/manifest.json",
+          "label": "Le Gaulois (12 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522258d/manifest.json",
+          "label": "Le Gaulois (13 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522259s/manifest.json",
+          "label": "Le Gaulois (14 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522260q/manifest.json",
+          "label": "Le Gaulois (15 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222613/manifest.json",
+          "label": "Le Gaulois (16 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522262g/manifest.json",
+          "label": "Le Gaulois (17 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522263v/manifest.json",
+          "label": "Le Gaulois (18 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222647/manifest.json",
+          "label": "Le Gaulois (19 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522265m/manifest.json",
+          "label": "Le Gaulois (20 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222660/manifest.json",
+          "label": "Le Gaulois (21 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522267c/manifest.json",
+          "label": "Le Gaulois (22 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522268r/manifest.json",
+          "label": "Le Gaulois (23 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222694/manifest.json",
+          "label": "Le Gaulois (24 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222702/manifest.json",
+          "label": "Le Gaulois (25 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522271f/manifest.json",
+          "label": "Le Gaulois (26 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522272t/manifest.json",
+          "label": "Le Gaulois (27 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222736/manifest.json",
+          "label": "Le Gaulois (28 février 1877)",
+          "type": "Manifest",
+          "navDate": "1877-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522274k/manifest.json",
+          "label": "Le Gaulois (01 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522275z/manifest.json",
+          "label": "Le Gaulois (02 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522276b/manifest.json",
+          "label": "Le Gaulois (03 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522277q/manifest.json",
+          "label": "Le Gaulois (04 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222783/manifest.json",
+          "label": "Le Gaulois (05 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522279g/manifest.json",
+          "label": "Le Gaulois (06 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522280d/manifest.json",
+          "label": "Le Gaulois (07 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522281s/manifest.json",
+          "label": "Le Gaulois (08 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222825/manifest.json",
+          "label": "Le Gaulois (09 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522283j/manifest.json",
+          "label": "Le Gaulois (10 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522284x/manifest.json",
+          "label": "Le Gaulois (11 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222859/manifest.json",
+          "label": "Le Gaulois (12 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522286p/manifest.json",
+          "label": "Le Gaulois (13 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222872/manifest.json",
+          "label": "Le Gaulois (14 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522288f/manifest.json",
+          "label": "Le Gaulois (15 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522289t/manifest.json",
+          "label": "Le Gaulois (16 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522290r/manifest.json",
+          "label": "Le Gaulois (17 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222914/manifest.json",
+          "label": "Le Gaulois (18 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522292h/manifest.json",
+          "label": "Le Gaulois (19 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522293w/manifest.json",
+          "label": "Le Gaulois (20 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222948/manifest.json",
+          "label": "Le Gaulois (21 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522295n/manifest.json",
+          "label": "Le Gaulois (22 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222961/manifest.json",
+          "label": "Le Gaulois (23 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522297d/manifest.json",
+          "label": "Le Gaulois (24 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522298s/manifest.json",
+          "label": "Le Gaulois (25 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5222995/manifest.json",
+          "label": "Le Gaulois (26 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522300z/manifest.json",
+          "label": "Le Gaulois (27 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522301b/manifest.json",
+          "label": "Le Gaulois (28 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522302q/manifest.json",
+          "label": "Le Gaulois (29 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223033/manifest.json",
+          "label": "Le Gaulois (30 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522304g/manifest.json",
+          "label": "Le Gaulois (31 mars 1877)",
+          "type": "Manifest",
+          "navDate": "1877-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522305v/manifest.json",
+          "label": "Le Gaulois (01 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223067/manifest.json",
+          "label": "Le Gaulois (02 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522307m/manifest.json",
+          "label": "Le Gaulois (04 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223080/manifest.json",
+          "label": "Le Gaulois (05 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522309c/manifest.json",
+          "label": "Le Gaulois (06 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223109/manifest.json",
+          "label": "Le Gaulois (07 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522311p/manifest.json",
+          "label": "Le Gaulois (08 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223122/manifest.json",
+          "label": "Le Gaulois (09 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522313f/manifest.json",
+          "label": "Le Gaulois (10 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522314t/manifest.json",
+          "label": "Le Gaulois (11 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223156/manifest.json",
+          "label": "Le Gaulois (12 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522316k/manifest.json",
+          "label": "Le Gaulois (13 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522317z/manifest.json",
+          "label": "Le Gaulois (14 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522318b/manifest.json",
+          "label": "Le Gaulois (15 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522319q/manifest.json",
+          "label": "Le Gaulois (16 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522320n/manifest.json",
+          "label": "Le Gaulois (17 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223211/manifest.json",
+          "label": "Le Gaulois (18 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522322d/manifest.json",
+          "label": "Le Gaulois (19 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522323s/manifest.json",
+          "label": "Le Gaulois (20 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223245/manifest.json",
+          "label": "Le Gaulois (21 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522325j/manifest.json",
+          "label": "Le Gaulois (22 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522326x/manifest.json",
+          "label": "Le Gaulois (23 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223279/manifest.json",
+          "label": "Le Gaulois (24 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522328p/manifest.json",
+          "label": "Le Gaulois (25 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223292/manifest.json",
+          "label": "Le Gaulois (26 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223300/manifest.json",
+          "label": "Le Gaulois (27 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522331c/manifest.json",
+          "label": "Le Gaulois (28 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522332r/manifest.json",
+          "label": "Le Gaulois (29 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223334/manifest.json",
+          "label": "Le Gaulois (30 avril 1877)",
+          "type": "Manifest",
+          "navDate": "1877-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522334h/manifest.json",
+          "label": "Le Gaulois (01 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522335w/manifest.json",
+          "label": "Le Gaulois (02 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223368/manifest.json",
+          "label": "Le Gaulois (03 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522337n/manifest.json",
+          "label": "Le Gaulois (04 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223381/manifest.json",
+          "label": "Le Gaulois (05 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522339d/manifest.json",
+          "label": "Le Gaulois (06 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522340b/manifest.json",
+          "label": "Le Gaulois (07 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522341q/manifest.json",
+          "label": "Le Gaulois (08 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223423/manifest.json",
+          "label": "Le Gaulois (09 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522343g/manifest.json",
+          "label": "Le Gaulois (10 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522344v/manifest.json",
+          "label": "Le Gaulois (11 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223457/manifest.json",
+          "label": "Le Gaulois (12 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522346m/manifest.json",
+          "label": "Le Gaulois (13 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223470/manifest.json",
+          "label": "Le Gaulois (14 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522348c/manifest.json",
+          "label": "Le Gaulois (15 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522349r/manifest.json",
+          "label": "Le Gaulois (16 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522350p/manifest.json",
+          "label": "Le Gaulois (17 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223512/manifest.json",
+          "label": "Le Gaulois (18 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522352f/manifest.json",
+          "label": "Le Gaulois (19 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522353t/manifest.json",
+          "label": "Le Gaulois (20 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223546/manifest.json",
+          "label": "Le Gaulois (21 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522355k/manifest.json",
+          "label": "Le Gaulois (22 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522356z/manifest.json",
+          "label": "Le Gaulois (23 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522357b/manifest.json",
+          "label": "Le Gaulois (24 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522358q/manifest.json",
+          "label": "Le Gaulois (25 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223593/manifest.json",
+          "label": "Le Gaulois (26 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223601/manifest.json",
+          "label": "Le Gaulois (27 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522361d/manifest.json",
+          "label": "Le Gaulois (28 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522362s/manifest.json",
+          "label": "Le Gaulois (29 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223635/manifest.json",
+          "label": "Le Gaulois (30 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522364j/manifest.json",
+          "label": "Le Gaulois (31 mai 1877)",
+          "type": "Manifest",
+          "navDate": "1877-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522365x/manifest.json",
+          "label": "Le Gaulois (01 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223669/manifest.json",
+          "label": "Le Gaulois (02 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522367p/manifest.json",
+          "label": "Le Gaulois (03 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223682/manifest.json",
+          "label": "Le Gaulois (04 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522369f/manifest.json",
+          "label": "Le Gaulois (05 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522370c/manifest.json",
+          "label": "Le Gaulois (06 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522371r/manifest.json",
+          "label": "Le Gaulois (07 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223724/manifest.json",
+          "label": "Le Gaulois (08 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522373h/manifest.json",
+          "label": "Le Gaulois (09 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522374w/manifest.json",
+          "label": "Le Gaulois (10 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223758/manifest.json",
+          "label": "Le Gaulois (11 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522376n/manifest.json",
+          "label": "Le Gaulois (12 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223771/manifest.json",
+          "label": "Le Gaulois (13 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522378d/manifest.json",
+          "label": "Le Gaulois (14 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522379s/manifest.json",
+          "label": "Le Gaulois (15 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522380q/manifest.json",
+          "label": "Le Gaulois (16 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223813/manifest.json",
+          "label": "Le Gaulois (17 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522382g/manifest.json",
+          "label": "Le Gaulois (18 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522383v/manifest.json",
+          "label": "Le Gaulois (19 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223847/manifest.json",
+          "label": "Le Gaulois (20 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522385m/manifest.json",
+          "label": "Le Gaulois (21 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223860/manifest.json",
+          "label": "Le Gaulois (22 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522387c/manifest.json",
+          "label": "Le Gaulois (23 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522388r/manifest.json",
+          "label": "Le Gaulois (24 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223894/manifest.json",
+          "label": "Le Gaulois (25 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223902/manifest.json",
+          "label": "Le Gaulois (26 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522391f/manifest.json",
+          "label": "Le Gaulois (27 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522392t/manifest.json",
+          "label": "Le Gaulois (28 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223936/manifest.json",
+          "label": "Le Gaulois (29 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522394k/manifest.json",
+          "label": "Le Gaulois (30 juin 1877)",
+          "type": "Manifest",
+          "navDate": "1877-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522395z/manifest.json",
+          "label": "Le Gaulois (01 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522396b/manifest.json",
+          "label": "Le Gaulois (02 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522397q/manifest.json",
+          "label": "Le Gaulois (03 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5223983/manifest.json",
+          "label": "Le Gaulois (04 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522399g/manifest.json",
+          "label": "Le Gaulois (05 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224008/manifest.json",
+          "label": "Le Gaulois (06 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522401n/manifest.json",
+          "label": "Le Gaulois (07 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224021/manifest.json",
+          "label": "Le Gaulois (08 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522403d/manifest.json",
+          "label": "Le Gaulois (09 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522404s/manifest.json",
+          "label": "Le Gaulois (10 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224055/manifest.json",
+          "label": "Le Gaulois (11 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522406j/manifest.json",
+          "label": "Le Gaulois (12 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522407x/manifest.json",
+          "label": "Le Gaulois (13 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224089/manifest.json",
+          "label": "Le Gaulois (14 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522409p/manifest.json",
+          "label": "Le Gaulois (15 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522410m/manifest.json",
+          "label": "Le Gaulois (16 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224110/manifest.json",
+          "label": "Le Gaulois (17 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522412c/manifest.json",
+          "label": "Le Gaulois (18 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522413r/manifest.json",
+          "label": "Le Gaulois (19 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224144/manifest.json",
+          "label": "Le Gaulois (20 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522415h/manifest.json",
+          "label": "Le Gaulois (21 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522416w/manifest.json",
+          "label": "Le Gaulois (22 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224178/manifest.json",
+          "label": "Le Gaulois (23 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522418n/manifest.json",
+          "label": "Le Gaulois (24 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224191/manifest.json",
+          "label": "Le Gaulois (25 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522420z/manifest.json",
+          "label": "Le Gaulois (26 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522421b/manifest.json",
+          "label": "Le Gaulois (27 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522422q/manifest.json",
+          "label": "Le Gaulois (28 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224233/manifest.json",
+          "label": "Le Gaulois (29 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522424g/manifest.json",
+          "label": "Le Gaulois (30 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522425v/manifest.json",
+          "label": "Le Gaulois (31 juillet 1877)",
+          "type": "Manifest",
+          "navDate": "1877-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224267/manifest.json",
+          "label": "Le Gaulois (01 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522427m/manifest.json",
+          "label": "Le Gaulois (02 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224280/manifest.json",
+          "label": "Le Gaulois (03 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522429c/manifest.json",
+          "label": "Le Gaulois (04 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224309/manifest.json",
+          "label": "Le Gaulois (05 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522431p/manifest.json",
+          "label": "Le Gaulois (06 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224322/manifest.json",
+          "label": "Le Gaulois (07 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522433f/manifest.json",
+          "label": "Le Gaulois (08 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522434t/manifest.json",
+          "label": "Le Gaulois (09 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224356/manifest.json",
+          "label": "Le Gaulois (10 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522436k/manifest.json",
+          "label": "Le Gaulois (11 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522437z/manifest.json",
+          "label": "Le Gaulois (12 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522438b/manifest.json",
+          "label": "Le Gaulois (13 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522439q/manifest.json",
+          "label": "Le Gaulois (14 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522440n/manifest.json",
+          "label": "Le Gaulois (15 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224411/manifest.json",
+          "label": "Le Gaulois (16 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522442d/manifest.json",
+          "label": "Le Gaulois (17 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522443s/manifest.json",
+          "label": "Le Gaulois (19 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224445/manifest.json",
+          "label": "Le Gaulois (20 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522445j/manifest.json",
+          "label": "Le Gaulois (21 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522446x/manifest.json",
+          "label": "Le Gaulois (22 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224479/manifest.json",
+          "label": "Le Gaulois (23 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522448p/manifest.json",
+          "label": "Le Gaulois (24 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224492/manifest.json",
+          "label": "Le Gaulois (25 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224500/manifest.json",
+          "label": "Le Gaulois (26 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522451c/manifest.json",
+          "label": "Le Gaulois (27 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522452r/manifest.json",
+          "label": "Le Gaulois (28 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224534/manifest.json",
+          "label": "Le Gaulois (29 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522454h/manifest.json",
+          "label": "Le Gaulois (30 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522455w/manifest.json",
+          "label": "Le Gaulois (31 août 1877)",
+          "type": "Manifest",
+          "navDate": "1877-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224568/manifest.json",
+          "label": "Le Gaulois (01 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522457n/manifest.json",
+          "label": "Le Gaulois (02 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224581/manifest.json",
+          "label": "Le Gaulois (03 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522459d/manifest.json",
+          "label": "Le Gaulois (04 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522460b/manifest.json",
+          "label": "Le Gaulois (05 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522461q/manifest.json",
+          "label": "Le Gaulois (06 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224623/manifest.json",
+          "label": "Le Gaulois (07 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522463g/manifest.json",
+          "label": "Le Gaulois (08 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522464v/manifest.json",
+          "label": "Le Gaulois (09 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224657/manifest.json",
+          "label": "Le Gaulois (10 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522466m/manifest.json",
+          "label": "Le Gaulois (11 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224670/manifest.json",
+          "label": "Le Gaulois (12 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522468c/manifest.json",
+          "label": "Le Gaulois (13 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522469r/manifest.json",
+          "label": "Le Gaulois (14 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522470p/manifest.json",
+          "label": "Le Gaulois (15 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224712/manifest.json",
+          "label": "Le Gaulois (16 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522472f/manifest.json",
+          "label": "Le Gaulois (17 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522473t/manifest.json",
+          "label": "Le Gaulois (18 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224746/manifest.json",
+          "label": "Le Gaulois (19 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522475k/manifest.json",
+          "label": "Le Gaulois (20 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522476z/manifest.json",
+          "label": "Le Gaulois (21 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522477b/manifest.json",
+          "label": "Le Gaulois (22 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522478q/manifest.json",
+          "label": "Le Gaulois (23 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224793/manifest.json",
+          "label": "Le Gaulois (24 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224801/manifest.json",
+          "label": "Le Gaulois (25 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522481d/manifest.json",
+          "label": "Le Gaulois (26 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522482s/manifest.json",
+          "label": "Le Gaulois (27 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224835/manifest.json",
+          "label": "Le Gaulois (28 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522484j/manifest.json",
+          "label": "Le Gaulois (29 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522485x/manifest.json",
+          "label": "Le Gaulois (30 septembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224869/manifest.json",
+          "label": "Le Gaulois (01 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522487p/manifest.json",
+          "label": "Le Gaulois (02 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224882/manifest.json",
+          "label": "Le Gaulois (03 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522489f/manifest.json",
+          "label": "Le Gaulois (04 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522490c/manifest.json",
+          "label": "Le Gaulois (05 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522491r/manifest.json",
+          "label": "Le Gaulois (06 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224924/manifest.json",
+          "label": "Le Gaulois (07 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522493h/manifest.json",
+          "label": "Le Gaulois (08 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522494w/manifest.json",
+          "label": "Le Gaulois (09 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224958/manifest.json",
+          "label": "Le Gaulois (10 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522496n/manifest.json",
+          "label": "Le Gaulois (11 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5224971/manifest.json",
+          "label": "Le Gaulois (12 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522498d/manifest.json",
+          "label": "Le Gaulois (13 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522499s/manifest.json",
+          "label": "Le Gaulois (14 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522500k/manifest.json",
+          "label": "Le Gaulois (15 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522501z/manifest.json",
+          "label": "Le Gaulois (16 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522502b/manifest.json",
+          "label": "Le Gaulois (17 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522503q/manifest.json",
+          "label": "Le Gaulois (18 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225043/manifest.json",
+          "label": "Le Gaulois (19 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522505g/manifest.json",
+          "label": "Le Gaulois (20 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522506v/manifest.json",
+          "label": "Le Gaulois (21 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225077/manifest.json",
+          "label": "Le Gaulois (22 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522508m/manifest.json",
+          "label": "Le Gaulois (23 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225090/manifest.json",
+          "label": "Le Gaulois (24 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522510x/manifest.json",
+          "label": "Le Gaulois (25 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225119/manifest.json",
+          "label": "Le Gaulois (26 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522512p/manifest.json",
+          "label": "Le Gaulois (27 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225132/manifest.json",
+          "label": "Le Gaulois (28 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522514f/manifest.json",
+          "label": "Le Gaulois (29 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522515t/manifest.json",
+          "label": "Le Gaulois (30 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225166/manifest.json",
+          "label": "Le Gaulois (31 octobre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522517k/manifest.json",
+          "label": "Le Gaulois (01 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522518z/manifest.json",
+          "label": "Le Gaulois (02 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522519b/manifest.json",
+          "label": "Le Gaulois (03 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225208/manifest.json",
+          "label": "Le Gaulois (04 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522521n/manifest.json",
+          "label": "Le Gaulois (05 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225221/manifest.json",
+          "label": "Le Gaulois (06 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522523d/manifest.json",
+          "label": "Le Gaulois (07 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522524s/manifest.json",
+          "label": "Le Gaulois (08 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225255/manifest.json",
+          "label": "Le Gaulois (09 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522526j/manifest.json",
+          "label": "Le Gaulois (10 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522527x/manifest.json",
+          "label": "Le Gaulois (11 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225289/manifest.json",
+          "label": "Le Gaulois (12 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522529p/manifest.json",
+          "label": "Le Gaulois (13 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522530m/manifest.json",
+          "label": "Le Gaulois (14 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225310/manifest.json",
+          "label": "Le Gaulois (15 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522532c/manifest.json",
+          "label": "Le Gaulois (16 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522533r/manifest.json",
+          "label": "Le Gaulois (17 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225344/manifest.json",
+          "label": "Le Gaulois (18 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522535h/manifest.json",
+          "label": "Le Gaulois (19 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522536w/manifest.json",
+          "label": "Le Gaulois (20 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225378/manifest.json",
+          "label": "Le Gaulois (21 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522538n/manifest.json",
+          "label": "Le Gaulois (22 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225391/manifest.json",
+          "label": "Le Gaulois (23 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522540z/manifest.json",
+          "label": "Le Gaulois (24 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522541b/manifest.json",
+          "label": "Le Gaulois (25 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522542q/manifest.json",
+          "label": "Le Gaulois (26 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225433/manifest.json",
+          "label": "Le Gaulois (27 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522544g/manifest.json",
+          "label": "Le Gaulois (28 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522545v/manifest.json",
+          "label": "Le Gaulois (29 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225467/manifest.json",
+          "label": "Le Gaulois (30 novembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522547m/manifest.json",
+          "label": "Le Gaulois (01 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225480/manifest.json",
+          "label": "Le Gaulois (02 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522549c/manifest.json",
+          "label": "Le Gaulois (03 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225509/manifest.json",
+          "label": "Le Gaulois (04 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522551p/manifest.json",
+          "label": "Le Gaulois (05 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225522/manifest.json",
+          "label": "Le Gaulois (06 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522553f/manifest.json",
+          "label": "Le Gaulois (07 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522554t/manifest.json",
+          "label": "Le Gaulois (08 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225556/manifest.json",
+          "label": "Le Gaulois (09 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522556k/manifest.json",
+          "label": "Le Gaulois (10 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522557z/manifest.json",
+          "label": "Le Gaulois (11 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522558b/manifest.json",
+          "label": "Le Gaulois (12 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522559q/manifest.json",
+          "label": "Le Gaulois (13 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522560n/manifest.json",
+          "label": "Le Gaulois (14 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225611/manifest.json",
+          "label": "Le Gaulois (15 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522562d/manifest.json",
+          "label": "Le Gaulois (16 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522563s/manifest.json",
+          "label": "Le Gaulois (17 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225645/manifest.json",
+          "label": "Le Gaulois (18 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522565j/manifest.json",
+          "label": "Le Gaulois (19 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522566x/manifest.json",
+          "label": "Le Gaulois (20 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225679/manifest.json",
+          "label": "Le Gaulois (21 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522568p/manifest.json",
+          "label": "Le Gaulois (22 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225692/manifest.json",
+          "label": "Le Gaulois (23 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225700/manifest.json",
+          "label": "Le Gaulois (24 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522571c/manifest.json",
+          "label": "Le Gaulois (25 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522572r/manifest.json",
+          "label": "Le Gaulois (26 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225734/manifest.json",
+          "label": "Le Gaulois (27 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522574h/manifest.json",
+          "label": "Le Gaulois (28 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522575w/manifest.json",
+          "label": "Le Gaulois (29 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5225768/manifest.json",
+          "label": "Le Gaulois (30 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522577n/manifest.json",
+          "label": "Le Gaulois (31 décembre 1877)",
+          "type": "Manifest",
+          "navDate": "1877-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k522214h/manifest.json",
+          "label": "Le Gaulois (31 décembre 1876)",
+          "type": "Manifest",
+          "navDate": "1878-01-01"
+       }]
+    }

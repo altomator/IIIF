@@ -1,0 +1,1851 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1920.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1920)" ], "en": [ "Le Gaulois (1920)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1920" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1920" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1920",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1920)" ],"en": [ "Gallica periodical: Le Gaulois (1920)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1920",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1920)" ],"en": [ "Gallica periodical: Le Gaulois (1920)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381923/manifest.json",
+          "label": "Le Gaulois (01 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538193g/manifest.json",
+          "label": "Le Gaulois (02 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538194v/manifest.json",
+          "label": "Le Gaulois (03 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381957/manifest.json",
+          "label": "Le Gaulois (04 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538196m/manifest.json",
+          "label": "Le Gaulois (05 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381970/manifest.json",
+          "label": "Le Gaulois (06 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538198c/manifest.json",
+          "label": "Le Gaulois (07 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538199r/manifest.json",
+          "label": "Le Gaulois (08 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538200j/manifest.json",
+          "label": "Le Gaulois (09 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538201x/manifest.json",
+          "label": "Le Gaulois (10 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382029/manifest.json",
+          "label": "Le Gaulois (11 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538203p/manifest.json",
+          "label": "Le Gaulois (12 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382042/manifest.json",
+          "label": "Le Gaulois (13 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538205f/manifest.json",
+          "label": "Le Gaulois (14 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538206t/manifest.json",
+          "label": "Le Gaulois (15 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382076/manifest.json",
+          "label": "Le Gaulois (16 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538208k/manifest.json",
+          "label": "Le Gaulois (17 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538209z/manifest.json",
+          "label": "Le Gaulois (18 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538210w/manifest.json",
+          "label": "Le Gaulois (19 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382118/manifest.json",
+          "label": "Le Gaulois (20 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538212n/manifest.json",
+          "label": "Le Gaulois (21 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382131/manifest.json",
+          "label": "Le Gaulois (22 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538214d/manifest.json",
+          "label": "Le Gaulois (23 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538215s/manifest.json",
+          "label": "Le Gaulois (24 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382165/manifest.json",
+          "label": "Le Gaulois (25 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538217j/manifest.json",
+          "label": "Le Gaulois (26 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538218x/manifest.json",
+          "label": "Le Gaulois (27 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382199/manifest.json",
+          "label": "Le Gaulois (28 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382207/manifest.json",
+          "label": "Le Gaulois (29 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538221m/manifest.json",
+          "label": "Le Gaulois (30 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382220/manifest.json",
+          "label": "Le Gaulois (31 janvier 1920)",
+          "type": "Manifest",
+          "navDate": "1920-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538223c/manifest.json",
+          "label": "Le Gaulois (01 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538224r/manifest.json",
+          "label": "Le Gaulois (02 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382254/manifest.json",
+          "label": "Le Gaulois (03 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538226h/manifest.json",
+          "label": "Le Gaulois (04 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538227w/manifest.json",
+          "label": "Le Gaulois (05 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382288/manifest.json",
+          "label": "Le Gaulois (06 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538229n/manifest.json",
+          "label": "Le Gaulois (07 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538230k/manifest.json",
+          "label": "Le Gaulois (08 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538231z/manifest.json",
+          "label": "Le Gaulois (09 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538232b/manifest.json",
+          "label": "Le Gaulois (10 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538233q/manifest.json",
+          "label": "Le Gaulois (11 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382343/manifest.json",
+          "label": "Le Gaulois (12 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538235g/manifest.json",
+          "label": "Le Gaulois (13 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538236v/manifest.json",
+          "label": "Le Gaulois (14 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382377/manifest.json",
+          "label": "Le Gaulois (15 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538238m/manifest.json",
+          "label": "Le Gaulois (16 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382390/manifest.json",
+          "label": "Le Gaulois (17 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538240x/manifest.json",
+          "label": "Le Gaulois (18 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382419/manifest.json",
+          "label": "Le Gaulois (19 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538242p/manifest.json",
+          "label": "Le Gaulois (20 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382432/manifest.json",
+          "label": "Le Gaulois (21 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538244f/manifest.json",
+          "label": "Le Gaulois (22 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538245t/manifest.json",
+          "label": "Le Gaulois (23 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382466/manifest.json",
+          "label": "Le Gaulois (24 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538247k/manifest.json",
+          "label": "Le Gaulois (25 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538248z/manifest.json",
+          "label": "Le Gaulois (26 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538249b/manifest.json",
+          "label": "Le Gaulois (27 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382508/manifest.json",
+          "label": "Le Gaulois (28 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538251n/manifest.json",
+          "label": "Le Gaulois (29 février 1920)",
+          "type": "Manifest",
+          "navDate": "1920-02-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382521/manifest.json",
+          "label": "Le Gaulois (01 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538253d/manifest.json",
+          "label": "Le Gaulois (02 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538254s/manifest.json",
+          "label": "Le Gaulois (03 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382555/manifest.json",
+          "label": "Le Gaulois (04 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538256j/manifest.json",
+          "label": "Le Gaulois (05 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538257x/manifest.json",
+          "label": "Le Gaulois (06 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382589/manifest.json",
+          "label": "Le Gaulois (07 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538259p/manifest.json",
+          "label": "Le Gaulois (08 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538260m/manifest.json",
+          "label": "Le Gaulois (09 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382610/manifest.json",
+          "label": "Le Gaulois (10 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538262c/manifest.json",
+          "label": "Le Gaulois (11 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538263r/manifest.json",
+          "label": "Le Gaulois (12 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382644/manifest.json",
+          "label": "Le Gaulois (13 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538265h/manifest.json",
+          "label": "Le Gaulois (14 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538266w/manifest.json",
+          "label": "Le Gaulois (15 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382678/manifest.json",
+          "label": "Le Gaulois (16 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538268n/manifest.json",
+          "label": "Le Gaulois (17 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382691/manifest.json",
+          "label": "Le Gaulois (18 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538270z/manifest.json",
+          "label": "Le Gaulois (19 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538271b/manifest.json",
+          "label": "Le Gaulois (20 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538272q/manifest.json",
+          "label": "Le Gaulois (21 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382733/manifest.json",
+          "label": "Le Gaulois (22 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538274g/manifest.json",
+          "label": "Le Gaulois (23 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538275v/manifest.json",
+          "label": "Le Gaulois (24 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382767/manifest.json",
+          "label": "Le Gaulois (25 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538277m/manifest.json",
+          "label": "Le Gaulois (26 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382780/manifest.json",
+          "label": "Le Gaulois (27 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538279c/manifest.json",
+          "label": "Le Gaulois (28 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382809/manifest.json",
+          "label": "Le Gaulois (29 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538281p/manifest.json",
+          "label": "Le Gaulois (30 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382822/manifest.json",
+          "label": "Le Gaulois (31 mars 1920)",
+          "type": "Manifest",
+          "navDate": "1920-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538283f/manifest.json",
+          "label": "Le Gaulois (01 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538284t/manifest.json",
+          "label": "Le Gaulois (02 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382856/manifest.json",
+          "label": "Le Gaulois (03 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538286k/manifest.json",
+          "label": "Le Gaulois (04 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538287z/manifest.json",
+          "label": "Le Gaulois (05 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538288b/manifest.json",
+          "label": "Le Gaulois (06 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538289q/manifest.json",
+          "label": "Le Gaulois (07 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538290n/manifest.json",
+          "label": "Le Gaulois (08 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382911/manifest.json",
+          "label": "Le Gaulois (09 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538292d/manifest.json",
+          "label": "Le Gaulois (10 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538293s/manifest.json",
+          "label": "Le Gaulois (11 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382945/manifest.json",
+          "label": "Le Gaulois (12 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538295j/manifest.json",
+          "label": "Le Gaulois (13 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538296x/manifest.json",
+          "label": "Le Gaulois (14 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382979/manifest.json",
+          "label": "Le Gaulois (15 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538298p/manifest.json",
+          "label": "Le Gaulois (16 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5382992/manifest.json",
+          "label": "Le Gaulois (17 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538300v/manifest.json",
+          "label": "Le Gaulois (18 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383017/manifest.json",
+          "label": "Le Gaulois (19 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538302m/manifest.json",
+          "label": "Le Gaulois (20 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383030/manifest.json",
+          "label": "Le Gaulois (21 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538304c/manifest.json",
+          "label": "Le Gaulois (22 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538305r/manifest.json",
+          "label": "Le Gaulois (23 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383064/manifest.json",
+          "label": "Le Gaulois (24 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538307h/manifest.json",
+          "label": "Le Gaulois (25 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538308w/manifest.json",
+          "label": "Le Gaulois (26 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383098/manifest.json",
+          "label": "Le Gaulois (27 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383106/manifest.json",
+          "label": "Le Gaulois (28 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538311k/manifest.json",
+          "label": "Le Gaulois (29 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538312z/manifest.json",
+          "label": "Le Gaulois (30 avril 1920)",
+          "type": "Manifest",
+          "navDate": "1920-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538313b/manifest.json",
+          "label": "Le Gaulois (02 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538314q/manifest.json",
+          "label": "Le Gaulois (03 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383153/manifest.json",
+          "label": "Le Gaulois (04 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538316g/manifest.json",
+          "label": "Le Gaulois (05 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538317v/manifest.json",
+          "label": "Le Gaulois (06 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383187/manifest.json",
+          "label": "Le Gaulois (07 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538319m/manifest.json",
+          "label": "Le Gaulois (08 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538320j/manifest.json",
+          "label": "Le Gaulois (09 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538321x/manifest.json",
+          "label": "Le Gaulois (10 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383229/manifest.json",
+          "label": "Le Gaulois (11 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538323p/manifest.json",
+          "label": "Le Gaulois (12 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383242/manifest.json",
+          "label": "Le Gaulois (13 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538325f/manifest.json",
+          "label": "Le Gaulois (14 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538326t/manifest.json",
+          "label": "Le Gaulois (15 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383276/manifest.json",
+          "label": "Le Gaulois (16 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538328k/manifest.json",
+          "label": "Le Gaulois (17 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538329z/manifest.json",
+          "label": "Le Gaulois (18 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538330w/manifest.json",
+          "label": "Le Gaulois (19 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383318/manifest.json",
+          "label": "Le Gaulois (20 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538332n/manifest.json",
+          "label": "Le Gaulois (21 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383331/manifest.json",
+          "label": "Le Gaulois (22 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538334d/manifest.json",
+          "label": "Le Gaulois (23 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538335s/manifest.json",
+          "label": "Le Gaulois (24 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383365/manifest.json",
+          "label": "Le Gaulois (25 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538337j/manifest.json",
+          "label": "Le Gaulois (26 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538338x/manifest.json",
+          "label": "Le Gaulois (27 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383399/manifest.json",
+          "label": "Le Gaulois (28 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383407/manifest.json",
+          "label": "Le Gaulois (29 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538341m/manifest.json",
+          "label": "Le Gaulois (30 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383420/manifest.json",
+          "label": "Le Gaulois (31 mai 1920)",
+          "type": "Manifest",
+          "navDate": "1920-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538343c/manifest.json",
+          "label": "Le Gaulois (01 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538344r/manifest.json",
+          "label": "Le Gaulois (02 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383454/manifest.json",
+          "label": "Le Gaulois (03 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538346h/manifest.json",
+          "label": "Le Gaulois (04 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538347w/manifest.json",
+          "label": "Le Gaulois (05 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383488/manifest.json",
+          "label": "Le Gaulois (06 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538349n/manifest.json",
+          "label": "Le Gaulois (07 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538350k/manifest.json",
+          "label": "Le Gaulois (08 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538351z/manifest.json",
+          "label": "Le Gaulois (09 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538352b/manifest.json",
+          "label": "Le Gaulois (10 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538353q/manifest.json",
+          "label": "Le Gaulois (11 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383543/manifest.json",
+          "label": "Le Gaulois (12 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538355g/manifest.json",
+          "label": "Le Gaulois (13 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538356v/manifest.json",
+          "label": "Le Gaulois (14 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383577/manifest.json",
+          "label": "Le Gaulois (15 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538358m/manifest.json",
+          "label": "Le Gaulois (16 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383590/manifest.json",
+          "label": "Le Gaulois (17 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538360x/manifest.json",
+          "label": "Le Gaulois (18 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383619/manifest.json",
+          "label": "Le Gaulois (19 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538362p/manifest.json",
+          "label": "Le Gaulois (20 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383632/manifest.json",
+          "label": "Le Gaulois (21 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538364f/manifest.json",
+          "label": "Le Gaulois (22 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538365t/manifest.json",
+          "label": "Le Gaulois (23 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383666/manifest.json",
+          "label": "Le Gaulois (24 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538367k/manifest.json",
+          "label": "Le Gaulois (25 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538368z/manifest.json",
+          "label": "Le Gaulois (26 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538369b/manifest.json",
+          "label": "Le Gaulois (27 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383708/manifest.json",
+          "label": "Le Gaulois (28 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538371n/manifest.json",
+          "label": "Le Gaulois (29 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383721/manifest.json",
+          "label": "Le Gaulois (30 juin 1920)",
+          "type": "Manifest",
+          "navDate": "1920-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538373d/manifest.json",
+          "label": "Le Gaulois (01 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538374s/manifest.json",
+          "label": "Le Gaulois (02 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383755/manifest.json",
+          "label": "Le Gaulois (03 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538376j/manifest.json",
+          "label": "Le Gaulois (04 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538377x/manifest.json",
+          "label": "Le Gaulois (05 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383789/manifest.json",
+          "label": "Le Gaulois (06 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538379p/manifest.json",
+          "label": "Le Gaulois (07 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538380m/manifest.json",
+          "label": "Le Gaulois (08 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383810/manifest.json",
+          "label": "Le Gaulois (09 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538382c/manifest.json",
+          "label": "Le Gaulois (10 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538383r/manifest.json",
+          "label": "Le Gaulois (11 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383844/manifest.json",
+          "label": "Le Gaulois (12 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538385h/manifest.json",
+          "label": "Le Gaulois (13 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538386w/manifest.json",
+          "label": "Le Gaulois (14 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383878/manifest.json",
+          "label": "Le Gaulois (15 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538388n/manifest.json",
+          "label": "Le Gaulois (16 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383891/manifest.json",
+          "label": "Le Gaulois (17 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538390z/manifest.json",
+          "label": "Le Gaulois (18 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538391b/manifest.json",
+          "label": "Le Gaulois (19 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538392q/manifest.json",
+          "label": "Le Gaulois (20 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383933/manifest.json",
+          "label": "Le Gaulois (21 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538394g/manifest.json",
+          "label": "Le Gaulois (22 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538395v/manifest.json",
+          "label": "Le Gaulois (23 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383967/manifest.json",
+          "label": "Le Gaulois (24 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538397m/manifest.json",
+          "label": "Le Gaulois (25 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5383980/manifest.json",
+          "label": "Le Gaulois (26 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538399c/manifest.json",
+          "label": "Le Gaulois (27 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384005/manifest.json",
+          "label": "Le Gaulois (28 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538401j/manifest.json",
+          "label": "Le Gaulois (29 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538402x/manifest.json",
+          "label": "Le Gaulois (30 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384039/manifest.json",
+          "label": "Le Gaulois (31 juillet 1920)",
+          "type": "Manifest",
+          "navDate": "1920-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538404p/manifest.json",
+          "label": "Le Gaulois (01 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384052/manifest.json",
+          "label": "Le Gaulois (02 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538406f/manifest.json",
+          "label": "Le Gaulois (03 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538407t/manifest.json",
+          "label": "Le Gaulois (04 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384086/manifest.json",
+          "label": "Le Gaulois (05 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538409k/manifest.json",
+          "label": "Le Gaulois (06 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538410h/manifest.json",
+          "label": "Le Gaulois (07 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538411w/manifest.json",
+          "label": "Le Gaulois (08 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384128/manifest.json",
+          "label": "Le Gaulois (09 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538413n/manifest.json",
+          "label": "Le Gaulois (10 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384141/manifest.json",
+          "label": "Le Gaulois (11 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538415d/manifest.json",
+          "label": "Le Gaulois (12 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538416s/manifest.json",
+          "label": "Le Gaulois (13 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384175/manifest.json",
+          "label": "Le Gaulois (14 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538418j/manifest.json",
+          "label": "Le Gaulois (15 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538419x/manifest.json",
+          "label": "Le Gaulois (16 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538420v/manifest.json",
+          "label": "Le Gaulois (17 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384217/manifest.json",
+          "label": "Le Gaulois (18 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538422m/manifest.json",
+          "label": "Le Gaulois (19 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384230/manifest.json",
+          "label": "Le Gaulois (20 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538424c/manifest.json",
+          "label": "Le Gaulois (21 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538425r/manifest.json",
+          "label": "Le Gaulois (22 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384264/manifest.json",
+          "label": "Le Gaulois (23 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538427h/manifest.json",
+          "label": "Le Gaulois (24 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538428w/manifest.json",
+          "label": "Le Gaulois (25 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384298/manifest.json",
+          "label": "Le Gaulois (26 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384306/manifest.json",
+          "label": "Le Gaulois (27 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538431k/manifest.json",
+          "label": "Le Gaulois (28 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538432z/manifest.json",
+          "label": "Le Gaulois (29 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538433b/manifest.json",
+          "label": "Le Gaulois (30 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538434q/manifest.json",
+          "label": "Le Gaulois (31 août 1920)",
+          "type": "Manifest",
+          "navDate": "1920-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384353/manifest.json",
+          "label": "Le Gaulois (01 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538436g/manifest.json",
+          "label": "Le Gaulois (02 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538437v/manifest.json",
+          "label": "Le Gaulois (03 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384387/manifest.json",
+          "label": "Le Gaulois (04 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538439m/manifest.json",
+          "label": "Le Gaulois (05 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538440j/manifest.json",
+          "label": "Le Gaulois (06 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538441x/manifest.json",
+          "label": "Le Gaulois (07 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384429/manifest.json",
+          "label": "Le Gaulois (08 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538443p/manifest.json",
+          "label": "Le Gaulois (09 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384442/manifest.json",
+          "label": "Le Gaulois (10 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538445f/manifest.json",
+          "label": "Le Gaulois (11 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538446t/manifest.json",
+          "label": "Le Gaulois (12 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384476/manifest.json",
+          "label": "Le Gaulois (13 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538448k/manifest.json",
+          "label": "Le Gaulois (14 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538449z/manifest.json",
+          "label": "Le Gaulois (15 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538450w/manifest.json",
+          "label": "Le Gaulois (16 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384518/manifest.json",
+          "label": "Le Gaulois (17 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538452n/manifest.json",
+          "label": "Le Gaulois (18 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384531/manifest.json",
+          "label": "Le Gaulois (19 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538454d/manifest.json",
+          "label": "Le Gaulois (20 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538455s/manifest.json",
+          "label": "Le Gaulois (21 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384565/manifest.json",
+          "label": "Le Gaulois (22 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538457j/manifest.json",
+          "label": "Le Gaulois (23 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538458x/manifest.json",
+          "label": "Le Gaulois (24 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384599/manifest.json",
+          "label": "Le Gaulois (25 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384607/manifest.json",
+          "label": "Le Gaulois (26 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538461m/manifest.json",
+          "label": "Le Gaulois (27 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384620/manifest.json",
+          "label": "Le Gaulois (28 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538463c/manifest.json",
+          "label": "Le Gaulois (29 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538464r/manifest.json",
+          "label": "Le Gaulois (30 septembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384654/manifest.json",
+          "label": "Le Gaulois (01 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538466h/manifest.json",
+          "label": "Le Gaulois (02 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538467w/manifest.json",
+          "label": "Le Gaulois (03 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384688/manifest.json",
+          "label": "Le Gaulois (04 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538469n/manifest.json",
+          "label": "Le Gaulois (05 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538470k/manifest.json",
+          "label": "Le Gaulois (06 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538471z/manifest.json",
+          "label": "Le Gaulois (07 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538472b/manifest.json",
+          "label": "Le Gaulois (08 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538473q/manifest.json",
+          "label": "Le Gaulois (09 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384743/manifest.json",
+          "label": "Le Gaulois (10 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538475g/manifest.json",
+          "label": "Le Gaulois (11 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538476v/manifest.json",
+          "label": "Le Gaulois (12 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384777/manifest.json",
+          "label": "Le Gaulois (13 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538478m/manifest.json",
+          "label": "Le Gaulois (14 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384790/manifest.json",
+          "label": "Le Gaulois (15 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538480x/manifest.json",
+          "label": "Le Gaulois (16 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384819/manifest.json",
+          "label": "Le Gaulois (17 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538482p/manifest.json",
+          "label": "Le Gaulois (18 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384832/manifest.json",
+          "label": "Le Gaulois (19 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538484f/manifest.json",
+          "label": "Le Gaulois (20 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538485t/manifest.json",
+          "label": "Le Gaulois (21 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384866/manifest.json",
+          "label": "Le Gaulois (22 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538487k/manifest.json",
+          "label": "Le Gaulois (23 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538488z/manifest.json",
+          "label": "Le Gaulois (24 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538489b/manifest.json",
+          "label": "Le Gaulois (25 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384908/manifest.json",
+          "label": "Le Gaulois (26 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538491n/manifest.json",
+          "label": "Le Gaulois (27 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384921/manifest.json",
+          "label": "Le Gaulois (28 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538493d/manifest.json",
+          "label": "Le Gaulois (29 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538494s/manifest.json",
+          "label": "Le Gaulois (30 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384955/manifest.json",
+          "label": "Le Gaulois (31 octobre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538496j/manifest.json",
+          "label": "Le Gaulois (01 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538497x/manifest.json",
+          "label": "Le Gaulois (02 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5384989/manifest.json",
+          "label": "Le Gaulois (03 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538499p/manifest.json",
+          "label": "Le Gaulois (04 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538500g/manifest.json",
+          "label": "Le Gaulois (05 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538501v/manifest.json",
+          "label": "Le Gaulois (06 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385027/manifest.json",
+          "label": "Le Gaulois (07 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538503m/manifest.json",
+          "label": "Le Gaulois (08 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385040/manifest.json",
+          "label": "Le Gaulois (09 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538505c/manifest.json",
+          "label": "Le Gaulois (10 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538506r/manifest.json",
+          "label": "Le Gaulois (11 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385074/manifest.json",
+          "label": "Le Gaulois (12 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538508h/manifest.json",
+          "label": "Le Gaulois (13 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538509w/manifest.json",
+          "label": "Le Gaulois (14 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538510t/manifest.json",
+          "label": "Le Gaulois (15 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385116/manifest.json",
+          "label": "Le Gaulois (16 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538512k/manifest.json",
+          "label": "Le Gaulois (17 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538513z/manifest.json",
+          "label": "Le Gaulois (18 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538514b/manifest.json",
+          "label": "Le Gaulois (19 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538515q/manifest.json",
+          "label": "Le Gaulois (20 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385163/manifest.json",
+          "label": "Le Gaulois (21 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538517g/manifest.json",
+          "label": "Le Gaulois (22 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538518v/manifest.json",
+          "label": "Le Gaulois (23 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385197/manifest.json",
+          "label": "Le Gaulois (24 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385205/manifest.json",
+          "label": "Le Gaulois (25 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538521j/manifest.json",
+          "label": "Le Gaulois (26 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538522x/manifest.json",
+          "label": "Le Gaulois (27 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385239/manifest.json",
+          "label": "Le Gaulois (28 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538524p/manifest.json",
+          "label": "Le Gaulois (29 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385252/manifest.json",
+          "label": "Le Gaulois (30 novembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538526f/manifest.json",
+          "label": "Le Gaulois (01 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538527t/manifest.json",
+          "label": "Le Gaulois (02 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385286/manifest.json",
+          "label": "Le Gaulois (03 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538529k/manifest.json",
+          "label": "Le Gaulois (04 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538530h/manifest.json",
+          "label": "Le Gaulois (05 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538531w/manifest.json",
+          "label": "Le Gaulois (06 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385328/manifest.json",
+          "label": "Le Gaulois (07 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538533n/manifest.json",
+          "label": "Le Gaulois (08 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385341/manifest.json",
+          "label": "Le Gaulois (09 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538535d/manifest.json",
+          "label": "Le Gaulois (10 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538536s/manifest.json",
+          "label": "Le Gaulois (11 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385375/manifest.json",
+          "label": "Le Gaulois (12 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538538j/manifest.json",
+          "label": "Le Gaulois (13 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538539x/manifest.json",
+          "label": "Le Gaulois (14 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538540v/manifest.json",
+          "label": "Le Gaulois (15 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385417/manifest.json",
+          "label": "Le Gaulois (16 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538542m/manifest.json",
+          "label": "Le Gaulois (17 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385430/manifest.json",
+          "label": "Le Gaulois (18 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538544c/manifest.json",
+          "label": "Le Gaulois (19 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538545r/manifest.json",
+          "label": "Le Gaulois (20 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385464/manifest.json",
+          "label": "Le Gaulois (21 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538547h/manifest.json",
+          "label": "Le Gaulois (22 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538548w/manifest.json",
+          "label": "Le Gaulois (23 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385498/manifest.json",
+          "label": "Le Gaulois (24 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385506/manifest.json",
+          "label": "Le Gaulois (25 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538551k/manifest.json",
+          "label": "Le Gaulois (26 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538552z/manifest.json",
+          "label": "Le Gaulois (27 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538553b/manifest.json",
+          "label": "Le Gaulois (28 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538554q/manifest.json",
+          "label": "Le Gaulois (29 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5385553/manifest.json",
+          "label": "Le Gaulois (30 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538556g/manifest.json",
+          "label": "Le Gaulois (31 décembre 1920)",
+          "type": "Manifest",
+          "navDate": "1920-12-31"
+       }]
+    }

@@ -1,0 +1,111 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb34448033b-1930.json",
+  "type": "Collection",
+  "label": { "fr": [ "La Presse (1930)" ], "en": [ "La Presse (1930)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre La Presse pour l'ann&#xE9;e 1930" ], "en": [ "This collection gathers all the issues of the title La Presse for the year 1930" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34448033b/date1930",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : La Presse (1930)" ],"en": [ "Gallica periodical: La Presse (1930)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34448033b/date1930",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : La Presse (1930)" ],"en": [ "Gallica periodical: La Presse (1930)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603364j/manifest.json",
+          "label": "La Presse (04 mai 1930)",
+          "type": "Manifest",
+          "navDate": "1930-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603365x/manifest.json",
+          "label": "La Presse (07 mai 1930)",
+          "type": "Manifest",
+          "navDate": "1930-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6033669/manifest.json",
+          "label": "La Presse (31 août 1930)",
+          "type": "Manifest",
+          "navDate": "1930-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603367p/manifest.json",
+          "label": "La Presse (01 septembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6033682/manifest.json",
+          "label": "La Presse (08 septembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603369f/manifest.json",
+          "label": "La Presse (10 septembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603370c/manifest.json",
+          "label": "La Presse (02 octobre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603371r/manifest.json",
+          "label": "La Presse (10 octobre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6033724/manifest.json",
+          "label": "La Presse (13 octobre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603373h/manifest.json",
+          "label": "La Presse (24 octobre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603374w/manifest.json",
+          "label": "La Presse (26 octobre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6033758/manifest.json",
+          "label": "La Presse (01 novembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6033771/manifest.json",
+          "label": "La Presse (02 décembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603378d/manifest.json",
+          "label": "La Presse (06 décembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603379s/manifest.json",
+          "label": "La Presse (07 décembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k603380q/manifest.json",
+          "label": "La Presse (13 décembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6033813/manifest.json",
+          "label": "La Presse (14 décembre 1930)",
+          "type": "Manifest",
+          "navDate": "1930-12-14"
+       }]
+    }

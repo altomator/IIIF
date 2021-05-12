@@ -1,0 +1,1861 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1908.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1908)" ], "en": [ "Le Gaulois (1908)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1908" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1908" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1908",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1908)" ],"en": [ "Gallica periodical: Le Gaulois (1908)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1908",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1908)" ],"en": [ "Gallica periodical: Le Gaulois (1908)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533834k/manifest.json",
+          "label": "Le Gaulois (01 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533835z/manifest.json",
+          "label": "Le Gaulois (02 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533836b/manifest.json",
+          "label": "Le Gaulois (03 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533837q/manifest.json",
+          "label": "Le Gaulois (04 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338383/manifest.json",
+          "label": "Le Gaulois (05 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533839g/manifest.json",
+          "label": "Le Gaulois (06 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533840d/manifest.json",
+          "label": "Le Gaulois (07 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533841s/manifest.json",
+          "label": "Le Gaulois (08 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338425/manifest.json",
+          "label": "Le Gaulois (09 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533843j/manifest.json",
+          "label": "Le Gaulois (10 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533844x/manifest.json",
+          "label": "Le Gaulois (11 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338459/manifest.json",
+          "label": "Le Gaulois (12 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533846p/manifest.json",
+          "label": "Le Gaulois (13 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338472/manifest.json",
+          "label": "Le Gaulois (14 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533848f/manifest.json",
+          "label": "Le Gaulois (15 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533849t/manifest.json",
+          "label": "Le Gaulois (16 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533850r/manifest.json",
+          "label": "Le Gaulois (17 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338514/manifest.json",
+          "label": "Le Gaulois (18 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533852h/manifest.json",
+          "label": "Le Gaulois (19 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533853w/manifest.json",
+          "label": "Le Gaulois (20 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338548/manifest.json",
+          "label": "Le Gaulois (21 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533855n/manifest.json",
+          "label": "Le Gaulois (22 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338561/manifest.json",
+          "label": "Le Gaulois (23 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533857d/manifest.json",
+          "label": "Le Gaulois (24 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533858s/manifest.json",
+          "label": "Le Gaulois (25 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338595/manifest.json",
+          "label": "Le Gaulois (26 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338603/manifest.json",
+          "label": "Le Gaulois (27 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533861g/manifest.json",
+          "label": "Le Gaulois (28 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533862v/manifest.json",
+          "label": "Le Gaulois (29 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338637/manifest.json",
+          "label": "Le Gaulois (30 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533864m/manifest.json",
+          "label": "Le Gaulois (31 janvier 1908)",
+          "type": "Manifest",
+          "navDate": "1908-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338650/manifest.json",
+          "label": "Le Gaulois (01 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533866c/manifest.json",
+          "label": "Le Gaulois (02 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533867r/manifest.json",
+          "label": "Le Gaulois (03 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338684/manifest.json",
+          "label": "Le Gaulois (04 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533869h/manifest.json",
+          "label": "Le Gaulois (05 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533870f/manifest.json",
+          "label": "Le Gaulois (06 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533871t/manifest.json",
+          "label": "Le Gaulois (07 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338726/manifest.json",
+          "label": "Le Gaulois (08 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533873k/manifest.json",
+          "label": "Le Gaulois (09 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533874z/manifest.json",
+          "label": "Le Gaulois (10 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533875b/manifest.json",
+          "label": "Le Gaulois (11 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533876q/manifest.json",
+          "label": "Le Gaulois (12 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338773/manifest.json",
+          "label": "Le Gaulois (13 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533878g/manifest.json",
+          "label": "Le Gaulois (14 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533879v/manifest.json",
+          "label": "Le Gaulois (15 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533880s/manifest.json",
+          "label": "Le Gaulois (16 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338815/manifest.json",
+          "label": "Le Gaulois (17 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533882j/manifest.json",
+          "label": "Le Gaulois (18 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533883x/manifest.json",
+          "label": "Le Gaulois (19 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338849/manifest.json",
+          "label": "Le Gaulois (20 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533885p/manifest.json",
+          "label": "Le Gaulois (21 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338862/manifest.json",
+          "label": "Le Gaulois (22 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533887f/manifest.json",
+          "label": "Le Gaulois (23 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533888t/manifest.json",
+          "label": "Le Gaulois (24 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338896/manifest.json",
+          "label": "Le Gaulois (25 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338904/manifest.json",
+          "label": "Le Gaulois (26 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533891h/manifest.json",
+          "label": "Le Gaulois (27 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533892w/manifest.json",
+          "label": "Le Gaulois (28 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338938/manifest.json",
+          "label": "Le Gaulois (29 février 1908)",
+          "type": "Manifest",
+          "navDate": "1908-02-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533894n/manifest.json",
+          "label": "Le Gaulois (01 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338951/manifest.json",
+          "label": "Le Gaulois (02 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533896d/manifest.json",
+          "label": "Le Gaulois (03 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533897s/manifest.json",
+          "label": "Le Gaulois (04 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338985/manifest.json",
+          "label": "Le Gaulois (05 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533899j/manifest.json",
+          "label": "Le Gaulois (06 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533900b/manifest.json",
+          "label": "Le Gaulois (07 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533901q/manifest.json",
+          "label": "Le Gaulois (08 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339023/manifest.json",
+          "label": "Le Gaulois (09 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533903g/manifest.json",
+          "label": "Le Gaulois (10 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533904v/manifest.json",
+          "label": "Le Gaulois (11 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339057/manifest.json",
+          "label": "Le Gaulois (12 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533906m/manifest.json",
+          "label": "Le Gaulois (13 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339070/manifest.json",
+          "label": "Le Gaulois (14 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533908c/manifest.json",
+          "label": "Le Gaulois (15 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533909r/manifest.json",
+          "label": "Le Gaulois (16 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533910p/manifest.json",
+          "label": "Le Gaulois (17 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339112/manifest.json",
+          "label": "Le Gaulois (18 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533912f/manifest.json",
+          "label": "Le Gaulois (19 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533913t/manifest.json",
+          "label": "Le Gaulois (20 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339146/manifest.json",
+          "label": "Le Gaulois (21 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533915k/manifest.json",
+          "label": "Le Gaulois (22 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533916z/manifest.json",
+          "label": "Le Gaulois (23 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533917b/manifest.json",
+          "label": "Le Gaulois (24 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533918q/manifest.json",
+          "label": "Le Gaulois (25 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339193/manifest.json",
+          "label": "Le Gaulois (26 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339201/manifest.json",
+          "label": "Le Gaulois (27 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533921d/manifest.json",
+          "label": "Le Gaulois (28 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533922s/manifest.json",
+          "label": "Le Gaulois (29 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339235/manifest.json",
+          "label": "Le Gaulois (30 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533924j/manifest.json",
+          "label": "Le Gaulois (31 mars 1908)",
+          "type": "Manifest",
+          "navDate": "1908-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533925x/manifest.json",
+          "label": "Le Gaulois (01 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339269/manifest.json",
+          "label": "Le Gaulois (02 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533927p/manifest.json",
+          "label": "Le Gaulois (03 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339282/manifest.json",
+          "label": "Le Gaulois (04 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533929f/manifest.json",
+          "label": "Le Gaulois (05 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533930c/manifest.json",
+          "label": "Le Gaulois (06 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533931r/manifest.json",
+          "label": "Le Gaulois (07 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339324/manifest.json",
+          "label": "Le Gaulois (08 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533933h/manifest.json",
+          "label": "Le Gaulois (09 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533934w/manifest.json",
+          "label": "Le Gaulois (10 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339358/manifest.json",
+          "label": "Le Gaulois (11 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533936n/manifest.json",
+          "label": "Le Gaulois (12 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339371/manifest.json",
+          "label": "Le Gaulois (13 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533938d/manifest.json",
+          "label": "Le Gaulois (14 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533939s/manifest.json",
+          "label": "Le Gaulois (15 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533940q/manifest.json",
+          "label": "Le Gaulois (16 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339413/manifest.json",
+          "label": "Le Gaulois (17 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533942g/manifest.json",
+          "label": "Le Gaulois (18 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533943v/manifest.json",
+          "label": "Le Gaulois (19 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339447/manifest.json",
+          "label": "Le Gaulois (20 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533945m/manifest.json",
+          "label": "Le Gaulois (21 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339460/manifest.json",
+          "label": "Le Gaulois (22 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533947c/manifest.json",
+          "label": "Le Gaulois (23 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533948r/manifest.json",
+          "label": "Le Gaulois (24 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339494/manifest.json",
+          "label": "Le Gaulois (25 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339502/manifest.json",
+          "label": "Le Gaulois (26 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533951f/manifest.json",
+          "label": "Le Gaulois (27 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533952t/manifest.json",
+          "label": "Le Gaulois (28 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339536/manifest.json",
+          "label": "Le Gaulois (29 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533954k/manifest.json",
+          "label": "Le Gaulois (30 avril 1908)",
+          "type": "Manifest",
+          "navDate": "1908-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533955z/manifest.json",
+          "label": "Le Gaulois (01 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533956b/manifest.json",
+          "label": "Le Gaulois (02 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533957q/manifest.json",
+          "label": "Le Gaulois (03 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339583/manifest.json",
+          "label": "Le Gaulois (04 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533959g/manifest.json",
+          "label": "Le Gaulois (05 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533960d/manifest.json",
+          "label": "Le Gaulois (06 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533961s/manifest.json",
+          "label": "Le Gaulois (07 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339625/manifest.json",
+          "label": "Le Gaulois (08 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533963j/manifest.json",
+          "label": "Le Gaulois (09 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533964x/manifest.json",
+          "label": "Le Gaulois (10 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339659/manifest.json",
+          "label": "Le Gaulois (11 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533966p/manifest.json",
+          "label": "Le Gaulois (12 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339672/manifest.json",
+          "label": "Le Gaulois (13 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533968f/manifest.json",
+          "label": "Le Gaulois (14 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533969t/manifest.json",
+          "label": "Le Gaulois (15 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533970r/manifest.json",
+          "label": "Le Gaulois (16 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339714/manifest.json",
+          "label": "Le Gaulois (17 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533972h/manifest.json",
+          "label": "Le Gaulois (18 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533973w/manifest.json",
+          "label": "Le Gaulois (19 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339748/manifest.json",
+          "label": "Le Gaulois (20 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533975n/manifest.json",
+          "label": "Le Gaulois (21 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339761/manifest.json",
+          "label": "Le Gaulois (22 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533977d/manifest.json",
+          "label": "Le Gaulois (23 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533978s/manifest.json",
+          "label": "Le Gaulois (24 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339795/manifest.json",
+          "label": "Le Gaulois (25 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339803/manifest.json",
+          "label": "Le Gaulois (26 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533981g/manifest.json",
+          "label": "Le Gaulois (27 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533982v/manifest.json",
+          "label": "Le Gaulois (28 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339837/manifest.json",
+          "label": "Le Gaulois (29 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533984m/manifest.json",
+          "label": "Le Gaulois (30 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339850/manifest.json",
+          "label": "Le Gaulois (31 mai 1908)",
+          "type": "Manifest",
+          "navDate": "1908-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533986c/manifest.json",
+          "label": "Le Gaulois (01 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533987r/manifest.json",
+          "label": "Le Gaulois (02 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339884/manifest.json",
+          "label": "Le Gaulois (03 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533989h/manifest.json",
+          "label": "Le Gaulois (04 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533990f/manifest.json",
+          "label": "Le Gaulois (05 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533991t/manifest.json",
+          "label": "Le Gaulois (06 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339926/manifest.json",
+          "label": "Le Gaulois (07 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533993k/manifest.json",
+          "label": "Le Gaulois (08 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533994z/manifest.json",
+          "label": "Le Gaulois (09 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533995b/manifest.json",
+          "label": "Le Gaulois (10 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533996q/manifest.json",
+          "label": "Le Gaulois (11 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5339973/manifest.json",
+          "label": "Le Gaulois (12 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533998g/manifest.json",
+          "label": "Le Gaulois (13 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533999v/manifest.json",
+          "label": "Le Gaulois (14 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534000t/manifest.json",
+          "label": "Le Gaulois (15 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340016/manifest.json",
+          "label": "Le Gaulois (16 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534002k/manifest.json",
+          "label": "Le Gaulois (17 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534003z/manifest.json",
+          "label": "Le Gaulois (18 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534004b/manifest.json",
+          "label": "Le Gaulois (19 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534005q/manifest.json",
+          "label": "Le Gaulois (20 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340063/manifest.json",
+          "label": "Le Gaulois (21 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534007g/manifest.json",
+          "label": "Le Gaulois (22 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534008v/manifest.json",
+          "label": "Le Gaulois (23 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340097/manifest.json",
+          "label": "Le Gaulois (24 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340105/manifest.json",
+          "label": "Le Gaulois (25 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534011j/manifest.json",
+          "label": "Le Gaulois (26 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534012x/manifest.json",
+          "label": "Le Gaulois (27 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340139/manifest.json",
+          "label": "Le Gaulois (28 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534014p/manifest.json",
+          "label": "Le Gaulois (29 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340152/manifest.json",
+          "label": "Le Gaulois (30 juin 1908)",
+          "type": "Manifest",
+          "navDate": "1908-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534016f/manifest.json",
+          "label": "Le Gaulois (01 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534017t/manifest.json",
+          "label": "Le Gaulois (02 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340186/manifest.json",
+          "label": "Le Gaulois (03 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534019k/manifest.json",
+          "label": "Le Gaulois (04 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534020h/manifest.json",
+          "label": "Le Gaulois (05 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534021w/manifest.json",
+          "label": "Le Gaulois (06 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340228/manifest.json",
+          "label": "Le Gaulois (07 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534023n/manifest.json",
+          "label": "Le Gaulois (08 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340241/manifest.json",
+          "label": "Le Gaulois (09 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534025d/manifest.json",
+          "label": "Le Gaulois (10 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534026s/manifest.json",
+          "label": "Le Gaulois (11 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340275/manifest.json",
+          "label": "Le Gaulois (12 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534028j/manifest.json",
+          "label": "Le Gaulois (13 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534029x/manifest.json",
+          "label": "Le Gaulois (14 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534030v/manifest.json",
+          "label": "Le Gaulois (15 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340317/manifest.json",
+          "label": "Le Gaulois (16 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534032m/manifest.json",
+          "label": "Le Gaulois (17 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340330/manifest.json",
+          "label": "Le Gaulois (18 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534034c/manifest.json",
+          "label": "Le Gaulois (19 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534035r/manifest.json",
+          "label": "Le Gaulois (20 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340364/manifest.json",
+          "label": "Le Gaulois (21 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534037h/manifest.json",
+          "label": "Le Gaulois (22 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534038w/manifest.json",
+          "label": "Le Gaulois (23 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340398/manifest.json",
+          "label": "Le Gaulois (24 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340406/manifest.json",
+          "label": "Le Gaulois (25 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534041k/manifest.json",
+          "label": "Le Gaulois (26 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534042z/manifest.json",
+          "label": "Le Gaulois (27 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534043b/manifest.json",
+          "label": "Le Gaulois (28 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534044q/manifest.json",
+          "label": "Le Gaulois (29 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340453/manifest.json",
+          "label": "Le Gaulois (30 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534046g/manifest.json",
+          "label": "Le Gaulois (31 juillet 1908)",
+          "type": "Manifest",
+          "navDate": "1908-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534047v/manifest.json",
+          "label": "Le Gaulois (01 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340487/manifest.json",
+          "label": "Le Gaulois (02 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534049m/manifest.json",
+          "label": "Le Gaulois (03 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534050j/manifest.json",
+          "label": "Le Gaulois (04 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534051x/manifest.json",
+          "label": "Le Gaulois (05 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340529/manifest.json",
+          "label": "Le Gaulois (06 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534053p/manifest.json",
+          "label": "Le Gaulois (07 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340542/manifest.json",
+          "label": "Le Gaulois (08 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534055f/manifest.json",
+          "label": "Le Gaulois (09 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534056t/manifest.json",
+          "label": "Le Gaulois (10 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340576/manifest.json",
+          "label": "Le Gaulois (11 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534058k/manifest.json",
+          "label": "Le Gaulois (12 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534059z/manifest.json",
+          "label": "Le Gaulois (13 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534060w/manifest.json",
+          "label": "Le Gaulois (14 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340618/manifest.json",
+          "label": "Le Gaulois (15 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534062n/manifest.json",
+          "label": "Le Gaulois (16 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340631/manifest.json",
+          "label": "Le Gaulois (17 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534064d/manifest.json",
+          "label": "Le Gaulois (18 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534065s/manifest.json",
+          "label": "Le Gaulois (19 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340665/manifest.json",
+          "label": "Le Gaulois (20 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534067j/manifest.json",
+          "label": "Le Gaulois (21 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534068x/manifest.json",
+          "label": "Le Gaulois (22 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340699/manifest.json",
+          "label": "Le Gaulois (23 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340707/manifest.json",
+          "label": "Le Gaulois (24 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534071m/manifest.json",
+          "label": "Le Gaulois (25 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340720/manifest.json",
+          "label": "Le Gaulois (26 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534073c/manifest.json",
+          "label": "Le Gaulois (27 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534074r/manifest.json",
+          "label": "Le Gaulois (28 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340754/manifest.json",
+          "label": "Le Gaulois (29 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534076h/manifest.json",
+          "label": "Le Gaulois (30 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534077w/manifest.json",
+          "label": "Le Gaulois (31 août 1908)",
+          "type": "Manifest",
+          "navDate": "1908-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340788/manifest.json",
+          "label": "Le Gaulois (01 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534079n/manifest.json",
+          "label": "Le Gaulois (02 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534080k/manifest.json",
+          "label": "Le Gaulois (03 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534081z/manifest.json",
+          "label": "Le Gaulois (04 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534082b/manifest.json",
+          "label": "Le Gaulois (05 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534083q/manifest.json",
+          "label": "Le Gaulois (06 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340843/manifest.json",
+          "label": "Le Gaulois (07 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534085g/manifest.json",
+          "label": "Le Gaulois (08 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534086v/manifest.json",
+          "label": "Le Gaulois (09 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340877/manifest.json",
+          "label": "Le Gaulois (10 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534088m/manifest.json",
+          "label": "Le Gaulois (11 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340890/manifest.json",
+          "label": "Le Gaulois (12 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534090x/manifest.json",
+          "label": "Le Gaulois (13 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340919/manifest.json",
+          "label": "Le Gaulois (14 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534092p/manifest.json",
+          "label": "Le Gaulois (15 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340932/manifest.json",
+          "label": "Le Gaulois (16 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534094f/manifest.json",
+          "label": "Le Gaulois (17 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534095t/manifest.json",
+          "label": "Le Gaulois (18 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5340966/manifest.json",
+          "label": "Le Gaulois (19 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534097k/manifest.json",
+          "label": "Le Gaulois (20 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534098z/manifest.json",
+          "label": "Le Gaulois (21 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534099b/manifest.json",
+          "label": "Le Gaulois (22 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341004/manifest.json",
+          "label": "Le Gaulois (23 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534101h/manifest.json",
+          "label": "Le Gaulois (24 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534102w/manifest.json",
+          "label": "Le Gaulois (25 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341038/manifest.json",
+          "label": "Le Gaulois (26 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534104n/manifest.json",
+          "label": "Le Gaulois (27 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341051/manifest.json",
+          "label": "Le Gaulois (28 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534106d/manifest.json",
+          "label": "Le Gaulois (29 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534107s/manifest.json",
+          "label": "Le Gaulois (30 septembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341085/manifest.json",
+          "label": "Le Gaulois (01 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534109j/manifest.json",
+          "label": "Le Gaulois (02 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534110g/manifest.json",
+          "label": "Le Gaulois (03 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534111v/manifest.json",
+          "label": "Le Gaulois (04 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341127/manifest.json",
+          "label": "Le Gaulois (05 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534113m/manifest.json",
+          "label": "Le Gaulois (06 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341140/manifest.json",
+          "label": "Le Gaulois (07 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534115c/manifest.json",
+          "label": "Le Gaulois (08 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534116r/manifest.json",
+          "label": "Le Gaulois (09 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341174/manifest.json",
+          "label": "Le Gaulois (10 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534118h/manifest.json",
+          "label": "Le Gaulois (11 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534119w/manifest.json",
+          "label": "Le Gaulois (12 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534120t/manifest.json",
+          "label": "Le Gaulois (13 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341216/manifest.json",
+          "label": "Le Gaulois (14 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534122k/manifest.json",
+          "label": "Le Gaulois (15 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534123z/manifest.json",
+          "label": "Le Gaulois (16 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534124b/manifest.json",
+          "label": "Le Gaulois (17 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534125q/manifest.json",
+          "label": "Le Gaulois (18 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341263/manifest.json",
+          "label": "Le Gaulois (19 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534127g/manifest.json",
+          "label": "Le Gaulois (20 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534128v/manifest.json",
+          "label": "Le Gaulois (21 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341297/manifest.json",
+          "label": "Le Gaulois (22 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341305/manifest.json",
+          "label": "Le Gaulois (23 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534131j/manifest.json",
+          "label": "Le Gaulois (24 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534132x/manifest.json",
+          "label": "Le Gaulois (25 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341339/manifest.json",
+          "label": "Le Gaulois (26 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534134p/manifest.json",
+          "label": "Le Gaulois (27 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341352/manifest.json",
+          "label": "Le Gaulois (28 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534136f/manifest.json",
+          "label": "Le Gaulois (29 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534137t/manifest.json",
+          "label": "Le Gaulois (30 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341386/manifest.json",
+          "label": "Le Gaulois (31 octobre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534139k/manifest.json",
+          "label": "Le Gaulois (01 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534140h/manifest.json",
+          "label": "Le Gaulois (02 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534141w/manifest.json",
+          "label": "Le Gaulois (03 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341428/manifest.json",
+          "label": "Le Gaulois (04 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534143n/manifest.json",
+          "label": "Le Gaulois (05 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341441/manifest.json",
+          "label": "Le Gaulois (06 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534145d/manifest.json",
+          "label": "Le Gaulois (07 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534146s/manifest.json",
+          "label": "Le Gaulois (08 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341475/manifest.json",
+          "label": "Le Gaulois (09 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534148j/manifest.json",
+          "label": "Le Gaulois (10 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534149x/manifest.json",
+          "label": "Le Gaulois (11 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534150v/manifest.json",
+          "label": "Le Gaulois (12 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341517/manifest.json",
+          "label": "Le Gaulois (13 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534152m/manifest.json",
+          "label": "Le Gaulois (14 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341530/manifest.json",
+          "label": "Le Gaulois (15 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534154c/manifest.json",
+          "label": "Le Gaulois (16 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534155r/manifest.json",
+          "label": "Le Gaulois (17 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341564/manifest.json",
+          "label": "Le Gaulois (18 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534157h/manifest.json",
+          "label": "Le Gaulois (19 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534158w/manifest.json",
+          "label": "Le Gaulois (20 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341598/manifest.json",
+          "label": "Le Gaulois (21 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341606/manifest.json",
+          "label": "Le Gaulois (22 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534161k/manifest.json",
+          "label": "Le Gaulois (23 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534162z/manifest.json",
+          "label": "Le Gaulois (24 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534163b/manifest.json",
+          "label": "Le Gaulois (25 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534164q/manifest.json",
+          "label": "Le Gaulois (26 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341653/manifest.json",
+          "label": "Le Gaulois (27 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534166g/manifest.json",
+          "label": "Le Gaulois (28 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534167v/manifest.json",
+          "label": "Le Gaulois (29 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341687/manifest.json",
+          "label": "Le Gaulois (30 novembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534169m/manifest.json",
+          "label": "Le Gaulois (01 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534170j/manifest.json",
+          "label": "Le Gaulois (02 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534171x/manifest.json",
+          "label": "Le Gaulois (03 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341729/manifest.json",
+          "label": "Le Gaulois (04 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534173p/manifest.json",
+          "label": "Le Gaulois (05 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341742/manifest.json",
+          "label": "Le Gaulois (06 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534175f/manifest.json",
+          "label": "Le Gaulois (07 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534176t/manifest.json",
+          "label": "Le Gaulois (08 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341776/manifest.json",
+          "label": "Le Gaulois (09 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534178k/manifest.json",
+          "label": "Le Gaulois (10 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534179z/manifest.json",
+          "label": "Le Gaulois (11 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534180w/manifest.json",
+          "label": "Le Gaulois (12 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341818/manifest.json",
+          "label": "Le Gaulois (13 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534182n/manifest.json",
+          "label": "Le Gaulois (14 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341831/manifest.json",
+          "label": "Le Gaulois (15 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534184d/manifest.json",
+          "label": "Le Gaulois (16 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534185s/manifest.json",
+          "label": "Le Gaulois (17 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341865/manifest.json",
+          "label": "Le Gaulois (18 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534187j/manifest.json",
+          "label": "Le Gaulois (19 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534188x/manifest.json",
+          "label": "Le Gaulois (20 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341899/manifest.json",
+          "label": "Le Gaulois (21 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341907/manifest.json",
+          "label": "Le Gaulois (22 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534191m/manifest.json",
+          "label": "Le Gaulois (23 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341920/manifest.json",
+          "label": "Le Gaulois (24 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534193c/manifest.json",
+          "label": "Le Gaulois (25 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534194r/manifest.json",
+          "label": "Le Gaulois (26 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341954/manifest.json",
+          "label": "Le Gaulois (27 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534196h/manifest.json",
+          "label": "Le Gaulois (28 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534197w/manifest.json",
+          "label": "Le Gaulois (29 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5341988/manifest.json",
+          "label": "Le Gaulois (30 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5338336/manifest.json",
+          "label": "Le Gaulois (31 décembre 1907)",
+          "type": "Manifest",
+          "navDate": "1908-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534199n/manifest.json",
+          "label": "Le Gaulois (31 décembre 1908)",
+          "type": "Manifest",
+          "navDate": "1908-12-31"
+       }]
+    }

@@ -1,0 +1,1846 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1911.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1911)" ], "en": [ "Le Gaulois (1911)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1911" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1911" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1911",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1911)" ],"en": [ "Gallica periodical: Le Gaulois (1911)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1911",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1911)" ],"en": [ "Gallica periodical: Le Gaulois (1911)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534929q/manifest.json",
+          "label": "Le Gaulois (01 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534930n/manifest.json",
+          "label": "Le Gaulois (02 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349311/manifest.json",
+          "label": "Le Gaulois (03 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534932d/manifest.json",
+          "label": "Le Gaulois (04 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534933s/manifest.json",
+          "label": "Le Gaulois (05 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349345/manifest.json",
+          "label": "Le Gaulois (06 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534935j/manifest.json",
+          "label": "Le Gaulois (07 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534936x/manifest.json",
+          "label": "Le Gaulois (08 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349379/manifest.json",
+          "label": "Le Gaulois (09 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534938p/manifest.json",
+          "label": "Le Gaulois (10 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349392/manifest.json",
+          "label": "Le Gaulois (11 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349400/manifest.json",
+          "label": "Le Gaulois (12 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534941c/manifest.json",
+          "label": "Le Gaulois (13 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534942r/manifest.json",
+          "label": "Le Gaulois (14 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349434/manifest.json",
+          "label": "Le Gaulois (15 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534944h/manifest.json",
+          "label": "Le Gaulois (16 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534945w/manifest.json",
+          "label": "Le Gaulois (17 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349468/manifest.json",
+          "label": "Le Gaulois (18 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534947n/manifest.json",
+          "label": "Le Gaulois (19 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349481/manifest.json",
+          "label": "Le Gaulois (20 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534949d/manifest.json",
+          "label": "Le Gaulois (21 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534950b/manifest.json",
+          "label": "Le Gaulois (22 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534951q/manifest.json",
+          "label": "Le Gaulois (23 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349523/manifest.json",
+          "label": "Le Gaulois (24 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534953g/manifest.json",
+          "label": "Le Gaulois (25 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534954v/manifest.json",
+          "label": "Le Gaulois (26 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349557/manifest.json",
+          "label": "Le Gaulois (27 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534956m/manifest.json",
+          "label": "Le Gaulois (28 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349570/manifest.json",
+          "label": "Le Gaulois (29 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534958c/manifest.json",
+          "label": "Le Gaulois (30 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534959r/manifest.json",
+          "label": "Le Gaulois (31 janvier 1911)",
+          "type": "Manifest",
+          "navDate": "1911-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534960p/manifest.json",
+          "label": "Le Gaulois (01 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349612/manifest.json",
+          "label": "Le Gaulois (02 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534962f/manifest.json",
+          "label": "Le Gaulois (03 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534963t/manifest.json",
+          "label": "Le Gaulois (04 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349646/manifest.json",
+          "label": "Le Gaulois (05 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534965k/manifest.json",
+          "label": "Le Gaulois (06 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534966z/manifest.json",
+          "label": "Le Gaulois (07 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534967b/manifest.json",
+          "label": "Le Gaulois (08 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534968q/manifest.json",
+          "label": "Le Gaulois (09 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349693/manifest.json",
+          "label": "Le Gaulois (10 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349701/manifest.json",
+          "label": "Le Gaulois (11 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534971d/manifest.json",
+          "label": "Le Gaulois (12 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534972s/manifest.json",
+          "label": "Le Gaulois (13 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349735/manifest.json",
+          "label": "Le Gaulois (14 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534974j/manifest.json",
+          "label": "Le Gaulois (15 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534975x/manifest.json",
+          "label": "Le Gaulois (16 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349769/manifest.json",
+          "label": "Le Gaulois (17 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534977p/manifest.json",
+          "label": "Le Gaulois (18 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349782/manifest.json",
+          "label": "Le Gaulois (19 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534979f/manifest.json",
+          "label": "Le Gaulois (20 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534980c/manifest.json",
+          "label": "Le Gaulois (21 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534981r/manifest.json",
+          "label": "Le Gaulois (22 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349824/manifest.json",
+          "label": "Le Gaulois (23 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534983h/manifest.json",
+          "label": "Le Gaulois (24 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534984w/manifest.json",
+          "label": "Le Gaulois (25 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349858/manifest.json",
+          "label": "Le Gaulois (26 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534986n/manifest.json",
+          "label": "Le Gaulois (27 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349871/manifest.json",
+          "label": "Le Gaulois (28 février 1911)",
+          "type": "Manifest",
+          "navDate": "1911-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534988d/manifest.json",
+          "label": "Le Gaulois (01 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534989s/manifest.json",
+          "label": "Le Gaulois (02 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534990q/manifest.json",
+          "label": "Le Gaulois (03 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349913/manifest.json",
+          "label": "Le Gaulois (04 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534992g/manifest.json",
+          "label": "Le Gaulois (05 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534993v/manifest.json",
+          "label": "Le Gaulois (06 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349947/manifest.json",
+          "label": "Le Gaulois (07 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534995m/manifest.json",
+          "label": "Le Gaulois (08 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349960/manifest.json",
+          "label": "Le Gaulois (09 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534997c/manifest.json",
+          "label": "Le Gaulois (10 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534998r/manifest.json",
+          "label": "Le Gaulois (11 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5349994/manifest.json",
+          "label": "Le Gaulois (12 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350003/manifest.json",
+          "label": "Le Gaulois (13 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535001g/manifest.json",
+          "label": "Le Gaulois (14 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535002v/manifest.json",
+          "label": "Le Gaulois (15 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350037/manifest.json",
+          "label": "Le Gaulois (16 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535004m/manifest.json",
+          "label": "Le Gaulois (17 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350050/manifest.json",
+          "label": "Le Gaulois (19 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535006c/manifest.json",
+          "label": "Le Gaulois (20 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535007r/manifest.json",
+          "label": "Le Gaulois (21 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350084/manifest.json",
+          "label": "Le Gaulois (22 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535009h/manifest.json",
+          "label": "Le Gaulois (23 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535010f/manifest.json",
+          "label": "Le Gaulois (24 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535011t/manifest.json",
+          "label": "Le Gaulois (25 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350126/manifest.json",
+          "label": "Le Gaulois (26 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535013k/manifest.json",
+          "label": "Le Gaulois (27 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535014z/manifest.json",
+          "label": "Le Gaulois (28 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535015b/manifest.json",
+          "label": "Le Gaulois (29 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535016q/manifest.json",
+          "label": "Le Gaulois (30 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350173/manifest.json",
+          "label": "Le Gaulois (31 mars 1911)",
+          "type": "Manifest",
+          "navDate": "1911-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535018g/manifest.json",
+          "label": "Le Gaulois (01 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535019v/manifest.json",
+          "label": "Le Gaulois (02 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535020s/manifest.json",
+          "label": "Le Gaulois (03 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350215/manifest.json",
+          "label": "Le Gaulois (04 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535022j/manifest.json",
+          "label": "Le Gaulois (05 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535023x/manifest.json",
+          "label": "Le Gaulois (06 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350249/manifest.json",
+          "label": "Le Gaulois (07 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535025p/manifest.json",
+          "label": "Le Gaulois (08 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350262/manifest.json",
+          "label": "Le Gaulois (09 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535027f/manifest.json",
+          "label": "Le Gaulois (10 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535028t/manifest.json",
+          "label": "Le Gaulois (11 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350296/manifest.json",
+          "label": "Le Gaulois (12 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350304/manifest.json",
+          "label": "Le Gaulois (13 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535031h/manifest.json",
+          "label": "Le Gaulois (14 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535032w/manifest.json",
+          "label": "Le Gaulois (15 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350338/manifest.json",
+          "label": "Le Gaulois (16 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535034n/manifest.json",
+          "label": "Le Gaulois (17 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350351/manifest.json",
+          "label": "Le Gaulois (18 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535036d/manifest.json",
+          "label": "Le Gaulois (19 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535037s/manifest.json",
+          "label": "Le Gaulois (20 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350385/manifest.json",
+          "label": "Le Gaulois (21 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535039j/manifest.json",
+          "label": "Le Gaulois (22 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535040g/manifest.json",
+          "label": "Le Gaulois (23 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535041v/manifest.json",
+          "label": "Le Gaulois (24 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350427/manifest.json",
+          "label": "Le Gaulois (25 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535043m/manifest.json",
+          "label": "Le Gaulois (26 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350440/manifest.json",
+          "label": "Le Gaulois (27 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535045c/manifest.json",
+          "label": "Le Gaulois (28 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535046r/manifest.json",
+          "label": "Le Gaulois (29 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350474/manifest.json",
+          "label": "Le Gaulois (30 avril 1911)",
+          "type": "Manifest",
+          "navDate": "1911-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535048h/manifest.json",
+          "label": "Le Gaulois (01 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535049w/manifest.json",
+          "label": "Le Gaulois (02 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535050t/manifest.json",
+          "label": "Le Gaulois (03 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350516/manifest.json",
+          "label": "Le Gaulois (04 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535052k/manifest.json",
+          "label": "Le Gaulois (05 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535053z/manifest.json",
+          "label": "Le Gaulois (06 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535054b/manifest.json",
+          "label": "Le Gaulois (07 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535055q/manifest.json",
+          "label": "Le Gaulois (08 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350563/manifest.json",
+          "label": "Le Gaulois (09 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535057g/manifest.json",
+          "label": "Le Gaulois (10 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535058v/manifest.json",
+          "label": "Le Gaulois (11 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350597/manifest.json",
+          "label": "Le Gaulois (12 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350605/manifest.json",
+          "label": "Le Gaulois (13 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535061j/manifest.json",
+          "label": "Le Gaulois (14 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535062x/manifest.json",
+          "label": "Le Gaulois (15 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350639/manifest.json",
+          "label": "Le Gaulois (16 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535064p/manifest.json",
+          "label": "Le Gaulois (17 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350652/manifest.json",
+          "label": "Le Gaulois (18 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535066f/manifest.json",
+          "label": "Le Gaulois (19 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535067t/manifest.json",
+          "label": "Le Gaulois (20 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350686/manifest.json",
+          "label": "Le Gaulois (21 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535069k/manifest.json",
+          "label": "Le Gaulois (22 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535070h/manifest.json",
+          "label": "Le Gaulois (23 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535071w/manifest.json",
+          "label": "Le Gaulois (24 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350728/manifest.json",
+          "label": "Le Gaulois (25 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535073n/manifest.json",
+          "label": "Le Gaulois (26 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350741/manifest.json",
+          "label": "Le Gaulois (27 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535075d/manifest.json",
+          "label": "Le Gaulois (28 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535076s/manifest.json",
+          "label": "Le Gaulois (29 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350775/manifest.json",
+          "label": "Le Gaulois (30 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535078j/manifest.json",
+          "label": "Le Gaulois (31 mai 1911)",
+          "type": "Manifest",
+          "navDate": "1911-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535079x/manifest.json",
+          "label": "Le Gaulois (01 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535080v/manifest.json",
+          "label": "Le Gaulois (02 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350817/manifest.json",
+          "label": "Le Gaulois (03 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535082m/manifest.json",
+          "label": "Le Gaulois (04 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350830/manifest.json",
+          "label": "Le Gaulois (05 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535084c/manifest.json",
+          "label": "Le Gaulois (06 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535085r/manifest.json",
+          "label": "Le Gaulois (07 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350864/manifest.json",
+          "label": "Le Gaulois (08 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535087h/manifest.json",
+          "label": "Le Gaulois (09 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535088w/manifest.json",
+          "label": "Le Gaulois (10 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350898/manifest.json",
+          "label": "Le Gaulois (11 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350906/manifest.json",
+          "label": "Le Gaulois (12 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535091k/manifest.json",
+          "label": "Le Gaulois (13 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535092z/manifest.json",
+          "label": "Le Gaulois (14 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535093b/manifest.json",
+          "label": "Le Gaulois (15 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535094q/manifest.json",
+          "label": "Le Gaulois (16 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350953/manifest.json",
+          "label": "Le Gaulois (17 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535096g/manifest.json",
+          "label": "Le Gaulois (18 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535097v/manifest.json",
+          "label": "Le Gaulois (19 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5350987/manifest.json",
+          "label": "Le Gaulois (20 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535099m/manifest.json",
+          "label": "Le Gaulois (21 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535100d/manifest.json",
+          "label": "Le Gaulois (22 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535101s/manifest.json",
+          "label": "Le Gaulois (23 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351025/manifest.json",
+          "label": "Le Gaulois (24 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535103j/manifest.json",
+          "label": "Le Gaulois (25 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535104x/manifest.json",
+          "label": "Le Gaulois (26 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351059/manifest.json",
+          "label": "Le Gaulois (27 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535106p/manifest.json",
+          "label": "Le Gaulois (28 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351072/manifest.json",
+          "label": "Le Gaulois (29 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535108f/manifest.json",
+          "label": "Le Gaulois (30 juin 1911)",
+          "type": "Manifest",
+          "navDate": "1911-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535109t/manifest.json",
+          "label": "Le Gaulois (01 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535110r/manifest.json",
+          "label": "Le Gaulois (02 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351114/manifest.json",
+          "label": "Le Gaulois (03 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535112h/manifest.json",
+          "label": "Le Gaulois (04 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535113w/manifest.json",
+          "label": "Le Gaulois (05 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351148/manifest.json",
+          "label": "Le Gaulois (06 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535115n/manifest.json",
+          "label": "Le Gaulois (07 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351161/manifest.json",
+          "label": "Le Gaulois (08 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535117d/manifest.json",
+          "label": "Le Gaulois (09 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535118s/manifest.json",
+          "label": "Le Gaulois (10 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351195/manifest.json",
+          "label": "Le Gaulois (11 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351203/manifest.json",
+          "label": "Le Gaulois (12 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535121g/manifest.json",
+          "label": "Le Gaulois (13 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535122v/manifest.json",
+          "label": "Le Gaulois (14 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351237/manifest.json",
+          "label": "Le Gaulois (15 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535124m/manifest.json",
+          "label": "Le Gaulois (16 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351250/manifest.json",
+          "label": "Le Gaulois (17 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535126c/manifest.json",
+          "label": "Le Gaulois (18 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535127r/manifest.json",
+          "label": "Le Gaulois (19 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351284/manifest.json",
+          "label": "Le Gaulois (20 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535129h/manifest.json",
+          "label": "Le Gaulois (21 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535130f/manifest.json",
+          "label": "Le Gaulois (22 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535131t/manifest.json",
+          "label": "Le Gaulois (23 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351326/manifest.json",
+          "label": "Le Gaulois (24 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535133k/manifest.json",
+          "label": "Le Gaulois (25 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535134z/manifest.json",
+          "label": "Le Gaulois (26 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535135b/manifest.json",
+          "label": "Le Gaulois (27 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535136q/manifest.json",
+          "label": "Le Gaulois (28 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351373/manifest.json",
+          "label": "Le Gaulois (29 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535138g/manifest.json",
+          "label": "Le Gaulois (30 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535139v/manifest.json",
+          "label": "Le Gaulois (31 juillet 1911)",
+          "type": "Manifest",
+          "navDate": "1911-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535140s/manifest.json",
+          "label": "Le Gaulois (01 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351415/manifest.json",
+          "label": "Le Gaulois (02 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535142j/manifest.json",
+          "label": "Le Gaulois (03 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535143x/manifest.json",
+          "label": "Le Gaulois (04 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351449/manifest.json",
+          "label": "Le Gaulois (05 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535145p/manifest.json",
+          "label": "Le Gaulois (06 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351462/manifest.json",
+          "label": "Le Gaulois (07 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535147f/manifest.json",
+          "label": "Le Gaulois (08 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535148t/manifest.json",
+          "label": "Le Gaulois (09 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351496/manifest.json",
+          "label": "Le Gaulois (10 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351504/manifest.json",
+          "label": "Le Gaulois (11 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535151h/manifest.json",
+          "label": "Le Gaulois (12 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535152w/manifest.json",
+          "label": "Le Gaulois (13 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351538/manifest.json",
+          "label": "Le Gaulois (14 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535154n/manifest.json",
+          "label": "Le Gaulois (15 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351551/manifest.json",
+          "label": "Le Gaulois (16 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535156d/manifest.json",
+          "label": "Le Gaulois (17 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535157s/manifest.json",
+          "label": "Le Gaulois (18 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351585/manifest.json",
+          "label": "Le Gaulois (19 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535159j/manifest.json",
+          "label": "Le Gaulois (20 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535160g/manifest.json",
+          "label": "Le Gaulois (21 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351627/manifest.json",
+          "label": "Le Gaulois (23 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535163m/manifest.json",
+          "label": "Le Gaulois (24 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351640/manifest.json",
+          "label": "Le Gaulois (25 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535165c/manifest.json",
+          "label": "Le Gaulois (26 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535166r/manifest.json",
+          "label": "Le Gaulois (27 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351674/manifest.json",
+          "label": "Le Gaulois (28 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535168h/manifest.json",
+          "label": "Le Gaulois (29 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535169w/manifest.json",
+          "label": "Le Gaulois (30 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535170t/manifest.json",
+          "label": "Le Gaulois (31 août 1911)",
+          "type": "Manifest",
+          "navDate": "1911-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351716/manifest.json",
+          "label": "Le Gaulois (01 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535172k/manifest.json",
+          "label": "Le Gaulois (02 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535173z/manifest.json",
+          "label": "Le Gaulois (03 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535174b/manifest.json",
+          "label": "Le Gaulois (04 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535175q/manifest.json",
+          "label": "Le Gaulois (05 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351763/manifest.json",
+          "label": "Le Gaulois (06 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535177g/manifest.json",
+          "label": "Le Gaulois (07 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535178v/manifest.json",
+          "label": "Le Gaulois (08 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351797/manifest.json",
+          "label": "Le Gaulois (09 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351805/manifest.json",
+          "label": "Le Gaulois (10 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535181j/manifest.json",
+          "label": "Le Gaulois (11 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535182x/manifest.json",
+          "label": "Le Gaulois (12 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351839/manifest.json",
+          "label": "Le Gaulois (13 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535184p/manifest.json",
+          "label": "Le Gaulois (14 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351852/manifest.json",
+          "label": "Le Gaulois (15 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535186f/manifest.json",
+          "label": "Le Gaulois (16 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535187t/manifest.json",
+          "label": "Le Gaulois (17 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351886/manifest.json",
+          "label": "Le Gaulois (18 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535189k/manifest.json",
+          "label": "Le Gaulois (19 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535190h/manifest.json",
+          "label": "Le Gaulois (20 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535191w/manifest.json",
+          "label": "Le Gaulois (21 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351928/manifest.json",
+          "label": "Le Gaulois (22 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535193n/manifest.json",
+          "label": "Le Gaulois (23 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351941/manifest.json",
+          "label": "Le Gaulois (24 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535195d/manifest.json",
+          "label": "Le Gaulois (25 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535196s/manifest.json",
+          "label": "Le Gaulois (26 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5351975/manifest.json",
+          "label": "Le Gaulois (27 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535198j/manifest.json",
+          "label": "Le Gaulois (28 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535199x/manifest.json",
+          "label": "Le Gaulois (29 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535200q/manifest.json",
+          "label": "Le Gaulois (30 septembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352013/manifest.json",
+          "label": "Le Gaulois (01 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535202g/manifest.json",
+          "label": "Le Gaulois (02 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535203v/manifest.json",
+          "label": "Le Gaulois (03 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352047/manifest.json",
+          "label": "Le Gaulois (04 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535205m/manifest.json",
+          "label": "Le Gaulois (05 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352060/manifest.json",
+          "label": "Le Gaulois (06 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535207c/manifest.json",
+          "label": "Le Gaulois (07 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535208r/manifest.json",
+          "label": "Le Gaulois (08 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352094/manifest.json",
+          "label": "Le Gaulois (09 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352102/manifest.json",
+          "label": "Le Gaulois (10 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535211f/manifest.json",
+          "label": "Le Gaulois (11 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535212t/manifest.json",
+          "label": "Le Gaulois (12 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352136/manifest.json",
+          "label": "Le Gaulois (13 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535214k/manifest.json",
+          "label": "Le Gaulois (14 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535215z/manifest.json",
+          "label": "Le Gaulois (15 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535216b/manifest.json",
+          "label": "Le Gaulois (16 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535217q/manifest.json",
+          "label": "Le Gaulois (17 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352183/manifest.json",
+          "label": "Le Gaulois (18 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535219g/manifest.json",
+          "label": "Le Gaulois (19 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535220d/manifest.json",
+          "label": "Le Gaulois (20 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535221s/manifest.json",
+          "label": "Le Gaulois (21 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352225/manifest.json",
+          "label": "Le Gaulois (22 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535223j/manifest.json",
+          "label": "Le Gaulois (23 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535224x/manifest.json",
+          "label": "Le Gaulois (24 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352259/manifest.json",
+          "label": "Le Gaulois (25 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535226p/manifest.json",
+          "label": "Le Gaulois (26 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352272/manifest.json",
+          "label": "Le Gaulois (27 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535228f/manifest.json",
+          "label": "Le Gaulois (28 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535229t/manifest.json",
+          "label": "Le Gaulois (29 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535230r/manifest.json",
+          "label": "Le Gaulois (30 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352314/manifest.json",
+          "label": "Le Gaulois (31 octobre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535232h/manifest.json",
+          "label": "Le Gaulois (01 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535233w/manifest.json",
+          "label": "Le Gaulois (02 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352348/manifest.json",
+          "label": "Le Gaulois (03 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535235n/manifest.json",
+          "label": "Le Gaulois (04 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352361/manifest.json",
+          "label": "Le Gaulois (05 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535237d/manifest.json",
+          "label": "Le Gaulois (06 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535238s/manifest.json",
+          "label": "Le Gaulois (07 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352395/manifest.json",
+          "label": "Le Gaulois (08 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352403/manifest.json",
+          "label": "Le Gaulois (09 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535241g/manifest.json",
+          "label": "Le Gaulois (10 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535242v/manifest.json",
+          "label": "Le Gaulois (11 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352437/manifest.json",
+          "label": "Le Gaulois (12 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535244m/manifest.json",
+          "label": "Le Gaulois (13 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352450/manifest.json",
+          "label": "Le Gaulois (14 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535246c/manifest.json",
+          "label": "Le Gaulois (15 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535247r/manifest.json",
+          "label": "Le Gaulois (16 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352484/manifest.json",
+          "label": "Le Gaulois (17 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535249h/manifest.json",
+          "label": "Le Gaulois (18 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535250f/manifest.json",
+          "label": "Le Gaulois (19 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535251t/manifest.json",
+          "label": "Le Gaulois (20 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352526/manifest.json",
+          "label": "Le Gaulois (21 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535253k/manifest.json",
+          "label": "Le Gaulois (22 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535254z/manifest.json",
+          "label": "Le Gaulois (23 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535255b/manifest.json",
+          "label": "Le Gaulois (24 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535256q/manifest.json",
+          "label": "Le Gaulois (25 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352573/manifest.json",
+          "label": "Le Gaulois (26 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535258g/manifest.json",
+          "label": "Le Gaulois (27 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535259v/manifest.json",
+          "label": "Le Gaulois (28 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535260s/manifest.json",
+          "label": "Le Gaulois (29 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352615/manifest.json",
+          "label": "Le Gaulois (30 novembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535262j/manifest.json",
+          "label": "Le Gaulois (01 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535263x/manifest.json",
+          "label": "Le Gaulois (02 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352649/manifest.json",
+          "label": "Le Gaulois (03 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535265p/manifest.json",
+          "label": "Le Gaulois (04 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352662/manifest.json",
+          "label": "Le Gaulois (05 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535267f/manifest.json",
+          "label": "Le Gaulois (06 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535268t/manifest.json",
+          "label": "Le Gaulois (07 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352696/manifest.json",
+          "label": "Le Gaulois (08 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352704/manifest.json",
+          "label": "Le Gaulois (09 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535271h/manifest.json",
+          "label": "Le Gaulois (10 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535272w/manifest.json",
+          "label": "Le Gaulois (11 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352738/manifest.json",
+          "label": "Le Gaulois (12 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535274n/manifest.json",
+          "label": "Le Gaulois (13 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352751/manifest.json",
+          "label": "Le Gaulois (14 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535276d/manifest.json",
+          "label": "Le Gaulois (15 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535277s/manifest.json",
+          "label": "Le Gaulois (16 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352785/manifest.json",
+          "label": "Le Gaulois (17 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535279j/manifest.json",
+          "label": "Le Gaulois (18 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535280g/manifest.json",
+          "label": "Le Gaulois (19 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535281v/manifest.json",
+          "label": "Le Gaulois (20 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352827/manifest.json",
+          "label": "Le Gaulois (21 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535283m/manifest.json",
+          "label": "Le Gaulois (22 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352840/manifest.json",
+          "label": "Le Gaulois (23 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535285c/manifest.json",
+          "label": "Le Gaulois (24 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535286r/manifest.json",
+          "label": "Le Gaulois (25 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352874/manifest.json",
+          "label": "Le Gaulois (26 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535288h/manifest.json",
+          "label": "Le Gaulois (27 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535289w/manifest.json",
+          "label": "Le Gaulois (28 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535290t/manifest.json",
+          "label": "Le Gaulois (29 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352916/manifest.json",
+          "label": "Le Gaulois (30 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535292k/manifest.json",
+          "label": "Le Gaulois (31 décembre 1911)",
+          "type": "Manifest",
+          "navDate": "1911-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k534928b/manifest.json",
+          "label": "Le Gaulois (31 décembre 1910)",
+          "type": "Manifest",
+          "navDate": "1911-12-31"
+       }]
+    }

@@ -1,0 +1,1851 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1925.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1925)" ], "en": [ "Le Gaulois (1925)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1925" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1925" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1925",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1925)" ],"en": [ "Gallica periodical: Le Gaulois (1925)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1925",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1925)" ],"en": [ "Gallica periodical: Le Gaulois (1925)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400211/manifest.json",
+          "label": "Le Gaulois (01 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540022d/manifest.json",
+          "label": "Le Gaulois (02 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540023s/manifest.json",
+          "label": "Le Gaulois (03 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400245/manifest.json",
+          "label": "Le Gaulois (04 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540025j/manifest.json",
+          "label": "Le Gaulois (05 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540026x/manifest.json",
+          "label": "Le Gaulois (06 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400279/manifest.json",
+          "label": "Le Gaulois (07 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540028p/manifest.json",
+          "label": "Le Gaulois (08 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400292/manifest.json",
+          "label": "Le Gaulois (09 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400300/manifest.json",
+          "label": "Le Gaulois (10 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540031c/manifest.json",
+          "label": "Le Gaulois (11 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540032r/manifest.json",
+          "label": "Le Gaulois (12 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400334/manifest.json",
+          "label": "Le Gaulois (13 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540034h/manifest.json",
+          "label": "Le Gaulois (14 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540035w/manifest.json",
+          "label": "Le Gaulois (15 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400368/manifest.json",
+          "label": "Le Gaulois (16 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540037n/manifest.json",
+          "label": "Le Gaulois (17 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400381/manifest.json",
+          "label": "Le Gaulois (18 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540039d/manifest.json",
+          "label": "Le Gaulois (19 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540040b/manifest.json",
+          "label": "Le Gaulois (20 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540041q/manifest.json",
+          "label": "Le Gaulois (21 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400423/manifest.json",
+          "label": "Le Gaulois (22 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540043g/manifest.json",
+          "label": "Le Gaulois (23 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540044v/manifest.json",
+          "label": "Le Gaulois (24 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400457/manifest.json",
+          "label": "Le Gaulois (25 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540046m/manifest.json",
+          "label": "Le Gaulois (26 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400470/manifest.json",
+          "label": "Le Gaulois (27 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540048c/manifest.json",
+          "label": "Le Gaulois (28 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540049r/manifest.json",
+          "label": "Le Gaulois (29 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540050p/manifest.json",
+          "label": "Le Gaulois (30 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400512/manifest.json",
+          "label": "Le Gaulois (31 janvier 1925)",
+          "type": "Manifest",
+          "navDate": "1925-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540052f/manifest.json",
+          "label": "Le Gaulois (01 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540053t/manifest.json",
+          "label": "Le Gaulois (02 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400546/manifest.json",
+          "label": "Le Gaulois (03 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540055k/manifest.json",
+          "label": "Le Gaulois (04 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540056z/manifest.json",
+          "label": "Le Gaulois (05 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540057b/manifest.json",
+          "label": "Le Gaulois (06 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540058q/manifest.json",
+          "label": "Le Gaulois (07 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400593/manifest.json",
+          "label": "Le Gaulois (08 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400601/manifest.json",
+          "label": "Le Gaulois (09 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540061d/manifest.json",
+          "label": "Le Gaulois (10 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540062s/manifest.json",
+          "label": "Le Gaulois (11 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400635/manifest.json",
+          "label": "Le Gaulois (12 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540064j/manifest.json",
+          "label": "Le Gaulois (13 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540065x/manifest.json",
+          "label": "Le Gaulois (14 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400669/manifest.json",
+          "label": "Le Gaulois (15 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540067p/manifest.json",
+          "label": "Le Gaulois (16 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400682/manifest.json",
+          "label": "Le Gaulois (17 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540069f/manifest.json",
+          "label": "Le Gaulois (18 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540070c/manifest.json",
+          "label": "Le Gaulois (19 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540071r/manifest.json",
+          "label": "Le Gaulois (20 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400724/manifest.json",
+          "label": "Le Gaulois (21 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540073h/manifest.json",
+          "label": "Le Gaulois (22 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540074w/manifest.json",
+          "label": "Le Gaulois (23 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400758/manifest.json",
+          "label": "Le Gaulois (24 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540076n/manifest.json",
+          "label": "Le Gaulois (25 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400771/manifest.json",
+          "label": "Le Gaulois (26 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540078d/manifest.json",
+          "label": "Le Gaulois (27 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540079s/manifest.json",
+          "label": "Le Gaulois (28 février 1925)",
+          "type": "Manifest",
+          "navDate": "1925-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540080q/manifest.json",
+          "label": "Le Gaulois (01 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400813/manifest.json",
+          "label": "Le Gaulois (02 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540082g/manifest.json",
+          "label": "Le Gaulois (03 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540083v/manifest.json",
+          "label": "Le Gaulois (04 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400847/manifest.json",
+          "label": "Le Gaulois (05 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540085m/manifest.json",
+          "label": "Le Gaulois (06 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400860/manifest.json",
+          "label": "Le Gaulois (07 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540087c/manifest.json",
+          "label": "Le Gaulois (08 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540088r/manifest.json",
+          "label": "Le Gaulois (09 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400894/manifest.json",
+          "label": "Le Gaulois (10 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400902/manifest.json",
+          "label": "Le Gaulois (11 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540091f/manifest.json",
+          "label": "Le Gaulois (12 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540092t/manifest.json",
+          "label": "Le Gaulois (13 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400936/manifest.json",
+          "label": "Le Gaulois (14 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540094k/manifest.json",
+          "label": "Le Gaulois (15 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540095z/manifest.json",
+          "label": "Le Gaulois (16 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540096b/manifest.json",
+          "label": "Le Gaulois (17 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540097q/manifest.json",
+          "label": "Le Gaulois (18 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5400983/manifest.json",
+          "label": "Le Gaulois (19 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540099g/manifest.json",
+          "label": "Le Gaulois (20 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401008/manifest.json",
+          "label": "Le Gaulois (21 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540101n/manifest.json",
+          "label": "Le Gaulois (22 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401021/manifest.json",
+          "label": "Le Gaulois (23 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540103d/manifest.json",
+          "label": "Le Gaulois (24 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540104s/manifest.json",
+          "label": "Le Gaulois (25 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401055/manifest.json",
+          "label": "Le Gaulois (26 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540106j/manifest.json",
+          "label": "Le Gaulois (27 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540107x/manifest.json",
+          "label": "Le Gaulois (28 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401089/manifest.json",
+          "label": "Le Gaulois (29 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540109p/manifest.json",
+          "label": "Le Gaulois (30 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540110m/manifest.json",
+          "label": "Le Gaulois (31 mars 1925)",
+          "type": "Manifest",
+          "navDate": "1925-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401110/manifest.json",
+          "label": "Le Gaulois (01 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540112c/manifest.json",
+          "label": "Le Gaulois (02 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540113r/manifest.json",
+          "label": "Le Gaulois (03 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401144/manifest.json",
+          "label": "Le Gaulois (04 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540115h/manifest.json",
+          "label": "Le Gaulois (05 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540116w/manifest.json",
+          "label": "Le Gaulois (06 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401178/manifest.json",
+          "label": "Le Gaulois (07 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540118n/manifest.json",
+          "label": "Le Gaulois (08 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401191/manifest.json",
+          "label": "Le Gaulois (09 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540120z/manifest.json",
+          "label": "Le Gaulois (10 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540121b/manifest.json",
+          "label": "Le Gaulois (11 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540122q/manifest.json",
+          "label": "Le Gaulois (12 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401233/manifest.json",
+          "label": "Le Gaulois (13 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540124g/manifest.json",
+          "label": "Le Gaulois (14 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540125v/manifest.json",
+          "label": "Le Gaulois (15 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401267/manifest.json",
+          "label": "Le Gaulois (16 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540127m/manifest.json",
+          "label": "Le Gaulois (17 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401280/manifest.json",
+          "label": "Le Gaulois (18 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540129c/manifest.json",
+          "label": "Le Gaulois (19 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401309/manifest.json",
+          "label": "Le Gaulois (20 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540131p/manifest.json",
+          "label": "Le Gaulois (21 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401322/manifest.json",
+          "label": "Le Gaulois (22 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540133f/manifest.json",
+          "label": "Le Gaulois (23 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540134t/manifest.json",
+          "label": "Le Gaulois (24 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401356/manifest.json",
+          "label": "Le Gaulois (25 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540136k/manifest.json",
+          "label": "Le Gaulois (26 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540137z/manifest.json",
+          "label": "Le Gaulois (27 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540138b/manifest.json",
+          "label": "Le Gaulois (28 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540139q/manifest.json",
+          "label": "Le Gaulois (29 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540140n/manifest.json",
+          "label": "Le Gaulois (30 avril 1925)",
+          "type": "Manifest",
+          "navDate": "1925-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401411/manifest.json",
+          "label": "Le Gaulois (01 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540142d/manifest.json",
+          "label": "Le Gaulois (02 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540143s/manifest.json",
+          "label": "Le Gaulois (03 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401445/manifest.json",
+          "label": "Le Gaulois (04 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540145j/manifest.json",
+          "label": "Le Gaulois (05 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540146x/manifest.json",
+          "label": "Le Gaulois (06 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401479/manifest.json",
+          "label": "Le Gaulois (07 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540148p/manifest.json",
+          "label": "Le Gaulois (08 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401492/manifest.json",
+          "label": "Le Gaulois (09 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401500/manifest.json",
+          "label": "Le Gaulois (10 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540151c/manifest.json",
+          "label": "Le Gaulois (11 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540152r/manifest.json",
+          "label": "Le Gaulois (12 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401534/manifest.json",
+          "label": "Le Gaulois (13 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540154h/manifest.json",
+          "label": "Le Gaulois (14 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540155w/manifest.json",
+          "label": "Le Gaulois (15 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401568/manifest.json",
+          "label": "Le Gaulois (16 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540157n/manifest.json",
+          "label": "Le Gaulois (17 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401581/manifest.json",
+          "label": "Le Gaulois (18 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540159d/manifest.json",
+          "label": "Le Gaulois (19 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540160b/manifest.json",
+          "label": "Le Gaulois (20 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540161q/manifest.json",
+          "label": "Le Gaulois (21 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401623/manifest.json",
+          "label": "Le Gaulois (22 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540163g/manifest.json",
+          "label": "Le Gaulois (23 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540164v/manifest.json",
+          "label": "Le Gaulois (24 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401657/manifest.json",
+          "label": "Le Gaulois (25 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540166m/manifest.json",
+          "label": "Le Gaulois (26 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401670/manifest.json",
+          "label": "Le Gaulois (27 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540168c/manifest.json",
+          "label": "Le Gaulois (28 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540169r/manifest.json",
+          "label": "Le Gaulois (29 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540170p/manifest.json",
+          "label": "Le Gaulois (30 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401712/manifest.json",
+          "label": "Le Gaulois (31 mai 1925)",
+          "type": "Manifest",
+          "navDate": "1925-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540172f/manifest.json",
+          "label": "Le Gaulois (01 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540173t/manifest.json",
+          "label": "Le Gaulois (02 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401746/manifest.json",
+          "label": "Le Gaulois (03 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540175k/manifest.json",
+          "label": "Le Gaulois (04 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540176z/manifest.json",
+          "label": "Le Gaulois (05 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540177b/manifest.json",
+          "label": "Le Gaulois (06 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540178q/manifest.json",
+          "label": "Le Gaulois (07 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401793/manifest.json",
+          "label": "Le Gaulois (08 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401801/manifest.json",
+          "label": "Le Gaulois (09 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540181d/manifest.json",
+          "label": "Le Gaulois (10 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540182s/manifest.json",
+          "label": "Le Gaulois (11 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401835/manifest.json",
+          "label": "Le Gaulois (12 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540184j/manifest.json",
+          "label": "Le Gaulois (13 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540185x/manifest.json",
+          "label": "Le Gaulois (14 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401869/manifest.json",
+          "label": "Le Gaulois (15 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540187p/manifest.json",
+          "label": "Le Gaulois (16 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401882/manifest.json",
+          "label": "Le Gaulois (17 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540189f/manifest.json",
+          "label": "Le Gaulois (18 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540190c/manifest.json",
+          "label": "Le Gaulois (19 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540191r/manifest.json",
+          "label": "Le Gaulois (20 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401924/manifest.json",
+          "label": "Le Gaulois (21 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540193h/manifest.json",
+          "label": "Le Gaulois (22 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540194w/manifest.json",
+          "label": "Le Gaulois (23 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401958/manifest.json",
+          "label": "Le Gaulois (24 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540196n/manifest.json",
+          "label": "Le Gaulois (25 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5401971/manifest.json",
+          "label": "Le Gaulois (26 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540198d/manifest.json",
+          "label": "Le Gaulois (27 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540199s/manifest.json",
+          "label": "Le Gaulois (28 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540200k/manifest.json",
+          "label": "Le Gaulois (29 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540201z/manifest.json",
+          "label": "Le Gaulois (30 juin 1925)",
+          "type": "Manifest",
+          "navDate": "1925-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540202b/manifest.json",
+          "label": "Le Gaulois (01 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540203q/manifest.json",
+          "label": "Le Gaulois (02 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402043/manifest.json",
+          "label": "Le Gaulois (03 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540205g/manifest.json",
+          "label": "Le Gaulois (04 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540206v/manifest.json",
+          "label": "Le Gaulois (05 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402077/manifest.json",
+          "label": "Le Gaulois (06 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540208m/manifest.json",
+          "label": "Le Gaulois (07 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402090/manifest.json",
+          "label": "Le Gaulois (08 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540210x/manifest.json",
+          "label": "Le Gaulois (09 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402119/manifest.json",
+          "label": "Le Gaulois (10 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540212p/manifest.json",
+          "label": "Le Gaulois (11 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402132/manifest.json",
+          "label": "Le Gaulois (12 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540214f/manifest.json",
+          "label": "Le Gaulois (13 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540215t/manifest.json",
+          "label": "Le Gaulois (14 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402166/manifest.json",
+          "label": "Le Gaulois (15 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540217k/manifest.json",
+          "label": "Le Gaulois (16 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540218z/manifest.json",
+          "label": "Le Gaulois (17 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540219b/manifest.json",
+          "label": "Le Gaulois (18 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402208/manifest.json",
+          "label": "Le Gaulois (19 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540221n/manifest.json",
+          "label": "Le Gaulois (20 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402221/manifest.json",
+          "label": "Le Gaulois (21 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540223d/manifest.json",
+          "label": "Le Gaulois (22 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540224s/manifest.json",
+          "label": "Le Gaulois (23 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402255/manifest.json",
+          "label": "Le Gaulois (24 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540226j/manifest.json",
+          "label": "Le Gaulois (25 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540227x/manifest.json",
+          "label": "Le Gaulois (26 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402289/manifest.json",
+          "label": "Le Gaulois (27 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540229p/manifest.json",
+          "label": "Le Gaulois (28 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540230m/manifest.json",
+          "label": "Le Gaulois (29 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402310/manifest.json",
+          "label": "Le Gaulois (30 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540232c/manifest.json",
+          "label": "Le Gaulois (31 juillet 1925)",
+          "type": "Manifest",
+          "navDate": "1925-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540233r/manifest.json",
+          "label": "Le Gaulois (01 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402344/manifest.json",
+          "label": "Le Gaulois (02 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540235h/manifest.json",
+          "label": "Le Gaulois (03 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540236w/manifest.json",
+          "label": "Le Gaulois (04 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402378/manifest.json",
+          "label": "Le Gaulois (05 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540238n/manifest.json",
+          "label": "Le Gaulois (06 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402391/manifest.json",
+          "label": "Le Gaulois (07 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540240z/manifest.json",
+          "label": "Le Gaulois (08 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540241b/manifest.json",
+          "label": "Le Gaulois (09 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540242q/manifest.json",
+          "label": "Le Gaulois (10 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402433/manifest.json",
+          "label": "Le Gaulois (11 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540244g/manifest.json",
+          "label": "Le Gaulois (12 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540245v/manifest.json",
+          "label": "Le Gaulois (13 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402467/manifest.json",
+          "label": "Le Gaulois (14 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540247m/manifest.json",
+          "label": "Le Gaulois (15 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402480/manifest.json",
+          "label": "Le Gaulois (16 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540249c/manifest.json",
+          "label": "Le Gaulois (17 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402509/manifest.json",
+          "label": "Le Gaulois (18 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540251p/manifest.json",
+          "label": "Le Gaulois (19 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402522/manifest.json",
+          "label": "Le Gaulois (20 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540253f/manifest.json",
+          "label": "Le Gaulois (21 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540254t/manifest.json",
+          "label": "Le Gaulois (22 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402556/manifest.json",
+          "label": "Le Gaulois (23 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540256k/manifest.json",
+          "label": "Le Gaulois (24 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540257z/manifest.json",
+          "label": "Le Gaulois (25 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540258b/manifest.json",
+          "label": "Le Gaulois (26 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540259q/manifest.json",
+          "label": "Le Gaulois (27 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540260n/manifest.json",
+          "label": "Le Gaulois (28 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402611/manifest.json",
+          "label": "Le Gaulois (29 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540262d/manifest.json",
+          "label": "Le Gaulois (30 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540263s/manifest.json",
+          "label": "Le Gaulois (31 août 1925)",
+          "type": "Manifest",
+          "navDate": "1925-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402645/manifest.json",
+          "label": "Le Gaulois (01 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540265j/manifest.json",
+          "label": "Le Gaulois (02 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540266x/manifest.json",
+          "label": "Le Gaulois (03 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402679/manifest.json",
+          "label": "Le Gaulois (04 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540268p/manifest.json",
+          "label": "Le Gaulois (05 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402692/manifest.json",
+          "label": "Le Gaulois (06 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402700/manifest.json",
+          "label": "Le Gaulois (07 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540271c/manifest.json",
+          "label": "Le Gaulois (08 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540272r/manifest.json",
+          "label": "Le Gaulois (09 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402734/manifest.json",
+          "label": "Le Gaulois (10 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540274h/manifest.json",
+          "label": "Le Gaulois (11 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540275w/manifest.json",
+          "label": "Le Gaulois (12 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402768/manifest.json",
+          "label": "Le Gaulois (13 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540277n/manifest.json",
+          "label": "Le Gaulois (14 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402781/manifest.json",
+          "label": "Le Gaulois (15 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540279d/manifest.json",
+          "label": "Le Gaulois (16 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540280b/manifest.json",
+          "label": "Le Gaulois (17 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540281q/manifest.json",
+          "label": "Le Gaulois (18 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402823/manifest.json",
+          "label": "Le Gaulois (19 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540283g/manifest.json",
+          "label": "Le Gaulois (20 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540284v/manifest.json",
+          "label": "Le Gaulois (21 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402857/manifest.json",
+          "label": "Le Gaulois (22 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540286m/manifest.json",
+          "label": "Le Gaulois (23 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402870/manifest.json",
+          "label": "Le Gaulois (24 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540288c/manifest.json",
+          "label": "Le Gaulois (25 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540289r/manifest.json",
+          "label": "Le Gaulois (26 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540290p/manifest.json",
+          "label": "Le Gaulois (27 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402912/manifest.json",
+          "label": "Le Gaulois (28 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540292f/manifest.json",
+          "label": "Le Gaulois (29 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540293t/manifest.json",
+          "label": "Le Gaulois (30 septembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402946/manifest.json",
+          "label": "Le Gaulois (01 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540295k/manifest.json",
+          "label": "Le Gaulois (02 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540296z/manifest.json",
+          "label": "Le Gaulois (03 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540297b/manifest.json",
+          "label": "Le Gaulois (04 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540298q/manifest.json",
+          "label": "Le Gaulois (05 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5402993/manifest.json",
+          "label": "Le Gaulois (06 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540300w/manifest.json",
+          "label": "Le Gaulois (07 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403018/manifest.json",
+          "label": "Le Gaulois (08 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540302n/manifest.json",
+          "label": "Le Gaulois (09 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403031/manifest.json",
+          "label": "Le Gaulois (10 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540304d/manifest.json",
+          "label": "Le Gaulois (11 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540305s/manifest.json",
+          "label": "Le Gaulois (12 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403065/manifest.json",
+          "label": "Le Gaulois (13 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540307j/manifest.json",
+          "label": "Le Gaulois (14 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540308x/manifest.json",
+          "label": "Le Gaulois (15 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403099/manifest.json",
+          "label": "Le Gaulois (16 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403107/manifest.json",
+          "label": "Le Gaulois (17 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540311m/manifest.json",
+          "label": "Le Gaulois (18 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403120/manifest.json",
+          "label": "Le Gaulois (19 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540313c/manifest.json",
+          "label": "Le Gaulois (20 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540314r/manifest.json",
+          "label": "Le Gaulois (21 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403154/manifest.json",
+          "label": "Le Gaulois (22 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540316h/manifest.json",
+          "label": "Le Gaulois (23 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540317w/manifest.json",
+          "label": "Le Gaulois (24 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403188/manifest.json",
+          "label": "Le Gaulois (25 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540319n/manifest.json",
+          "label": "Le Gaulois (26 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540320k/manifest.json",
+          "label": "Le Gaulois (27 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540321z/manifest.json",
+          "label": "Le Gaulois (28 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540322b/manifest.json",
+          "label": "Le Gaulois (29 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540323q/manifest.json",
+          "label": "Le Gaulois (30 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403243/manifest.json",
+          "label": "Le Gaulois (31 octobre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540325g/manifest.json",
+          "label": "Le Gaulois (01 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540326v/manifest.json",
+          "label": "Le Gaulois (02 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403277/manifest.json",
+          "label": "Le Gaulois (03 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540328m/manifest.json",
+          "label": "Le Gaulois (04 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403290/manifest.json",
+          "label": "Le Gaulois (05 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540330x/manifest.json",
+          "label": "Le Gaulois (06 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403319/manifest.json",
+          "label": "Le Gaulois (07 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540332p/manifest.json",
+          "label": "Le Gaulois (08 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403332/manifest.json",
+          "label": "Le Gaulois (09 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540334f/manifest.json",
+          "label": "Le Gaulois (10 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540335t/manifest.json",
+          "label": "Le Gaulois (11 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403366/manifest.json",
+          "label": "Le Gaulois (12 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540337k/manifest.json",
+          "label": "Le Gaulois (13 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540338z/manifest.json",
+          "label": "Le Gaulois (14 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540339b/manifest.json",
+          "label": "Le Gaulois (15 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403408/manifest.json",
+          "label": "Le Gaulois (16 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540341n/manifest.json",
+          "label": "Le Gaulois (17 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403421/manifest.json",
+          "label": "Le Gaulois (18 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540343d/manifest.json",
+          "label": "Le Gaulois (19 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540344s/manifest.json",
+          "label": "Le Gaulois (20 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403455/manifest.json",
+          "label": "Le Gaulois (21 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540346j/manifest.json",
+          "label": "Le Gaulois (22 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540347x/manifest.json",
+          "label": "Le Gaulois (23 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403489/manifest.json",
+          "label": "Le Gaulois (24 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540349p/manifest.json",
+          "label": "Le Gaulois (25 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540350m/manifest.json",
+          "label": "Le Gaulois (26 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403510/manifest.json",
+          "label": "Le Gaulois (27 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540352c/manifest.json",
+          "label": "Le Gaulois (28 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540353r/manifest.json",
+          "label": "Le Gaulois (29 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403544/manifest.json",
+          "label": "Le Gaulois (30 novembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540355h/manifest.json",
+          "label": "Le Gaulois (01 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540356w/manifest.json",
+          "label": "Le Gaulois (02 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403578/manifest.json",
+          "label": "Le Gaulois (03 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540358n/manifest.json",
+          "label": "Le Gaulois (04 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403591/manifest.json",
+          "label": "Le Gaulois (05 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540360z/manifest.json",
+          "label": "Le Gaulois (06 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540361b/manifest.json",
+          "label": "Le Gaulois (07 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540362q/manifest.json",
+          "label": "Le Gaulois (08 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403633/manifest.json",
+          "label": "Le Gaulois (09 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540364g/manifest.json",
+          "label": "Le Gaulois (10 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540365v/manifest.json",
+          "label": "Le Gaulois (11 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403667/manifest.json",
+          "label": "Le Gaulois (12 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540367m/manifest.json",
+          "label": "Le Gaulois (13 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403680/manifest.json",
+          "label": "Le Gaulois (14 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540369c/manifest.json",
+          "label": "Le Gaulois (15 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403709/manifest.json",
+          "label": "Le Gaulois (16 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540371p/manifest.json",
+          "label": "Le Gaulois (17 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403722/manifest.json",
+          "label": "Le Gaulois (18 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540373f/manifest.json",
+          "label": "Le Gaulois (19 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540374t/manifest.json",
+          "label": "Le Gaulois (20 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403756/manifest.json",
+          "label": "Le Gaulois (21 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540376k/manifest.json",
+          "label": "Le Gaulois (22 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540377z/manifest.json",
+          "label": "Le Gaulois (23 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540378b/manifest.json",
+          "label": "Le Gaulois (24 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540379q/manifest.json",
+          "label": "Le Gaulois (25 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540380n/manifest.json",
+          "label": "Le Gaulois (26 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403811/manifest.json",
+          "label": "Le Gaulois (27 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540382d/manifest.json",
+          "label": "Le Gaulois (28 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540383s/manifest.json",
+          "label": "Le Gaulois (29 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5403845/manifest.json",
+          "label": "Le Gaulois (30 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k540385j/manifest.json",
+          "label": "Le Gaulois (31 décembre 1925)",
+          "type": "Manifest",
+          "navDate": "1925-12-31"
+       }]
+    }

@@ -1,0 +1,1856 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1906.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1906)" ], "en": [ "Le Gaulois (1906)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1906" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1906" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1906",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1906)" ],"en": [ "Gallica periodical: Le Gaulois (1906)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1906",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1906)" ],"en": [ "Gallica periodical: Le Gaulois (1906)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331030/manifest.json",
+          "label": "Le Gaulois (01 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533104c/manifest.json",
+          "label": "Le Gaulois (02 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533105r/manifest.json",
+          "label": "Le Gaulois (03 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331064/manifest.json",
+          "label": "Le Gaulois (04 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533107h/manifest.json",
+          "label": "Le Gaulois (05 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533108w/manifest.json",
+          "label": "Le Gaulois (06 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331098/manifest.json",
+          "label": "Le Gaulois (07 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331106/manifest.json",
+          "label": "Le Gaulois (08 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533111k/manifest.json",
+          "label": "Le Gaulois (09 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533112z/manifest.json",
+          "label": "Le Gaulois (10 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533113b/manifest.json",
+          "label": "Le Gaulois (11 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533114q/manifest.json",
+          "label": "Le Gaulois (12 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331153/manifest.json",
+          "label": "Le Gaulois (13 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533116g/manifest.json",
+          "label": "Le Gaulois (14 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533117v/manifest.json",
+          "label": "Le Gaulois (15 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331187/manifest.json",
+          "label": "Le Gaulois (16 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533119m/manifest.json",
+          "label": "Le Gaulois (17 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533120j/manifest.json",
+          "label": "Le Gaulois (18 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533121x/manifest.json",
+          "label": "Le Gaulois (19 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331229/manifest.json",
+          "label": "Le Gaulois (20 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533123p/manifest.json",
+          "label": "Le Gaulois (21 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331242/manifest.json",
+          "label": "Le Gaulois (22 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533125f/manifest.json",
+          "label": "Le Gaulois (23 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533126t/manifest.json",
+          "label": "Le Gaulois (24 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331276/manifest.json",
+          "label": "Le Gaulois (25 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533128k/manifest.json",
+          "label": "Le Gaulois (26 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533129z/manifest.json",
+          "label": "Le Gaulois (27 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533130w/manifest.json",
+          "label": "Le Gaulois (28 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331318/manifest.json",
+          "label": "Le Gaulois (29 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533132n/manifest.json",
+          "label": "Le Gaulois (30 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331331/manifest.json",
+          "label": "Le Gaulois (31 janvier 1906)",
+          "type": "Manifest",
+          "navDate": "1906-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533134d/manifest.json",
+          "label": "Le Gaulois (01 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533135s/manifest.json",
+          "label": "Le Gaulois (02 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331365/manifest.json",
+          "label": "Le Gaulois (03 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533137j/manifest.json",
+          "label": "Le Gaulois (04 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533138x/manifest.json",
+          "label": "Le Gaulois (05 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331399/manifest.json",
+          "label": "Le Gaulois (06 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331407/manifest.json",
+          "label": "Le Gaulois (07 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533141m/manifest.json",
+          "label": "Le Gaulois (08 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331420/manifest.json",
+          "label": "Le Gaulois (09 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533143c/manifest.json",
+          "label": "Le Gaulois (10 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533144r/manifest.json",
+          "label": "Le Gaulois (11 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331454/manifest.json",
+          "label": "Le Gaulois (12 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533146h/manifest.json",
+          "label": "Le Gaulois (13 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533147w/manifest.json",
+          "label": "Le Gaulois (14 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331488/manifest.json",
+          "label": "Le Gaulois (15 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533149n/manifest.json",
+          "label": "Le Gaulois (16 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533150k/manifest.json",
+          "label": "Le Gaulois (17 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533151z/manifest.json",
+          "label": "Le Gaulois (18 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533152b/manifest.json",
+          "label": "Le Gaulois (19 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533153q/manifest.json",
+          "label": "Le Gaulois (20 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331543/manifest.json",
+          "label": "Le Gaulois (21 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533155g/manifest.json",
+          "label": "Le Gaulois (22 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533156v/manifest.json",
+          "label": "Le Gaulois (23 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331577/manifest.json",
+          "label": "Le Gaulois (24 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533158m/manifest.json",
+          "label": "Le Gaulois (25 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331590/manifest.json",
+          "label": "Le Gaulois (26 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533160x/manifest.json",
+          "label": "Le Gaulois (27 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331619/manifest.json",
+          "label": "Le Gaulois (28 février 1906)",
+          "type": "Manifest",
+          "navDate": "1906-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533162p/manifest.json",
+          "label": "Le Gaulois (01 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331632/manifest.json",
+          "label": "Le Gaulois (02 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533164f/manifest.json",
+          "label": "Le Gaulois (03 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533165t/manifest.json",
+          "label": "Le Gaulois (04 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331666/manifest.json",
+          "label": "Le Gaulois (05 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533167k/manifest.json",
+          "label": "Le Gaulois (06 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533168z/manifest.json",
+          "label": "Le Gaulois (07 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533169b/manifest.json",
+          "label": "Le Gaulois (08 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331708/manifest.json",
+          "label": "Le Gaulois (09 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533171n/manifest.json",
+          "label": "Le Gaulois (10 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331721/manifest.json",
+          "label": "Le Gaulois (11 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533173d/manifest.json",
+          "label": "Le Gaulois (12 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533174s/manifest.json",
+          "label": "Le Gaulois (13 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331755/manifest.json",
+          "label": "Le Gaulois (14 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533176j/manifest.json",
+          "label": "Le Gaulois (15 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533177x/manifest.json",
+          "label": "Le Gaulois (16 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331789/manifest.json",
+          "label": "Le Gaulois (17 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533179p/manifest.json",
+          "label": "Le Gaulois (18 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533180m/manifest.json",
+          "label": "Le Gaulois (19 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331810/manifest.json",
+          "label": "Le Gaulois (20 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533182c/manifest.json",
+          "label": "Le Gaulois (21 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533183r/manifest.json",
+          "label": "Le Gaulois (22 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331844/manifest.json",
+          "label": "Le Gaulois (23 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533185h/manifest.json",
+          "label": "Le Gaulois (24 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533186w/manifest.json",
+          "label": "Le Gaulois (25 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331878/manifest.json",
+          "label": "Le Gaulois (26 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533188n/manifest.json",
+          "label": "Le Gaulois (27 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331891/manifest.json",
+          "label": "Le Gaulois (28 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533190z/manifest.json",
+          "label": "Le Gaulois (29 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533191b/manifest.json",
+          "label": "Le Gaulois (30 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533192q/manifest.json",
+          "label": "Le Gaulois (31 mars 1906)",
+          "type": "Manifest",
+          "navDate": "1906-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331933/manifest.json",
+          "label": "Le Gaulois (01 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533194g/manifest.json",
+          "label": "Le Gaulois (02 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533195v/manifest.json",
+          "label": "Le Gaulois (03 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331967/manifest.json",
+          "label": "Le Gaulois (04 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533197m/manifest.json",
+          "label": "Le Gaulois (05 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5331980/manifest.json",
+          "label": "Le Gaulois (06 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533199c/manifest.json",
+          "label": "Le Gaulois (07 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332005/manifest.json",
+          "label": "Le Gaulois (08 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533201j/manifest.json",
+          "label": "Le Gaulois (09 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533202x/manifest.json",
+          "label": "Le Gaulois (10 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332039/manifest.json",
+          "label": "Le Gaulois (11 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533204p/manifest.json",
+          "label": "Le Gaulois (12 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332052/manifest.json",
+          "label": "Le Gaulois (13 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533206f/manifest.json",
+          "label": "Le Gaulois (14 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533207t/manifest.json",
+          "label": "Le Gaulois (15 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332086/manifest.json",
+          "label": "Le Gaulois (16 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533209k/manifest.json",
+          "label": "Le Gaulois (17 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533210h/manifest.json",
+          "label": "Le Gaulois (18 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533211w/manifest.json",
+          "label": "Le Gaulois (19 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332128/manifest.json",
+          "label": "Le Gaulois (20 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533213n/manifest.json",
+          "label": "Le Gaulois (21 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332141/manifest.json",
+          "label": "Le Gaulois (22 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533215d/manifest.json",
+          "label": "Le Gaulois (23 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533216s/manifest.json",
+          "label": "Le Gaulois (24 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332175/manifest.json",
+          "label": "Le Gaulois (25 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533218j/manifest.json",
+          "label": "Le Gaulois (26 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533219x/manifest.json",
+          "label": "Le Gaulois (27 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533220v/manifest.json",
+          "label": "Le Gaulois (28 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332217/manifest.json",
+          "label": "Le Gaulois (29 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533222m/manifest.json",
+          "label": "Le Gaulois (30 avril 1906)",
+          "type": "Manifest",
+          "navDate": "1906-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332230/manifest.json",
+          "label": "Le Gaulois (01 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533224c/manifest.json",
+          "label": "Le Gaulois (02 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533225r/manifest.json",
+          "label": "Le Gaulois (03 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332264/manifest.json",
+          "label": "Le Gaulois (04 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533227h/manifest.json",
+          "label": "Le Gaulois (05 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533228w/manifest.json",
+          "label": "Le Gaulois (06 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332298/manifest.json",
+          "label": "Le Gaulois (07 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332306/manifest.json",
+          "label": "Le Gaulois (08 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533231k/manifest.json",
+          "label": "Le Gaulois (09 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533232z/manifest.json",
+          "label": "Le Gaulois (10 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533233b/manifest.json",
+          "label": "Le Gaulois (11 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533234q/manifest.json",
+          "label": "Le Gaulois (12 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332353/manifest.json",
+          "label": "Le Gaulois (13 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533236g/manifest.json",
+          "label": "Le Gaulois (14 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533237v/manifest.json",
+          "label": "Le Gaulois (15 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332387/manifest.json",
+          "label": "Le Gaulois (16 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533239m/manifest.json",
+          "label": "Le Gaulois (17 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533240j/manifest.json",
+          "label": "Le Gaulois (18 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533241x/manifest.json",
+          "label": "Le Gaulois (19 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332429/manifest.json",
+          "label": "Le Gaulois (20 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533243p/manifest.json",
+          "label": "Le Gaulois (21 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332442/manifest.json",
+          "label": "Le Gaulois (22 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533245f/manifest.json",
+          "label": "Le Gaulois (23 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533246t/manifest.json",
+          "label": "Le Gaulois (24 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332476/manifest.json",
+          "label": "Le Gaulois (25 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533248k/manifest.json",
+          "label": "Le Gaulois (26 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533249z/manifest.json",
+          "label": "Le Gaulois (27 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533250w/manifest.json",
+          "label": "Le Gaulois (28 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332518/manifest.json",
+          "label": "Le Gaulois (29 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533252n/manifest.json",
+          "label": "Le Gaulois (30 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332531/manifest.json",
+          "label": "Le Gaulois (31 mai 1906)",
+          "type": "Manifest",
+          "navDate": "1906-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533254d/manifest.json",
+          "label": "Le Gaulois (01 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533255s/manifest.json",
+          "label": "Le Gaulois (02 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332565/manifest.json",
+          "label": "Le Gaulois (03 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533257j/manifest.json",
+          "label": "Le Gaulois (04 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533258x/manifest.json",
+          "label": "Le Gaulois (05 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332599/manifest.json",
+          "label": "Le Gaulois (06 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332607/manifest.json",
+          "label": "Le Gaulois (07 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533261m/manifest.json",
+          "label": "Le Gaulois (08 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332620/manifest.json",
+          "label": "Le Gaulois (09 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533263c/manifest.json",
+          "label": "Le Gaulois (10 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533264r/manifest.json",
+          "label": "Le Gaulois (11 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332654/manifest.json",
+          "label": "Le Gaulois (12 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533266h/manifest.json",
+          "label": "Le Gaulois (13 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533267w/manifest.json",
+          "label": "Le Gaulois (14 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332688/manifest.json",
+          "label": "Le Gaulois (15 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533269n/manifest.json",
+          "label": "Le Gaulois (16 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533270k/manifest.json",
+          "label": "Le Gaulois (17 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533271z/manifest.json",
+          "label": "Le Gaulois (18 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533272b/manifest.json",
+          "label": "Le Gaulois (19 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533273q/manifest.json",
+          "label": "Le Gaulois (20 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332743/manifest.json",
+          "label": "Le Gaulois (21 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533275g/manifest.json",
+          "label": "Le Gaulois (22 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533276v/manifest.json",
+          "label": "Le Gaulois (23 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332777/manifest.json",
+          "label": "Le Gaulois (24 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533278m/manifest.json",
+          "label": "Le Gaulois (25 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332790/manifest.json",
+          "label": "Le Gaulois (26 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533280x/manifest.json",
+          "label": "Le Gaulois (27 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332819/manifest.json",
+          "label": "Le Gaulois (28 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533282p/manifest.json",
+          "label": "Le Gaulois (29 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332832/manifest.json",
+          "label": "Le Gaulois (30 juin 1906)",
+          "type": "Manifest",
+          "navDate": "1906-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533284f/manifest.json",
+          "label": "Le Gaulois (01 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533285t/manifest.json",
+          "label": "Le Gaulois (02 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332866/manifest.json",
+          "label": "Le Gaulois (03 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533287k/manifest.json",
+          "label": "Le Gaulois (04 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533288z/manifest.json",
+          "label": "Le Gaulois (05 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533289b/manifest.json",
+          "label": "Le Gaulois (06 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332908/manifest.json",
+          "label": "Le Gaulois (07 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533291n/manifest.json",
+          "label": "Le Gaulois (08 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332921/manifest.json",
+          "label": "Le Gaulois (09 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533293d/manifest.json",
+          "label": "Le Gaulois (10 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533294s/manifest.json",
+          "label": "Le Gaulois (11 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332955/manifest.json",
+          "label": "Le Gaulois (12 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533296j/manifest.json",
+          "label": "Le Gaulois (13 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533297x/manifest.json",
+          "label": "Le Gaulois (14 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5332989/manifest.json",
+          "label": "Le Gaulois (15 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533299p/manifest.json",
+          "label": "Le Gaulois (16 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533300g/manifest.json",
+          "label": "Le Gaulois (17 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533301v/manifest.json",
+          "label": "Le Gaulois (18 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333027/manifest.json",
+          "label": "Le Gaulois (19 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533303m/manifest.json",
+          "label": "Le Gaulois (20 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333040/manifest.json",
+          "label": "Le Gaulois (21 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533305c/manifest.json",
+          "label": "Le Gaulois (22 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533306r/manifest.json",
+          "label": "Le Gaulois (23 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333074/manifest.json",
+          "label": "Le Gaulois (24 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533308h/manifest.json",
+          "label": "Le Gaulois (25 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533309w/manifest.json",
+          "label": "Le Gaulois (26 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533310t/manifest.json",
+          "label": "Le Gaulois (27 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333116/manifest.json",
+          "label": "Le Gaulois (28 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533312k/manifest.json",
+          "label": "Le Gaulois (29 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533313z/manifest.json",
+          "label": "Le Gaulois (30 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533314b/manifest.json",
+          "label": "Le Gaulois (31 juillet 1906)",
+          "type": "Manifest",
+          "navDate": "1906-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533315q/manifest.json",
+          "label": "Le Gaulois (01 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333163/manifest.json",
+          "label": "Le Gaulois (02 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533317g/manifest.json",
+          "label": "Le Gaulois (03 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533318v/manifest.json",
+          "label": "Le Gaulois (04 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333197/manifest.json",
+          "label": "Le Gaulois (05 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333205/manifest.json",
+          "label": "Le Gaulois (06 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533321j/manifest.json",
+          "label": "Le Gaulois (07 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533322x/manifest.json",
+          "label": "Le Gaulois (08 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333239/manifest.json",
+          "label": "Le Gaulois (09 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533324p/manifest.json",
+          "label": "Le Gaulois (10 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333252/manifest.json",
+          "label": "Le Gaulois (11 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533326f/manifest.json",
+          "label": "Le Gaulois (12 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533327t/manifest.json",
+          "label": "Le Gaulois (13 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333286/manifest.json",
+          "label": "Le Gaulois (14 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533329k/manifest.json",
+          "label": "Le Gaulois (15 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533330h/manifest.json",
+          "label": "Le Gaulois (16 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533331w/manifest.json",
+          "label": "Le Gaulois (17 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333328/manifest.json",
+          "label": "Le Gaulois (18 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533333n/manifest.json",
+          "label": "Le Gaulois (19 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333341/manifest.json",
+          "label": "Le Gaulois (20 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533335d/manifest.json",
+          "label": "Le Gaulois (21 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533336s/manifest.json",
+          "label": "Le Gaulois (22 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333375/manifest.json",
+          "label": "Le Gaulois (23 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533338j/manifest.json",
+          "label": "Le Gaulois (24 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533339x/manifest.json",
+          "label": "Le Gaulois (25 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533340v/manifest.json",
+          "label": "Le Gaulois (26 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333417/manifest.json",
+          "label": "Le Gaulois (27 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533342m/manifest.json",
+          "label": "Le Gaulois (28 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333430/manifest.json",
+          "label": "Le Gaulois (29 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533344c/manifest.json",
+          "label": "Le Gaulois (30 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533345r/manifest.json",
+          "label": "Le Gaulois (31 août 1906)",
+          "type": "Manifest",
+          "navDate": "1906-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333464/manifest.json",
+          "label": "Le Gaulois (01 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533347h/manifest.json",
+          "label": "Le Gaulois (02 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533348w/manifest.json",
+          "label": "Le Gaulois (03 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333498/manifest.json",
+          "label": "Le Gaulois (04 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333506/manifest.json",
+          "label": "Le Gaulois (05 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533351k/manifest.json",
+          "label": "Le Gaulois (06 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533352z/manifest.json",
+          "label": "Le Gaulois (07 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533353b/manifest.json",
+          "label": "Le Gaulois (08 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533354q/manifest.json",
+          "label": "Le Gaulois (09 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333553/manifest.json",
+          "label": "Le Gaulois (10 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533356g/manifest.json",
+          "label": "Le Gaulois (11 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533357v/manifest.json",
+          "label": "Le Gaulois (12 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333587/manifest.json",
+          "label": "Le Gaulois (13 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533359m/manifest.json",
+          "label": "Le Gaulois (14 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533360j/manifest.json",
+          "label": "Le Gaulois (15 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533361x/manifest.json",
+          "label": "Le Gaulois (16 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333629/manifest.json",
+          "label": "Le Gaulois (17 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533363p/manifest.json",
+          "label": "Le Gaulois (18 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333642/manifest.json",
+          "label": "Le Gaulois (19 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533365f/manifest.json",
+          "label": "Le Gaulois (20 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533366t/manifest.json",
+          "label": "Le Gaulois (21 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333676/manifest.json",
+          "label": "Le Gaulois (22 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533368k/manifest.json",
+          "label": "Le Gaulois (23 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533369z/manifest.json",
+          "label": "Le Gaulois (24 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533370w/manifest.json",
+          "label": "Le Gaulois (25 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333718/manifest.json",
+          "label": "Le Gaulois (26 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533372n/manifest.json",
+          "label": "Le Gaulois (27 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333731/manifest.json",
+          "label": "Le Gaulois (28 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533374d/manifest.json",
+          "label": "Le Gaulois (29 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533375s/manifest.json",
+          "label": "Le Gaulois (30 septembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333765/manifest.json",
+          "label": "Le Gaulois (01 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533377j/manifest.json",
+          "label": "Le Gaulois (02 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533378x/manifest.json",
+          "label": "Le Gaulois (03 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333799/manifest.json",
+          "label": "Le Gaulois (04 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333807/manifest.json",
+          "label": "Le Gaulois (05 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533381m/manifest.json",
+          "label": "Le Gaulois (06 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333820/manifest.json",
+          "label": "Le Gaulois (07 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533383c/manifest.json",
+          "label": "Le Gaulois (08 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533384r/manifest.json",
+          "label": "Le Gaulois (09 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333854/manifest.json",
+          "label": "Le Gaulois (10 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533386h/manifest.json",
+          "label": "Le Gaulois (11 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533387w/manifest.json",
+          "label": "Le Gaulois (12 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333888/manifest.json",
+          "label": "Le Gaulois (13 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533389n/manifest.json",
+          "label": "Le Gaulois (14 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533390k/manifest.json",
+          "label": "Le Gaulois (15 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533391z/manifest.json",
+          "label": "Le Gaulois (16 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533392b/manifest.json",
+          "label": "Le Gaulois (17 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533393q/manifest.json",
+          "label": "Le Gaulois (18 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333943/manifest.json",
+          "label": "Le Gaulois (19 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533395g/manifest.json",
+          "label": "Le Gaulois (20 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533396v/manifest.json",
+          "label": "Le Gaulois (21 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333977/manifest.json",
+          "label": "Le Gaulois (22 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533398m/manifest.json",
+          "label": "Le Gaulois (23 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5333990/manifest.json",
+          "label": "Le Gaulois (24 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533400s/manifest.json",
+          "label": "Le Gaulois (25 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334015/manifest.json",
+          "label": "Le Gaulois (26 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533402j/manifest.json",
+          "label": "Le Gaulois (27 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533403x/manifest.json",
+          "label": "Le Gaulois (28 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334049/manifest.json",
+          "label": "Le Gaulois (29 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533405p/manifest.json",
+          "label": "Le Gaulois (30 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334062/manifest.json",
+          "label": "Le Gaulois (31 octobre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533407f/manifest.json",
+          "label": "Le Gaulois (01 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533408t/manifest.json",
+          "label": "Le Gaulois (02 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334096/manifest.json",
+          "label": "Le Gaulois (03 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334104/manifest.json",
+          "label": "Le Gaulois (04 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533411h/manifest.json",
+          "label": "Le Gaulois (05 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533412w/manifest.json",
+          "label": "Le Gaulois (06 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334138/manifest.json",
+          "label": "Le Gaulois (07 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533414n/manifest.json",
+          "label": "Le Gaulois (08 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334151/manifest.json",
+          "label": "Le Gaulois (09 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533416d/manifest.json",
+          "label": "Le Gaulois (10 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533417s/manifest.json",
+          "label": "Le Gaulois (11 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334185/manifest.json",
+          "label": "Le Gaulois (12 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533419j/manifest.json",
+          "label": "Le Gaulois (13 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533420g/manifest.json",
+          "label": "Le Gaulois (14 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533421v/manifest.json",
+          "label": "Le Gaulois (15 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334227/manifest.json",
+          "label": "Le Gaulois (16 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533423m/manifest.json",
+          "label": "Le Gaulois (17 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334240/manifest.json",
+          "label": "Le Gaulois (18 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533425c/manifest.json",
+          "label": "Le Gaulois (19 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533426r/manifest.json",
+          "label": "Le Gaulois (20 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334274/manifest.json",
+          "label": "Le Gaulois (21 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533428h/manifest.json",
+          "label": "Le Gaulois (22 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533429w/manifest.json",
+          "label": "Le Gaulois (23 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533430t/manifest.json",
+          "label": "Le Gaulois (24 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334316/manifest.json",
+          "label": "Le Gaulois (25 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533432k/manifest.json",
+          "label": "Le Gaulois (26 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533433z/manifest.json",
+          "label": "Le Gaulois (27 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533434b/manifest.json",
+          "label": "Le Gaulois (28 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533435q/manifest.json",
+          "label": "Le Gaulois (29 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334363/manifest.json",
+          "label": "Le Gaulois (30 novembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533437g/manifest.json",
+          "label": "Le Gaulois (01 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533438v/manifest.json",
+          "label": "Le Gaulois (02 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334397/manifest.json",
+          "label": "Le Gaulois (03 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334405/manifest.json",
+          "label": "Le Gaulois (04 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533441j/manifest.json",
+          "label": "Le Gaulois (05 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533442x/manifest.json",
+          "label": "Le Gaulois (06 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334439/manifest.json",
+          "label": "Le Gaulois (07 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533444p/manifest.json",
+          "label": "Le Gaulois (08 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334452/manifest.json",
+          "label": "Le Gaulois (09 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533446f/manifest.json",
+          "label": "Le Gaulois (10 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533447t/manifest.json",
+          "label": "Le Gaulois (11 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334486/manifest.json",
+          "label": "Le Gaulois (12 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533449k/manifest.json",
+          "label": "Le Gaulois (13 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533450h/manifest.json",
+          "label": "Le Gaulois (14 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533451w/manifest.json",
+          "label": "Le Gaulois (15 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334528/manifest.json",
+          "label": "Le Gaulois (16 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533453n/manifest.json",
+          "label": "Le Gaulois (17 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334541/manifest.json",
+          "label": "Le Gaulois (18 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533455d/manifest.json",
+          "label": "Le Gaulois (19 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533456s/manifest.json",
+          "label": "Le Gaulois (20 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334575/manifest.json",
+          "label": "Le Gaulois (21 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533458j/manifest.json",
+          "label": "Le Gaulois (22 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533459x/manifest.json",
+          "label": "Le Gaulois (23 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533460v/manifest.json",
+          "label": "Le Gaulois (24 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334617/manifest.json",
+          "label": "Le Gaulois (25 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533462m/manifest.json",
+          "label": "Le Gaulois (26 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334630/manifest.json",
+          "label": "Le Gaulois (27 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533464c/manifest.json",
+          "label": "Le Gaulois (28 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533465r/manifest.json",
+          "label": "Le Gaulois (29 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5334664/manifest.json",
+          "label": "Le Gaulois (30 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533467h/manifest.json",
+          "label": "Le Gaulois (31 décembre 1906)",
+          "type": "Manifest",
+          "navDate": "1906-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k533102m/manifest.json",
+          "label": "Le Gaulois (31 décembre 1905)",
+          "type": "Manifest",
+          "navDate": "1906-12-31"
+       }]
+    }

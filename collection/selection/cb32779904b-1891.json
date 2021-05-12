@@ -1,0 +1,1861 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1891.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1891)" ], "en": [ "Le Gaulois (1891)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1891" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1891" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1891",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1891)" ],"en": [ "Gallica periodical: Le Gaulois (1891)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1891",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1891)" ],"en": [ "Gallica periodical: Le Gaulois (1891)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527479g/manifest.json",
+          "label": "Le Gaulois (01 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527480d/manifest.json",
+          "label": "Le Gaulois (02 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527481s/manifest.json",
+          "label": "Le Gaulois (03 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5274825/manifest.json",
+          "label": "Le Gaulois (04 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527483j/manifest.json",
+          "label": "Le Gaulois (05 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527484x/manifest.json",
+          "label": "Le Gaulois (06 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5274859/manifest.json",
+          "label": "Le Gaulois (07 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527486p/manifest.json",
+          "label": "Le Gaulois (08 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5274872/manifest.json",
+          "label": "Le Gaulois (09 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527488f/manifest.json",
+          "label": "Le Gaulois (10 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527489t/manifest.json",
+          "label": "Le Gaulois (11 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527490r/manifest.json",
+          "label": "Le Gaulois (12 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5274914/manifest.json",
+          "label": "Le Gaulois (13 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527492h/manifest.json",
+          "label": "Le Gaulois (14 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527493w/manifest.json",
+          "label": "Le Gaulois (15 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5274948/manifest.json",
+          "label": "Le Gaulois (16 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527495n/manifest.json",
+          "label": "Le Gaulois (17 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5274961/manifest.json",
+          "label": "Le Gaulois (18 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527497d/manifest.json",
+          "label": "Le Gaulois (19 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527498s/manifest.json",
+          "label": "Le Gaulois (20 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5274995/manifest.json",
+          "label": "Le Gaulois (21 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527500z/manifest.json",
+          "label": "Le Gaulois (22 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527501b/manifest.json",
+          "label": "Le Gaulois (23 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527502q/manifest.json",
+          "label": "Le Gaulois (24 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275033/manifest.json",
+          "label": "Le Gaulois (25 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527504g/manifest.json",
+          "label": "Le Gaulois (26 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527505v/manifest.json",
+          "label": "Le Gaulois (27 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275067/manifest.json",
+          "label": "Le Gaulois (28 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527507m/manifest.json",
+          "label": "Le Gaulois (29 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275080/manifest.json",
+          "label": "Le Gaulois (30 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527509c/manifest.json",
+          "label": "Le Gaulois (31 janvier 1891)",
+          "type": "Manifest",
+          "navDate": "1891-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275109/manifest.json",
+          "label": "Le Gaulois (01 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527511p/manifest.json",
+          "label": "Le Gaulois (02 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275122/manifest.json",
+          "label": "Le Gaulois (03 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527513f/manifest.json",
+          "label": "Le Gaulois (04 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527514t/manifest.json",
+          "label": "Le Gaulois (05 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275156/manifest.json",
+          "label": "Le Gaulois (06 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527516k/manifest.json",
+          "label": "Le Gaulois (07 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527517z/manifest.json",
+          "label": "Le Gaulois (08 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527518b/manifest.json",
+          "label": "Le Gaulois (09 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527519q/manifest.json",
+          "label": "Le Gaulois (10 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527520n/manifest.json",
+          "label": "Le Gaulois (11 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275211/manifest.json",
+          "label": "Le Gaulois (12 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527522d/manifest.json",
+          "label": "Le Gaulois (13 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527523s/manifest.json",
+          "label": "Le Gaulois (14 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275245/manifest.json",
+          "label": "Le Gaulois (15 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527525j/manifest.json",
+          "label": "Le Gaulois (16 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527526x/manifest.json",
+          "label": "Le Gaulois (17 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275279/manifest.json",
+          "label": "Le Gaulois (18 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527528p/manifest.json",
+          "label": "Le Gaulois (19 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275292/manifest.json",
+          "label": "Le Gaulois (20 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275300/manifest.json",
+          "label": "Le Gaulois (21 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527531c/manifest.json",
+          "label": "Le Gaulois (22 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527532r/manifest.json",
+          "label": "Le Gaulois (23 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275334/manifest.json",
+          "label": "Le Gaulois (24 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527534h/manifest.json",
+          "label": "Le Gaulois (25 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527535w/manifest.json",
+          "label": "Le Gaulois (26 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275368/manifest.json",
+          "label": "Le Gaulois (27 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527537n/manifest.json",
+          "label": "Le Gaulois (28 février 1891)",
+          "type": "Manifest",
+          "navDate": "1891-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275381/manifest.json",
+          "label": "Le Gaulois (01 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527539d/manifest.json",
+          "label": "Le Gaulois (02 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527540b/manifest.json",
+          "label": "Le Gaulois (03 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527541q/manifest.json",
+          "label": "Le Gaulois (04 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275423/manifest.json",
+          "label": "Le Gaulois (05 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527543g/manifest.json",
+          "label": "Le Gaulois (06 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527544v/manifest.json",
+          "label": "Le Gaulois (07 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275457/manifest.json",
+          "label": "Le Gaulois (08 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527546m/manifest.json",
+          "label": "Le Gaulois (09 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275470/manifest.json",
+          "label": "Le Gaulois (10 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527548c/manifest.json",
+          "label": "Le Gaulois (11 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527549r/manifest.json",
+          "label": "Le Gaulois (12 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527550p/manifest.json",
+          "label": "Le Gaulois (13 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275512/manifest.json",
+          "label": "Le Gaulois (14 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527552f/manifest.json",
+          "label": "Le Gaulois (15 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527553t/manifest.json",
+          "label": "Le Gaulois (16 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275546/manifest.json",
+          "label": "Le Gaulois (17 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527555k/manifest.json",
+          "label": "Le Gaulois (18 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527556z/manifest.json",
+          "label": "Le Gaulois (19 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527557b/manifest.json",
+          "label": "Le Gaulois (20 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527558q/manifest.json",
+          "label": "Le Gaulois (21 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275593/manifest.json",
+          "label": "Le Gaulois (22 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275601/manifest.json",
+          "label": "Le Gaulois (23 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527561d/manifest.json",
+          "label": "Le Gaulois (24 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527562s/manifest.json",
+          "label": "Le Gaulois (25 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275635/manifest.json",
+          "label": "Le Gaulois (26 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527564j/manifest.json",
+          "label": "Le Gaulois (27 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527565x/manifest.json",
+          "label": "Le Gaulois (28 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275669/manifest.json",
+          "label": "Le Gaulois (29 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527567p/manifest.json",
+          "label": "Le Gaulois (30 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275682/manifest.json",
+          "label": "Le Gaulois (31 mars 1891)",
+          "type": "Manifest",
+          "navDate": "1891-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527569f/manifest.json",
+          "label": "Le Gaulois (01 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527570c/manifest.json",
+          "label": "Le Gaulois (02 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527571r/manifest.json",
+          "label": "Le Gaulois (03 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275724/manifest.json",
+          "label": "Le Gaulois (04 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527573h/manifest.json",
+          "label": "Le Gaulois (05 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527574w/manifest.json",
+          "label": "Le Gaulois (06 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275758/manifest.json",
+          "label": "Le Gaulois (07 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527576n/manifest.json",
+          "label": "Le Gaulois (08 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275771/manifest.json",
+          "label": "Le Gaulois (09 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527578d/manifest.json",
+          "label": "Le Gaulois (10 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527579s/manifest.json",
+          "label": "Le Gaulois (11 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527580q/manifest.json",
+          "label": "Le Gaulois (12 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275813/manifest.json",
+          "label": "Le Gaulois (13 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527582g/manifest.json",
+          "label": "Le Gaulois (14 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527583v/manifest.json",
+          "label": "Le Gaulois (15 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275847/manifest.json",
+          "label": "Le Gaulois (16 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527585m/manifest.json",
+          "label": "Le Gaulois (17 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275860/manifest.json",
+          "label": "Le Gaulois (18 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527587c/manifest.json",
+          "label": "Le Gaulois (19 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527588r/manifest.json",
+          "label": "Le Gaulois (20 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275894/manifest.json",
+          "label": "Le Gaulois (21 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275902/manifest.json",
+          "label": "Le Gaulois (22 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527591f/manifest.json",
+          "label": "Le Gaulois (23 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527592t/manifest.json",
+          "label": "Le Gaulois (24 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275936/manifest.json",
+          "label": "Le Gaulois (25 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527594k/manifest.json",
+          "label": "Le Gaulois (26 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527595z/manifest.json",
+          "label": "Le Gaulois (27 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527596b/manifest.json",
+          "label": "Le Gaulois (28 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527597q/manifest.json",
+          "label": "Le Gaulois (29 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5275983/manifest.json",
+          "label": "Le Gaulois (30 avril 1891)",
+          "type": "Manifest",
+          "navDate": "1891-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527599g/manifest.json",
+          "label": "Le Gaulois (01 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276008/manifest.json",
+          "label": "Le Gaulois (02 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527601n/manifest.json",
+          "label": "Le Gaulois (03 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276021/manifest.json",
+          "label": "Le Gaulois (04 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527603d/manifest.json",
+          "label": "Le Gaulois (05 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527604s/manifest.json",
+          "label": "Le Gaulois (06 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276055/manifest.json",
+          "label": "Le Gaulois (07 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527606j/manifest.json",
+          "label": "Le Gaulois (08 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527607x/manifest.json",
+          "label": "Le Gaulois (09 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276089/manifest.json",
+          "label": "Le Gaulois (10 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527609p/manifest.json",
+          "label": "Le Gaulois (11 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527610m/manifest.json",
+          "label": "Le Gaulois (12 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276110/manifest.json",
+          "label": "Le Gaulois (13 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527612c/manifest.json",
+          "label": "Le Gaulois (14 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527613r/manifest.json",
+          "label": "Le Gaulois (15 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276144/manifest.json",
+          "label": "Le Gaulois (16 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527615h/manifest.json",
+          "label": "Le Gaulois (17 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527616w/manifest.json",
+          "label": "Le Gaulois (18 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276178/manifest.json",
+          "label": "Le Gaulois (19 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527618n/manifest.json",
+          "label": "Le Gaulois (20 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276191/manifest.json",
+          "label": "Le Gaulois (21 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527620z/manifest.json",
+          "label": "Le Gaulois (22 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527621b/manifest.json",
+          "label": "Le Gaulois (23 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527622q/manifest.json",
+          "label": "Le Gaulois (24 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276233/manifest.json",
+          "label": "Le Gaulois (25 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527624g/manifest.json",
+          "label": "Le Gaulois (26 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527625v/manifest.json",
+          "label": "Le Gaulois (27 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276267/manifest.json",
+          "label": "Le Gaulois (28 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527627m/manifest.json",
+          "label": "Le Gaulois (29 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276280/manifest.json",
+          "label": "Le Gaulois (30 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527629c/manifest.json",
+          "label": "Le Gaulois (31 mai 1891)",
+          "type": "Manifest",
+          "navDate": "1891-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276309/manifest.json",
+          "label": "Le Gaulois (01 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527631p/manifest.json",
+          "label": "Le Gaulois (02 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276322/manifest.json",
+          "label": "Le Gaulois (03 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527633f/manifest.json",
+          "label": "Le Gaulois (04 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527634t/manifest.json",
+          "label": "Le Gaulois (05 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276356/manifest.json",
+          "label": "Le Gaulois (06 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527636k/manifest.json",
+          "label": "Le Gaulois (07 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527637z/manifest.json",
+          "label": "Le Gaulois (08 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527638b/manifest.json",
+          "label": "Le Gaulois (09 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527639q/manifest.json",
+          "label": "Le Gaulois (10 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527640n/manifest.json",
+          "label": "Le Gaulois (11 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276411/manifest.json",
+          "label": "Le Gaulois (12 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527642d/manifest.json",
+          "label": "Le Gaulois (13 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527643s/manifest.json",
+          "label": "Le Gaulois (14 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276445/manifest.json",
+          "label": "Le Gaulois (15 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527645j/manifest.json",
+          "label": "Le Gaulois (16 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527646x/manifest.json",
+          "label": "Le Gaulois (17 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276479/manifest.json",
+          "label": "Le Gaulois (18 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527648p/manifest.json",
+          "label": "Le Gaulois (19 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276492/manifest.json",
+          "label": "Le Gaulois (20 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276500/manifest.json",
+          "label": "Le Gaulois (21 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527651c/manifest.json",
+          "label": "Le Gaulois (22 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527652r/manifest.json",
+          "label": "Le Gaulois (23 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276534/manifest.json",
+          "label": "Le Gaulois (24 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527654h/manifest.json",
+          "label": "Le Gaulois (25 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527655w/manifest.json",
+          "label": "Le Gaulois (26 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276568/manifest.json",
+          "label": "Le Gaulois (27 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527657n/manifest.json",
+          "label": "Le Gaulois (28 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276581/manifest.json",
+          "label": "Le Gaulois (29 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527659d/manifest.json",
+          "label": "Le Gaulois (30 juin 1891)",
+          "type": "Manifest",
+          "navDate": "1891-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527660b/manifest.json",
+          "label": "Le Gaulois (01 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527661q/manifest.json",
+          "label": "Le Gaulois (02 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276623/manifest.json",
+          "label": "Le Gaulois (03 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527663g/manifest.json",
+          "label": "Le Gaulois (04 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527664v/manifest.json",
+          "label": "Le Gaulois (05 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276657/manifest.json",
+          "label": "Le Gaulois (06 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527666m/manifest.json",
+          "label": "Le Gaulois (07 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276670/manifest.json",
+          "label": "Le Gaulois (08 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527668c/manifest.json",
+          "label": "Le Gaulois (09 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527669r/manifest.json",
+          "label": "Le Gaulois (10 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527670p/manifest.json",
+          "label": "Le Gaulois (11 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276712/manifest.json",
+          "label": "Le Gaulois (12 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527672f/manifest.json",
+          "label": "Le Gaulois (13 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527673t/manifest.json",
+          "label": "Le Gaulois (14 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276746/manifest.json",
+          "label": "Le Gaulois (15 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527675k/manifest.json",
+          "label": "Le Gaulois (16 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527676z/manifest.json",
+          "label": "Le Gaulois (17 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527677b/manifest.json",
+          "label": "Le Gaulois (18 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527678q/manifest.json",
+          "label": "Le Gaulois (19 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276793/manifest.json",
+          "label": "Le Gaulois (20 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276801/manifest.json",
+          "label": "Le Gaulois (21 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527681d/manifest.json",
+          "label": "Le Gaulois (22 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527682s/manifest.json",
+          "label": "Le Gaulois (23 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276835/manifest.json",
+          "label": "Le Gaulois (24 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527684j/manifest.json",
+          "label": "Le Gaulois (25 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527685x/manifest.json",
+          "label": "Le Gaulois (26 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276869/manifest.json",
+          "label": "Le Gaulois (27 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527687p/manifest.json",
+          "label": "Le Gaulois (28 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276882/manifest.json",
+          "label": "Le Gaulois (29 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527689f/manifest.json",
+          "label": "Le Gaulois (30 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527690c/manifest.json",
+          "label": "Le Gaulois (31 juillet 1891)",
+          "type": "Manifest",
+          "navDate": "1891-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527691r/manifest.json",
+          "label": "Le Gaulois (01 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276924/manifest.json",
+          "label": "Le Gaulois (02 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527693h/manifest.json",
+          "label": "Le Gaulois (03 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527694w/manifest.json",
+          "label": "Le Gaulois (04 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276958/manifest.json",
+          "label": "Le Gaulois (05 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527696n/manifest.json",
+          "label": "Le Gaulois (06 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5276971/manifest.json",
+          "label": "Le Gaulois (07 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527698d/manifest.json",
+          "label": "Le Gaulois (08 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527699s/manifest.json",
+          "label": "Le Gaulois (09 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527700k/manifest.json",
+          "label": "Le Gaulois (10 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527701z/manifest.json",
+          "label": "Le Gaulois (11 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527702b/manifest.json",
+          "label": "Le Gaulois (12 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527703q/manifest.json",
+          "label": "Le Gaulois (13 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277043/manifest.json",
+          "label": "Le Gaulois (14 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527705g/manifest.json",
+          "label": "Le Gaulois (15 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527706v/manifest.json",
+          "label": "Le Gaulois (16 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277077/manifest.json",
+          "label": "Le Gaulois (17 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527708m/manifest.json",
+          "label": "Le Gaulois (18 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277090/manifest.json",
+          "label": "Le Gaulois (19 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527710x/manifest.json",
+          "label": "Le Gaulois (20 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277119/manifest.json",
+          "label": "Le Gaulois (21 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527712p/manifest.json",
+          "label": "Le Gaulois (22 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277132/manifest.json",
+          "label": "Le Gaulois (23 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527714f/manifest.json",
+          "label": "Le Gaulois (24 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527715t/manifest.json",
+          "label": "Le Gaulois (25 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277166/manifest.json",
+          "label": "Le Gaulois (26 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527717k/manifest.json",
+          "label": "Le Gaulois (27 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527718z/manifest.json",
+          "label": "Le Gaulois (28 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527719b/manifest.json",
+          "label": "Le Gaulois (29 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277208/manifest.json",
+          "label": "Le Gaulois (30 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527721n/manifest.json",
+          "label": "Le Gaulois (31 août 1891)",
+          "type": "Manifest",
+          "navDate": "1891-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277221/manifest.json",
+          "label": "Le Gaulois (01 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527723d/manifest.json",
+          "label": "Le Gaulois (02 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527724s/manifest.json",
+          "label": "Le Gaulois (03 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277255/manifest.json",
+          "label": "Le Gaulois (04 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527726j/manifest.json",
+          "label": "Le Gaulois (05 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527727x/manifest.json",
+          "label": "Le Gaulois (06 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277289/manifest.json",
+          "label": "Le Gaulois (07 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527729p/manifest.json",
+          "label": "Le Gaulois (08 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527730m/manifest.json",
+          "label": "Le Gaulois (09 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277310/manifest.json",
+          "label": "Le Gaulois (10 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527732c/manifest.json",
+          "label": "Le Gaulois (11 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527733r/manifest.json",
+          "label": "Le Gaulois (12 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277344/manifest.json",
+          "label": "Le Gaulois (13 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527735h/manifest.json",
+          "label": "Le Gaulois (14 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527736w/manifest.json",
+          "label": "Le Gaulois (15 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277378/manifest.json",
+          "label": "Le Gaulois (16 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527738n/manifest.json",
+          "label": "Le Gaulois (17 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277391/manifest.json",
+          "label": "Le Gaulois (18 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527740z/manifest.json",
+          "label": "Le Gaulois (19 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527741b/manifest.json",
+          "label": "Le Gaulois (20 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527742q/manifest.json",
+          "label": "Le Gaulois (21 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277433/manifest.json",
+          "label": "Le Gaulois (22 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527744g/manifest.json",
+          "label": "Le Gaulois (23 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527745v/manifest.json",
+          "label": "Le Gaulois (24 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277467/manifest.json",
+          "label": "Le Gaulois (25 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527747m/manifest.json",
+          "label": "Le Gaulois (26 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277480/manifest.json",
+          "label": "Le Gaulois (27 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527749c/manifest.json",
+          "label": "Le Gaulois (28 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277509/manifest.json",
+          "label": "Le Gaulois (29 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277522/manifest.json",
+          "label": "Le Gaulois (30 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527751p/manifest.json",
+          "label": "Le Gaulois (30 septembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527753f/manifest.json",
+          "label": "Le Gaulois (01 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527754t/manifest.json",
+          "label": "Le Gaulois (02 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277556/manifest.json",
+          "label": "Le Gaulois (03 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527756k/manifest.json",
+          "label": "Le Gaulois (04 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527757z/manifest.json",
+          "label": "Le Gaulois (05 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527758b/manifest.json",
+          "label": "Le Gaulois (06 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527759q/manifest.json",
+          "label": "Le Gaulois (07 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527760n/manifest.json",
+          "label": "Le Gaulois (08 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277611/manifest.json",
+          "label": "Le Gaulois (09 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527762d/manifest.json",
+          "label": "Le Gaulois (10 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527763s/manifest.json",
+          "label": "Le Gaulois (11 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277645/manifest.json",
+          "label": "Le Gaulois (12 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527765j/manifest.json",
+          "label": "Le Gaulois (13 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527766x/manifest.json",
+          "label": "Le Gaulois (14 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277679/manifest.json",
+          "label": "Le Gaulois (15 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527768p/manifest.json",
+          "label": "Le Gaulois (16 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277692/manifest.json",
+          "label": "Le Gaulois (17 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277700/manifest.json",
+          "label": "Le Gaulois (18 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527771c/manifest.json",
+          "label": "Le Gaulois (19 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527772r/manifest.json",
+          "label": "Le Gaulois (20 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277734/manifest.json",
+          "label": "Le Gaulois (21 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527774h/manifest.json",
+          "label": "Le Gaulois (22 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527775w/manifest.json",
+          "label": "Le Gaulois (23 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277768/manifest.json",
+          "label": "Le Gaulois (24 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527777n/manifest.json",
+          "label": "Le Gaulois (25 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277781/manifest.json",
+          "label": "Le Gaulois (26 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527779d/manifest.json",
+          "label": "Le Gaulois (27 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527780b/manifest.json",
+          "label": "Le Gaulois (28 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527781q/manifest.json",
+          "label": "Le Gaulois (29 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277823/manifest.json",
+          "label": "Le Gaulois (30 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527783g/manifest.json",
+          "label": "Le Gaulois (31 octobre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527784v/manifest.json",
+          "label": "Le Gaulois (01 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277857/manifest.json",
+          "label": "Le Gaulois (02 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527786m/manifest.json",
+          "label": "Le Gaulois (03 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277870/manifest.json",
+          "label": "Le Gaulois (04 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527788c/manifest.json",
+          "label": "Le Gaulois (05 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527789r/manifest.json",
+          "label": "Le Gaulois (06 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527790p/manifest.json",
+          "label": "Le Gaulois (07 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277912/manifest.json",
+          "label": "Le Gaulois (08 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527792f/manifest.json",
+          "label": "Le Gaulois (09 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527793t/manifest.json",
+          "label": "Le Gaulois (10 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277946/manifest.json",
+          "label": "Le Gaulois (11 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527795k/manifest.json",
+          "label": "Le Gaulois (12 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527796z/manifest.json",
+          "label": "Le Gaulois (13 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527797b/manifest.json",
+          "label": "Le Gaulois (14 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527798q/manifest.json",
+          "label": "Le Gaulois (15 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5277993/manifest.json",
+          "label": "Le Gaulois (16 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527800w/manifest.json",
+          "label": "Le Gaulois (17 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278018/manifest.json",
+          "label": "Le Gaulois (18 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527802n/manifest.json",
+          "label": "Le Gaulois (19 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278031/manifest.json",
+          "label": "Le Gaulois (20 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527804d/manifest.json",
+          "label": "Le Gaulois (21 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527805s/manifest.json",
+          "label": "Le Gaulois (22 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278065/manifest.json",
+          "label": "Le Gaulois (23 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527807j/manifest.json",
+          "label": "Le Gaulois (24 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527808x/manifest.json",
+          "label": "Le Gaulois (25 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278099/manifest.json",
+          "label": "Le Gaulois (26 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278107/manifest.json",
+          "label": "Le Gaulois (27 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527811m/manifest.json",
+          "label": "Le Gaulois (28 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278120/manifest.json",
+          "label": "Le Gaulois (29 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527813c/manifest.json",
+          "label": "Le Gaulois (30 novembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527814r/manifest.json",
+          "label": "Le Gaulois (01 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278154/manifest.json",
+          "label": "Le Gaulois (02 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527816h/manifest.json",
+          "label": "Le Gaulois (03 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527817w/manifest.json",
+          "label": "Le Gaulois (04 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278188/manifest.json",
+          "label": "Le Gaulois (05 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527819n/manifest.json",
+          "label": "Le Gaulois (06 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527820k/manifest.json",
+          "label": "Le Gaulois (07 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527821z/manifest.json",
+          "label": "Le Gaulois (08 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527822b/manifest.json",
+          "label": "Le Gaulois (09 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527823q/manifest.json",
+          "label": "Le Gaulois (10 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278243/manifest.json",
+          "label": "Le Gaulois (11 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527825g/manifest.json",
+          "label": "Le Gaulois (12 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527826v/manifest.json",
+          "label": "Le Gaulois (13 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278277/manifest.json",
+          "label": "Le Gaulois (14 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527828m/manifest.json",
+          "label": "Le Gaulois (15 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278290/manifest.json",
+          "label": "Le Gaulois (16 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527830x/manifest.json",
+          "label": "Le Gaulois (17 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278319/manifest.json",
+          "label": "Le Gaulois (18 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527832p/manifest.json",
+          "label": "Le Gaulois (19 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278332/manifest.json",
+          "label": "Le Gaulois (20 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527834f/manifest.json",
+          "label": "Le Gaulois (21 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527835t/manifest.json",
+          "label": "Le Gaulois (22 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278366/manifest.json",
+          "label": "Le Gaulois (23 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527837k/manifest.json",
+          "label": "Le Gaulois (24 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527838z/manifest.json",
+          "label": "Le Gaulois (25 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527839b/manifest.json",
+          "label": "Le Gaulois (26 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278408/manifest.json",
+          "label": "Le Gaulois (27 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527841n/manifest.json",
+          "label": "Le Gaulois (28 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5278421/manifest.json",
+          "label": "Le Gaulois (29 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527843d/manifest.json",
+          "label": "Le Gaulois (30 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k527844s/manifest.json",
+          "label": "Le Gaulois (31 décembre 1891)",
+          "type": "Manifest",
+          "navDate": "1891-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5274783/manifest.json",
+          "label": "Le Gaulois (31 décembre 1890)",
+          "type": "Manifest",
+          "navDate": "1891-12-31"
+       }]
+    }

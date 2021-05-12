@@ -1,0 +1,1951 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1893.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1893)" ], "en": [ "Le Gaulois (1893)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1893" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1893" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1893",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1893)" ],"en": [ "Gallica periodical: Le Gaulois (1893)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1893",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1893)" ],"en": [ "Gallica periodical: Le Gaulois (1893)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528218p/manifest.json",
+          "label": "Le Gaulois (01 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282192/manifest.json",
+          "label": "Le Gaulois (02 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282200/manifest.json",
+          "label": "Le Gaulois (03 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528221c/manifest.json",
+          "label": "Le Gaulois (04 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528222r/manifest.json",
+          "label": "Le Gaulois (05 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282234/manifest.json",
+          "label": "Le Gaulois (06 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528224h/manifest.json",
+          "label": "Le Gaulois (07 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528225w/manifest.json",
+          "label": "Le Gaulois (08 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282268/manifest.json",
+          "label": "Le Gaulois (09 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528227n/manifest.json",
+          "label": "Le Gaulois (10 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282281/manifest.json",
+          "label": "Le Gaulois (11 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528229d/manifest.json",
+          "label": "Le Gaulois (12 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528230b/manifest.json",
+          "label": "Le Gaulois (13 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528231q/manifest.json",
+          "label": "Le Gaulois (14 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282323/manifest.json",
+          "label": "Le Gaulois (15 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528233g/manifest.json",
+          "label": "Le Gaulois (16 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528234v/manifest.json",
+          "label": "Le Gaulois (17 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282357/manifest.json",
+          "label": "Le Gaulois (18 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528236m/manifest.json",
+          "label": "Le Gaulois (19 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282370/manifest.json",
+          "label": "Le Gaulois (20 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528238c/manifest.json",
+          "label": "Le Gaulois (20 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528239r/manifest.json",
+          "label": "Le Gaulois (21 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528240p/manifest.json",
+          "label": "Le Gaulois (22 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282412/manifest.json",
+          "label": "Le Gaulois (23 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528242f/manifest.json",
+          "label": "Le Gaulois (24 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528243t/manifest.json",
+          "label": "Le Gaulois (25 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282446/manifest.json",
+          "label": "Le Gaulois (26 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528245k/manifest.json",
+          "label": "Le Gaulois (27 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528246z/manifest.json",
+          "label": "Le Gaulois (28 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528247b/manifest.json",
+          "label": "Le Gaulois (29 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528248q/manifest.json",
+          "label": "Le Gaulois (30 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282493/manifest.json",
+          "label": "Le Gaulois (31 janvier 1893)",
+          "type": "Manifest",
+          "navDate": "1893-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282501/manifest.json",
+          "label": "Le Gaulois (01 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528251d/manifest.json",
+          "label": "Le Gaulois (02 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528252s/manifest.json",
+          "label": "Le Gaulois (03 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528254j/manifest.json",
+          "label": "Le Gaulois (04 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282535/manifest.json",
+          "label": "Le Gaulois (04 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528255x/manifest.json",
+          "label": "Le Gaulois (05 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282569/manifest.json",
+          "label": "Le Gaulois (06 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282582/manifest.json",
+          "label": "Le Gaulois (07 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528257p/manifest.json",
+          "label": "Le Gaulois (07 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528259f/manifest.json",
+          "label": "Le Gaulois (08 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528260c/manifest.json",
+          "label": "Le Gaulois (09 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528261r/manifest.json",
+          "label": "Le Gaulois (10 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282624/manifest.json",
+          "label": "Le Gaulois (11 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528263h/manifest.json",
+          "label": "Le Gaulois (12 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528264w/manifest.json",
+          "label": "Le Gaulois (13 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282658/manifest.json",
+          "label": "Le Gaulois (14 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528266n/manifest.json",
+          "label": "Le Gaulois (15 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282671/manifest.json",
+          "label": "Le Gaulois (16 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528268d/manifest.json",
+          "label": "Le Gaulois (16 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528269s/manifest.json",
+          "label": "Le Gaulois (17 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528270q/manifest.json",
+          "label": "Le Gaulois (18 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282713/manifest.json",
+          "label": "Le Gaulois (19 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528272g/manifest.json",
+          "label": "Le Gaulois (20 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528273v/manifest.json",
+          "label": "Le Gaulois (21 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282747/manifest.json",
+          "label": "Le Gaulois (22 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528275m/manifest.json",
+          "label": "Le Gaulois (23 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282760/manifest.json",
+          "label": "Le Gaulois (24 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528277c/manifest.json",
+          "label": "Le Gaulois (25 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528278r/manifest.json",
+          "label": "Le Gaulois (26 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282794/manifest.json",
+          "label": "Le Gaulois (27 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282802/manifest.json",
+          "label": "Le Gaulois (28 février 1893)",
+          "type": "Manifest",
+          "navDate": "1893-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528281f/manifest.json",
+          "label": "Le Gaulois (01 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528282t/manifest.json",
+          "label": "Le Gaulois (02 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282836/manifest.json",
+          "label": "Le Gaulois (03 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528284k/manifest.json",
+          "label": "Le Gaulois (04 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528285z/manifest.json",
+          "label": "Le Gaulois (05 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528286b/manifest.json",
+          "label": "Le Gaulois (06 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528287q/manifest.json",
+          "label": "Le Gaulois (07 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282883/manifest.json",
+          "label": "Le Gaulois (08 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528289g/manifest.json",
+          "label": "Le Gaulois (08 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528291s/manifest.json",
+          "label": "Le Gaulois (09 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528290d/manifest.json",
+          "label": "Le Gaulois (09 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282925/manifest.json",
+          "label": "Le Gaulois (10 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528293j/manifest.json",
+          "label": "Le Gaulois (11 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528294x/manifest.json",
+          "label": "Le Gaulois (12 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282959/manifest.json",
+          "label": "Le Gaulois (13 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528296p/manifest.json",
+          "label": "Le Gaulois (14 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282972/manifest.json",
+          "label": "Le Gaulois (15 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528298f/manifest.json",
+          "label": "Le Gaulois (16 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528299t/manifest.json",
+          "label": "Le Gaulois (17 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528300m/manifest.json",
+          "label": "Le Gaulois (18 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283010/manifest.json",
+          "label": "Le Gaulois (18 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528302c/manifest.json",
+          "label": "Le Gaulois (19 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528303r/manifest.json",
+          "label": "Le Gaulois (20 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283044/manifest.json",
+          "label": "Le Gaulois (21 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528305h/manifest.json",
+          "label": "Le Gaulois (22 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528306w/manifest.json",
+          "label": "Le Gaulois (23 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283078/manifest.json",
+          "label": "Le Gaulois (24 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528308n/manifest.json",
+          "label": "Le Gaulois (25 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283091/manifest.json",
+          "label": "Le Gaulois (26 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528310z/manifest.json",
+          "label": "Le Gaulois (27 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528311b/manifest.json",
+          "label": "Le Gaulois (28 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528312q/manifest.json",
+          "label": "Le Gaulois (29 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528314g/manifest.json",
+          "label": "Le Gaulois (30 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283133/manifest.json",
+          "label": "Le Gaulois (30 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528315v/manifest.json",
+          "label": "Le Gaulois (31 mars 1893)",
+          "type": "Manifest",
+          "navDate": "1893-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283167/manifest.json",
+          "label": "Le Gaulois (01 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528317m/manifest.json",
+          "label": "Le Gaulois (02 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283180/manifest.json",
+          "label": "Le Gaulois (03 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528319c/manifest.json",
+          "label": "Le Gaulois (04 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283209/manifest.json",
+          "label": "Le Gaulois (05 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528321p/manifest.json",
+          "label": "Le Gaulois (06 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283222/manifest.json",
+          "label": "Le Gaulois (07 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528323f/manifest.json",
+          "label": "Le Gaulois (08 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528324t/manifest.json",
+          "label": "Le Gaulois (09 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283256/manifest.json",
+          "label": "Le Gaulois (10 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528326k/manifest.json",
+          "label": "Le Gaulois (11 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528327z/manifest.json",
+          "label": "Le Gaulois (12 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528328b/manifest.json",
+          "label": "Le Gaulois (13 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528329q/manifest.json",
+          "label": "Le Gaulois (14 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528330n/manifest.json",
+          "label": "Le Gaulois (15 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283311/manifest.json",
+          "label": "Le Gaulois (16 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528332d/manifest.json",
+          "label": "Le Gaulois (17 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528333s/manifest.json",
+          "label": "Le Gaulois (17 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283345/manifest.json",
+          "label": "Le Gaulois (18 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528335j/manifest.json",
+          "label": "Le Gaulois (19 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528336x/manifest.json",
+          "label": "Le Gaulois (20 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283379/manifest.json",
+          "label": "Le Gaulois (21 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528338p/manifest.json",
+          "label": "Le Gaulois (22 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283392/manifest.json",
+          "label": "Le Gaulois (23 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283400/manifest.json",
+          "label": "Le Gaulois (24 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528341c/manifest.json",
+          "label": "Le Gaulois (25 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528342r/manifest.json",
+          "label": "Le Gaulois (26 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283434/manifest.json",
+          "label": "Le Gaulois (27 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528344h/manifest.json",
+          "label": "Le Gaulois (28 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528345w/manifest.json",
+          "label": "Le Gaulois (29 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283468/manifest.json",
+          "label": "Le Gaulois (30 avril 1893)",
+          "type": "Manifest",
+          "navDate": "1893-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528347n/manifest.json",
+          "label": "Le Gaulois (01 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283481/manifest.json",
+          "label": "Le Gaulois (02 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528349d/manifest.json",
+          "label": "Le Gaulois (03 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528350b/manifest.json",
+          "label": "Le Gaulois (04 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528351q/manifest.json",
+          "label": "Le Gaulois (05 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283523/manifest.json",
+          "label": "Le Gaulois (06 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528353g/manifest.json",
+          "label": "Le Gaulois (07 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528354v/manifest.json",
+          "label": "Le Gaulois (08 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283557/manifest.json",
+          "label": "Le Gaulois (09 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528356m/manifest.json",
+          "label": "Le Gaulois (10 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283570/manifest.json",
+          "label": "Le Gaulois (11 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528358c/manifest.json",
+          "label": "Le Gaulois (12 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528359r/manifest.json",
+          "label": "Le Gaulois (13 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528360p/manifest.json",
+          "label": "Le Gaulois (14 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283612/manifest.json",
+          "label": "Le Gaulois (15 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528362f/manifest.json",
+          "label": "Le Gaulois (16 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528363t/manifest.json",
+          "label": "Le Gaulois (17 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283646/manifest.json",
+          "label": "Le Gaulois (18 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528365k/manifest.json",
+          "label": "Le Gaulois (19 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528366z/manifest.json",
+          "label": "Le Gaulois (19 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528367b/manifest.json",
+          "label": "Le Gaulois (20 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528368q/manifest.json",
+          "label": "Le Gaulois (21 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283693/manifest.json",
+          "label": "Le Gaulois (22 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283701/manifest.json",
+          "label": "Le Gaulois (23 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528371d/manifest.json",
+          "label": "Le Gaulois (24 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528372s/manifest.json",
+          "label": "Le Gaulois (25 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283735/manifest.json",
+          "label": "Le Gaulois (26 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528374j/manifest.json",
+          "label": "Le Gaulois (27 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528375x/manifest.json",
+          "label": "Le Gaulois (28 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283769/manifest.json",
+          "label": "Le Gaulois (29 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528377p/manifest.json",
+          "label": "Le Gaulois (30 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283782/manifest.json",
+          "label": "Le Gaulois (31 mai 1893)",
+          "type": "Manifest",
+          "navDate": "1893-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528379f/manifest.json",
+          "label": "Le Gaulois (01 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528380c/manifest.json",
+          "label": "Le Gaulois (02 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528381r/manifest.json",
+          "label": "Le Gaulois (03 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283824/manifest.json",
+          "label": "Le Gaulois (04 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528383h/manifest.json",
+          "label": "Le Gaulois (05 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528384w/manifest.json",
+          "label": "Le Gaulois (06 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283858/manifest.json",
+          "label": "Le Gaulois (07 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528386n/manifest.json",
+          "label": "Le Gaulois (08 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283871/manifest.json",
+          "label": "Le Gaulois (09 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528388d/manifest.json",
+          "label": "Le Gaulois (10 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528389s/manifest.json",
+          "label": "Le Gaulois (11 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528390q/manifest.json",
+          "label": "Le Gaulois (12 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283913/manifest.json",
+          "label": "Le Gaulois (13 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528392g/manifest.json",
+          "label": "Le Gaulois (14 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528393v/manifest.json",
+          "label": "Le Gaulois (15 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283947/manifest.json",
+          "label": "Le Gaulois (16 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528395m/manifest.json",
+          "label": "Le Gaulois (17 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283960/manifest.json",
+          "label": "Le Gaulois (18 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528397c/manifest.json",
+          "label": "Le Gaulois (19 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528398r/manifest.json",
+          "label": "Le Gaulois (20 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5283994/manifest.json",
+          "label": "Le Gaulois (21 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528400x/manifest.json",
+          "label": "Le Gaulois (22 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284019/manifest.json",
+          "label": "Le Gaulois (23 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528402p/manifest.json",
+          "label": "Le Gaulois (24 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284032/manifest.json",
+          "label": "Le Gaulois (25 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528404f/manifest.json",
+          "label": "Le Gaulois (26 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528405t/manifest.json",
+          "label": "Le Gaulois (27 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284066/manifest.json",
+          "label": "Le Gaulois (28 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528407k/manifest.json",
+          "label": "Le Gaulois (29 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528408z/manifest.json",
+          "label": "Le Gaulois (30 juin 1893)",
+          "type": "Manifest",
+          "navDate": "1893-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528409b/manifest.json",
+          "label": "Le Gaulois (01 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284108/manifest.json",
+          "label": "Le Gaulois (02 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528411n/manifest.json",
+          "label": "Le Gaulois (03 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284121/manifest.json",
+          "label": "Le Gaulois (04 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528413d/manifest.json",
+          "label": "Le Gaulois (05 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528414s/manifest.json",
+          "label": "Le Gaulois (06 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284155/manifest.json",
+          "label": "Le Gaulois (07 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528416j/manifest.json",
+          "label": "Le Gaulois (08 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528417x/manifest.json",
+          "label": "Le Gaulois (09 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284189/manifest.json",
+          "label": "Le Gaulois (10 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528419p/manifest.json",
+          "label": "Le Gaulois (11 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528420m/manifest.json",
+          "label": "Le Gaulois (12 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284210/manifest.json",
+          "label": "Le Gaulois (13 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528422c/manifest.json",
+          "label": "Le Gaulois (14 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528423r/manifest.json",
+          "label": "Le Gaulois (15 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284244/manifest.json",
+          "label": "Le Gaulois (16 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528425h/manifest.json",
+          "label": "Le Gaulois (17 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528426w/manifest.json",
+          "label": "Le Gaulois (18 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284278/manifest.json",
+          "label": "Le Gaulois (19 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528428n/manifest.json",
+          "label": "Le Gaulois (20 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284291/manifest.json",
+          "label": "Le Gaulois (21 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528430z/manifest.json",
+          "label": "Le Gaulois (22 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528431b/manifest.json",
+          "label": "Le Gaulois (23 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528432q/manifest.json",
+          "label": "Le Gaulois (24 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284333/manifest.json",
+          "label": "Le Gaulois (25 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528434g/manifest.json",
+          "label": "Le Gaulois (26 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528435v/manifest.json",
+          "label": "Le Gaulois (27 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284367/manifest.json",
+          "label": "Le Gaulois (28 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528437m/manifest.json",
+          "label": "Le Gaulois (29 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284380/manifest.json",
+          "label": "Le Gaulois (30 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528439c/manifest.json",
+          "label": "Le Gaulois (31 juillet 1893)",
+          "type": "Manifest",
+          "navDate": "1893-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284409/manifest.json",
+          "label": "Le Gaulois (01 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528441p/manifest.json",
+          "label": "Le Gaulois (02 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284422/manifest.json",
+          "label": "Le Gaulois (03 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528443f/manifest.json",
+          "label": "Le Gaulois (04 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528444t/manifest.json",
+          "label": "Le Gaulois (05 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284456/manifest.json",
+          "label": "Le Gaulois (06 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528446k/manifest.json",
+          "label": "Le Gaulois (07 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528447z/manifest.json",
+          "label": "Le Gaulois (08 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528448b/manifest.json",
+          "label": "Le Gaulois (09 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528449q/manifest.json",
+          "label": "Le Gaulois (10 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284511/manifest.json",
+          "label": "Le Gaulois (11 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528450n/manifest.json",
+          "label": "Le Gaulois (11 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528452d/manifest.json",
+          "label": "Le Gaulois (12 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528453s/manifest.json",
+          "label": "Le Gaulois (13 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284545/manifest.json",
+          "label": "Le Gaulois (14 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528455j/manifest.json",
+          "label": "Le Gaulois (15 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528456x/manifest.json",
+          "label": "Le Gaulois (16 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284579/manifest.json",
+          "label": "Le Gaulois (17 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528458p/manifest.json",
+          "label": "Le Gaulois (18 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284592/manifest.json",
+          "label": "Le Gaulois (19 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284600/manifest.json",
+          "label": "Le Gaulois (20 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528461c/manifest.json",
+          "label": "Le Gaulois (21 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528462r/manifest.json",
+          "label": "Le Gaulois (22 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284634/manifest.json",
+          "label": "Le Gaulois (22 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528464h/manifest.json",
+          "label": "Le Gaulois (23 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528465w/manifest.json",
+          "label": "Le Gaulois (24 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284668/manifest.json",
+          "label": "Le Gaulois (25 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528467n/manifest.json",
+          "label": "Le Gaulois (26 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284681/manifest.json",
+          "label": "Le Gaulois (27 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528469d/manifest.json",
+          "label": "Le Gaulois (28 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528470b/manifest.json",
+          "label": "Le Gaulois (29 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528471q/manifest.json",
+          "label": "Le Gaulois (30 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284723/manifest.json",
+          "label": "Le Gaulois (31 août 1893)",
+          "type": "Manifest",
+          "navDate": "1893-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528473g/manifest.json",
+          "label": "Le Gaulois (01 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528474v/manifest.json",
+          "label": "Le Gaulois (02 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284757/manifest.json",
+          "label": "Le Gaulois (03 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528476m/manifest.json",
+          "label": "Le Gaulois (04 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284770/manifest.json",
+          "label": "Le Gaulois (05 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528478c/manifest.json",
+          "label": "Le Gaulois (06 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528479r/manifest.json",
+          "label": "Le Gaulois (07 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528480p/manifest.json",
+          "label": "Le Gaulois (08 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284812/manifest.json",
+          "label": "Le Gaulois (09 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528482f/manifest.json",
+          "label": "Le Gaulois (10 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528483t/manifest.json",
+          "label": "Le Gaulois (11 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284846/manifest.json",
+          "label": "Le Gaulois (12 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528485k/manifest.json",
+          "label": "Le Gaulois (13 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528486z/manifest.json",
+          "label": "Le Gaulois (14 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528487b/manifest.json",
+          "label": "Le Gaulois (15 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528488q/manifest.json",
+          "label": "Le Gaulois (16 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284893/manifest.json",
+          "label": "Le Gaulois (17 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284901/manifest.json",
+          "label": "Le Gaulois (18 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528491d/manifest.json",
+          "label": "Le Gaulois (19 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528492s/manifest.json",
+          "label": "Le Gaulois (20 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284935/manifest.json",
+          "label": "Le Gaulois (21 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528494j/manifest.json",
+          "label": "Le Gaulois (22 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528495x/manifest.json",
+          "label": "Le Gaulois (22 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284969/manifest.json",
+          "label": "Le Gaulois (23 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528497p/manifest.json",
+          "label": "Le Gaulois (24 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5284982/manifest.json",
+          "label": "Le Gaulois (25 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528499f/manifest.json",
+          "label": "Le Gaulois (26 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285007/manifest.json",
+          "label": "Le Gaulois (27 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528501m/manifest.json",
+          "label": "Le Gaulois (28 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285020/manifest.json",
+          "label": "Le Gaulois (29 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528503c/manifest.json",
+          "label": "Le Gaulois (30 septembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528504r/manifest.json",
+          "label": "Le Gaulois (01 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285054/manifest.json",
+          "label": "Le Gaulois (02 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528506h/manifest.json",
+          "label": "Le Gaulois (03 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528507w/manifest.json",
+          "label": "Le Gaulois (04 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285088/manifest.json",
+          "label": "Le Gaulois (05 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528509n/manifest.json",
+          "label": "Le Gaulois (06 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528510k/manifest.json",
+          "label": "Le Gaulois (07 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528511z/manifest.json",
+          "label": "Le Gaulois (08 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528512b/manifest.json",
+          "label": "Le Gaulois (09 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528513q/manifest.json",
+          "label": "Le Gaulois (10 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285143/manifest.json",
+          "label": "Le Gaulois (11 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528515g/manifest.json",
+          "label": "Le Gaulois (12 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528516v/manifest.json",
+          "label": "Le Gaulois (12 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285177/manifest.json",
+          "label": "Le Gaulois (13 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528518m/manifest.json",
+          "label": "Le Gaulois (14 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285190/manifest.json",
+          "label": "Le Gaulois (15 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528520x/manifest.json",
+          "label": "Le Gaulois (16 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285219/manifest.json",
+          "label": "Le Gaulois (17 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528522p/manifest.json",
+          "label": "Le Gaulois (18 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285232/manifest.json",
+          "label": "Le Gaulois (19 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528524f/manifest.json",
+          "label": "Le Gaulois (20 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528525t/manifest.json",
+          "label": "Le Gaulois (21 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285266/manifest.json",
+          "label": "Le Gaulois (22 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528527k/manifest.json",
+          "label": "Le Gaulois (23 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528529b/manifest.json",
+          "label": "Le Gaulois (24 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528528z/manifest.json",
+          "label": "Le Gaulois (24 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285308/manifest.json",
+          "label": "Le Gaulois (25 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528531n/manifest.json",
+          "label": "Le Gaulois (26 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285321/manifest.json",
+          "label": "Le Gaulois (27 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528533d/manifest.json",
+          "label": "Le Gaulois (28 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528534s/manifest.json",
+          "label": "Le Gaulois (29 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285355/manifest.json",
+          "label": "Le Gaulois (30 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528536j/manifest.json",
+          "label": "Le Gaulois (31 octobre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528537x/manifest.json",
+          "label": "Le Gaulois (01 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285389/manifest.json",
+          "label": "Le Gaulois (02 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528539p/manifest.json",
+          "label": "Le Gaulois (03 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528540m/manifest.json",
+          "label": "Le Gaulois (04 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285410/manifest.json",
+          "label": "Le Gaulois (05 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528542c/manifest.json",
+          "label": "Le Gaulois (06 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528543r/manifest.json",
+          "label": "Le Gaulois (07 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285444/manifest.json",
+          "label": "Le Gaulois (08 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528545h/manifest.json",
+          "label": "Le Gaulois (09 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528546w/manifest.json",
+          "label": "Le Gaulois (10 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285478/manifest.json",
+          "label": "Le Gaulois (11 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528548n/manifest.json",
+          "label": "Le Gaulois (12 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285491/manifest.json",
+          "label": "Le Gaulois (13 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528550z/manifest.json",
+          "label": "Le Gaulois (14 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528551b/manifest.json",
+          "label": "Le Gaulois (15 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528552q/manifest.json",
+          "label": "Le Gaulois (16 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285533/manifest.json",
+          "label": "Le Gaulois (17 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528554g/manifest.json",
+          "label": "Le Gaulois (18 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528555v/manifest.json",
+          "label": "Le Gaulois (19 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285567/manifest.json",
+          "label": "Le Gaulois (20 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528557m/manifest.json",
+          "label": "Le Gaulois (21 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285580/manifest.json",
+          "label": "Le Gaulois (22 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528559c/manifest.json",
+          "label": "Le Gaulois (23 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285609/manifest.json",
+          "label": "Le Gaulois (24 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528561p/manifest.json",
+          "label": "Le Gaulois (25 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285622/manifest.json",
+          "label": "Le Gaulois (26 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528563f/manifest.json",
+          "label": "Le Gaulois (27 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528564t/manifest.json",
+          "label": "Le Gaulois (28 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285656/manifest.json",
+          "label": "Le Gaulois (29 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528566k/manifest.json",
+          "label": "Le Gaulois (30 novembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528567z/manifest.json",
+          "label": "Le Gaulois (01 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528568b/manifest.json",
+          "label": "Le Gaulois (02 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528569q/manifest.json",
+          "label": "Le Gaulois (03 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528570n/manifest.json",
+          "label": "Le Gaulois (04 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285711/manifest.json",
+          "label": "Le Gaulois (05 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528572d/manifest.json",
+          "label": "Le Gaulois (06 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528573s/manifest.json",
+          "label": "Le Gaulois (07 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528575j/manifest.json",
+          "label": "Le Gaulois (08 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285745/manifest.json",
+          "label": "Le Gaulois (08 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528576x/manifest.json",
+          "label": "Le Gaulois (09 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285779/manifest.json",
+          "label": "Le Gaulois (10 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285792/manifest.json",
+          "label": "Le Gaulois (11 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528578p/manifest.json",
+          "label": "Le Gaulois (11 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285800/manifest.json",
+          "label": "Le Gaulois (12 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528581c/manifest.json",
+          "label": "Le Gaulois (13 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528582r/manifest.json",
+          "label": "Le Gaulois (14 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285834/manifest.json",
+          "label": "Le Gaulois (15 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528584h/manifest.json",
+          "label": "Le Gaulois (16 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528585w/manifest.json",
+          "label": "Le Gaulois (17 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285868/manifest.json",
+          "label": "Le Gaulois (18 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528587n/manifest.json",
+          "label": "Le Gaulois (18 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285881/manifest.json",
+          "label": "Le Gaulois (19 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528589d/manifest.json",
+          "label": "Le Gaulois (20 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528590b/manifest.json",
+          "label": "Le Gaulois (21 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528591q/manifest.json",
+          "label": "Le Gaulois (22 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285923/manifest.json",
+          "label": "Le Gaulois (22 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528593g/manifest.json",
+          "label": "Le Gaulois (23 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528594v/manifest.json",
+          "label": "Le Gaulois (24 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285957/manifest.json",
+          "label": "Le Gaulois (25 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528596m/manifest.json",
+          "label": "Le Gaulois (26 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5285970/manifest.json",
+          "label": "Le Gaulois (27 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528598c/manifest.json",
+          "label": "Le Gaulois (28 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528599r/manifest.json",
+          "label": "Le Gaulois (29 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528600j/manifest.json",
+          "label": "Le Gaulois (30 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k528601x/manifest.json",
+          "label": "Le Gaulois (31 décembre 1893)",
+          "type": "Manifest",
+          "navDate": "1893-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5282179/manifest.json",
+          "label": "Le Gaulois (31 décembre 1892)",
+          "type": "Manifest",
+          "navDate": "1894-01-01"
+       }]
+    }

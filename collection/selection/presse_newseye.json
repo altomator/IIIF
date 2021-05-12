@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_newseye.json",
+  "type": "Collection",
+  "label": { "fr": [ "Corpus de presse du projet NewsEye (sélection Gallica)" ], "en": [ "Corpus de presse du projet NewsEye (Gallica selection)" ] },
+  "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/thumbnail",
+  "description": { "fr": [ "Cette collection est une adaptation du corpus documentaire en français du projet NewsEye" ], "en": [ "This collection is an adaptation of the NewsEye project dataset for French" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://www.newseye.eu/",
+      "type": "Text",
+      "label": { "fr": [ "Corpus de presse du projet NewsEye" ],"en": [ "NewsEye project dataset (FR)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://www.newseye.eu/",
+			"format": "text/html",
+			"label": { "fr": [ "Corpus de presse du projet NewsEye" ],"en": [ "NewsEye project dataset (FR)" ] }
+		}],
+  "items": [
+{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb327788531.json",
+        "label": "La Fronde",
+        "type": "Collection"
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b.json",
+        "label": "Le Gaulois",
+        "type": "Collection"
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb343488519.json",
+        "label": "Marie-Claire",
+        "type": "Collection"
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb328123058.json",
+        "label": "Le Matin",
+        "type": "Collection"
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb34448033b.json",
+        "label": "La Presse",
+        "type": "Collection"
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb34429265b.json",
+        "label": "L'Oeuvre",
+        "type": "Collection"
+    }]
+  }

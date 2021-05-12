@@ -1,0 +1,1741 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1919.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1919)" ], "en": [ "Le Gaulois (1919)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1919" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1919" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1919",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1919)" ],"en": [ "Gallica periodical: Le Gaulois (1919)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1919",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1919)" ],"en": [ "Gallica periodical: Le Gaulois (1919)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537849x/manifest.json",
+          "label": "Le Gaulois (01 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537850v/manifest.json",
+          "label": "Le Gaulois (02 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378517/manifest.json",
+          "label": "Le Gaulois (03 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537852m/manifest.json",
+          "label": "Le Gaulois (04 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378530/manifest.json",
+          "label": "Le Gaulois (05 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537854c/manifest.json",
+          "label": "Le Gaulois (06 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537855r/manifest.json",
+          "label": "Le Gaulois (07 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378564/manifest.json",
+          "label": "Le Gaulois (08 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537857h/manifest.json",
+          "label": "Le Gaulois (09 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537858w/manifest.json",
+          "label": "Le Gaulois (10 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378598/manifest.json",
+          "label": "Le Gaulois (11 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378606/manifest.json",
+          "label": "Le Gaulois (12 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537861k/manifest.json",
+          "label": "Le Gaulois (13 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537862z/manifest.json",
+          "label": "Le Gaulois (14 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537863b/manifest.json",
+          "label": "Le Gaulois (15 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537864q/manifest.json",
+          "label": "Le Gaulois (16 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378653/manifest.json",
+          "label": "Le Gaulois (17 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537866g/manifest.json",
+          "label": "Le Gaulois (18 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537867v/manifest.json",
+          "label": "Le Gaulois (19 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378687/manifest.json",
+          "label": "Le Gaulois (20 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537869m/manifest.json",
+          "label": "Le Gaulois (21 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537870j/manifest.json",
+          "label": "Le Gaulois (22 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537871x/manifest.json",
+          "label": "Le Gaulois (23 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378729/manifest.json",
+          "label": "Le Gaulois (24 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537873p/manifest.json",
+          "label": "Le Gaulois (25 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378742/manifest.json",
+          "label": "Le Gaulois (26 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537875f/manifest.json",
+          "label": "Le Gaulois (27 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537876t/manifest.json",
+          "label": "Le Gaulois (28 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378776/manifest.json",
+          "label": "Le Gaulois (29 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537878k/manifest.json",
+          "label": "Le Gaulois (30 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537879z/manifest.json",
+          "label": "Le Gaulois (31 janvier 1919)",
+          "type": "Manifest",
+          "navDate": "1919-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537880w/manifest.json",
+          "label": "Le Gaulois (01 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378818/manifest.json",
+          "label": "Le Gaulois (02 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537882n/manifest.json",
+          "label": "Le Gaulois (03 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378831/manifest.json",
+          "label": "Le Gaulois (04 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537884d/manifest.json",
+          "label": "Le Gaulois (05 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537885s/manifest.json",
+          "label": "Le Gaulois (06 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378865/manifest.json",
+          "label": "Le Gaulois (07 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537887j/manifest.json",
+          "label": "Le Gaulois (08 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537888x/manifest.json",
+          "label": "Le Gaulois (09 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378899/manifest.json",
+          "label": "Le Gaulois (10 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378907/manifest.json",
+          "label": "Le Gaulois (11 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537891m/manifest.json",
+          "label": "Le Gaulois (12 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378920/manifest.json",
+          "label": "Le Gaulois (13 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537893c/manifest.json",
+          "label": "Le Gaulois (14 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537894r/manifest.json",
+          "label": "Le Gaulois (15 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378954/manifest.json",
+          "label": "Le Gaulois (16 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537896h/manifest.json",
+          "label": "Le Gaulois (17 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537897w/manifest.json",
+          "label": "Le Gaulois (18 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5378988/manifest.json",
+          "label": "Le Gaulois (19 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537899n/manifest.json",
+          "label": "Le Gaulois (20 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537900f/manifest.json",
+          "label": "Le Gaulois (21 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537901t/manifest.json",
+          "label": "Le Gaulois (22 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379026/manifest.json",
+          "label": "Le Gaulois (23 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537903k/manifest.json",
+          "label": "Le Gaulois (24 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537904z/manifest.json",
+          "label": "Le Gaulois (25 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537905b/manifest.json",
+          "label": "Le Gaulois (26 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537906q/manifest.json",
+          "label": "Le Gaulois (27 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379073/manifest.json",
+          "label": "Le Gaulois (28 février 1919)",
+          "type": "Manifest",
+          "navDate": "1919-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537908g/manifest.json",
+          "label": "Le Gaulois (01 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537909v/manifest.json",
+          "label": "Le Gaulois (02 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537910s/manifest.json",
+          "label": "Le Gaulois (03 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379115/manifest.json",
+          "label": "Le Gaulois (04 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537912j/manifest.json",
+          "label": "Le Gaulois (05 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537913x/manifest.json",
+          "label": "Le Gaulois (06 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379149/manifest.json",
+          "label": "Le Gaulois (07 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537915p/manifest.json",
+          "label": "Le Gaulois (08 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379162/manifest.json",
+          "label": "Le Gaulois (09 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537917f/manifest.json",
+          "label": "Le Gaulois (10 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537918t/manifest.json",
+          "label": "Le Gaulois (11 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379196/manifest.json",
+          "label": "Le Gaulois (12 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379204/manifest.json",
+          "label": "Le Gaulois (13 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537921h/manifest.json",
+          "label": "Le Gaulois (14 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537922w/manifest.json",
+          "label": "Le Gaulois (15 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379238/manifest.json",
+          "label": "Le Gaulois (16 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537924n/manifest.json",
+          "label": "Le Gaulois (17 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379251/manifest.json",
+          "label": "Le Gaulois (18 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537926d/manifest.json",
+          "label": "Le Gaulois (19 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537927s/manifest.json",
+          "label": "Le Gaulois (20 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379285/manifest.json",
+          "label": "Le Gaulois (21 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537929j/manifest.json",
+          "label": "Le Gaulois (22 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537930g/manifest.json",
+          "label": "Le Gaulois (23 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537931v/manifest.json",
+          "label": "Le Gaulois (24 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379327/manifest.json",
+          "label": "Le Gaulois (25 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537933m/manifest.json",
+          "label": "Le Gaulois (26 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379340/manifest.json",
+          "label": "Le Gaulois (27 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537935c/manifest.json",
+          "label": "Le Gaulois (28 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537936r/manifest.json",
+          "label": "Le Gaulois (29 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379374/manifest.json",
+          "label": "Le Gaulois (30 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537938h/manifest.json",
+          "label": "Le Gaulois (31 mars 1919)",
+          "type": "Manifest",
+          "navDate": "1919-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537939w/manifest.json",
+          "label": "Le Gaulois (01 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537940t/manifest.json",
+          "label": "Le Gaulois (02 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379416/manifest.json",
+          "label": "Le Gaulois (03 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537942k/manifest.json",
+          "label": "Le Gaulois (04 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537943z/manifest.json",
+          "label": "Le Gaulois (05 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537944b/manifest.json",
+          "label": "Le Gaulois (06 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537945q/manifest.json",
+          "label": "Le Gaulois (07 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379463/manifest.json",
+          "label": "Le Gaulois (08 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537947g/manifest.json",
+          "label": "Le Gaulois (09 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537948v/manifest.json",
+          "label": "Le Gaulois (10 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379497/manifest.json",
+          "label": "Le Gaulois (11 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379505/manifest.json",
+          "label": "Le Gaulois (12 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537951j/manifest.json",
+          "label": "Le Gaulois (13 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537952x/manifest.json",
+          "label": "Le Gaulois (14 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379539/manifest.json",
+          "label": "Le Gaulois (15 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537954p/manifest.json",
+          "label": "Le Gaulois (16 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379552/manifest.json",
+          "label": "Le Gaulois (17 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537956f/manifest.json",
+          "label": "Le Gaulois (18 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537957t/manifest.json",
+          "label": "Le Gaulois (19 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379586/manifest.json",
+          "label": "Le Gaulois (20 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537959k/manifest.json",
+          "label": "Le Gaulois (21 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537960h/manifest.json",
+          "label": "Le Gaulois (22 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537961w/manifest.json",
+          "label": "Le Gaulois (23 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379628/manifest.json",
+          "label": "Le Gaulois (24 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537963n/manifest.json",
+          "label": "Le Gaulois (25 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379641/manifest.json",
+          "label": "Le Gaulois (26 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537965d/manifest.json",
+          "label": "Le Gaulois (27 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537966s/manifest.json",
+          "label": "Le Gaulois (28 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379675/manifest.json",
+          "label": "Le Gaulois (29 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537968j/manifest.json",
+          "label": "Le Gaulois (30 avril 1919)",
+          "type": "Manifest",
+          "navDate": "1919-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537969x/manifest.json",
+          "label": "Le Gaulois (02 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537970v/manifest.json",
+          "label": "Le Gaulois (03 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379717/manifest.json",
+          "label": "Le Gaulois (04 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537972m/manifest.json",
+          "label": "Le Gaulois (05 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379730/manifest.json",
+          "label": "Le Gaulois (06 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537974c/manifest.json",
+          "label": "Le Gaulois (07 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537975r/manifest.json",
+          "label": "Le Gaulois (08 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379764/manifest.json",
+          "label": "Le Gaulois (09 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537977h/manifest.json",
+          "label": "Le Gaulois (10 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537978w/manifest.json",
+          "label": "Le Gaulois (11 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379798/manifest.json",
+          "label": "Le Gaulois (12 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379806/manifest.json",
+          "label": "Le Gaulois (13 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537981k/manifest.json",
+          "label": "Le Gaulois (14 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537982z/manifest.json",
+          "label": "Le Gaulois (15 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537983b/manifest.json",
+          "label": "Le Gaulois (16 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537984q/manifest.json",
+          "label": "Le Gaulois (17 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379853/manifest.json",
+          "label": "Le Gaulois (18 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537986g/manifest.json",
+          "label": "Le Gaulois (19 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537987v/manifest.json",
+          "label": "Le Gaulois (20 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379887/manifest.json",
+          "label": "Le Gaulois (21 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537989m/manifest.json",
+          "label": "Le Gaulois (22 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537990j/manifest.json",
+          "label": "Le Gaulois (23 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537991x/manifest.json",
+          "label": "Le Gaulois (24 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379929/manifest.json",
+          "label": "Le Gaulois (25 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537993p/manifest.json",
+          "label": "Le Gaulois (26 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379942/manifest.json",
+          "label": "Le Gaulois (27 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537995f/manifest.json",
+          "label": "Le Gaulois (28 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537996t/manifest.json",
+          "label": "Le Gaulois (29 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5379976/manifest.json",
+          "label": "Le Gaulois (30 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537998k/manifest.json",
+          "label": "Le Gaulois (31 mai 1919)",
+          "type": "Manifest",
+          "navDate": "1919-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537999z/manifest.json",
+          "label": "Le Gaulois (01 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538000x/manifest.json",
+          "label": "Le Gaulois (02 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380019/manifest.json",
+          "label": "Le Gaulois (03 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538002p/manifest.json",
+          "label": "Le Gaulois (04 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380032/manifest.json",
+          "label": "Le Gaulois (05 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538004f/manifest.json",
+          "label": "Le Gaulois (06 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538005t/manifest.json",
+          "label": "Le Gaulois (07 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380066/manifest.json",
+          "label": "Le Gaulois (08 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538007k/manifest.json",
+          "label": "Le Gaulois (09 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538008z/manifest.json",
+          "label": "Le Gaulois (10 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538009b/manifest.json",
+          "label": "Le Gaulois (11 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380108/manifest.json",
+          "label": "Le Gaulois (12 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538011n/manifest.json",
+          "label": "Le Gaulois (13 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380121/manifest.json",
+          "label": "Le Gaulois (14 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538013d/manifest.json",
+          "label": "Le Gaulois (15 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538014s/manifest.json",
+          "label": "Le Gaulois (16 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380155/manifest.json",
+          "label": "Le Gaulois (17 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538016j/manifest.json",
+          "label": "Le Gaulois (18 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538017x/manifest.json",
+          "label": "Le Gaulois (19 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380189/manifest.json",
+          "label": "Le Gaulois (20 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538019p/manifest.json",
+          "label": "Le Gaulois (21 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538020m/manifest.json",
+          "label": "Le Gaulois (22 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380210/manifest.json",
+          "label": "Le Gaulois (23 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538022c/manifest.json",
+          "label": "Le Gaulois (24 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538023r/manifest.json",
+          "label": "Le Gaulois (25 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380244/manifest.json",
+          "label": "Le Gaulois (26 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538025h/manifest.json",
+          "label": "Le Gaulois (27 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538026w/manifest.json",
+          "label": "Le Gaulois (28 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380278/manifest.json",
+          "label": "Le Gaulois (29 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538028n/manifest.json",
+          "label": "Le Gaulois (30 juin 1919)",
+          "type": "Manifest",
+          "navDate": "1919-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380291/manifest.json",
+          "label": "Le Gaulois (01 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538030z/manifest.json",
+          "label": "Le Gaulois (02 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538031b/manifest.json",
+          "label": "Le Gaulois (03 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538032q/manifest.json",
+          "label": "Le Gaulois (04 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380333/manifest.json",
+          "label": "Le Gaulois (05 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538034g/manifest.json",
+          "label": "Le Gaulois (06 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538035v/manifest.json",
+          "label": "Le Gaulois (07 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380367/manifest.json",
+          "label": "Le Gaulois (08 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538037m/manifest.json",
+          "label": "Le Gaulois (09 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380380/manifest.json",
+          "label": "Le Gaulois (10 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538039c/manifest.json",
+          "label": "Le Gaulois (11 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380409/manifest.json",
+          "label": "Le Gaulois (12 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538041p/manifest.json",
+          "label": "Le Gaulois (13 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380422/manifest.json",
+          "label": "Le Gaulois (14 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538043f/manifest.json",
+          "label": "Le Gaulois (15 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538044t/manifest.json",
+          "label": "Le Gaulois (16 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380456/manifest.json",
+          "label": "Le Gaulois (17 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538046k/manifest.json",
+          "label": "Le Gaulois (18 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538047z/manifest.json",
+          "label": "Le Gaulois (19 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538048b/manifest.json",
+          "label": "Le Gaulois (20 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538049q/manifest.json",
+          "label": "Le Gaulois (21 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538050n/manifest.json",
+          "label": "Le Gaulois (22 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380511/manifest.json",
+          "label": "Le Gaulois (23 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538052d/manifest.json",
+          "label": "Le Gaulois (24 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538053s/manifest.json",
+          "label": "Le Gaulois (25 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380545/manifest.json",
+          "label": "Le Gaulois (26 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538055j/manifest.json",
+          "label": "Le Gaulois (27 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538056x/manifest.json",
+          "label": "Le Gaulois (28 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380579/manifest.json",
+          "label": "Le Gaulois (29 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538058p/manifest.json",
+          "label": "Le Gaulois (30 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380592/manifest.json",
+          "label": "Le Gaulois (31 juillet 1919)",
+          "type": "Manifest",
+          "navDate": "1919-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380600/manifest.json",
+          "label": "Le Gaulois (01 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538061c/manifest.json",
+          "label": "Le Gaulois (02 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538062r/manifest.json",
+          "label": "Le Gaulois (03 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380634/manifest.json",
+          "label": "Le Gaulois (04 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538064h/manifest.json",
+          "label": "Le Gaulois (05 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538065w/manifest.json",
+          "label": "Le Gaulois (06 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380668/manifest.json",
+          "label": "Le Gaulois (07 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538067n/manifest.json",
+          "label": "Le Gaulois (08 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380681/manifest.json",
+          "label": "Le Gaulois (09 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538069d/manifest.json",
+          "label": "Le Gaulois (10 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538070b/manifest.json",
+          "label": "Le Gaulois (11 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538071q/manifest.json",
+          "label": "Le Gaulois (12 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380723/manifest.json",
+          "label": "Le Gaulois (13 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538073g/manifest.json",
+          "label": "Le Gaulois (14 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538074v/manifest.json",
+          "label": "Le Gaulois (15 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380757/manifest.json",
+          "label": "Le Gaulois (16 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538076m/manifest.json",
+          "label": "Le Gaulois (17 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380770/manifest.json",
+          "label": "Le Gaulois (18 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538078c/manifest.json",
+          "label": "Le Gaulois (19 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538079r/manifest.json",
+          "label": "Le Gaulois (20 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538080p/manifest.json",
+          "label": "Le Gaulois (21 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380812/manifest.json",
+          "label": "Le Gaulois (22 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538082f/manifest.json",
+          "label": "Le Gaulois (23 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538083t/manifest.json",
+          "label": "Le Gaulois (24 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380846/manifest.json",
+          "label": "Le Gaulois (25 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538085k/manifest.json",
+          "label": "Le Gaulois (26 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538086z/manifest.json",
+          "label": "Le Gaulois (27 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538087b/manifest.json",
+          "label": "Le Gaulois (28 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538088q/manifest.json",
+          "label": "Le Gaulois (29 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380893/manifest.json",
+          "label": "Le Gaulois (30 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380901/manifest.json",
+          "label": "Le Gaulois (31 août 1919)",
+          "type": "Manifest",
+          "navDate": "1919-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538091d/manifest.json",
+          "label": "Le Gaulois (01 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538092s/manifest.json",
+          "label": "Le Gaulois (02 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380935/manifest.json",
+          "label": "Le Gaulois (03 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538094j/manifest.json",
+          "label": "Le Gaulois (04 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538095x/manifest.json",
+          "label": "Le Gaulois (05 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380969/manifest.json",
+          "label": "Le Gaulois (06 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538097p/manifest.json",
+          "label": "Le Gaulois (07 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5380982/manifest.json",
+          "label": "Le Gaulois (08 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538099f/manifest.json",
+          "label": "Le Gaulois (09 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381007/manifest.json",
+          "label": "Le Gaulois (10 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538101m/manifest.json",
+          "label": "Le Gaulois (11 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381020/manifest.json",
+          "label": "Le Gaulois (12 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538103c/manifest.json",
+          "label": "Le Gaulois (13 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538104r/manifest.json",
+          "label": "Le Gaulois (14 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381054/manifest.json",
+          "label": "Le Gaulois (15 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538106h/manifest.json",
+          "label": "Le Gaulois (16 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538107w/manifest.json",
+          "label": "Le Gaulois (17 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381088/manifest.json",
+          "label": "Le Gaulois (18 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538109n/manifest.json",
+          "label": "Le Gaulois (19 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538110k/manifest.json",
+          "label": "Le Gaulois (20 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538111z/manifest.json",
+          "label": "Le Gaulois (21 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538112b/manifest.json",
+          "label": "Le Gaulois (22 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538113q/manifest.json",
+          "label": "Le Gaulois (23 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381143/manifest.json",
+          "label": "Le Gaulois (24 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538115g/manifest.json",
+          "label": "Le Gaulois (25 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538116v/manifest.json",
+          "label": "Le Gaulois (26 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381177/manifest.json",
+          "label": "Le Gaulois (27 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538118m/manifest.json",
+          "label": "Le Gaulois (28 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381190/manifest.json",
+          "label": "Le Gaulois (29 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538120x/manifest.json",
+          "label": "Le Gaulois (30 septembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381219/manifest.json",
+          "label": "Le Gaulois (01 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538122p/manifest.json",
+          "label": "Le Gaulois (02 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381232/manifest.json",
+          "label": "Le Gaulois (03 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538124f/manifest.json",
+          "label": "Le Gaulois (04 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538125t/manifest.json",
+          "label": "Le Gaulois (05 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381266/manifest.json",
+          "label": "Le Gaulois (06 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538127k/manifest.json",
+          "label": "Le Gaulois (07 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538128z/manifest.json",
+          "label": "Le Gaulois (08 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538129b/manifest.json",
+          "label": "Le Gaulois (09 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381308/manifest.json",
+          "label": "Le Gaulois (10 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538131n/manifest.json",
+          "label": "Le Gaulois (11 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381321/manifest.json",
+          "label": "Le Gaulois (12 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538133d/manifest.json",
+          "label": "Le Gaulois (13 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538134s/manifest.json",
+          "label": "Le Gaulois (14 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381355/manifest.json",
+          "label": "Le Gaulois (15 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538136j/manifest.json",
+          "label": "Le Gaulois (16 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538137x/manifest.json",
+          "label": "Le Gaulois (17 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381389/manifest.json",
+          "label": "Le Gaulois (18 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538139p/manifest.json",
+          "label": "Le Gaulois (19 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538140m/manifest.json",
+          "label": "Le Gaulois (20 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381410/manifest.json",
+          "label": "Le Gaulois (21 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538142c/manifest.json",
+          "label": "Le Gaulois (22 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538143r/manifest.json",
+          "label": "Le Gaulois (23 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381444/manifest.json",
+          "label": "Le Gaulois (24 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538145h/manifest.json",
+          "label": "Le Gaulois (25 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538146w/manifest.json",
+          "label": "Le Gaulois (26 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381478/manifest.json",
+          "label": "Le Gaulois (27 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538148n/manifest.json",
+          "label": "Le Gaulois (28 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381491/manifest.json",
+          "label": "Le Gaulois (29 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538150z/manifest.json",
+          "label": "Le Gaulois (30 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538151b/manifest.json",
+          "label": "Le Gaulois (31 octobre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538152q/manifest.json",
+          "label": "Le Gaulois (01 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381533/manifest.json",
+          "label": "Le Gaulois (02 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538154g/manifest.json",
+          "label": "Le Gaulois (03 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538155v/manifest.json",
+          "label": "Le Gaulois (04 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381567/manifest.json",
+          "label": "Le Gaulois (05 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538157m/manifest.json",
+          "label": "Le Gaulois (06 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381580/manifest.json",
+          "label": "Le Gaulois (07 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538159c/manifest.json",
+          "label": "Le Gaulois (08 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381609/manifest.json",
+          "label": "Le Gaulois (09 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538161p/manifest.json",
+          "label": "Le Gaulois (10 novembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381622/manifest.json",
+          "label": "Le Gaulois (02 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538163f/manifest.json",
+          "label": "Le Gaulois (03 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538164t/manifest.json",
+          "label": "Le Gaulois (04 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381656/manifest.json",
+          "label": "Le Gaulois (05 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538166k/manifest.json",
+          "label": "Le Gaulois (06 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538167z/manifest.json",
+          "label": "Le Gaulois (07 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538168b/manifest.json",
+          "label": "Le Gaulois (08 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538169q/manifest.json",
+          "label": "Le Gaulois (09 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538170n/manifest.json",
+          "label": "Le Gaulois (10 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381711/manifest.json",
+          "label": "Le Gaulois (11 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538172d/manifest.json",
+          "label": "Le Gaulois (12 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538173s/manifest.json",
+          "label": "Le Gaulois (13 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381745/manifest.json",
+          "label": "Le Gaulois (14 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538175j/manifest.json",
+          "label": "Le Gaulois (15 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538176x/manifest.json",
+          "label": "Le Gaulois (16 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381779/manifest.json",
+          "label": "Le Gaulois (17 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538178p/manifest.json",
+          "label": "Le Gaulois (18 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381792/manifest.json",
+          "label": "Le Gaulois (19 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381800/manifest.json",
+          "label": "Le Gaulois (20 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538181c/manifest.json",
+          "label": "Le Gaulois (21 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538182r/manifest.json",
+          "label": "Le Gaulois (22 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381834/manifest.json",
+          "label": "Le Gaulois (23 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538184h/manifest.json",
+          "label": "Le Gaulois (24 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538185w/manifest.json",
+          "label": "Le Gaulois (25 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381868/manifest.json",
+          "label": "Le Gaulois (26 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538187n/manifest.json",
+          "label": "Le Gaulois (27 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5381881/manifest.json",
+          "label": "Le Gaulois (28 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538189d/manifest.json",
+          "label": "Le Gaulois (29 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538190b/manifest.json",
+          "label": "Le Gaulois (30 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k538191q/manifest.json",
+          "label": "Le Gaulois (31 décembre 1919)",
+          "type": "Manifest",
+          "navDate": "1919-12-31"
+       }]
+    }

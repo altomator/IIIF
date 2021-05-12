@@ -1,0 +1,1871 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1901.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1901)" ], "en": [ "Le Gaulois (1901)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1901" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1901" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1901",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1901)" ],"en": [ "Gallica periodical: Le Gaulois (1901)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1901",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1901)" ],"en": [ "Gallica periodical: Le Gaulois (1901)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312570/manifest.json",
+          "label": "Le Gaulois (01 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531258c/manifest.json",
+          "label": "Le Gaulois (02 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531259r/manifest.json",
+          "label": "Le Gaulois (03 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531260p/manifest.json",
+          "label": "Le Gaulois (04 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312612/manifest.json",
+          "label": "Le Gaulois (05 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531262f/manifest.json",
+          "label": "Le Gaulois (06 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531263t/manifest.json",
+          "label": "Le Gaulois (07 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312646/manifest.json",
+          "label": "Le Gaulois (08 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531265k/manifest.json",
+          "label": "Le Gaulois (09 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531266z/manifest.json",
+          "label": "Le Gaulois (10 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531267b/manifest.json",
+          "label": "Le Gaulois (11 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531268q/manifest.json",
+          "label": "Le Gaulois (12 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312693/manifest.json",
+          "label": "Le Gaulois (13 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312701/manifest.json",
+          "label": "Le Gaulois (14 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531271d/manifest.json",
+          "label": "Le Gaulois (15 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531272s/manifest.json",
+          "label": "Le Gaulois (16 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312735/manifest.json",
+          "label": "Le Gaulois (17 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531274j/manifest.json",
+          "label": "Le Gaulois (18 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531275x/manifest.json",
+          "label": "Le Gaulois (19 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312769/manifest.json",
+          "label": "Le Gaulois (20 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531277p/manifest.json",
+          "label": "Le Gaulois (21 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312782/manifest.json",
+          "label": "Le Gaulois (22 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531279f/manifest.json",
+          "label": "Le Gaulois (23 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531280c/manifest.json",
+          "label": "Le Gaulois (24 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531281r/manifest.json",
+          "label": "Le Gaulois (25 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312824/manifest.json",
+          "label": "Le Gaulois (26 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531283h/manifest.json",
+          "label": "Le Gaulois (27 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531284w/manifest.json",
+          "label": "Le Gaulois (28 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312858/manifest.json",
+          "label": "Le Gaulois (29 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531286n/manifest.json",
+          "label": "Le Gaulois (30 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312871/manifest.json",
+          "label": "Le Gaulois (31 janvier 1901)",
+          "type": "Manifest",
+          "navDate": "1901-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531288d/manifest.json",
+          "label": "Le Gaulois (01 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531289s/manifest.json",
+          "label": "Le Gaulois (02 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531290q/manifest.json",
+          "label": "Le Gaulois (03 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312913/manifest.json",
+          "label": "Le Gaulois (04 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531292g/manifest.json",
+          "label": "Le Gaulois (05 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531293v/manifest.json",
+          "label": "Le Gaulois (06 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312947/manifest.json",
+          "label": "Le Gaulois (07 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531295m/manifest.json",
+          "label": "Le Gaulois (08 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312960/manifest.json",
+          "label": "Le Gaulois (09 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531297c/manifest.json",
+          "label": "Le Gaulois (10 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531298r/manifest.json",
+          "label": "Le Gaulois (11 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5312994/manifest.json",
+          "label": "Le Gaulois (12 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531300x/manifest.json",
+          "label": "Le Gaulois (13 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313019/manifest.json",
+          "label": "Le Gaulois (14 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531302p/manifest.json",
+          "label": "Le Gaulois (15 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313032/manifest.json",
+          "label": "Le Gaulois (16 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531304f/manifest.json",
+          "label": "Le Gaulois (17 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531305t/manifest.json",
+          "label": "Le Gaulois (18 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313066/manifest.json",
+          "label": "Le Gaulois (19 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531307k/manifest.json",
+          "label": "Le Gaulois (20 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531308z/manifest.json",
+          "label": "Le Gaulois (21 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531309b/manifest.json",
+          "label": "Le Gaulois (22 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313108/manifest.json",
+          "label": "Le Gaulois (23 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531311n/manifest.json",
+          "label": "Le Gaulois (24 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313121/manifest.json",
+          "label": "Le Gaulois (25 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531313d/manifest.json",
+          "label": "Le Gaulois (26 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531314s/manifest.json",
+          "label": "Le Gaulois (27 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313155/manifest.json",
+          "label": "Le Gaulois (28 février 1901)",
+          "type": "Manifest",
+          "navDate": "1901-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531316j/manifest.json",
+          "label": "Le Gaulois (01 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531317x/manifest.json",
+          "label": "Le Gaulois (02 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313189/manifest.json",
+          "label": "Le Gaulois (03 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531319p/manifest.json",
+          "label": "Le Gaulois (04 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531320m/manifest.json",
+          "label": "Le Gaulois (05 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313210/manifest.json",
+          "label": "Le Gaulois (06 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531322c/manifest.json",
+          "label": "Le Gaulois (07 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531323r/manifest.json",
+          "label": "Le Gaulois (08 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313244/manifest.json",
+          "label": "Le Gaulois (09 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531325h/manifest.json",
+          "label": "Le Gaulois (10 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531326w/manifest.json",
+          "label": "Le Gaulois (11 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313278/manifest.json",
+          "label": "Le Gaulois (12 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531328n/manifest.json",
+          "label": "Le Gaulois (13 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313291/manifest.json",
+          "label": "Le Gaulois (14 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531330z/manifest.json",
+          "label": "Le Gaulois (15 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531331b/manifest.json",
+          "label": "Le Gaulois (16 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531332q/manifest.json",
+          "label": "Le Gaulois (17 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313333/manifest.json",
+          "label": "Le Gaulois (18 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531334g/manifest.json",
+          "label": "Le Gaulois (19 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531335v/manifest.json",
+          "label": "Le Gaulois (20 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313367/manifest.json",
+          "label": "Le Gaulois (21 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531337m/manifest.json",
+          "label": "Le Gaulois (22 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313380/manifest.json",
+          "label": "Le Gaulois (23 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531339c/manifest.json",
+          "label": "Le Gaulois (24 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313409/manifest.json",
+          "label": "Le Gaulois (25 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531341p/manifest.json",
+          "label": "Le Gaulois (26 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313422/manifest.json",
+          "label": "Le Gaulois (27 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531343f/manifest.json",
+          "label": "Le Gaulois (28 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531344t/manifest.json",
+          "label": "Le Gaulois (29 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313456/manifest.json",
+          "label": "Le Gaulois (30 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531346k/manifest.json",
+          "label": "Le Gaulois (31 mars 1901)",
+          "type": "Manifest",
+          "navDate": "1901-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531347z/manifest.json",
+          "label": "Le Gaulois (01 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531348b/manifest.json",
+          "label": "Le Gaulois (02 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531349q/manifest.json",
+          "label": "Le Gaulois (03 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531350n/manifest.json",
+          "label": "Le Gaulois (04 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313511/manifest.json",
+          "label": "Le Gaulois (05 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531352d/manifest.json",
+          "label": "Le Gaulois (06 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531353s/manifest.json",
+          "label": "Le Gaulois (07 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313545/manifest.json",
+          "label": "Le Gaulois (08 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531355j/manifest.json",
+          "label": "Le Gaulois (09 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531356x/manifest.json",
+          "label": "Le Gaulois (10 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313579/manifest.json",
+          "label": "Le Gaulois (11 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531358p/manifest.json",
+          "label": "Le Gaulois (12 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313592/manifest.json",
+          "label": "Le Gaulois (13 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313600/manifest.json",
+          "label": "Le Gaulois (14 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531361c/manifest.json",
+          "label": "Le Gaulois (15 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531362r/manifest.json",
+          "label": "Le Gaulois (16 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313634/manifest.json",
+          "label": "Le Gaulois (17 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531364h/manifest.json",
+          "label": "Le Gaulois (18 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531365w/manifest.json",
+          "label": "Le Gaulois (19 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313668/manifest.json",
+          "label": "Le Gaulois (19 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531367n/manifest.json",
+          "label": "Le Gaulois (20 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313681/manifest.json",
+          "label": "Le Gaulois (21 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531369d/manifest.json",
+          "label": "Le Gaulois (22 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531370b/manifest.json",
+          "label": "Le Gaulois (23 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531371q/manifest.json",
+          "label": "Le Gaulois (24 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313723/manifest.json",
+          "label": "Le Gaulois (25 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531373g/manifest.json",
+          "label": "Le Gaulois (26 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531374v/manifest.json",
+          "label": "Le Gaulois (27 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313757/manifest.json",
+          "label": "Le Gaulois (28 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531376m/manifest.json",
+          "label": "Le Gaulois (29 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313770/manifest.json",
+          "label": "Le Gaulois (30 avril 1901)",
+          "type": "Manifest",
+          "navDate": "1901-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531378c/manifest.json",
+          "label": "Le Gaulois (01 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531379r/manifest.json",
+          "label": "Le Gaulois (02 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531380p/manifest.json",
+          "label": "Le Gaulois (03 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313812/manifest.json",
+          "label": "Le Gaulois (03 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531382f/manifest.json",
+          "label": "Le Gaulois (03 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531383t/manifest.json",
+          "label": "Le Gaulois (04 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313846/manifest.json",
+          "label": "Le Gaulois (05 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531385k/manifest.json",
+          "label": "Le Gaulois (06 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531386z/manifest.json",
+          "label": "Le Gaulois (07 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531387b/manifest.json",
+          "label": "Le Gaulois (08 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531388q/manifest.json",
+          "label": "Le Gaulois (09 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313893/manifest.json",
+          "label": "Le Gaulois (10 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313901/manifest.json",
+          "label": "Le Gaulois (11 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531391d/manifest.json",
+          "label": "Le Gaulois (12 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531392s/manifest.json",
+          "label": "Le Gaulois (13 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313935/manifest.json",
+          "label": "Le Gaulois (14 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531394j/manifest.json",
+          "label": "Le Gaulois (15 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531395x/manifest.json",
+          "label": "Le Gaulois (16 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313969/manifest.json",
+          "label": "Le Gaulois (17 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531397p/manifest.json",
+          "label": "Le Gaulois (18 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5313982/manifest.json",
+          "label": "Le Gaulois (19 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531399f/manifest.json",
+          "label": "Le Gaulois (20 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314007/manifest.json",
+          "label": "Le Gaulois (21 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531401m/manifest.json",
+          "label": "Le Gaulois (22 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314020/manifest.json",
+          "label": "Le Gaulois (23 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531403c/manifest.json",
+          "label": "Le Gaulois (24 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531404r/manifest.json",
+          "label": "Le Gaulois (25 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314054/manifest.json",
+          "label": "Le Gaulois (26 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531406h/manifest.json",
+          "label": "Le Gaulois (27 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531407w/manifest.json",
+          "label": "Le Gaulois (28 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314088/manifest.json",
+          "label": "Le Gaulois (29 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531409n/manifest.json",
+          "label": "Le Gaulois (30 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531410k/manifest.json",
+          "label": "Le Gaulois (31 mai 1901)",
+          "type": "Manifest",
+          "navDate": "1901-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531411z/manifest.json",
+          "label": "Le Gaulois (01 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531412b/manifest.json",
+          "label": "Le Gaulois (02 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531413q/manifest.json",
+          "label": "Le Gaulois (03 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314143/manifest.json",
+          "label": "Le Gaulois (04 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531415g/manifest.json",
+          "label": "Le Gaulois (05 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531416v/manifest.json",
+          "label": "Le Gaulois (06 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314177/manifest.json",
+          "label": "Le Gaulois (07 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531418m/manifest.json",
+          "label": "Le Gaulois (08 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314190/manifest.json",
+          "label": "Le Gaulois (09 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531420x/manifest.json",
+          "label": "Le Gaulois (10 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314219/manifest.json",
+          "label": "Le Gaulois (11 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531422p/manifest.json",
+          "label": "Le Gaulois (12 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314232/manifest.json",
+          "label": "Le Gaulois (13 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531424f/manifest.json",
+          "label": "Le Gaulois (14 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531425t/manifest.json",
+          "label": "Le Gaulois (15 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314266/manifest.json",
+          "label": "Le Gaulois (16 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531427k/manifest.json",
+          "label": "Le Gaulois (17 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531428z/manifest.json",
+          "label": "Le Gaulois (18 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531429b/manifest.json",
+          "label": "Le Gaulois (19 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314308/manifest.json",
+          "label": "Le Gaulois (20 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531431n/manifest.json",
+          "label": "Le Gaulois (21 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314321/manifest.json",
+          "label": "Le Gaulois (22 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531433d/manifest.json",
+          "label": "Le Gaulois (23 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531434s/manifest.json",
+          "label": "Le Gaulois (24 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314355/manifest.json",
+          "label": "Le Gaulois (25 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531436j/manifest.json",
+          "label": "Le Gaulois (26 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531437x/manifest.json",
+          "label": "Le Gaulois (27 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314389/manifest.json",
+          "label": "Le Gaulois (28 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531439p/manifest.json",
+          "label": "Le Gaulois (29 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531440m/manifest.json",
+          "label": "Le Gaulois (30 juin 1901)",
+          "type": "Manifest",
+          "navDate": "1901-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314410/manifest.json",
+          "label": "Le Gaulois (01 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531442c/manifest.json",
+          "label": "Le Gaulois (02 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531443r/manifest.json",
+          "label": "Le Gaulois (03 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314444/manifest.json",
+          "label": "Le Gaulois (04 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531445h/manifest.json",
+          "label": "Le Gaulois (05 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531446w/manifest.json",
+          "label": "Le Gaulois (06 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314478/manifest.json",
+          "label": "Le Gaulois (07 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531448n/manifest.json",
+          "label": "Le Gaulois (08 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314491/manifest.json",
+          "label": "Le Gaulois (09 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531450z/manifest.json",
+          "label": "Le Gaulois (10 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531451b/manifest.json",
+          "label": "Le Gaulois (11 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531452q/manifest.json",
+          "label": "Le Gaulois (12 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314533/manifest.json",
+          "label": "Le Gaulois (13 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531454g/manifest.json",
+          "label": "Le Gaulois (14 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531455v/manifest.json",
+          "label": "Le Gaulois (15 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314567/manifest.json",
+          "label": "Le Gaulois (16 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531457m/manifest.json",
+          "label": "Le Gaulois (17 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314580/manifest.json",
+          "label": "Le Gaulois (18 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531459c/manifest.json",
+          "label": "Le Gaulois (19 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314609/manifest.json",
+          "label": "Le Gaulois (20 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531461p/manifest.json",
+          "label": "Le Gaulois (21 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314622/manifest.json",
+          "label": "Le Gaulois (22 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531463f/manifest.json",
+          "label": "Le Gaulois (23 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531464t/manifest.json",
+          "label": "Le Gaulois (24 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314656/manifest.json",
+          "label": "Le Gaulois (25 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531466k/manifest.json",
+          "label": "Le Gaulois (26 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531467z/manifest.json",
+          "label": "Le Gaulois (27 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531468b/manifest.json",
+          "label": "Le Gaulois (28 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531469q/manifest.json",
+          "label": "Le Gaulois (29 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531470n/manifest.json",
+          "label": "Le Gaulois (30 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314711/manifest.json",
+          "label": "Le Gaulois (31 juillet 1901)",
+          "type": "Manifest",
+          "navDate": "1901-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531472d/manifest.json",
+          "label": "Le Gaulois (01 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531473s/manifest.json",
+          "label": "Le Gaulois (02 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314745/manifest.json",
+          "label": "Le Gaulois (03 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531475j/manifest.json",
+          "label": "Le Gaulois (04 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531476x/manifest.json",
+          "label": "Le Gaulois (05 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314779/manifest.json",
+          "label": "Le Gaulois (06 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531478p/manifest.json",
+          "label": "Le Gaulois (07 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314792/manifest.json",
+          "label": "Le Gaulois (08 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314800/manifest.json",
+          "label": "Le Gaulois (09 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531481c/manifest.json",
+          "label": "Le Gaulois (10 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531482r/manifest.json",
+          "label": "Le Gaulois (11 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531484h/manifest.json",
+          "label": "Le Gaulois (12 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314834/manifest.json",
+          "label": "Le Gaulois (12 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531485w/manifest.json",
+          "label": "Le Gaulois (13 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314868/manifest.json",
+          "label": "Le Gaulois (14 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531487n/manifest.json",
+          "label": "Le Gaulois (15 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314881/manifest.json",
+          "label": "Le Gaulois (16 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531489d/manifest.json",
+          "label": "Le Gaulois (17 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531490b/manifest.json",
+          "label": "Le Gaulois (18 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531491q/manifest.json",
+          "label": "Le Gaulois (19 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314923/manifest.json",
+          "label": "Le Gaulois (20 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531493g/manifest.json",
+          "label": "Le Gaulois (21 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531494v/manifest.json",
+          "label": "Le Gaulois (22 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314957/manifest.json",
+          "label": "Le Gaulois (23 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531496m/manifest.json",
+          "label": "Le Gaulois (24 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5314970/manifest.json",
+          "label": "Le Gaulois (25 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531498c/manifest.json",
+          "label": "Le Gaulois (26 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531499r/manifest.json",
+          "label": "Le Gaulois (27 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531500j/manifest.json",
+          "label": "Le Gaulois (28 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531501x/manifest.json",
+          "label": "Le Gaulois (29 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315029/manifest.json",
+          "label": "Le Gaulois (30 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531503p/manifest.json",
+          "label": "Le Gaulois (31 août 1901)",
+          "type": "Manifest",
+          "navDate": "1901-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315042/manifest.json",
+          "label": "Le Gaulois (01 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531505f/manifest.json",
+          "label": "Le Gaulois (02 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531506t/manifest.json",
+          "label": "Le Gaulois (03 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315076/manifest.json",
+          "label": "Le Gaulois (04 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531508k/manifest.json",
+          "label": "Le Gaulois (05 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531509z/manifest.json",
+          "label": "Le Gaulois (06 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531510w/manifest.json",
+          "label": "Le Gaulois (07 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315118/manifest.json",
+          "label": "Le Gaulois (08 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531512n/manifest.json",
+          "label": "Le Gaulois (09 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315131/manifest.json",
+          "label": "Le Gaulois (10 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531514d/manifest.json",
+          "label": "Le Gaulois (11 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531515s/manifest.json",
+          "label": "Le Gaulois (12 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315165/manifest.json",
+          "label": "Le Gaulois (14 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531517j/manifest.json",
+          "label": "Le Gaulois (15 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531518x/manifest.json",
+          "label": "Le Gaulois (16 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315199/manifest.json",
+          "label": "Le Gaulois (17 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315207/manifest.json",
+          "label": "Le Gaulois (18 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531521m/manifest.json",
+          "label": "Le Gaulois (19 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315220/manifest.json",
+          "label": "Le Gaulois (20 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531523c/manifest.json",
+          "label": "Le Gaulois (21 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531524r/manifest.json",
+          "label": "Le Gaulois (22 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315254/manifest.json",
+          "label": "Le Gaulois (23 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531526h/manifest.json",
+          "label": "Le Gaulois (24 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531527w/manifest.json",
+          "label": "Le Gaulois (25 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315288/manifest.json",
+          "label": "Le Gaulois (28 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531529n/manifest.json",
+          "label": "Le Gaulois (29 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531530k/manifest.json",
+          "label": "Le Gaulois (30 septembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531531z/manifest.json",
+          "label": "Le Gaulois (01 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531532b/manifest.json",
+          "label": "Le Gaulois (02 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531533q/manifest.json",
+          "label": "Le Gaulois (03 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315343/manifest.json",
+          "label": "Le Gaulois (04 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531535g/manifest.json",
+          "label": "Le Gaulois (05 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531536v/manifest.json",
+          "label": "Le Gaulois (06 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315377/manifest.json",
+          "label": "Le Gaulois (07 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531538m/manifest.json",
+          "label": "Le Gaulois (08 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315390/manifest.json",
+          "label": "Le Gaulois (09 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531540x/manifest.json",
+          "label": "Le Gaulois (10 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315419/manifest.json",
+          "label": "Le Gaulois (11 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531542p/manifest.json",
+          "label": "Le Gaulois (12 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315432/manifest.json",
+          "label": "Le Gaulois (13 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531544f/manifest.json",
+          "label": "Le Gaulois (14 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531545t/manifest.json",
+          "label": "Le Gaulois (15 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315466/manifest.json",
+          "label": "Le Gaulois (16 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531547k/manifest.json",
+          "label": "Le Gaulois (17 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531548z/manifest.json",
+          "label": "Le Gaulois (18 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531549b/manifest.json",
+          "label": "Le Gaulois (19 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315508/manifest.json",
+          "label": "Le Gaulois (20 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531551n/manifest.json",
+          "label": "Le Gaulois (21 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315521/manifest.json",
+          "label": "Le Gaulois (22 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531553d/manifest.json",
+          "label": "Le Gaulois (23 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531554s/manifest.json",
+          "label": "Le Gaulois (24 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315555/manifest.json",
+          "label": "Le Gaulois (25 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531556j/manifest.json",
+          "label": "Le Gaulois (26 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531557x/manifest.json",
+          "label": "Le Gaulois (27 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315589/manifest.json",
+          "label": "Le Gaulois (28 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531559p/manifest.json",
+          "label": "Le Gaulois (29 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531560m/manifest.json",
+          "label": "Le Gaulois (30 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315610/manifest.json",
+          "label": "Le Gaulois (31 octobre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531562c/manifest.json",
+          "label": "Le Gaulois (01 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531563r/manifest.json",
+          "label": "Le Gaulois (02 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315644/manifest.json",
+          "label": "Le Gaulois (03 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531565h/manifest.json",
+          "label": "Le Gaulois (04 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531566w/manifest.json",
+          "label": "Le Gaulois (05 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315678/manifest.json",
+          "label": "Le Gaulois (06 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531568n/manifest.json",
+          "label": "Le Gaulois (07 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315691/manifest.json",
+          "label": "Le Gaulois (08 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531570z/manifest.json",
+          "label": "Le Gaulois (09 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531571b/manifest.json",
+          "label": "Le Gaulois (10 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315733/manifest.json",
+          "label": "Le Gaulois (11 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531572q/manifest.json",
+          "label": "Le Gaulois (11 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531574g/manifest.json",
+          "label": "Le Gaulois (12 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531575v/manifest.json",
+          "label": "Le Gaulois (12 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315767/manifest.json",
+          "label": "Le Gaulois (13 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531577m/manifest.json",
+          "label": "Le Gaulois (14 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315780/manifest.json",
+          "label": "Le Gaulois (15 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531579c/manifest.json",
+          "label": "Le Gaulois (16 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315809/manifest.json",
+          "label": "Le Gaulois (17 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531581p/manifest.json",
+          "label": "Le Gaulois (18 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315822/manifest.json",
+          "label": "Le Gaulois (19 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531583f/manifest.json",
+          "label": "Le Gaulois (20 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531584t/manifest.json",
+          "label": "Le Gaulois (21 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315856/manifest.json",
+          "label": "Le Gaulois (22 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531586k/manifest.json",
+          "label": "Le Gaulois (23 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531587z/manifest.json",
+          "label": "Le Gaulois (24 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531588b/manifest.json",
+          "label": "Le Gaulois (25 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531589q/manifest.json",
+          "label": "Le Gaulois (26 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531590n/manifest.json",
+          "label": "Le Gaulois (27 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315911/manifest.json",
+          "label": "Le Gaulois (28 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531592d/manifest.json",
+          "label": "Le Gaulois (29 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531593s/manifest.json",
+          "label": "Le Gaulois (30 novembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315945/manifest.json",
+          "label": "Le Gaulois (01 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531595j/manifest.json",
+          "label": "Le Gaulois (02 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531596x/manifest.json",
+          "label": "Le Gaulois (03 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315979/manifest.json",
+          "label": "Le Gaulois (04 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531598p/manifest.json",
+          "label": "Le Gaulois (05 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5315992/manifest.json",
+          "label": "Le Gaulois (06 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531600v/manifest.json",
+          "label": "Le Gaulois (07 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5316017/manifest.json",
+          "label": "Le Gaulois (08 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531602m/manifest.json",
+          "label": "Le Gaulois (09 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5316030/manifest.json",
+          "label": "Le Gaulois (10 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531604c/manifest.json",
+          "label": "Le Gaulois (11 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531605r/manifest.json",
+          "label": "Le Gaulois (12 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5316064/manifest.json",
+          "label": "Le Gaulois (13 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531607h/manifest.json",
+          "label": "Le Gaulois (14 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531608w/manifest.json",
+          "label": "Le Gaulois (15 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5316098/manifest.json",
+          "label": "Le Gaulois (16 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5316106/manifest.json",
+          "label": "Le Gaulois (17 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531611k/manifest.json",
+          "label": "Le Gaulois (18 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531612z/manifest.json",
+          "label": "Le Gaulois (19 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531613b/manifest.json",
+          "label": "Le Gaulois (20 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531614q/manifest.json",
+          "label": "Le Gaulois (21 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5316153/manifest.json",
+          "label": "Le Gaulois (22 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531616g/manifest.json",
+          "label": "Le Gaulois (23 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531617v/manifest.json",
+          "label": "Le Gaulois (24 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5316187/manifest.json",
+          "label": "Le Gaulois (25 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531619m/manifest.json",
+          "label": "Le Gaulois (26 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531620j/manifest.json",
+          "label": "Le Gaulois (27 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531621x/manifest.json",
+          "label": "Le Gaulois (28 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5316229/manifest.json",
+          "label": "Le Gaulois (29 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531623p/manifest.json",
+          "label": "Le Gaulois (30 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5316242/manifest.json",
+          "label": "Le Gaulois (31 décembre 1901)",
+          "type": "Manifest",
+          "navDate": "1901-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k531256m/manifest.json",
+          "label": "Le Gaulois (31 décembre 1900)",
+          "type": "Manifest",
+          "navDate": "1901-12-31"
+       }]
+    }

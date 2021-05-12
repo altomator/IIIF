@@ -1,0 +1,1851 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1914.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1914)" ], "en": [ "Le Gaulois (1914)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1914" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1914" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1914",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1914)" ],"en": [ "Gallica periodical: Le Gaulois (1914)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1914",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1914)" ],"en": [ "Gallica periodical: Le Gaulois (1914)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536024k/manifest.json",
+          "label": "Le Gaulois (01 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536025z/manifest.json",
+          "label": "Le Gaulois (02 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536026b/manifest.json",
+          "label": "Le Gaulois (03 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536027q/manifest.json",
+          "label": "Le Gaulois (04 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360283/manifest.json",
+          "label": "Le Gaulois (05 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536029g/manifest.json",
+          "label": "Le Gaulois (06 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536030d/manifest.json",
+          "label": "Le Gaulois (07 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536031s/manifest.json",
+          "label": "Le Gaulois (08 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360325/manifest.json",
+          "label": "Le Gaulois (09 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536033j/manifest.json",
+          "label": "Le Gaulois (10 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536034x/manifest.json",
+          "label": "Le Gaulois (11 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360359/manifest.json",
+          "label": "Le Gaulois (12 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536036p/manifest.json",
+          "label": "Le Gaulois (13 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360372/manifest.json",
+          "label": "Le Gaulois (14 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536038f/manifest.json",
+          "label": "Le Gaulois (15 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536039t/manifest.json",
+          "label": "Le Gaulois (16 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536040r/manifest.json",
+          "label": "Le Gaulois (17 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360414/manifest.json",
+          "label": "Le Gaulois (18 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536042h/manifest.json",
+          "label": "Le Gaulois (19 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536043w/manifest.json",
+          "label": "Le Gaulois (20 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360448/manifest.json",
+          "label": "Le Gaulois (21 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536045n/manifest.json",
+          "label": "Le Gaulois (22 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360461/manifest.json",
+          "label": "Le Gaulois (23 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536047d/manifest.json",
+          "label": "Le Gaulois (24 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536048s/manifest.json",
+          "label": "Le Gaulois (25 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360495/manifest.json",
+          "label": "Le Gaulois (26 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360503/manifest.json",
+          "label": "Le Gaulois (27 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536051g/manifest.json",
+          "label": "Le Gaulois (28 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536052v/manifest.json",
+          "label": "Le Gaulois (29 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360537/manifest.json",
+          "label": "Le Gaulois (30 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536054m/manifest.json",
+          "label": "Le Gaulois (31 janvier 1914)",
+          "type": "Manifest",
+          "navDate": "1914-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360550/manifest.json",
+          "label": "Le Gaulois (01 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536056c/manifest.json",
+          "label": "Le Gaulois (02 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536057r/manifest.json",
+          "label": "Le Gaulois (03 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360584/manifest.json",
+          "label": "Le Gaulois (04 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536059h/manifest.json",
+          "label": "Le Gaulois (05 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536060f/manifest.json",
+          "label": "Le Gaulois (06 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536061t/manifest.json",
+          "label": "Le Gaulois (07 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360626/manifest.json",
+          "label": "Le Gaulois (08 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536063k/manifest.json",
+          "label": "Le Gaulois (09 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536064z/manifest.json",
+          "label": "Le Gaulois (10 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536065b/manifest.json",
+          "label": "Le Gaulois (11 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536066q/manifest.json",
+          "label": "Le Gaulois (12 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360673/manifest.json",
+          "label": "Le Gaulois (13 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536068g/manifest.json",
+          "label": "Le Gaulois (14 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536069v/manifest.json",
+          "label": "Le Gaulois (15 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536070s/manifest.json",
+          "label": "Le Gaulois (16 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360715/manifest.json",
+          "label": "Le Gaulois (17 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536072j/manifest.json",
+          "label": "Le Gaulois (18 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536073x/manifest.json",
+          "label": "Le Gaulois (19 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360749/manifest.json",
+          "label": "Le Gaulois (20 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536075p/manifest.json",
+          "label": "Le Gaulois (21 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360762/manifest.json",
+          "label": "Le Gaulois (22 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536077f/manifest.json",
+          "label": "Le Gaulois (23 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536078t/manifest.json",
+          "label": "Le Gaulois (24 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360796/manifest.json",
+          "label": "Le Gaulois (25 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360804/manifest.json",
+          "label": "Le Gaulois (26 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536081h/manifest.json",
+          "label": "Le Gaulois (27 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536082w/manifest.json",
+          "label": "Le Gaulois (28 février 1914)",
+          "type": "Manifest",
+          "navDate": "1914-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360838/manifest.json",
+          "label": "Le Gaulois (01 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536084n/manifest.json",
+          "label": "Le Gaulois (02 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360851/manifest.json",
+          "label": "Le Gaulois (03 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536086d/manifest.json",
+          "label": "Le Gaulois (04 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536087s/manifest.json",
+          "label": "Le Gaulois (05 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360885/manifest.json",
+          "label": "Le Gaulois (06 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536089j/manifest.json",
+          "label": "Le Gaulois (07 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536090g/manifest.json",
+          "label": "Le Gaulois (08 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536091v/manifest.json",
+          "label": "Le Gaulois (09 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360927/manifest.json",
+          "label": "Le Gaulois (10 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536093m/manifest.json",
+          "label": "Le Gaulois (11 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360940/manifest.json",
+          "label": "Le Gaulois (12 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536095c/manifest.json",
+          "label": "Le Gaulois (13 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536096r/manifest.json",
+          "label": "Le Gaulois (14 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5360974/manifest.json",
+          "label": "Le Gaulois (15 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536098h/manifest.json",
+          "label": "Le Gaulois (16 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536099w/manifest.json",
+          "label": "Le Gaulois (17 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536100p/manifest.json",
+          "label": "Le Gaulois (18 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361012/manifest.json",
+          "label": "Le Gaulois (19 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536102f/manifest.json",
+          "label": "Le Gaulois (20 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536103t/manifest.json",
+          "label": "Le Gaulois (21 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361046/manifest.json",
+          "label": "Le Gaulois (22 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536105k/manifest.json",
+          "label": "Le Gaulois (23 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536106z/manifest.json",
+          "label": "Le Gaulois (24 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536107b/manifest.json",
+          "label": "Le Gaulois (25 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536108q/manifest.json",
+          "label": "Le Gaulois (26 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361093/manifest.json",
+          "label": "Le Gaulois (27 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361101/manifest.json",
+          "label": "Le Gaulois (28 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536111d/manifest.json",
+          "label": "Le Gaulois (29 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536112s/manifest.json",
+          "label": "Le Gaulois (30 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361135/manifest.json",
+          "label": "Le Gaulois (31 mars 1914)",
+          "type": "Manifest",
+          "navDate": "1914-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536114j/manifest.json",
+          "label": "Le Gaulois (01 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536115x/manifest.json",
+          "label": "Le Gaulois (02 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361169/manifest.json",
+          "label": "Le Gaulois (03 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536117p/manifest.json",
+          "label": "Le Gaulois (04 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361182/manifest.json",
+          "label": "Le Gaulois (05 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536119f/manifest.json",
+          "label": "Le Gaulois (06 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536120c/manifest.json",
+          "label": "Le Gaulois (07 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536121r/manifest.json",
+          "label": "Le Gaulois (08 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361224/manifest.json",
+          "label": "Le Gaulois (09 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536123h/manifest.json",
+          "label": "Le Gaulois (10 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536124w/manifest.json",
+          "label": "Le Gaulois (11 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361258/manifest.json",
+          "label": "Le Gaulois (12 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536126n/manifest.json",
+          "label": "Le Gaulois (13 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361271/manifest.json",
+          "label": "Le Gaulois (14 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536128d/manifest.json",
+          "label": "Le Gaulois (15 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536129s/manifest.json",
+          "label": "Le Gaulois (16 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536130q/manifest.json",
+          "label": "Le Gaulois (17 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361313/manifest.json",
+          "label": "Le Gaulois (18 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536132g/manifest.json",
+          "label": "Le Gaulois (19 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536133v/manifest.json",
+          "label": "Le Gaulois (20 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361347/manifest.json",
+          "label": "Le Gaulois (21 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536135m/manifest.json",
+          "label": "Le Gaulois (22 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361360/manifest.json",
+          "label": "Le Gaulois (23 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536137c/manifest.json",
+          "label": "Le Gaulois (24 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536138r/manifest.json",
+          "label": "Le Gaulois (25 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361394/manifest.json",
+          "label": "Le Gaulois (26 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361402/manifest.json",
+          "label": "Le Gaulois (27 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536141f/manifest.json",
+          "label": "Le Gaulois (28 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536142t/manifest.json",
+          "label": "Le Gaulois (29 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361436/manifest.json",
+          "label": "Le Gaulois (30 avril 1914)",
+          "type": "Manifest",
+          "navDate": "1914-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536144k/manifest.json",
+          "label": "Le Gaulois (01 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536145z/manifest.json",
+          "label": "Le Gaulois (02 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536146b/manifest.json",
+          "label": "Le Gaulois (03 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536147q/manifest.json",
+          "label": "Le Gaulois (04 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361483/manifest.json",
+          "label": "Le Gaulois (05 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536149g/manifest.json",
+          "label": "Le Gaulois (06 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536150d/manifest.json",
+          "label": "Le Gaulois (07 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536151s/manifest.json",
+          "label": "Le Gaulois (08 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361525/manifest.json",
+          "label": "Le Gaulois (09 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536153j/manifest.json",
+          "label": "Le Gaulois (10 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536154x/manifest.json",
+          "label": "Le Gaulois (11 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361559/manifest.json",
+          "label": "Le Gaulois (12 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536156p/manifest.json",
+          "label": "Le Gaulois (13 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361572/manifest.json",
+          "label": "Le Gaulois (14 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536158f/manifest.json",
+          "label": "Le Gaulois (15 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536159t/manifest.json",
+          "label": "Le Gaulois (16 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536160r/manifest.json",
+          "label": "Le Gaulois (17 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361614/manifest.json",
+          "label": "Le Gaulois (18 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536162h/manifest.json",
+          "label": "Le Gaulois (19 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536163w/manifest.json",
+          "label": "Le Gaulois (20 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361648/manifest.json",
+          "label": "Le Gaulois (21 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536165n/manifest.json",
+          "label": "Le Gaulois (22 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361661/manifest.json",
+          "label": "Le Gaulois (23 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536167d/manifest.json",
+          "label": "Le Gaulois (24 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536168s/manifest.json",
+          "label": "Le Gaulois (25 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361695/manifest.json",
+          "label": "Le Gaulois (26 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361703/manifest.json",
+          "label": "Le Gaulois (27 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536171g/manifest.json",
+          "label": "Le Gaulois (28 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536172v/manifest.json",
+          "label": "Le Gaulois (29 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361737/manifest.json",
+          "label": "Le Gaulois (30 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536174m/manifest.json",
+          "label": "Le Gaulois (31 mai 1914)",
+          "type": "Manifest",
+          "navDate": "1914-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361750/manifest.json",
+          "label": "Le Gaulois (01 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536176c/manifest.json",
+          "label": "Le Gaulois (02 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536177r/manifest.json",
+          "label": "Le Gaulois (03 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361784/manifest.json",
+          "label": "Le Gaulois (04 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536179h/manifest.json",
+          "label": "Le Gaulois (05 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536180f/manifest.json",
+          "label": "Le Gaulois (06 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536181t/manifest.json",
+          "label": "Le Gaulois (07 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361826/manifest.json",
+          "label": "Le Gaulois (08 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536183k/manifest.json",
+          "label": "Le Gaulois (09 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536184z/manifest.json",
+          "label": "Le Gaulois (10 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536185b/manifest.json",
+          "label": "Le Gaulois (11 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536186q/manifest.json",
+          "label": "Le Gaulois (12 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361873/manifest.json",
+          "label": "Le Gaulois (13 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536188g/manifest.json",
+          "label": "Le Gaulois (14 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536189v/manifest.json",
+          "label": "Le Gaulois (15 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536190s/manifest.json",
+          "label": "Le Gaulois (16 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361915/manifest.json",
+          "label": "Le Gaulois (17 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536192j/manifest.json",
+          "label": "Le Gaulois (18 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536193x/manifest.json",
+          "label": "Le Gaulois (19 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361949/manifest.json",
+          "label": "Le Gaulois (20 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536195p/manifest.json",
+          "label": "Le Gaulois (21 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361962/manifest.json",
+          "label": "Le Gaulois (22 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536197f/manifest.json",
+          "label": "Le Gaulois (23 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536198t/manifest.json",
+          "label": "Le Gaulois (24 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5361996/manifest.json",
+          "label": "Le Gaulois (25 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362000/manifest.json",
+          "label": "Le Gaulois (26 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536201c/manifest.json",
+          "label": "Le Gaulois (27 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536202r/manifest.json",
+          "label": "Le Gaulois (28 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362034/manifest.json",
+          "label": "Le Gaulois (29 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536204h/manifest.json",
+          "label": "Le Gaulois (30 juin 1914)",
+          "type": "Manifest",
+          "navDate": "1914-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536205w/manifest.json",
+          "label": "Le Gaulois (01 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362068/manifest.json",
+          "label": "Le Gaulois (02 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536207n/manifest.json",
+          "label": "Le Gaulois (03 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362081/manifest.json",
+          "label": "Le Gaulois (04 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536209d/manifest.json",
+          "label": "Le Gaulois (05 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536210b/manifest.json",
+          "label": "Le Gaulois (06 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536211q/manifest.json",
+          "label": "Le Gaulois (07 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362123/manifest.json",
+          "label": "Le Gaulois (08 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536213g/manifest.json",
+          "label": "Le Gaulois (09 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536214v/manifest.json",
+          "label": "Le Gaulois (10 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362157/manifest.json",
+          "label": "Le Gaulois (11 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536216m/manifest.json",
+          "label": "Le Gaulois (12 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362170/manifest.json",
+          "label": "Le Gaulois (13 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536218c/manifest.json",
+          "label": "Le Gaulois (14 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536219r/manifest.json",
+          "label": "Le Gaulois (15 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536220p/manifest.json",
+          "label": "Le Gaulois (16 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362212/manifest.json",
+          "label": "Le Gaulois (17 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536222f/manifest.json",
+          "label": "Le Gaulois (18 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536223t/manifest.json",
+          "label": "Le Gaulois (19 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362246/manifest.json",
+          "label": "Le Gaulois (20 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536225k/manifest.json",
+          "label": "Le Gaulois (21 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536226z/manifest.json",
+          "label": "Le Gaulois (22 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536227b/manifest.json",
+          "label": "Le Gaulois (23 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536228q/manifest.json",
+          "label": "Le Gaulois (24 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362293/manifest.json",
+          "label": "Le Gaulois (25 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362301/manifest.json",
+          "label": "Le Gaulois (26 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536231d/manifest.json",
+          "label": "Le Gaulois (27 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536232s/manifest.json",
+          "label": "Le Gaulois (28 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362335/manifest.json",
+          "label": "Le Gaulois (29 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536234j/manifest.json",
+          "label": "Le Gaulois (30 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536235x/manifest.json",
+          "label": "Le Gaulois (31 juillet 1914)",
+          "type": "Manifest",
+          "navDate": "1914-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362369/manifest.json",
+          "label": "Le Gaulois (01 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536237p/manifest.json",
+          "label": "Le Gaulois (02 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362382/manifest.json",
+          "label": "Le Gaulois (03 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536239f/manifest.json",
+          "label": "Le Gaulois (04 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536240c/manifest.json",
+          "label": "Le Gaulois (05 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536241r/manifest.json",
+          "label": "Le Gaulois (06 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362424/manifest.json",
+          "label": "Le Gaulois (07 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536243h/manifest.json",
+          "label": "Le Gaulois (08 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536244w/manifest.json",
+          "label": "Le Gaulois (09 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362458/manifest.json",
+          "label": "Le Gaulois (10 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536246n/manifest.json",
+          "label": "Le Gaulois (11 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362471/manifest.json",
+          "label": "Le Gaulois (12 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536248d/manifest.json",
+          "label": "Le Gaulois (13 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536249s/manifest.json",
+          "label": "Le Gaulois (14 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536250q/manifest.json",
+          "label": "Le Gaulois (15 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362513/manifest.json",
+          "label": "Le Gaulois (16 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536252g/manifest.json",
+          "label": "Le Gaulois (17 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536253v/manifest.json",
+          "label": "Le Gaulois (18 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362547/manifest.json",
+          "label": "Le Gaulois (19 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536255m/manifest.json",
+          "label": "Le Gaulois (20 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362560/manifest.json",
+          "label": "Le Gaulois (21 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536257c/manifest.json",
+          "label": "Le Gaulois (22 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536258r/manifest.json",
+          "label": "Le Gaulois (23 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362594/manifest.json",
+          "label": "Le Gaulois (24 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362602/manifest.json",
+          "label": "Le Gaulois (25 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536261f/manifest.json",
+          "label": "Le Gaulois (26 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536262t/manifest.json",
+          "label": "Le Gaulois (27 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362636/manifest.json",
+          "label": "Le Gaulois (28 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536264k/manifest.json",
+          "label": "Le Gaulois (29 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536265z/manifest.json",
+          "label": "Le Gaulois (30 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536266b/manifest.json",
+          "label": "Le Gaulois (31 août 1914)",
+          "type": "Manifest",
+          "navDate": "1914-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536267q/manifest.json",
+          "label": "Le Gaulois (01 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362683/manifest.json",
+          "label": "Le Gaulois (02 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536269g/manifest.json",
+          "label": "Le Gaulois (03 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536270d/manifest.json",
+          "label": "Le Gaulois (04 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536271s/manifest.json",
+          "label": "Le Gaulois (05 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362725/manifest.json",
+          "label": "Le Gaulois (06 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536273j/manifest.json",
+          "label": "Le Gaulois (07 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536274x/manifest.json",
+          "label": "Le Gaulois (08 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362759/manifest.json",
+          "label": "Le Gaulois (09 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536276p/manifest.json",
+          "label": "Le Gaulois (10 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362772/manifest.json",
+          "label": "Le Gaulois (11 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536278f/manifest.json",
+          "label": "Le Gaulois (12 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536279t/manifest.json",
+          "label": "Le Gaulois (13 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536280r/manifest.json",
+          "label": "Le Gaulois (14 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362814/manifest.json",
+          "label": "Le Gaulois (15 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536282h/manifest.json",
+          "label": "Le Gaulois (16 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536283w/manifest.json",
+          "label": "Le Gaulois (17 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362848/manifest.json",
+          "label": "Le Gaulois (18 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536285n/manifest.json",
+          "label": "Le Gaulois (19 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362861/manifest.json",
+          "label": "Le Gaulois (20 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536287d/manifest.json",
+          "label": "Le Gaulois (21 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536288s/manifest.json",
+          "label": "Le Gaulois (22 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362895/manifest.json",
+          "label": "Le Gaulois (23 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362903/manifest.json",
+          "label": "Le Gaulois (24 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536291g/manifest.json",
+          "label": "Le Gaulois (25 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536292v/manifest.json",
+          "label": "Le Gaulois (26 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362937/manifest.json",
+          "label": "Le Gaulois (27 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536294m/manifest.json",
+          "label": "Le Gaulois (28 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362950/manifest.json",
+          "label": "Le Gaulois (29 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536296c/manifest.json",
+          "label": "Le Gaulois (30 septembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536297r/manifest.json",
+          "label": "Le Gaulois (01 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5362984/manifest.json",
+          "label": "Le Gaulois (02 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536299h/manifest.json",
+          "label": "Le Gaulois (03 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363009/manifest.json",
+          "label": "Le Gaulois (04 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536301p/manifest.json",
+          "label": "Le Gaulois (05 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363022/manifest.json",
+          "label": "Le Gaulois (06 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536303f/manifest.json",
+          "label": "Le Gaulois (07 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536304t/manifest.json",
+          "label": "Le Gaulois (08 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363056/manifest.json",
+          "label": "Le Gaulois (09 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536306k/manifest.json",
+          "label": "Le Gaulois (10 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536307z/manifest.json",
+          "label": "Le Gaulois (11 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536308b/manifest.json",
+          "label": "Le Gaulois (12 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536309q/manifest.json",
+          "label": "Le Gaulois (13 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536310n/manifest.json",
+          "label": "Le Gaulois (14 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363111/manifest.json",
+          "label": "Le Gaulois (15 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536312d/manifest.json",
+          "label": "Le Gaulois (16 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536313s/manifest.json",
+          "label": "Le Gaulois (17 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363145/manifest.json",
+          "label": "Le Gaulois (18 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536315j/manifest.json",
+          "label": "Le Gaulois (19 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536316x/manifest.json",
+          "label": "Le Gaulois (20 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363179/manifest.json",
+          "label": "Le Gaulois (21 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536318p/manifest.json",
+          "label": "Le Gaulois (22 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363192/manifest.json",
+          "label": "Le Gaulois (23 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363200/manifest.json",
+          "label": "Le Gaulois (24 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536321c/manifest.json",
+          "label": "Le Gaulois (25 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536322r/manifest.json",
+          "label": "Le Gaulois (26 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363234/manifest.json",
+          "label": "Le Gaulois (27 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536324h/manifest.json",
+          "label": "Le Gaulois (28 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536325w/manifest.json",
+          "label": "Le Gaulois (29 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363268/manifest.json",
+          "label": "Le Gaulois (30 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536327n/manifest.json",
+          "label": "Le Gaulois (31 octobre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363281/manifest.json",
+          "label": "Le Gaulois (01 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536329d/manifest.json",
+          "label": "Le Gaulois (02 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536330b/manifest.json",
+          "label": "Le Gaulois (03 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536331q/manifest.json",
+          "label": "Le Gaulois (04 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363323/manifest.json",
+          "label": "Le Gaulois (05 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536333g/manifest.json",
+          "label": "Le Gaulois (06 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536334v/manifest.json",
+          "label": "Le Gaulois (07 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363357/manifest.json",
+          "label": "Le Gaulois (08 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536336m/manifest.json",
+          "label": "Le Gaulois (09 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363370/manifest.json",
+          "label": "Le Gaulois (10 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536338c/manifest.json",
+          "label": "Le Gaulois (11 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536339r/manifest.json",
+          "label": "Le Gaulois (12 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536340p/manifest.json",
+          "label": "Le Gaulois (13 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363412/manifest.json",
+          "label": "Le Gaulois (14 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536342f/manifest.json",
+          "label": "Le Gaulois (15 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536343t/manifest.json",
+          "label": "Le Gaulois (16 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363446/manifest.json",
+          "label": "Le Gaulois (17 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536345k/manifest.json",
+          "label": "Le Gaulois (18 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536346z/manifest.json",
+          "label": "Le Gaulois (19 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536347b/manifest.json",
+          "label": "Le Gaulois (20 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536348q/manifest.json",
+          "label": "Le Gaulois (21 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363493/manifest.json",
+          "label": "Le Gaulois (22 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363501/manifest.json",
+          "label": "Le Gaulois (23 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536351d/manifest.json",
+          "label": "Le Gaulois (24 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536352s/manifest.json",
+          "label": "Le Gaulois (25 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363535/manifest.json",
+          "label": "Le Gaulois (26 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536354j/manifest.json",
+          "label": "Le Gaulois (27 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536355x/manifest.json",
+          "label": "Le Gaulois (28 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363569/manifest.json",
+          "label": "Le Gaulois (29 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536357p/manifest.json",
+          "label": "Le Gaulois (30 novembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363582/manifest.json",
+          "label": "Le Gaulois (01 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536359f/manifest.json",
+          "label": "Le Gaulois (02 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536360c/manifest.json",
+          "label": "Le Gaulois (03 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536361r/manifest.json",
+          "label": "Le Gaulois (04 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363624/manifest.json",
+          "label": "Le Gaulois (05 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536363h/manifest.json",
+          "label": "Le Gaulois (06 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536364w/manifest.json",
+          "label": "Le Gaulois (07 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363658/manifest.json",
+          "label": "Le Gaulois (08 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536366n/manifest.json",
+          "label": "Le Gaulois (09 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363671/manifest.json",
+          "label": "Le Gaulois (10 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536368d/manifest.json",
+          "label": "Le Gaulois (11 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536369s/manifest.json",
+          "label": "Le Gaulois (12 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536370q/manifest.json",
+          "label": "Le Gaulois (13 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363713/manifest.json",
+          "label": "Le Gaulois (14 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536372g/manifest.json",
+          "label": "Le Gaulois (15 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536373v/manifest.json",
+          "label": "Le Gaulois (16 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363747/manifest.json",
+          "label": "Le Gaulois (17 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536375m/manifest.json",
+          "label": "Le Gaulois (18 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363760/manifest.json",
+          "label": "Le Gaulois (19 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536377c/manifest.json",
+          "label": "Le Gaulois (20 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536378r/manifest.json",
+          "label": "Le Gaulois (21 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363794/manifest.json",
+          "label": "Le Gaulois (22 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363802/manifest.json",
+          "label": "Le Gaulois (23 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536381f/manifest.json",
+          "label": "Le Gaulois (24 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536382t/manifest.json",
+          "label": "Le Gaulois (25 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363836/manifest.json",
+          "label": "Le Gaulois (26 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536384k/manifest.json",
+          "label": "Le Gaulois (27 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536385z/manifest.json",
+          "label": "Le Gaulois (28 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536386b/manifest.json",
+          "label": "Le Gaulois (29 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k536387q/manifest.json",
+          "label": "Le Gaulois (30 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5363883/manifest.json",
+          "label": "Le Gaulois (31 décembre 1914)",
+          "type": "Manifest",
+          "navDate": "1914-12-31"
+       }]
+    }

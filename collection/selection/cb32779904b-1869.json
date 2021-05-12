@@ -1,0 +1,1891 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1869.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1869)" ], "en": [ "Le Gaulois (1869)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1869" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1869" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1869",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1869)" ],"en": [ "Gallica periodical: Le Gaulois (1869)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1869",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1869)" ],"en": [ "Gallica periodical: Le Gaulois (1869)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519317n/manifest.json",
+          "label": "Le Gaulois (01 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193181/manifest.json",
+          "label": "Le Gaulois (02 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519319d/manifest.json",
+          "label": "Le Gaulois (03 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519320b/manifest.json",
+          "label": "Le Gaulois (04 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519321q/manifest.json",
+          "label": "Le Gaulois (05 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193223/manifest.json",
+          "label": "Le Gaulois (06 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519323g/manifest.json",
+          "label": "Le Gaulois (07 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519324v/manifest.json",
+          "label": "Le Gaulois (08 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193257/manifest.json",
+          "label": "Le Gaulois (09 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519326m/manifest.json",
+          "label": "Le Gaulois (10 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193270/manifest.json",
+          "label": "Le Gaulois (11 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519328c/manifest.json",
+          "label": "Le Gaulois (12 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519329r/manifest.json",
+          "label": "Le Gaulois (13 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519330p/manifest.json",
+          "label": "Le Gaulois (14 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193312/manifest.json",
+          "label": "Le Gaulois (15 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519332f/manifest.json",
+          "label": "Le Gaulois (16 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519333t/manifest.json",
+          "label": "Le Gaulois (17 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193346/manifest.json",
+          "label": "Le Gaulois (18 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519335k/manifest.json",
+          "label": "Le Gaulois (19 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519336z/manifest.json",
+          "label": "Le Gaulois (20 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519337b/manifest.json",
+          "label": "Le Gaulois (21 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519338q/manifest.json",
+          "label": "Le Gaulois (22 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193393/manifest.json",
+          "label": "Le Gaulois (23 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193401/manifest.json",
+          "label": "Le Gaulois (24 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519341d/manifest.json",
+          "label": "Le Gaulois (25 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519342s/manifest.json",
+          "label": "Le Gaulois (26 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193435/manifest.json",
+          "label": "Le Gaulois (27 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519344j/manifest.json",
+          "label": "Le Gaulois (28 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519345x/manifest.json",
+          "label": "Le Gaulois (29 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193469/manifest.json",
+          "label": "Le Gaulois (30 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519347p/manifest.json",
+          "label": "Le Gaulois (31 janvier 1869)",
+          "type": "Manifest",
+          "navDate": "1869-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193482/manifest.json",
+          "label": "Le Gaulois (01 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519349f/manifest.json",
+          "label": "Le Gaulois (02 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519350c/manifest.json",
+          "label": "Le Gaulois (03 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519351r/manifest.json",
+          "label": "Le Gaulois (04 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193524/manifest.json",
+          "label": "Le Gaulois (05 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519353h/manifest.json",
+          "label": "Le Gaulois (06 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519354w/manifest.json",
+          "label": "Le Gaulois (07 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193558/manifest.json",
+          "label": "Le Gaulois (08 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519356n/manifest.json",
+          "label": "Le Gaulois (09 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193571/manifest.json",
+          "label": "Le Gaulois (10 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519358d/manifest.json",
+          "label": "Le Gaulois (11 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519359s/manifest.json",
+          "label": "Le Gaulois (12 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519360q/manifest.json",
+          "label": "Le Gaulois (13 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193613/manifest.json",
+          "label": "Le Gaulois (14 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519362g/manifest.json",
+          "label": "Le Gaulois (15 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519363v/manifest.json",
+          "label": "Le Gaulois (16 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193647/manifest.json",
+          "label": "Le Gaulois (17 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519365m/manifest.json",
+          "label": "Le Gaulois (18 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193660/manifest.json",
+          "label": "Le Gaulois (19 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519367c/manifest.json",
+          "label": "Le Gaulois (20 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519368r/manifest.json",
+          "label": "Le Gaulois (21 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193694/manifest.json",
+          "label": "Le Gaulois (22 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193702/manifest.json",
+          "label": "Le Gaulois (23 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519371f/manifest.json",
+          "label": "Le Gaulois (24 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519372t/manifest.json",
+          "label": "Le Gaulois (25 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193736/manifest.json",
+          "label": "Le Gaulois (26 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519374k/manifest.json",
+          "label": "Le Gaulois (27 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519375z/manifest.json",
+          "label": "Le Gaulois (28 février 1869)",
+          "type": "Manifest",
+          "navDate": "1869-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519376b/manifest.json",
+          "label": "Le Gaulois (01 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519377q/manifest.json",
+          "label": "Le Gaulois (02 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193783/manifest.json",
+          "label": "Le Gaulois (03 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519379g/manifest.json",
+          "label": "Le Gaulois (04 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519380d/manifest.json",
+          "label": "Le Gaulois (05 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519381s/manifest.json",
+          "label": "Le Gaulois (06 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193825/manifest.json",
+          "label": "Le Gaulois (07 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519383j/manifest.json",
+          "label": "Le Gaulois (08 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519384x/manifest.json",
+          "label": "Le Gaulois (09 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193859/manifest.json",
+          "label": "Le Gaulois (10 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519386p/manifest.json",
+          "label": "Le Gaulois (11 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193872/manifest.json",
+          "label": "Le Gaulois (12 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519388f/manifest.json",
+          "label": "Le Gaulois (14 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519389t/manifest.json",
+          "label": "Le Gaulois (15 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519390r/manifest.json",
+          "label": "Le Gaulois (16 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193914/manifest.json",
+          "label": "Le Gaulois (17 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519392h/manifest.json",
+          "label": "Le Gaulois (18 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519393w/manifest.json",
+          "label": "Le Gaulois (19 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193948/manifest.json",
+          "label": "Le Gaulois (20 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519395n/manifest.json",
+          "label": "Le Gaulois (21 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193961/manifest.json",
+          "label": "Le Gaulois (22 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519397d/manifest.json",
+          "label": "Le Gaulois (23 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519398s/manifest.json",
+          "label": "Le Gaulois (24 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193995/manifest.json",
+          "label": "Le Gaulois (25 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519400z/manifest.json",
+          "label": "Le Gaulois (26 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519401b/manifest.json",
+          "label": "Le Gaulois (27 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519402q/manifest.json",
+          "label": "Le Gaulois (28 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194033/manifest.json",
+          "label": "Le Gaulois (29 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519404g/manifest.json",
+          "label": "Le Gaulois (31 mars 1869)",
+          "type": "Manifest",
+          "navDate": "1869-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519405v/manifest.json",
+          "label": "Le Gaulois (01 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194067/manifest.json",
+          "label": "Le Gaulois (02 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519407m/manifest.json",
+          "label": "Le Gaulois (03 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194080/manifest.json",
+          "label": "Le Gaulois (04 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519409c/manifest.json",
+          "label": "Le Gaulois (05 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194109/manifest.json",
+          "label": "Le Gaulois (06 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519411p/manifest.json",
+          "label": "Le Gaulois (07 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194122/manifest.json",
+          "label": "Le Gaulois (08 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519413f/manifest.json",
+          "label": "Le Gaulois (09 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519414t/manifest.json",
+          "label": "Le Gaulois (10 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194156/manifest.json",
+          "label": "Le Gaulois (11 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519416k/manifest.json",
+          "label": "Le Gaulois (12 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519417z/manifest.json",
+          "label": "Le Gaulois (13 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519418b/manifest.json",
+          "label": "Le Gaulois (14 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519419q/manifest.json",
+          "label": "Le Gaulois (15 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519420n/manifest.json",
+          "label": "Le Gaulois (16 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194211/manifest.json",
+          "label": "Le Gaulois (17 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519422d/manifest.json",
+          "label": "Le Gaulois (18 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519423s/manifest.json",
+          "label": "Le Gaulois (19 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194245/manifest.json",
+          "label": "Le Gaulois (20 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519425j/manifest.json",
+          "label": "Le Gaulois (21 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519426x/manifest.json",
+          "label": "Le Gaulois (22 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194279/manifest.json",
+          "label": "Le Gaulois (23 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519428p/manifest.json",
+          "label": "Le Gaulois (24 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194292/manifest.json",
+          "label": "Le Gaulois (25 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194300/manifest.json",
+          "label": "Le Gaulois (26 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519431c/manifest.json",
+          "label": "Le Gaulois (27 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519432r/manifest.json",
+          "label": "Le Gaulois (28 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194334/manifest.json",
+          "label": "Le Gaulois (29 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519434h/manifest.json",
+          "label": "Le Gaulois (30 avril 1869)",
+          "type": "Manifest",
+          "navDate": "1869-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519435w/manifest.json",
+          "label": "Le Gaulois (01 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194368/manifest.json",
+          "label": "Le Gaulois (02 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519437n/manifest.json",
+          "label": "Le Gaulois (03 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194381/manifest.json",
+          "label": "Le Gaulois (04 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519439d/manifest.json",
+          "label": "Le Gaulois (05 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519440b/manifest.json",
+          "label": "Le Gaulois (06 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519441q/manifest.json",
+          "label": "Le Gaulois (07 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194423/manifest.json",
+          "label": "Le Gaulois (08 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519443g/manifest.json",
+          "label": "Le Gaulois (09 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519444v/manifest.json",
+          "label": "Le Gaulois (10 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194457/manifest.json",
+          "label": "Le Gaulois (11 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519446m/manifest.json",
+          "label": "Le Gaulois (12 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194470/manifest.json",
+          "label": "Le Gaulois (13 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519448c/manifest.json",
+          "label": "Le Gaulois (14 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519449r/manifest.json",
+          "label": "Le Gaulois (15 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519450p/manifest.json",
+          "label": "Le Gaulois (16 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194512/manifest.json",
+          "label": "Le Gaulois (17 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519452f/manifest.json",
+          "label": "Le Gaulois (18 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519453t/manifest.json",
+          "label": "Le Gaulois (19 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194546/manifest.json",
+          "label": "Le Gaulois (20 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519455k/manifest.json",
+          "label": "Le Gaulois (21 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519456z/manifest.json",
+          "label": "Le Gaulois (22 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519457b/manifest.json",
+          "label": "Le Gaulois (23 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519458q/manifest.json",
+          "label": "Le Gaulois (24 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194601/manifest.json",
+          "label": "Le Gaulois (25 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194593/manifest.json",
+          "label": "Le Gaulois (25 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519461d/manifest.json",
+          "label": "Le Gaulois (26 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519462s/manifest.json",
+          "label": "Le Gaulois (27 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194635/manifest.json",
+          "label": "Le Gaulois (28 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519464j/manifest.json",
+          "label": "Le Gaulois (29 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519465x/manifest.json",
+          "label": "Le Gaulois (30 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194669/manifest.json",
+          "label": "Le Gaulois (31 mai 1869)",
+          "type": "Manifest",
+          "navDate": "1869-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519467p/manifest.json",
+          "label": "Le Gaulois (01 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194682/manifest.json",
+          "label": "Le Gaulois (02 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519469f/manifest.json",
+          "label": "Le Gaulois (03 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519470c/manifest.json",
+          "label": "Le Gaulois (04 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519471r/manifest.json",
+          "label": "Le Gaulois (05 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194724/manifest.json",
+          "label": "Le Gaulois (06 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519473h/manifest.json",
+          "label": "Le Gaulois (07 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519474w/manifest.json",
+          "label": "Le Gaulois (08 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194758/manifest.json",
+          "label": "Le Gaulois (09 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519476n/manifest.json",
+          "label": "Le Gaulois (10 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194771/manifest.json",
+          "label": "Le Gaulois (11 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519478d/manifest.json",
+          "label": "Le Gaulois (12 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519479s/manifest.json",
+          "label": "Le Gaulois (13 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519480q/manifest.json",
+          "label": "Le Gaulois (14 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194813/manifest.json",
+          "label": "Le Gaulois (15 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519482g/manifest.json",
+          "label": "Le Gaulois (16 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519483v/manifest.json",
+          "label": "Le Gaulois (17 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194847/manifest.json",
+          "label": "Le Gaulois (18 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519485m/manifest.json",
+          "label": "Le Gaulois (19 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194860/manifest.json",
+          "label": "Le Gaulois (20 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519487c/manifest.json",
+          "label": "Le Gaulois (21 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519488r/manifest.json",
+          "label": "Le Gaulois (22 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194894/manifest.json",
+          "label": "Le Gaulois (23 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194902/manifest.json",
+          "label": "Le Gaulois (24 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519491f/manifest.json",
+          "label": "Le Gaulois (25 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519492t/manifest.json",
+          "label": "Le Gaulois (26 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194936/manifest.json",
+          "label": "Le Gaulois (27 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519494k/manifest.json",
+          "label": "Le Gaulois (28 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519495z/manifest.json",
+          "label": "Le Gaulois (29 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519496b/manifest.json",
+          "label": "Le Gaulois (30 juin 1869)",
+          "type": "Manifest",
+          "navDate": "1869-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519497q/manifest.json",
+          "label": "Le Gaulois (01 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5194983/manifest.json",
+          "label": "Le Gaulois (02 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519499g/manifest.json",
+          "label": "Le Gaulois (03 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195008/manifest.json",
+          "label": "Le Gaulois (04 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519501n/manifest.json",
+          "label": "Le Gaulois (05 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195021/manifest.json",
+          "label": "Le Gaulois (06 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519503d/manifest.json",
+          "label": "Le Gaulois (07 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519504s/manifest.json",
+          "label": "Le Gaulois (08 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195055/manifest.json",
+          "label": "Le Gaulois (09 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519506j/manifest.json",
+          "label": "Le Gaulois (10 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519507x/manifest.json",
+          "label": "Le Gaulois (11 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195089/manifest.json",
+          "label": "Le Gaulois (12 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519509p/manifest.json",
+          "label": "Le Gaulois (13 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519510m/manifest.json",
+          "label": "Le Gaulois (14 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195110/manifest.json",
+          "label": "Le Gaulois (15 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519512c/manifest.json",
+          "label": "Le Gaulois (16 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519513r/manifest.json",
+          "label": "Le Gaulois (17 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195144/manifest.json",
+          "label": "Le Gaulois (18 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519515h/manifest.json",
+          "label": "Le Gaulois (19 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519516w/manifest.json",
+          "label": "Le Gaulois (20 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195178/manifest.json",
+          "label": "Le Gaulois (21 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519518n/manifest.json",
+          "label": "Le Gaulois (22 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195191/manifest.json",
+          "label": "Le Gaulois (23 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519520z/manifest.json",
+          "label": "Le Gaulois (24 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519521b/manifest.json",
+          "label": "Le Gaulois (25 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519522q/manifest.json",
+          "label": "Le Gaulois (26 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195233/manifest.json",
+          "label": "Le Gaulois (27 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519524g/manifest.json",
+          "label": "Le Gaulois (28 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519525v/manifest.json",
+          "label": "Le Gaulois (29 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195267/manifest.json",
+          "label": "Le Gaulois (30 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519527m/manifest.json",
+          "label": "Le Gaulois (31 juillet 1869)",
+          "type": "Manifest",
+          "navDate": "1869-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195280/manifest.json",
+          "label": "Le Gaulois (01 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519529c/manifest.json",
+          "label": "Le Gaulois (02 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195309/manifest.json",
+          "label": "Le Gaulois (03 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519531p/manifest.json",
+          "label": "Le Gaulois (04 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195322/manifest.json",
+          "label": "Le Gaulois (05 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519533f/manifest.json",
+          "label": "Le Gaulois (06 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519534t/manifest.json",
+          "label": "Le Gaulois (07 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195356/manifest.json",
+          "label": "Le Gaulois (08 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519536k/manifest.json",
+          "label": "Le Gaulois (09 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519537z/manifest.json",
+          "label": "Le Gaulois (10 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519538b/manifest.json",
+          "label": "Le Gaulois (11 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519539q/manifest.json",
+          "label": "Le Gaulois (12 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519540n/manifest.json",
+          "label": "Le Gaulois (13 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195411/manifest.json",
+          "label": "Le Gaulois (14 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519542d/manifest.json",
+          "label": "Le Gaulois (15 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519543s/manifest.json",
+          "label": "Le Gaulois (16 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195445/manifest.json",
+          "label": "Le Gaulois (17 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519545j/manifest.json",
+          "label": "Le Gaulois (18 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519546x/manifest.json",
+          "label": "Le Gaulois (19 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195479/manifest.json",
+          "label": "Le Gaulois (20 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519548p/manifest.json",
+          "label": "Le Gaulois (21 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195492/manifest.json",
+          "label": "Le Gaulois (22 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195500/manifest.json",
+          "label": "Le Gaulois (23 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519551c/manifest.json",
+          "label": "Le Gaulois (24 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519552r/manifest.json",
+          "label": "Le Gaulois (25 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195534/manifest.json",
+          "label": "Le Gaulois (26 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519554h/manifest.json",
+          "label": "Le Gaulois (27 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519555w/manifest.json",
+          "label": "Le Gaulois (28 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195568/manifest.json",
+          "label": "Le Gaulois (29 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519557n/manifest.json",
+          "label": "Le Gaulois (30 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195581/manifest.json",
+          "label": "Le Gaulois (31 août 1869)",
+          "type": "Manifest",
+          "navDate": "1869-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519559d/manifest.json",
+          "label": "Le Gaulois (01 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519560b/manifest.json",
+          "label": "Le Gaulois (02 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519561q/manifest.json",
+          "label": "Le Gaulois (03 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195623/manifest.json",
+          "label": "Le Gaulois (04 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519563g/manifest.json",
+          "label": "Le Gaulois (05 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519564v/manifest.json",
+          "label": "Le Gaulois (06 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195657/manifest.json",
+          "label": "Le Gaulois (07 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519566m/manifest.json",
+          "label": "Le Gaulois (08 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195670/manifest.json",
+          "label": "Le Gaulois (09 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519568c/manifest.json",
+          "label": "Le Gaulois (10 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519569r/manifest.json",
+          "label": "Le Gaulois (11 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519570p/manifest.json",
+          "label": "Le Gaulois (12 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195712/manifest.json",
+          "label": "Le Gaulois (13 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519572f/manifest.json",
+          "label": "Le Gaulois (14 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519573t/manifest.json",
+          "label": "Le Gaulois (15 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195746/manifest.json",
+          "label": "Le Gaulois (16 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519575k/manifest.json",
+          "label": "Le Gaulois (17 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519576z/manifest.json",
+          "label": "Le Gaulois (18 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519577b/manifest.json",
+          "label": "Le Gaulois (19 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519578q/manifest.json",
+          "label": "Le Gaulois (20 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195793/manifest.json",
+          "label": "Le Gaulois (21 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195801/manifest.json",
+          "label": "Le Gaulois (22 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519581d/manifest.json",
+          "label": "Le Gaulois (23 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519582s/manifest.json",
+          "label": "Le Gaulois (24 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195835/manifest.json",
+          "label": "Le Gaulois (25 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519584j/manifest.json",
+          "label": "Le Gaulois (26 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519585x/manifest.json",
+          "label": "Le Gaulois (27 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195869/manifest.json",
+          "label": "Le Gaulois (28 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519587p/manifest.json",
+          "label": "Le Gaulois (29 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195882/manifest.json",
+          "label": "Le Gaulois (30 septembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519589f/manifest.json",
+          "label": "Le Gaulois (01 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519590c/manifest.json",
+          "label": "Le Gaulois (02 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519591r/manifest.json",
+          "label": "Le Gaulois (03 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195924/manifest.json",
+          "label": "Le Gaulois (04 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519593h/manifest.json",
+          "label": "Le Gaulois (05 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519594w/manifest.json",
+          "label": "Le Gaulois (06 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195958/manifest.json",
+          "label": "Le Gaulois (07 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519596n/manifest.json",
+          "label": "Le Gaulois (08 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5195971/manifest.json",
+          "label": "Le Gaulois (09 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519598d/manifest.json",
+          "label": "Le Gaulois (10 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519599s/manifest.json",
+          "label": "Le Gaulois (11 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519600k/manifest.json",
+          "label": "Le Gaulois (12 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519601z/manifest.json",
+          "label": "Le Gaulois (13 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519602b/manifest.json",
+          "label": "Le Gaulois (14 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519603q/manifest.json",
+          "label": "Le Gaulois (15 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196043/manifest.json",
+          "label": "Le Gaulois (16 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519605g/manifest.json",
+          "label": "Le Gaulois (17 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519606v/manifest.json",
+          "label": "Le Gaulois (18 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196077/manifest.json",
+          "label": "Le Gaulois (19 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519608m/manifest.json",
+          "label": "Le Gaulois (20 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196090/manifest.json",
+          "label": "Le Gaulois (21 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519610x/manifest.json",
+          "label": "Le Gaulois (22 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196119/manifest.json",
+          "label": "Le Gaulois (23 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519612p/manifest.json",
+          "label": "Le Gaulois (24 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196132/manifest.json",
+          "label": "Le Gaulois (25 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519614f/manifest.json",
+          "label": "Le Gaulois (26 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519615t/manifest.json",
+          "label": "Le Gaulois (27 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196166/manifest.json",
+          "label": "Le Gaulois (28 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519617k/manifest.json",
+          "label": "Le Gaulois (29 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519618z/manifest.json",
+          "label": "Le Gaulois (30 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519619b/manifest.json",
+          "label": "Le Gaulois (31 octobre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196208/manifest.json",
+          "label": "Le Gaulois (01 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519621n/manifest.json",
+          "label": "Le Gaulois (02 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196221/manifest.json",
+          "label": "Le Gaulois (03 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519623d/manifest.json",
+          "label": "Le Gaulois (04 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519624s/manifest.json",
+          "label": "Le Gaulois (05 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196255/manifest.json",
+          "label": "Le Gaulois (06 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519626j/manifest.json",
+          "label": "Le Gaulois (07 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519627x/manifest.json",
+          "label": "Le Gaulois (08 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196289/manifest.json",
+          "label": "Le Gaulois (09 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519629p/manifest.json",
+          "label": "Le Gaulois (10 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519630m/manifest.json",
+          "label": "Le Gaulois (11 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196310/manifest.json",
+          "label": "Le Gaulois (12 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519632c/manifest.json",
+          "label": "Le Gaulois (13 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519633r/manifest.json",
+          "label": "Le Gaulois (14 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196344/manifest.json",
+          "label": "Le Gaulois (15 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519635h/manifest.json",
+          "label": "Le Gaulois (16 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519636w/manifest.json",
+          "label": "Le Gaulois (17 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196378/manifest.json",
+          "label": "Le Gaulois (18 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519638n/manifest.json",
+          "label": "Le Gaulois (19 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196391/manifest.json",
+          "label": "Le Gaulois (20 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519640z/manifest.json",
+          "label": "Le Gaulois (21 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519641b/manifest.json",
+          "label": "Le Gaulois (22 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519642q/manifest.json",
+          "label": "Le Gaulois (23 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196433/manifest.json",
+          "label": "Le Gaulois (24 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519644g/manifest.json",
+          "label": "Le Gaulois (25 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519645v/manifest.json",
+          "label": "Le Gaulois (26 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196467/manifest.json",
+          "label": "Le Gaulois (27 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519647m/manifest.json",
+          "label": "Le Gaulois (28 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519649c/manifest.json",
+          "label": "Le Gaulois (29 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196480/manifest.json",
+          "label": "Le Gaulois (29 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196509/manifest.json",
+          "label": "Le Gaulois (30 novembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519651p/manifest.json",
+          "label": "Le Gaulois (01 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196522/manifest.json",
+          "label": "Le Gaulois (02 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519654t/manifest.json",
+          "label": "Le Gaulois (03 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519653f/manifest.json",
+          "label": "Le Gaulois (03 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196556/manifest.json",
+          "label": "Le Gaulois (04 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519656k/manifest.json",
+          "label": "Le Gaulois (05 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519657z/manifest.json",
+          "label": "Le Gaulois (06 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519658b/manifest.json",
+          "label": "Le Gaulois (06 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519659q/manifest.json",
+          "label": "Le Gaulois (07 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519660n/manifest.json",
+          "label": "Le Gaulois (08 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196611/manifest.json",
+          "label": "Le Gaulois (09 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519663s/manifest.json",
+          "label": "Le Gaulois (10 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519662d/manifest.json",
+          "label": "Le Gaulois (10 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196645/manifest.json",
+          "label": "Le Gaulois (11 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519665j/manifest.json",
+          "label": "Le Gaulois (12 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196679/manifest.json",
+          "label": "Le Gaulois (13 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519666x/manifest.json",
+          "label": "Le Gaulois (13 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196692/manifest.json",
+          "label": "Le Gaulois (14 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519668p/manifest.json",
+          "label": "Le Gaulois (14 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196700/manifest.json",
+          "label": "Le Gaulois (15 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519671c/manifest.json",
+          "label": "Le Gaulois (16 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519672r/manifest.json",
+          "label": "Le Gaulois (17 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196734/manifest.json",
+          "label": "Le Gaulois (18 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519674h/manifest.json",
+          "label": "Le Gaulois (19 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519675w/manifest.json",
+          "label": "Le Gaulois (20 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196768/manifest.json",
+          "label": "Le Gaulois (21 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519677n/manifest.json",
+          "label": "Le Gaulois (22 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196781/manifest.json",
+          "label": "Le Gaulois (23 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519679d/manifest.json",
+          "label": "Le Gaulois (23 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519681q/manifest.json",
+          "label": "Le Gaulois (24 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519680b/manifest.json",
+          "label": "Le Gaulois (24 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196823/manifest.json",
+          "label": "Le Gaulois (25 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519683g/manifest.json",
+          "label": "Le Gaulois (26 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519684v/manifest.json",
+          "label": "Le Gaulois (27 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196857/manifest.json",
+          "label": "Le Gaulois (28 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519686m/manifest.json",
+          "label": "Le Gaulois (29 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5196870/manifest.json",
+          "label": "Le Gaulois (30 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k519688c/manifest.json",
+          "label": "Le Gaulois (31 décembre 1869)",
+          "type": "Manifest",
+          "navDate": "1869-12-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5193168/manifest.json",
+          "label": "Le Gaulois (31 décembre 1868)",
+          "type": "Manifest",
+          "navDate": "1870-01-01"
+       }]
+    }

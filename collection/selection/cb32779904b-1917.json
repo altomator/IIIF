@@ -1,0 +1,1851 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1917.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1917)" ], "en": [ "Le Gaulois (1917)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1917" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1917" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1917",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1917)" ],"en": [ "Gallica periodical: Le Gaulois (1917)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1917",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1917)" ],"en": [ "Gallica periodical: Le Gaulois (1917)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537119q/manifest.json",
+          "label": "Le Gaulois (01 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537120n/manifest.json",
+          "label": "Le Gaulois (02 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371211/manifest.json",
+          "label": "Le Gaulois (03 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537122d/manifest.json",
+          "label": "Le Gaulois (04 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537123s/manifest.json",
+          "label": "Le Gaulois (05 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371245/manifest.json",
+          "label": "Le Gaulois (06 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537125j/manifest.json",
+          "label": "Le Gaulois (07 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537126x/manifest.json",
+          "label": "Le Gaulois (08 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371279/manifest.json",
+          "label": "Le Gaulois (09 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537128p/manifest.json",
+          "label": "Le Gaulois (10 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371292/manifest.json",
+          "label": "Le Gaulois (11 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371300/manifest.json",
+          "label": "Le Gaulois (12 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537131c/manifest.json",
+          "label": "Le Gaulois (13 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537132r/manifest.json",
+          "label": "Le Gaulois (14 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371334/manifest.json",
+          "label": "Le Gaulois (15 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537134h/manifest.json",
+          "label": "Le Gaulois (16 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537135w/manifest.json",
+          "label": "Le Gaulois (17 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371368/manifest.json",
+          "label": "Le Gaulois (18 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537137n/manifest.json",
+          "label": "Le Gaulois (19 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371381/manifest.json",
+          "label": "Le Gaulois (20 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537139d/manifest.json",
+          "label": "Le Gaulois (21 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537140b/manifest.json",
+          "label": "Le Gaulois (22 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537141q/manifest.json",
+          "label": "Le Gaulois (23 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371423/manifest.json",
+          "label": "Le Gaulois (24 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537143g/manifest.json",
+          "label": "Le Gaulois (25 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537144v/manifest.json",
+          "label": "Le Gaulois (26 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371457/manifest.json",
+          "label": "Le Gaulois (27 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537146m/manifest.json",
+          "label": "Le Gaulois (28 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371470/manifest.json",
+          "label": "Le Gaulois (29 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537148c/manifest.json",
+          "label": "Le Gaulois (30 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537149r/manifest.json",
+          "label": "Le Gaulois (31 janvier 1917)",
+          "type": "Manifest",
+          "navDate": "1917-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537150p/manifest.json",
+          "label": "Le Gaulois (01 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371512/manifest.json",
+          "label": "Le Gaulois (02 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537152f/manifest.json",
+          "label": "Le Gaulois (03 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537153t/manifest.json",
+          "label": "Le Gaulois (04 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371546/manifest.json",
+          "label": "Le Gaulois (05 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537155k/manifest.json",
+          "label": "Le Gaulois (06 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537156z/manifest.json",
+          "label": "Le Gaulois (07 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537157b/manifest.json",
+          "label": "Le Gaulois (08 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537158q/manifest.json",
+          "label": "Le Gaulois (09 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371593/manifest.json",
+          "label": "Le Gaulois (10 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371601/manifest.json",
+          "label": "Le Gaulois (11 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537161d/manifest.json",
+          "label": "Le Gaulois (12 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537162s/manifest.json",
+          "label": "Le Gaulois (13 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371635/manifest.json",
+          "label": "Le Gaulois (14 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537164j/manifest.json",
+          "label": "Le Gaulois (15 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537165x/manifest.json",
+          "label": "Le Gaulois (16 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371669/manifest.json",
+          "label": "Le Gaulois (17 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537167p/manifest.json",
+          "label": "Le Gaulois (18 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371682/manifest.json",
+          "label": "Le Gaulois (19 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537169f/manifest.json",
+          "label": "Le Gaulois (20 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537170c/manifest.json",
+          "label": "Le Gaulois (21 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537171r/manifest.json",
+          "label": "Le Gaulois (22 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371724/manifest.json",
+          "label": "Le Gaulois (23 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537173h/manifest.json",
+          "label": "Le Gaulois (24 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537174w/manifest.json",
+          "label": "Le Gaulois (25 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371758/manifest.json",
+          "label": "Le Gaulois (26 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537176n/manifest.json",
+          "label": "Le Gaulois (27 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371771/manifest.json",
+          "label": "Le Gaulois (28 février 1917)",
+          "type": "Manifest",
+          "navDate": "1917-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537178d/manifest.json",
+          "label": "Le Gaulois (01 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537179s/manifest.json",
+          "label": "Le Gaulois (02 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537180q/manifest.json",
+          "label": "Le Gaulois (03 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371813/manifest.json",
+          "label": "Le Gaulois (04 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537182g/manifest.json",
+          "label": "Le Gaulois (05 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537183v/manifest.json",
+          "label": "Le Gaulois (06 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371847/manifest.json",
+          "label": "Le Gaulois (07 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537185m/manifest.json",
+          "label": "Le Gaulois (08 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371860/manifest.json",
+          "label": "Le Gaulois (09 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537187c/manifest.json",
+          "label": "Le Gaulois (10 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537188r/manifest.json",
+          "label": "Le Gaulois (11 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371894/manifest.json",
+          "label": "Le Gaulois (12 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371902/manifest.json",
+          "label": "Le Gaulois (13 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537191f/manifest.json",
+          "label": "Le Gaulois (14 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537192t/manifest.json",
+          "label": "Le Gaulois (15 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371936/manifest.json",
+          "label": "Le Gaulois (16 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537194k/manifest.json",
+          "label": "Le Gaulois (17 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537195z/manifest.json",
+          "label": "Le Gaulois (18 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537196b/manifest.json",
+          "label": "Le Gaulois (19 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537197q/manifest.json",
+          "label": "Le Gaulois (20 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5371983/manifest.json",
+          "label": "Le Gaulois (21 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537199g/manifest.json",
+          "label": "Le Gaulois (22 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372008/manifest.json",
+          "label": "Le Gaulois (23 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537201n/manifest.json",
+          "label": "Le Gaulois (24 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372021/manifest.json",
+          "label": "Le Gaulois (25 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537203d/manifest.json",
+          "label": "Le Gaulois (26 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537204s/manifest.json",
+          "label": "Le Gaulois (27 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372055/manifest.json",
+          "label": "Le Gaulois (28 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537206j/manifest.json",
+          "label": "Le Gaulois (29 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537207x/manifest.json",
+          "label": "Le Gaulois (30 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372089/manifest.json",
+          "label": "Le Gaulois (31 mars 1917)",
+          "type": "Manifest",
+          "navDate": "1917-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537209p/manifest.json",
+          "label": "Le Gaulois (01 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537210m/manifest.json",
+          "label": "Le Gaulois (02 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372110/manifest.json",
+          "label": "Le Gaulois (03 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537212c/manifest.json",
+          "label": "Le Gaulois (04 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537213r/manifest.json",
+          "label": "Le Gaulois (05 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372144/manifest.json",
+          "label": "Le Gaulois (06 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537215h/manifest.json",
+          "label": "Le Gaulois (07 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537216w/manifest.json",
+          "label": "Le Gaulois (08 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372178/manifest.json",
+          "label": "Le Gaulois (09 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537218n/manifest.json",
+          "label": "Le Gaulois (10 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372191/manifest.json",
+          "label": "Le Gaulois (11 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537220z/manifest.json",
+          "label": "Le Gaulois (12 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537221b/manifest.json",
+          "label": "Le Gaulois (13 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537222q/manifest.json",
+          "label": "Le Gaulois (14 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372233/manifest.json",
+          "label": "Le Gaulois (15 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537224g/manifest.json",
+          "label": "Le Gaulois (16 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537225v/manifest.json",
+          "label": "Le Gaulois (17 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372267/manifest.json",
+          "label": "Le Gaulois (18 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537227m/manifest.json",
+          "label": "Le Gaulois (19 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372280/manifest.json",
+          "label": "Le Gaulois (20 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537229c/manifest.json",
+          "label": "Le Gaulois (21 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372309/manifest.json",
+          "label": "Le Gaulois (22 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537231p/manifest.json",
+          "label": "Le Gaulois (23 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372322/manifest.json",
+          "label": "Le Gaulois (24 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537233f/manifest.json",
+          "label": "Le Gaulois (25 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537234t/manifest.json",
+          "label": "Le Gaulois (26 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372356/manifest.json",
+          "label": "Le Gaulois (27 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537236k/manifest.json",
+          "label": "Le Gaulois (28 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537237z/manifest.json",
+          "label": "Le Gaulois (29 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537238b/manifest.json",
+          "label": "Le Gaulois (30 avril 1917)",
+          "type": "Manifest",
+          "navDate": "1917-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537239q/manifest.json",
+          "label": "Le Gaulois (01 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537240n/manifest.json",
+          "label": "Le Gaulois (02 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372411/manifest.json",
+          "label": "Le Gaulois (03 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537242d/manifest.json",
+          "label": "Le Gaulois (04 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537243s/manifest.json",
+          "label": "Le Gaulois (05 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372445/manifest.json",
+          "label": "Le Gaulois (06 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537245j/manifest.json",
+          "label": "Le Gaulois (07 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537246x/manifest.json",
+          "label": "Le Gaulois (08 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372479/manifest.json",
+          "label": "Le Gaulois (09 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537248p/manifest.json",
+          "label": "Le Gaulois (10 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372492/manifest.json",
+          "label": "Le Gaulois (11 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372500/manifest.json",
+          "label": "Le Gaulois (12 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537251c/manifest.json",
+          "label": "Le Gaulois (13 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537252r/manifest.json",
+          "label": "Le Gaulois (14 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372534/manifest.json",
+          "label": "Le Gaulois (15 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537254h/manifest.json",
+          "label": "Le Gaulois (16 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537255w/manifest.json",
+          "label": "Le Gaulois (17 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372568/manifest.json",
+          "label": "Le Gaulois (18 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537257n/manifest.json",
+          "label": "Le Gaulois (19 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372581/manifest.json",
+          "label": "Le Gaulois (20 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537259d/manifest.json",
+          "label": "Le Gaulois (21 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537260b/manifest.json",
+          "label": "Le Gaulois (22 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537261q/manifest.json",
+          "label": "Le Gaulois (23 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372623/manifest.json",
+          "label": "Le Gaulois (24 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537263g/manifest.json",
+          "label": "Le Gaulois (25 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537264v/manifest.json",
+          "label": "Le Gaulois (26 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372657/manifest.json",
+          "label": "Le Gaulois (27 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537266m/manifest.json",
+          "label": "Le Gaulois (28 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372670/manifest.json",
+          "label": "Le Gaulois (29 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537268c/manifest.json",
+          "label": "Le Gaulois (30 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537269r/manifest.json",
+          "label": "Le Gaulois (31 mai 1917)",
+          "type": "Manifest",
+          "navDate": "1917-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537270p/manifest.json",
+          "label": "Le Gaulois (01 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372712/manifest.json",
+          "label": "Le Gaulois (02 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537272f/manifest.json",
+          "label": "Le Gaulois (03 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537273t/manifest.json",
+          "label": "Le Gaulois (04 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372746/manifest.json",
+          "label": "Le Gaulois (05 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537275k/manifest.json",
+          "label": "Le Gaulois (06 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537276z/manifest.json",
+          "label": "Le Gaulois (07 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537277b/manifest.json",
+          "label": "Le Gaulois (08 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537278q/manifest.json",
+          "label": "Le Gaulois (09 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372793/manifest.json",
+          "label": "Le Gaulois (10 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372801/manifest.json",
+          "label": "Le Gaulois (11 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537281d/manifest.json",
+          "label": "Le Gaulois (12 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537282s/manifest.json",
+          "label": "Le Gaulois (13 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372835/manifest.json",
+          "label": "Le Gaulois (14 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537284j/manifest.json",
+          "label": "Le Gaulois (15 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537285x/manifest.json",
+          "label": "Le Gaulois (16 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372869/manifest.json",
+          "label": "Le Gaulois (17 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537287p/manifest.json",
+          "label": "Le Gaulois (18 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372882/manifest.json",
+          "label": "Le Gaulois (19 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537289f/manifest.json",
+          "label": "Le Gaulois (20 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537290c/manifest.json",
+          "label": "Le Gaulois (21 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537291r/manifest.json",
+          "label": "Le Gaulois (22 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372924/manifest.json",
+          "label": "Le Gaulois (23 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537293h/manifest.json",
+          "label": "Le Gaulois (24 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537294w/manifest.json",
+          "label": "Le Gaulois (25 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372958/manifest.json",
+          "label": "Le Gaulois (26 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537296n/manifest.json",
+          "label": "Le Gaulois (27 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5372971/manifest.json",
+          "label": "Le Gaulois (28 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537298d/manifest.json",
+          "label": "Le Gaulois (29 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537299s/manifest.json",
+          "label": "Le Gaulois (30 juin 1917)",
+          "type": "Manifest",
+          "navDate": "1917-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537300k/manifest.json",
+          "label": "Le Gaulois (01 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537301z/manifest.json",
+          "label": "Le Gaulois (02 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537302b/manifest.json",
+          "label": "Le Gaulois (03 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537303q/manifest.json",
+          "label": "Le Gaulois (04 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373043/manifest.json",
+          "label": "Le Gaulois (05 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537305g/manifest.json",
+          "label": "Le Gaulois (06 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537306v/manifest.json",
+          "label": "Le Gaulois (07 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373077/manifest.json",
+          "label": "Le Gaulois (08 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537308m/manifest.json",
+          "label": "Le Gaulois (09 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373090/manifest.json",
+          "label": "Le Gaulois (10 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537310x/manifest.json",
+          "label": "Le Gaulois (11 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373119/manifest.json",
+          "label": "Le Gaulois (12 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537312p/manifest.json",
+          "label": "Le Gaulois (13 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373132/manifest.json",
+          "label": "Le Gaulois (14 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537314f/manifest.json",
+          "label": "Le Gaulois (15 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537315t/manifest.json",
+          "label": "Le Gaulois (16 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373166/manifest.json",
+          "label": "Le Gaulois (17 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537317k/manifest.json",
+          "label": "Le Gaulois (18 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537318z/manifest.json",
+          "label": "Le Gaulois (19 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537319b/manifest.json",
+          "label": "Le Gaulois (20 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373208/manifest.json",
+          "label": "Le Gaulois (21 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537321n/manifest.json",
+          "label": "Le Gaulois (22 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373221/manifest.json",
+          "label": "Le Gaulois (23 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537323d/manifest.json",
+          "label": "Le Gaulois (24 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537324s/manifest.json",
+          "label": "Le Gaulois (25 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373255/manifest.json",
+          "label": "Le Gaulois (26 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537326j/manifest.json",
+          "label": "Le Gaulois (27 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537327x/manifest.json",
+          "label": "Le Gaulois (28 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373289/manifest.json",
+          "label": "Le Gaulois (29 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537329p/manifest.json",
+          "label": "Le Gaulois (30 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537330m/manifest.json",
+          "label": "Le Gaulois (31 juillet 1917)",
+          "type": "Manifest",
+          "navDate": "1917-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373310/manifest.json",
+          "label": "Le Gaulois (01 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537332c/manifest.json",
+          "label": "Le Gaulois (02 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537333r/manifest.json",
+          "label": "Le Gaulois (03 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373344/manifest.json",
+          "label": "Le Gaulois (04 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537335h/manifest.json",
+          "label": "Le Gaulois (05 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537336w/manifest.json",
+          "label": "Le Gaulois (06 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373378/manifest.json",
+          "label": "Le Gaulois (07 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537338n/manifest.json",
+          "label": "Le Gaulois (08 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373391/manifest.json",
+          "label": "Le Gaulois (09 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537340z/manifest.json",
+          "label": "Le Gaulois (10 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537341b/manifest.json",
+          "label": "Le Gaulois (11 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537342q/manifest.json",
+          "label": "Le Gaulois (12 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373433/manifest.json",
+          "label": "Le Gaulois (13 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537344g/manifest.json",
+          "label": "Le Gaulois (14 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537345v/manifest.json",
+          "label": "Le Gaulois (15 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373467/manifest.json",
+          "label": "Le Gaulois (16 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537347m/manifest.json",
+          "label": "Le Gaulois (17 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373480/manifest.json",
+          "label": "Le Gaulois (18 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537349c/manifest.json",
+          "label": "Le Gaulois (19 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373509/manifest.json",
+          "label": "Le Gaulois (20 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537351p/manifest.json",
+          "label": "Le Gaulois (21 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373522/manifest.json",
+          "label": "Le Gaulois (22 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537353f/manifest.json",
+          "label": "Le Gaulois (23 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537354t/manifest.json",
+          "label": "Le Gaulois (24 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373556/manifest.json",
+          "label": "Le Gaulois (25 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537356k/manifest.json",
+          "label": "Le Gaulois (26 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537357z/manifest.json",
+          "label": "Le Gaulois (27 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537358b/manifest.json",
+          "label": "Le Gaulois (28 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537359q/manifest.json",
+          "label": "Le Gaulois (29 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537360n/manifest.json",
+          "label": "Le Gaulois (30 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373611/manifest.json",
+          "label": "Le Gaulois (31 août 1917)",
+          "type": "Manifest",
+          "navDate": "1917-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537362d/manifest.json",
+          "label": "Le Gaulois (01 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537363s/manifest.json",
+          "label": "Le Gaulois (02 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373645/manifest.json",
+          "label": "Le Gaulois (03 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537365j/manifest.json",
+          "label": "Le Gaulois (04 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537366x/manifest.json",
+          "label": "Le Gaulois (05 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373679/manifest.json",
+          "label": "Le Gaulois (06 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537368p/manifest.json",
+          "label": "Le Gaulois (07 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373692/manifest.json",
+          "label": "Le Gaulois (08 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373700/manifest.json",
+          "label": "Le Gaulois (09 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537371c/manifest.json",
+          "label": "Le Gaulois (10 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537372r/manifest.json",
+          "label": "Le Gaulois (11 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373734/manifest.json",
+          "label": "Le Gaulois (12 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537374h/manifest.json",
+          "label": "Le Gaulois (13 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537375w/manifest.json",
+          "label": "Le Gaulois (14 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373768/manifest.json",
+          "label": "Le Gaulois (15 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537377n/manifest.json",
+          "label": "Le Gaulois (16 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373781/manifest.json",
+          "label": "Le Gaulois (17 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537379d/manifest.json",
+          "label": "Le Gaulois (18 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537380b/manifest.json",
+          "label": "Le Gaulois (19 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537381q/manifest.json",
+          "label": "Le Gaulois (20 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373823/manifest.json",
+          "label": "Le Gaulois (21 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537383g/manifest.json",
+          "label": "Le Gaulois (22 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537384v/manifest.json",
+          "label": "Le Gaulois (23 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373857/manifest.json",
+          "label": "Le Gaulois (24 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537386m/manifest.json",
+          "label": "Le Gaulois (25 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373870/manifest.json",
+          "label": "Le Gaulois (26 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537388c/manifest.json",
+          "label": "Le Gaulois (27 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537389r/manifest.json",
+          "label": "Le Gaulois (28 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537390p/manifest.json",
+          "label": "Le Gaulois (29 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373912/manifest.json",
+          "label": "Le Gaulois (30 septembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537392f/manifest.json",
+          "label": "Le Gaulois (01 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537393t/manifest.json",
+          "label": "Le Gaulois (02 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373946/manifest.json",
+          "label": "Le Gaulois (03 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537395k/manifest.json",
+          "label": "Le Gaulois (04 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537396z/manifest.json",
+          "label": "Le Gaulois (05 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537397b/manifest.json",
+          "label": "Le Gaulois (06 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537398q/manifest.json",
+          "label": "Le Gaulois (07 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5373993/manifest.json",
+          "label": "Le Gaulois (08 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537400w/manifest.json",
+          "label": "Le Gaulois (09 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374018/manifest.json",
+          "label": "Le Gaulois (10 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537402n/manifest.json",
+          "label": "Le Gaulois (11 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374031/manifest.json",
+          "label": "Le Gaulois (12 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537404d/manifest.json",
+          "label": "Le Gaulois (13 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537405s/manifest.json",
+          "label": "Le Gaulois (14 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374065/manifest.json",
+          "label": "Le Gaulois (15 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537407j/manifest.json",
+          "label": "Le Gaulois (16 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537408x/manifest.json",
+          "label": "Le Gaulois (17 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374099/manifest.json",
+          "label": "Le Gaulois (18 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374107/manifest.json",
+          "label": "Le Gaulois (19 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537411m/manifest.json",
+          "label": "Le Gaulois (20 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374120/manifest.json",
+          "label": "Le Gaulois (21 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537413c/manifest.json",
+          "label": "Le Gaulois (22 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537414r/manifest.json",
+          "label": "Le Gaulois (23 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374154/manifest.json",
+          "label": "Le Gaulois (24 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537416h/manifest.json",
+          "label": "Le Gaulois (25 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537417w/manifest.json",
+          "label": "Le Gaulois (26 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374188/manifest.json",
+          "label": "Le Gaulois (27 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537419n/manifest.json",
+          "label": "Le Gaulois (28 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537420k/manifest.json",
+          "label": "Le Gaulois (29 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537421z/manifest.json",
+          "label": "Le Gaulois (30 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537422b/manifest.json",
+          "label": "Le Gaulois (31 octobre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537423q/manifest.json",
+          "label": "Le Gaulois (01 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374243/manifest.json",
+          "label": "Le Gaulois (02 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537425g/manifest.json",
+          "label": "Le Gaulois (03 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537426v/manifest.json",
+          "label": "Le Gaulois (04 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374277/manifest.json",
+          "label": "Le Gaulois (05 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537428m/manifest.json",
+          "label": "Le Gaulois (06 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374290/manifest.json",
+          "label": "Le Gaulois (07 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537430x/manifest.json",
+          "label": "Le Gaulois (08 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374319/manifest.json",
+          "label": "Le Gaulois (09 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537432p/manifest.json",
+          "label": "Le Gaulois (10 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374332/manifest.json",
+          "label": "Le Gaulois (11 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537434f/manifest.json",
+          "label": "Le Gaulois (12 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537435t/manifest.json",
+          "label": "Le Gaulois (13 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374366/manifest.json",
+          "label": "Le Gaulois (14 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537437k/manifest.json",
+          "label": "Le Gaulois (15 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537438z/manifest.json",
+          "label": "Le Gaulois (16 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537439b/manifest.json",
+          "label": "Le Gaulois (17 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374408/manifest.json",
+          "label": "Le Gaulois (18 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537441n/manifest.json",
+          "label": "Le Gaulois (19 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374421/manifest.json",
+          "label": "Le Gaulois (20 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537443d/manifest.json",
+          "label": "Le Gaulois (21 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537444s/manifest.json",
+          "label": "Le Gaulois (22 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374455/manifest.json",
+          "label": "Le Gaulois (23 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537446j/manifest.json",
+          "label": "Le Gaulois (24 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537447x/manifest.json",
+          "label": "Le Gaulois (25 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374489/manifest.json",
+          "label": "Le Gaulois (26 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537449p/manifest.json",
+          "label": "Le Gaulois (27 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537450m/manifest.json",
+          "label": "Le Gaulois (28 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374510/manifest.json",
+          "label": "Le Gaulois (29 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537452c/manifest.json",
+          "label": "Le Gaulois (30 novembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537453r/manifest.json",
+          "label": "Le Gaulois (01 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374544/manifest.json",
+          "label": "Le Gaulois (02 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537455h/manifest.json",
+          "label": "Le Gaulois (03 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537456w/manifest.json",
+          "label": "Le Gaulois (04 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374578/manifest.json",
+          "label": "Le Gaulois (05 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537458n/manifest.json",
+          "label": "Le Gaulois (06 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374591/manifest.json",
+          "label": "Le Gaulois (07 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537460z/manifest.json",
+          "label": "Le Gaulois (08 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537461b/manifest.json",
+          "label": "Le Gaulois (09 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537462q/manifest.json",
+          "label": "Le Gaulois (10 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374633/manifest.json",
+          "label": "Le Gaulois (11 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537464g/manifest.json",
+          "label": "Le Gaulois (12 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537465v/manifest.json",
+          "label": "Le Gaulois (13 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374667/manifest.json",
+          "label": "Le Gaulois (14 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537467m/manifest.json",
+          "label": "Le Gaulois (15 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374680/manifest.json",
+          "label": "Le Gaulois (16 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537469c/manifest.json",
+          "label": "Le Gaulois (17 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374709/manifest.json",
+          "label": "Le Gaulois (18 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537471p/manifest.json",
+          "label": "Le Gaulois (19 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374722/manifest.json",
+          "label": "Le Gaulois (20 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537473f/manifest.json",
+          "label": "Le Gaulois (21 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537474t/manifest.json",
+          "label": "Le Gaulois (22 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374756/manifest.json",
+          "label": "Le Gaulois (23 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537476k/manifest.json",
+          "label": "Le Gaulois (24 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537477z/manifest.json",
+          "label": "Le Gaulois (25 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537478b/manifest.json",
+          "label": "Le Gaulois (26 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537479q/manifest.json",
+          "label": "Le Gaulois (27 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537480n/manifest.json",
+          "label": "Le Gaulois (28 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5374811/manifest.json",
+          "label": "Le Gaulois (29 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537482d/manifest.json",
+          "label": "Le Gaulois (30 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k537483s/manifest.json",
+          "label": "Le Gaulois (31 décembre 1917)",
+          "type": "Manifest",
+          "navDate": "1917-12-31"
+       }]
+    }

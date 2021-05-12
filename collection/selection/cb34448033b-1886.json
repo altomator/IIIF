@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb34448033b-1886.json",
+  "type": "Collection",
+  "label": { "fr": [ "La Presse (1886)" ], "en": [ "La Presse (1886)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre La Presse pour l'ann&#xE9;e 1886" ], "en": [ "This collection gathers all the issues of the title La Presse for the year 1886" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb34448033b/date1886",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : La Presse (1886)" ],"en": [ "Gallica periodical: La Presse (1886)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb34448033b/date1886",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : La Presse (1886)" ],"en": [ "Gallica periodical: La Presse (1886)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5452080/manifest.json",
+          "label": "La Presse (21 mai 1886)",
+          "type": "Manifest",
+          "navDate": "1886-05-21"
+       }]
+    }

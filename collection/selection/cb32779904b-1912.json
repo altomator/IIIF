@@ -1,0 +1,1856 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1912.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1912)" ], "en": [ "Le Gaulois (1912)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1912" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1912" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1912",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1912)" ],"en": [ "Gallica periodical: Le Gaulois (1912)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1912",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1912)" ],"en": [ "Gallica periodical: Le Gaulois (1912)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535293z/manifest.json",
+          "label": "Le Gaulois (01 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535294b/manifest.json",
+          "label": "Le Gaulois (02 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535295q/manifest.json",
+          "label": "Le Gaulois (03 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352963/manifest.json",
+          "label": "Le Gaulois (04 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535297g/manifest.json",
+          "label": "Le Gaulois (05 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535298v/manifest.json",
+          "label": "Le Gaulois (06 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5352997/manifest.json",
+          "label": "Le Gaulois (07 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353001/manifest.json",
+          "label": "Le Gaulois (08 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535301d/manifest.json",
+          "label": "Le Gaulois (09 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535302s/manifest.json",
+          "label": "Le Gaulois (10 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353035/manifest.json",
+          "label": "Le Gaulois (11 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535304j/manifest.json",
+          "label": "Le Gaulois (12 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535305x/manifest.json",
+          "label": "Le Gaulois (13 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353069/manifest.json",
+          "label": "Le Gaulois (14 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535307p/manifest.json",
+          "label": "Le Gaulois (15 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353082/manifest.json",
+          "label": "Le Gaulois (16 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535309f/manifest.json",
+          "label": "Le Gaulois (17 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535310c/manifest.json",
+          "label": "Le Gaulois (18 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535311r/manifest.json",
+          "label": "Le Gaulois (19 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353124/manifest.json",
+          "label": "Le Gaulois (20 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535313h/manifest.json",
+          "label": "Le Gaulois (21 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535314w/manifest.json",
+          "label": "Le Gaulois (22 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353158/manifest.json",
+          "label": "Le Gaulois (23 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535316n/manifest.json",
+          "label": "Le Gaulois (24 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353171/manifest.json",
+          "label": "Le Gaulois (25 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535318d/manifest.json",
+          "label": "Le Gaulois (26 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535319s/manifest.json",
+          "label": "Le Gaulois (27 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535320q/manifest.json",
+          "label": "Le Gaulois (28 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353213/manifest.json",
+          "label": "Le Gaulois (29 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535322g/manifest.json",
+          "label": "Le Gaulois (30 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535323v/manifest.json",
+          "label": "Le Gaulois (31 janvier 1912)",
+          "type": "Manifest",
+          "navDate": "1912-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353247/manifest.json",
+          "label": "Le Gaulois (01 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535325m/manifest.json",
+          "label": "Le Gaulois (02 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353260/manifest.json",
+          "label": "Le Gaulois (03 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535327c/manifest.json",
+          "label": "Le Gaulois (04 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535328r/manifest.json",
+          "label": "Le Gaulois (05 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353294/manifest.json",
+          "label": "Le Gaulois (06 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353302/manifest.json",
+          "label": "Le Gaulois (07 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535331f/manifest.json",
+          "label": "Le Gaulois (08 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535332t/manifest.json",
+          "label": "Le Gaulois (09 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353336/manifest.json",
+          "label": "Le Gaulois (10 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535334k/manifest.json",
+          "label": "Le Gaulois (11 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535335z/manifest.json",
+          "label": "Le Gaulois (12 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535336b/manifest.json",
+          "label": "Le Gaulois (13 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535337q/manifest.json",
+          "label": "Le Gaulois (14 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353383/manifest.json",
+          "label": "Le Gaulois (15 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535339g/manifest.json",
+          "label": "Le Gaulois (16 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535340d/manifest.json",
+          "label": "Le Gaulois (17 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535341s/manifest.json",
+          "label": "Le Gaulois (18 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353425/manifest.json",
+          "label": "Le Gaulois (19 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535343j/manifest.json",
+          "label": "Le Gaulois (20 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535344x/manifest.json",
+          "label": "Le Gaulois (21 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353459/manifest.json",
+          "label": "Le Gaulois (22 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535346p/manifest.json",
+          "label": "Le Gaulois (23 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353472/manifest.json",
+          "label": "Le Gaulois (24 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535348f/manifest.json",
+          "label": "Le Gaulois (25 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535349t/manifest.json",
+          "label": "Le Gaulois (26 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535350r/manifest.json",
+          "label": "Le Gaulois (27 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353514/manifest.json",
+          "label": "Le Gaulois (28 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535352h/manifest.json",
+          "label": "Le Gaulois (29 février 1912)",
+          "type": "Manifest",
+          "navDate": "1912-02-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535353w/manifest.json",
+          "label": "Le Gaulois (01 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353548/manifest.json",
+          "label": "Le Gaulois (02 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535355n/manifest.json",
+          "label": "Le Gaulois (03 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353561/manifest.json",
+          "label": "Le Gaulois (04 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535357d/manifest.json",
+          "label": "Le Gaulois (05 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535358s/manifest.json",
+          "label": "Le Gaulois (06 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353595/manifest.json",
+          "label": "Le Gaulois (07 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353603/manifest.json",
+          "label": "Le Gaulois (08 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535361g/manifest.json",
+          "label": "Le Gaulois (09 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535362v/manifest.json",
+          "label": "Le Gaulois (10 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353637/manifest.json",
+          "label": "Le Gaulois (11 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535364m/manifest.json",
+          "label": "Le Gaulois (12 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353650/manifest.json",
+          "label": "Le Gaulois (13 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535366c/manifest.json",
+          "label": "Le Gaulois (14 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535367r/manifest.json",
+          "label": "Le Gaulois (15 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353684/manifest.json",
+          "label": "Le Gaulois (16 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535369h/manifest.json",
+          "label": "Le Gaulois (17 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535370f/manifest.json",
+          "label": "Le Gaulois (18 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535371t/manifest.json",
+          "label": "Le Gaulois (19 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353726/manifest.json",
+          "label": "Le Gaulois (20 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535373k/manifest.json",
+          "label": "Le Gaulois (21 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535374z/manifest.json",
+          "label": "Le Gaulois (22 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535375b/manifest.json",
+          "label": "Le Gaulois (23 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535376q/manifest.json",
+          "label": "Le Gaulois (24 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353773/manifest.json",
+          "label": "Le Gaulois (25 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535378g/manifest.json",
+          "label": "Le Gaulois (26 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535379v/manifest.json",
+          "label": "Le Gaulois (27 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535380s/manifest.json",
+          "label": "Le Gaulois (28 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353815/manifest.json",
+          "label": "Le Gaulois (29 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535382j/manifest.json",
+          "label": "Le Gaulois (30 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535383x/manifest.json",
+          "label": "Le Gaulois (31 mars 1912)",
+          "type": "Manifest",
+          "navDate": "1912-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353849/manifest.json",
+          "label": "Le Gaulois (01 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535385p/manifest.json",
+          "label": "Le Gaulois (02 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353862/manifest.json",
+          "label": "Le Gaulois (03 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535387f/manifest.json",
+          "label": "Le Gaulois (04 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535388t/manifest.json",
+          "label": "Le Gaulois (05 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353896/manifest.json",
+          "label": "Le Gaulois (06 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353904/manifest.json",
+          "label": "Le Gaulois (07 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535391h/manifest.json",
+          "label": "Le Gaulois (08 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535392w/manifest.json",
+          "label": "Le Gaulois (09 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353938/manifest.json",
+          "label": "Le Gaulois (10 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535394n/manifest.json",
+          "label": "Le Gaulois (11 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353951/manifest.json",
+          "label": "Le Gaulois (12 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535396d/manifest.json",
+          "label": "Le Gaulois (13 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535397s/manifest.json",
+          "label": "Le Gaulois (14 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5353985/manifest.json",
+          "label": "Le Gaulois (15 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535399j/manifest.json",
+          "label": "Le Gaulois (16 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535400b/manifest.json",
+          "label": "Le Gaulois (17 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535401q/manifest.json",
+          "label": "Le Gaulois (18 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354023/manifest.json",
+          "label": "Le Gaulois (19 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535403g/manifest.json",
+          "label": "Le Gaulois (20 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535404v/manifest.json",
+          "label": "Le Gaulois (21 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354057/manifest.json",
+          "label": "Le Gaulois (22 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535406m/manifest.json",
+          "label": "Le Gaulois (23 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354070/manifest.json",
+          "label": "Le Gaulois (24 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535408c/manifest.json",
+          "label": "Le Gaulois (25 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535409r/manifest.json",
+          "label": "Le Gaulois (26 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535410p/manifest.json",
+          "label": "Le Gaulois (27 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354112/manifest.json",
+          "label": "Le Gaulois (28 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535412f/manifest.json",
+          "label": "Le Gaulois (29 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535413t/manifest.json",
+          "label": "Le Gaulois (30 avril 1912)",
+          "type": "Manifest",
+          "navDate": "1912-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354146/manifest.json",
+          "label": "Le Gaulois (01 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535415k/manifest.json",
+          "label": "Le Gaulois (02 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535416z/manifest.json",
+          "label": "Le Gaulois (03 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535417b/manifest.json",
+          "label": "Le Gaulois (04 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535418q/manifest.json",
+          "label": "Le Gaulois (05 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354193/manifest.json",
+          "label": "Le Gaulois (06 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354201/manifest.json",
+          "label": "Le Gaulois (07 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535421d/manifest.json",
+          "label": "Le Gaulois (08 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535422s/manifest.json",
+          "label": "Le Gaulois (09 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354235/manifest.json",
+          "label": "Le Gaulois (10 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535424j/manifest.json",
+          "label": "Le Gaulois (11 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535425x/manifest.json",
+          "label": "Le Gaulois (12 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354269/manifest.json",
+          "label": "Le Gaulois (13 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535427p/manifest.json",
+          "label": "Le Gaulois (14 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354282/manifest.json",
+          "label": "Le Gaulois (15 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535429f/manifest.json",
+          "label": "Le Gaulois (16 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535430c/manifest.json",
+          "label": "Le Gaulois (17 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535431r/manifest.json",
+          "label": "Le Gaulois (18 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354324/manifest.json",
+          "label": "Le Gaulois (19 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535433h/manifest.json",
+          "label": "Le Gaulois (20 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535434w/manifest.json",
+          "label": "Le Gaulois (21 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354358/manifest.json",
+          "label": "Le Gaulois (22 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535436n/manifest.json",
+          "label": "Le Gaulois (23 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354371/manifest.json",
+          "label": "Le Gaulois (24 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535438d/manifest.json",
+          "label": "Le Gaulois (25 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535439s/manifest.json",
+          "label": "Le Gaulois (26 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535440q/manifest.json",
+          "label": "Le Gaulois (27 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354413/manifest.json",
+          "label": "Le Gaulois (28 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535442g/manifest.json",
+          "label": "Le Gaulois (29 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535443v/manifest.json",
+          "label": "Le Gaulois (30 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354447/manifest.json",
+          "label": "Le Gaulois (31 mai 1912)",
+          "type": "Manifest",
+          "navDate": "1912-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535445m/manifest.json",
+          "label": "Le Gaulois (01 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354460/manifest.json",
+          "label": "Le Gaulois (02 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535447c/manifest.json",
+          "label": "Le Gaulois (03 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535448r/manifest.json",
+          "label": "Le Gaulois (04 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354494/manifest.json",
+          "label": "Le Gaulois (05 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354502/manifest.json",
+          "label": "Le Gaulois (06 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535451f/manifest.json",
+          "label": "Le Gaulois (07 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535452t/manifest.json",
+          "label": "Le Gaulois (08 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354536/manifest.json",
+          "label": "Le Gaulois (09 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535454k/manifest.json",
+          "label": "Le Gaulois (10 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535455z/manifest.json",
+          "label": "Le Gaulois (11 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535456b/manifest.json",
+          "label": "Le Gaulois (12 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535457q/manifest.json",
+          "label": "Le Gaulois (13 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354583/manifest.json",
+          "label": "Le Gaulois (14 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535459g/manifest.json",
+          "label": "Le Gaulois (15 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535460d/manifest.json",
+          "label": "Le Gaulois (16 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535461s/manifest.json",
+          "label": "Le Gaulois (17 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354625/manifest.json",
+          "label": "Le Gaulois (18 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535463j/manifest.json",
+          "label": "Le Gaulois (19 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535464x/manifest.json",
+          "label": "Le Gaulois (20 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354659/manifest.json",
+          "label": "Le Gaulois (21 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535466p/manifest.json",
+          "label": "Le Gaulois (22 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354672/manifest.json",
+          "label": "Le Gaulois (23 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535468f/manifest.json",
+          "label": "Le Gaulois (24 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535469t/manifest.json",
+          "label": "Le Gaulois (25 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535470r/manifest.json",
+          "label": "Le Gaulois (26 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354714/manifest.json",
+          "label": "Le Gaulois (27 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535472h/manifest.json",
+          "label": "Le Gaulois (28 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535473w/manifest.json",
+          "label": "Le Gaulois (29 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354748/manifest.json",
+          "label": "Le Gaulois (30 juin 1912)",
+          "type": "Manifest",
+          "navDate": "1912-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535475n/manifest.json",
+          "label": "Le Gaulois (01 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354761/manifest.json",
+          "label": "Le Gaulois (02 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535477d/manifest.json",
+          "label": "Le Gaulois (03 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535478s/manifest.json",
+          "label": "Le Gaulois (04 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354795/manifest.json",
+          "label": "Le Gaulois (05 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354803/manifest.json",
+          "label": "Le Gaulois (06 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535481g/manifest.json",
+          "label": "Le Gaulois (07 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535482v/manifest.json",
+          "label": "Le Gaulois (08 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354837/manifest.json",
+          "label": "Le Gaulois (09 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535484m/manifest.json",
+          "label": "Le Gaulois (10 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354850/manifest.json",
+          "label": "Le Gaulois (11 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535486c/manifest.json",
+          "label": "Le Gaulois (12 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535487r/manifest.json",
+          "label": "Le Gaulois (13 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354884/manifest.json",
+          "label": "Le Gaulois (14 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535489h/manifest.json",
+          "label": "Le Gaulois (15 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535490f/manifest.json",
+          "label": "Le Gaulois (16 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535491t/manifest.json",
+          "label": "Le Gaulois (17 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354926/manifest.json",
+          "label": "Le Gaulois (18 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535493k/manifest.json",
+          "label": "Le Gaulois (19 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535494z/manifest.json",
+          "label": "Le Gaulois (20 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535495b/manifest.json",
+          "label": "Le Gaulois (21 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535496q/manifest.json",
+          "label": "Le Gaulois (22 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5354973/manifest.json",
+          "label": "Le Gaulois (23 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535498g/manifest.json",
+          "label": "Le Gaulois (24 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535499v/manifest.json",
+          "label": "Le Gaulois (25 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535500n/manifest.json",
+          "label": "Le Gaulois (26 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355011/manifest.json",
+          "label": "Le Gaulois (27 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535502d/manifest.json",
+          "label": "Le Gaulois (28 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535503s/manifest.json",
+          "label": "Le Gaulois (29 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355045/manifest.json",
+          "label": "Le Gaulois (30 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535505j/manifest.json",
+          "label": "Le Gaulois (31 juillet 1912)",
+          "type": "Manifest",
+          "navDate": "1912-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535506x/manifest.json",
+          "label": "Le Gaulois (01 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355079/manifest.json",
+          "label": "Le Gaulois (02 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535508p/manifest.json",
+          "label": "Le Gaulois (03 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355092/manifest.json",
+          "label": "Le Gaulois (04 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355100/manifest.json",
+          "label": "Le Gaulois (05 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535511c/manifest.json",
+          "label": "Le Gaulois (06 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535512r/manifest.json",
+          "label": "Le Gaulois (07 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355134/manifest.json",
+          "label": "Le Gaulois (08 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535514h/manifest.json",
+          "label": "Le Gaulois (09 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535515w/manifest.json",
+          "label": "Le Gaulois (10 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355168/manifest.json",
+          "label": "Le Gaulois (11 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535517n/manifest.json",
+          "label": "Le Gaulois (12 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355181/manifest.json",
+          "label": "Le Gaulois (13 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535519d/manifest.json",
+          "label": "Le Gaulois (14 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535520b/manifest.json",
+          "label": "Le Gaulois (15 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535521q/manifest.json",
+          "label": "Le Gaulois (16 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355223/manifest.json",
+          "label": "Le Gaulois (17 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535523g/manifest.json",
+          "label": "Le Gaulois (18 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535524v/manifest.json",
+          "label": "Le Gaulois (19 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355257/manifest.json",
+          "label": "Le Gaulois (20 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535526m/manifest.json",
+          "label": "Le Gaulois (21 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355270/manifest.json",
+          "label": "Le Gaulois (22 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535528c/manifest.json",
+          "label": "Le Gaulois (23 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535529r/manifest.json",
+          "label": "Le Gaulois (24 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535530p/manifest.json",
+          "label": "Le Gaulois (25 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355312/manifest.json",
+          "label": "Le Gaulois (26 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535532f/manifest.json",
+          "label": "Le Gaulois (27 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535533t/manifest.json",
+          "label": "Le Gaulois (28 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355346/manifest.json",
+          "label": "Le Gaulois (29 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535535k/manifest.json",
+          "label": "Le Gaulois (30 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535536z/manifest.json",
+          "label": "Le Gaulois (31 août 1912)",
+          "type": "Manifest",
+          "navDate": "1912-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535537b/manifest.json",
+          "label": "Le Gaulois (01 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535538q/manifest.json",
+          "label": "Le Gaulois (02 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355393/manifest.json",
+          "label": "Le Gaulois (03 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355401/manifest.json",
+          "label": "Le Gaulois (04 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535541d/manifest.json",
+          "label": "Le Gaulois (05 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535542s/manifest.json",
+          "label": "Le Gaulois (06 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355435/manifest.json",
+          "label": "Le Gaulois (07 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535544j/manifest.json",
+          "label": "Le Gaulois (08 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535545x/manifest.json",
+          "label": "Le Gaulois (09 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355469/manifest.json",
+          "label": "Le Gaulois (10 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535547p/manifest.json",
+          "label": "Le Gaulois (11 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355482/manifest.json",
+          "label": "Le Gaulois (12 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535549f/manifest.json",
+          "label": "Le Gaulois (13 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535550c/manifest.json",
+          "label": "Le Gaulois (14 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535551r/manifest.json",
+          "label": "Le Gaulois (15 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355524/manifest.json",
+          "label": "Le Gaulois (16 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535553h/manifest.json",
+          "label": "Le Gaulois (17 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535554w/manifest.json",
+          "label": "Le Gaulois (18 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355558/manifest.json",
+          "label": "Le Gaulois (19 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535556n/manifest.json",
+          "label": "Le Gaulois (20 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355571/manifest.json",
+          "label": "Le Gaulois (21 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535558d/manifest.json",
+          "label": "Le Gaulois (22 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535559s/manifest.json",
+          "label": "Le Gaulois (23 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535560q/manifest.json",
+          "label": "Le Gaulois (24 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355613/manifest.json",
+          "label": "Le Gaulois (25 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535562g/manifest.json",
+          "label": "Le Gaulois (26 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535563v/manifest.json",
+          "label": "Le Gaulois (27 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355647/manifest.json",
+          "label": "Le Gaulois (28 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535565m/manifest.json",
+          "label": "Le Gaulois (29 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355660/manifest.json",
+          "label": "Le Gaulois (30 septembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535567c/manifest.json",
+          "label": "Le Gaulois (01 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535568r/manifest.json",
+          "label": "Le Gaulois (02 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355694/manifest.json",
+          "label": "Le Gaulois (03 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355702/manifest.json",
+          "label": "Le Gaulois (04 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535571f/manifest.json",
+          "label": "Le Gaulois (05 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535572t/manifest.json",
+          "label": "Le Gaulois (06 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355736/manifest.json",
+          "label": "Le Gaulois (07 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535574k/manifest.json",
+          "label": "Le Gaulois (08 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535575z/manifest.json",
+          "label": "Le Gaulois (09 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535576b/manifest.json",
+          "label": "Le Gaulois (10 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535577q/manifest.json",
+          "label": "Le Gaulois (11 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355783/manifest.json",
+          "label": "Le Gaulois (12 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535579g/manifest.json",
+          "label": "Le Gaulois (13 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535580d/manifest.json",
+          "label": "Le Gaulois (14 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535581s/manifest.json",
+          "label": "Le Gaulois (15 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355825/manifest.json",
+          "label": "Le Gaulois (16 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535583j/manifest.json",
+          "label": "Le Gaulois (17 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535584x/manifest.json",
+          "label": "Le Gaulois (18 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355859/manifest.json",
+          "label": "Le Gaulois (19 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535586p/manifest.json",
+          "label": "Le Gaulois (20 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355872/manifest.json",
+          "label": "Le Gaulois (21 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535588f/manifest.json",
+          "label": "Le Gaulois (22 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535589t/manifest.json",
+          "label": "Le Gaulois (23 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535590r/manifest.json",
+          "label": "Le Gaulois (24 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355914/manifest.json",
+          "label": "Le Gaulois (25 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535592h/manifest.json",
+          "label": "Le Gaulois (26 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535593w/manifest.json",
+          "label": "Le Gaulois (27 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355948/manifest.json",
+          "label": "Le Gaulois (28 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535595n/manifest.json",
+          "label": "Le Gaulois (29 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355961/manifest.json",
+          "label": "Le Gaulois (30 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535597d/manifest.json",
+          "label": "Le Gaulois (31 octobre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535598s/manifest.json",
+          "label": "Le Gaulois (01 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5355995/manifest.json",
+          "label": "Le Gaulois (02 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535600z/manifest.json",
+          "label": "Le Gaulois (03 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535601b/manifest.json",
+          "label": "Le Gaulois (04 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535602q/manifest.json",
+          "label": "Le Gaulois (05 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356033/manifest.json",
+          "label": "Le Gaulois (06 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535604g/manifest.json",
+          "label": "Le Gaulois (07 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535605v/manifest.json",
+          "label": "Le Gaulois (08 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356067/manifest.json",
+          "label": "Le Gaulois (09 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535607m/manifest.json",
+          "label": "Le Gaulois (10 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356080/manifest.json",
+          "label": "Le Gaulois (11 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535609c/manifest.json",
+          "label": "Le Gaulois (12 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356109/manifest.json",
+          "label": "Le Gaulois (13 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535611p/manifest.json",
+          "label": "Le Gaulois (14 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356122/manifest.json",
+          "label": "Le Gaulois (15 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535613f/manifest.json",
+          "label": "Le Gaulois (16 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535614t/manifest.json",
+          "label": "Le Gaulois (17 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356156/manifest.json",
+          "label": "Le Gaulois (18 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535616k/manifest.json",
+          "label": "Le Gaulois (19 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535617z/manifest.json",
+          "label": "Le Gaulois (20 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535618b/manifest.json",
+          "label": "Le Gaulois (21 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535619q/manifest.json",
+          "label": "Le Gaulois (22 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535620n/manifest.json",
+          "label": "Le Gaulois (23 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356211/manifest.json",
+          "label": "Le Gaulois (24 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535622d/manifest.json",
+          "label": "Le Gaulois (25 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535623s/manifest.json",
+          "label": "Le Gaulois (26 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356245/manifest.json",
+          "label": "Le Gaulois (27 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535625j/manifest.json",
+          "label": "Le Gaulois (28 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535626x/manifest.json",
+          "label": "Le Gaulois (29 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356279/manifest.json",
+          "label": "Le Gaulois (30 novembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535628p/manifest.json",
+          "label": "Le Gaulois (01 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356292/manifest.json",
+          "label": "Le Gaulois (02 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356300/manifest.json",
+          "label": "Le Gaulois (03 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535631c/manifest.json",
+          "label": "Le Gaulois (04 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535632r/manifest.json",
+          "label": "Le Gaulois (05 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356334/manifest.json",
+          "label": "Le Gaulois (06 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535634h/manifest.json",
+          "label": "Le Gaulois (07 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535635w/manifest.json",
+          "label": "Le Gaulois (08 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356368/manifest.json",
+          "label": "Le Gaulois (09 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535637n/manifest.json",
+          "label": "Le Gaulois (10 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356381/manifest.json",
+          "label": "Le Gaulois (11 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535639d/manifest.json",
+          "label": "Le Gaulois (12 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535640b/manifest.json",
+          "label": "Le Gaulois (13 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535641q/manifest.json",
+          "label": "Le Gaulois (14 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356423/manifest.json",
+          "label": "Le Gaulois (15 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535643g/manifest.json",
+          "label": "Le Gaulois (16 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535644v/manifest.json",
+          "label": "Le Gaulois (17 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356457/manifest.json",
+          "label": "Le Gaulois (18 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535646m/manifest.json",
+          "label": "Le Gaulois (19 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356470/manifest.json",
+          "label": "Le Gaulois (20 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535648c/manifest.json",
+          "label": "Le Gaulois (21 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535649r/manifest.json",
+          "label": "Le Gaulois (22 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535650p/manifest.json",
+          "label": "Le Gaulois (23 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356512/manifest.json",
+          "label": "Le Gaulois (24 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535652f/manifest.json",
+          "label": "Le Gaulois (25 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535653t/manifest.json",
+          "label": "Le Gaulois (26 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5356546/manifest.json",
+          "label": "Le Gaulois (27 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535655k/manifest.json",
+          "label": "Le Gaulois (28 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535656z/manifest.json",
+          "label": "Le Gaulois (29 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535657b/manifest.json",
+          "label": "Le Gaulois (30 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k535658q/manifest.json",
+          "label": "Le Gaulois (31 décembre 1912)",
+          "type": "Manifest",
+          "navDate": "1912-12-31"
+       }]
+    }

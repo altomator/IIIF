@@ -1,0 +1,1891 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb32779904b-1884.json",
+  "type": "Collection",
+  "label": { "fr": [ "Le Gaulois (1884)" ], "en": [ "Le Gaulois (1884)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Le Gaulois pour l'ann&#xE9;e 1884" ], "en": [ "This collection gathers all the issues of the title Le Gaulois for the year 1884" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1884",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Le Gaulois (1884)" ],"en": [ "Gallica periodical: Le Gaulois (1884)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb32779904b/date1884",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Le Gaulois (1884)" ],"en": [ "Gallica periodical: Le Gaulois (1884)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524876r/manifest.json",
+          "label": "Le Gaulois (01 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5248774/manifest.json",
+          "label": "Le Gaulois (02 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524878h/manifest.json",
+          "label": "Le Gaulois (03 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524879w/manifest.json",
+          "label": "Le Gaulois (04 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524880t/manifest.json",
+          "label": "Le Gaulois (05 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5248816/manifest.json",
+          "label": "Le Gaulois (06 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524882k/manifest.json",
+          "label": "Le Gaulois (07 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524883z/manifest.json",
+          "label": "Le Gaulois (08 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524884b/manifest.json",
+          "label": "Le Gaulois (09 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524885q/manifest.json",
+          "label": "Le Gaulois (10 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5248863/manifest.json",
+          "label": "Le Gaulois (11 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524887g/manifest.json",
+          "label": "Le Gaulois (12 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524888v/manifest.json",
+          "label": "Le Gaulois (13 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5248897/manifest.json",
+          "label": "Le Gaulois (14 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5248905/manifest.json",
+          "label": "Le Gaulois (15 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524891j/manifest.json",
+          "label": "Le Gaulois (16 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524892x/manifest.json",
+          "label": "Le Gaulois (17 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5248939/manifest.json",
+          "label": "Le Gaulois (18 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524894p/manifest.json",
+          "label": "Le Gaulois (19 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5248952/manifest.json",
+          "label": "Le Gaulois (20 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524896f/manifest.json",
+          "label": "Le Gaulois (21 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524897t/manifest.json",
+          "label": "Le Gaulois (22 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5248986/manifest.json",
+          "label": "Le Gaulois (23 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524899k/manifest.json",
+          "label": "Le Gaulois (24 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524900c/manifest.json",
+          "label": "Le Gaulois (25 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524901r/manifest.json",
+          "label": "Le Gaulois (26 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249024/manifest.json",
+          "label": "Le Gaulois (27 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524903h/manifest.json",
+          "label": "Le Gaulois (28 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524904w/manifest.json",
+          "label": "Le Gaulois (29 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249058/manifest.json",
+          "label": "Le Gaulois (30 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524906n/manifest.json",
+          "label": "Le Gaulois (31 janvier 1884)",
+          "type": "Manifest",
+          "navDate": "1884-01-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249071/manifest.json",
+          "label": "Le Gaulois (01 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524908d/manifest.json",
+          "label": "Le Gaulois (02 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524909s/manifest.json",
+          "label": "Le Gaulois (03 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524910q/manifest.json",
+          "label": "Le Gaulois (04 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249113/manifest.json",
+          "label": "Le Gaulois (05 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524912g/manifest.json",
+          "label": "Le Gaulois (06 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524913v/manifest.json",
+          "label": "Le Gaulois (07 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249147/manifest.json",
+          "label": "Le Gaulois (08 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524915m/manifest.json",
+          "label": "Le Gaulois (09 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249160/manifest.json",
+          "label": "Le Gaulois (10 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524917c/manifest.json",
+          "label": "Le Gaulois (11 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524918r/manifest.json",
+          "label": "Le Gaulois (12 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249194/manifest.json",
+          "label": "Le Gaulois (13 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249202/manifest.json",
+          "label": "Le Gaulois (14 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524921f/manifest.json",
+          "label": "Le Gaulois (15 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524922t/manifest.json",
+          "label": "Le Gaulois (16 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249236/manifest.json",
+          "label": "Le Gaulois (17 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524924k/manifest.json",
+          "label": "Le Gaulois (18 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524925z/manifest.json",
+          "label": "Le Gaulois (19 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524926b/manifest.json",
+          "label": "Le Gaulois (20 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524927q/manifest.json",
+          "label": "Le Gaulois (21 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249283/manifest.json",
+          "label": "Le Gaulois (22 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524929g/manifest.json",
+          "label": "Le Gaulois (23 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524930d/manifest.json",
+          "label": "Le Gaulois (24 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524931s/manifest.json",
+          "label": "Le Gaulois (25 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249325/manifest.json",
+          "label": "Le Gaulois (26 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524933j/manifest.json",
+          "label": "Le Gaulois (27 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524934x/manifest.json",
+          "label": "Le Gaulois (28 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249359/manifest.json",
+          "label": "Le Gaulois (29 février 1884)",
+          "type": "Manifest",
+          "navDate": "1884-02-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524936p/manifest.json",
+          "label": "Le Gaulois (01 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249372/manifest.json",
+          "label": "Le Gaulois (02 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524938f/manifest.json",
+          "label": "Le Gaulois (03 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524939t/manifest.json",
+          "label": "Le Gaulois (04 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524940r/manifest.json",
+          "label": "Le Gaulois (05 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249414/manifest.json",
+          "label": "Le Gaulois (06 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524942h/manifest.json",
+          "label": "Le Gaulois (07 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524943w/manifest.json",
+          "label": "Le Gaulois (08 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249448/manifest.json",
+          "label": "Le Gaulois (09 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524945n/manifest.json",
+          "label": "Le Gaulois (10 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249461/manifest.json",
+          "label": "Le Gaulois (11 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524947d/manifest.json",
+          "label": "Le Gaulois (12 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524948s/manifest.json",
+          "label": "Le Gaulois (13 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249495/manifest.json",
+          "label": "Le Gaulois (14 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249503/manifest.json",
+          "label": "Le Gaulois (15 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524951g/manifest.json",
+          "label": "Le Gaulois (16 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524952v/manifest.json",
+          "label": "Le Gaulois (17 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249537/manifest.json",
+          "label": "Le Gaulois (18 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524954m/manifest.json",
+          "label": "Le Gaulois (19 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249550/manifest.json",
+          "label": "Le Gaulois (20 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524956c/manifest.json",
+          "label": "Le Gaulois (21 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524957r/manifest.json",
+          "label": "Le Gaulois (22 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249584/manifest.json",
+          "label": "Le Gaulois (23 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524959h/manifest.json",
+          "label": "Le Gaulois (24 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524960f/manifest.json",
+          "label": "Le Gaulois (25 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524961t/manifest.json",
+          "label": "Le Gaulois (26 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249626/manifest.json",
+          "label": "Le Gaulois (27 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524963k/manifest.json",
+          "label": "Le Gaulois (28 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524964z/manifest.json",
+          "label": "Le Gaulois (29 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524965b/manifest.json",
+          "label": "Le Gaulois (30 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524966q/manifest.json",
+          "label": "Le Gaulois (31 mars 1884)",
+          "type": "Manifest",
+          "navDate": "1884-03-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249673/manifest.json",
+          "label": "Le Gaulois (01 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524968g/manifest.json",
+          "label": "Le Gaulois (02 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524969v/manifest.json",
+          "label": "Le Gaulois (03 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524970s/manifest.json",
+          "label": "Le Gaulois (04 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249715/manifest.json",
+          "label": "Le Gaulois (05 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524972j/manifest.json",
+          "label": "Le Gaulois (06 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524973x/manifest.json",
+          "label": "Le Gaulois (07 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249749/manifest.json",
+          "label": "Le Gaulois (08 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524975p/manifest.json",
+          "label": "Le Gaulois (09 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249762/manifest.json",
+          "label": "Le Gaulois (10 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524977f/manifest.json",
+          "label": "Le Gaulois (11 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524978t/manifest.json",
+          "label": "Le Gaulois (12 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249796/manifest.json",
+          "label": "Le Gaulois (13 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249804/manifest.json",
+          "label": "Le Gaulois (14 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524981h/manifest.json",
+          "label": "Le Gaulois (15 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524982w/manifest.json",
+          "label": "Le Gaulois (16 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249838/manifest.json",
+          "label": "Le Gaulois (17 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524984n/manifest.json",
+          "label": "Le Gaulois (18 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249851/manifest.json",
+          "label": "Le Gaulois (19 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524986d/manifest.json",
+          "label": "Le Gaulois (20 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524987s/manifest.json",
+          "label": "Le Gaulois (21 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249885/manifest.json",
+          "label": "Le Gaulois (22 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524989j/manifest.json",
+          "label": "Le Gaulois (23 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524990g/manifest.json",
+          "label": "Le Gaulois (24 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524991v/manifest.json",
+          "label": "Le Gaulois (25 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249927/manifest.json",
+          "label": "Le Gaulois (26 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524993m/manifest.json",
+          "label": "Le Gaulois (27 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249940/manifest.json",
+          "label": "Le Gaulois (28 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524995c/manifest.json",
+          "label": "Le Gaulois (29 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524996r/manifest.json",
+          "label": "Le Gaulois (30 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5249974/manifest.json",
+          "label": "Le Gaulois (30 avril 1884)",
+          "type": "Manifest",
+          "navDate": "1884-04-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524998h/manifest.json",
+          "label": "Le Gaulois (01 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524999w/manifest.json",
+          "label": "Le Gaulois (02 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250017/manifest.json",
+          "label": "Le Gaulois (03 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525000v/manifest.json",
+          "label": "Le Gaulois (03 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525002m/manifest.json",
+          "label": "Le Gaulois (04 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525004c/manifest.json",
+          "label": "Le Gaulois (05 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250030/manifest.json",
+          "label": "Le Gaulois (05 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525005r/manifest.json",
+          "label": "Le Gaulois (06 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250064/manifest.json",
+          "label": "Le Gaulois (07 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525007h/manifest.json",
+          "label": "Le Gaulois (07 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525008w/manifest.json",
+          "label": "Le Gaulois (08 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250098/manifest.json",
+          "label": "Le Gaulois (09 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250106/manifest.json",
+          "label": "Le Gaulois (10 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525011k/manifest.json",
+          "label": "Le Gaulois (11 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525012z/manifest.json",
+          "label": "Le Gaulois (12 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525013b/manifest.json",
+          "label": "Le Gaulois (13 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525014q/manifest.json",
+          "label": "Le Gaulois (14 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250153/manifest.json",
+          "label": "Le Gaulois (15 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525016g/manifest.json",
+          "label": "Le Gaulois (16 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525017v/manifest.json",
+          "label": "Le Gaulois (17 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250187/manifest.json",
+          "label": "Le Gaulois (18 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525019m/manifest.json",
+          "label": "Le Gaulois (19 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525020j/manifest.json",
+          "label": "Le Gaulois (20 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250229/manifest.json",
+          "label": "Le Gaulois (21 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525021x/manifest.json",
+          "label": "Le Gaulois (21 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525023p/manifest.json",
+          "label": "Le Gaulois (22 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250242/manifest.json",
+          "label": "Le Gaulois (23 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525025f/manifest.json",
+          "label": "Le Gaulois (24 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525026t/manifest.json",
+          "label": "Le Gaulois (25 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250276/manifest.json",
+          "label": "Le Gaulois (26 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525028k/manifest.json",
+          "label": "Le Gaulois (27 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525029z/manifest.json",
+          "label": "Le Gaulois (28 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525030w/manifest.json",
+          "label": "Le Gaulois (29 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250318/manifest.json",
+          "label": "Le Gaulois (30 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525032n/manifest.json",
+          "label": "Le Gaulois (31 mai 1884)",
+          "type": "Manifest",
+          "navDate": "1884-05-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250331/manifest.json",
+          "label": "Le Gaulois (01 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525034d/manifest.json",
+          "label": "Le Gaulois (02 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525035s/manifest.json",
+          "label": "Le Gaulois (03 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250365/manifest.json",
+          "label": "Le Gaulois (04 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525037j/manifest.json",
+          "label": "Le Gaulois (05 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525038x/manifest.json",
+          "label": "Le Gaulois (06 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250399/manifest.json",
+          "label": "Le Gaulois (07 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250407/manifest.json",
+          "label": "Le Gaulois (08 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525041m/manifest.json",
+          "label": "Le Gaulois (09 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250420/manifest.json",
+          "label": "Le Gaulois (10 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525043c/manifest.json",
+          "label": "Le Gaulois (11 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525044r/manifest.json",
+          "label": "Le Gaulois (12 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250454/manifest.json",
+          "label": "Le Gaulois (13 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525046h/manifest.json",
+          "label": "Le Gaulois (14 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525047w/manifest.json",
+          "label": "Le Gaulois (15 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250488/manifest.json",
+          "label": "Le Gaulois (16 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525049n/manifest.json",
+          "label": "Le Gaulois (17 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525050k/manifest.json",
+          "label": "Le Gaulois (18 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525051z/manifest.json",
+          "label": "Le Gaulois (19 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525052b/manifest.json",
+          "label": "Le Gaulois (20 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525053q/manifest.json",
+          "label": "Le Gaulois (21 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250543/manifest.json",
+          "label": "Le Gaulois (22 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525055g/manifest.json",
+          "label": "Le Gaulois (23 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525056v/manifest.json",
+          "label": "Le Gaulois (24 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250577/manifest.json",
+          "label": "Le Gaulois (25 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525058m/manifest.json",
+          "label": "Le Gaulois (26 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250590/manifest.json",
+          "label": "Le Gaulois (27 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525060x/manifest.json",
+          "label": "Le Gaulois (28 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250619/manifest.json",
+          "label": "Le Gaulois (28 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525062p/manifest.json",
+          "label": "Le Gaulois (29 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250632/manifest.json",
+          "label": "Le Gaulois (30 juin 1884)",
+          "type": "Manifest",
+          "navDate": "1884-06-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525064f/manifest.json",
+          "label": "Le Gaulois (01 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525065t/manifest.json",
+          "label": "Le Gaulois (02 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250666/manifest.json",
+          "label": "Le Gaulois (03 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525067k/manifest.json",
+          "label": "Le Gaulois (04 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525068z/manifest.json",
+          "label": "Le Gaulois (05 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525069b/manifest.json",
+          "label": "Le Gaulois (06 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250708/manifest.json",
+          "label": "Le Gaulois (07 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525071n/manifest.json",
+          "label": "Le Gaulois (08 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250721/manifest.json",
+          "label": "Le Gaulois (09 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525073d/manifest.json",
+          "label": "Le Gaulois (10 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525074s/manifest.json",
+          "label": "Le Gaulois (11 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250755/manifest.json",
+          "label": "Le Gaulois (12 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525076j/manifest.json",
+          "label": "Le Gaulois (13 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525077x/manifest.json",
+          "label": "Le Gaulois (14 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250789/manifest.json",
+          "label": "Le Gaulois (15 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525079p/manifest.json",
+          "label": "Le Gaulois (16 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525080m/manifest.json",
+          "label": "Le Gaulois (17 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250810/manifest.json",
+          "label": "Le Gaulois (18 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525082c/manifest.json",
+          "label": "Le Gaulois (19 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525083r/manifest.json",
+          "label": "Le Gaulois (20 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250844/manifest.json",
+          "label": "Le Gaulois (21 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525085h/manifest.json",
+          "label": "Le Gaulois (22 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525086w/manifest.json",
+          "label": "Le Gaulois (23 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250878/manifest.json",
+          "label": "Le Gaulois (24 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525088n/manifest.json",
+          "label": "Le Gaulois (25 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250891/manifest.json",
+          "label": "Le Gaulois (26 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525090z/manifest.json",
+          "label": "Le Gaulois (27 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525091b/manifest.json",
+          "label": "Le Gaulois (28 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525092q/manifest.json",
+          "label": "Le Gaulois (29 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250933/manifest.json",
+          "label": "Le Gaulois (30 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525094g/manifest.json",
+          "label": "Le Gaulois (31 juillet 1884)",
+          "type": "Manifest",
+          "navDate": "1884-07-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525095v/manifest.json",
+          "label": "Le Gaulois (01 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250967/manifest.json",
+          "label": "Le Gaulois (02 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525097m/manifest.json",
+          "label": "Le Gaulois (03 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5250980/manifest.json",
+          "label": "Le Gaulois (04 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525099c/manifest.json",
+          "label": "Le Gaulois (05 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251005/manifest.json",
+          "label": "Le Gaulois (06 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525101j/manifest.json",
+          "label": "Le Gaulois (07 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525102x/manifest.json",
+          "label": "Le Gaulois (08 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251039/manifest.json",
+          "label": "Le Gaulois (09 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525104p/manifest.json",
+          "label": "Le Gaulois (10 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251052/manifest.json",
+          "label": "Le Gaulois (11 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525106f/manifest.json",
+          "label": "Le Gaulois (12 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525107t/manifest.json",
+          "label": "Le Gaulois (13 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251086/manifest.json",
+          "label": "Le Gaulois (14 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525109k/manifest.json",
+          "label": "Le Gaulois (15 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525110h/manifest.json",
+          "label": "Le Gaulois (16 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525111w/manifest.json",
+          "label": "Le Gaulois (17 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251128/manifest.json",
+          "label": "Le Gaulois (18 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525113n/manifest.json",
+          "label": "Le Gaulois (19 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251141/manifest.json",
+          "label": "Le Gaulois (20 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525115d/manifest.json",
+          "label": "Le Gaulois (21 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525116s/manifest.json",
+          "label": "Le Gaulois (22 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251175/manifest.json",
+          "label": "Le Gaulois (23 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525118j/manifest.json",
+          "label": "Le Gaulois (24 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525119x/manifest.json",
+          "label": "Le Gaulois (25 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525120v/manifest.json",
+          "label": "Le Gaulois (26 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251217/manifest.json",
+          "label": "Le Gaulois (27 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525122m/manifest.json",
+          "label": "Le Gaulois (28 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251230/manifest.json",
+          "label": "Le Gaulois (29 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525124c/manifest.json",
+          "label": "Le Gaulois (30 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525125r/manifest.json",
+          "label": "Le Gaulois (31 août 1884)",
+          "type": "Manifest",
+          "navDate": "1884-08-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251264/manifest.json",
+          "label": "Le Gaulois (01 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525127h/manifest.json",
+          "label": "Le Gaulois (02 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525128w/manifest.json",
+          "label": "Le Gaulois (03 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251298/manifest.json",
+          "label": "Le Gaulois (04 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251306/manifest.json",
+          "label": "Le Gaulois (05 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525131k/manifest.json",
+          "label": "Le Gaulois (06 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525132z/manifest.json",
+          "label": "Le Gaulois (07 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525133b/manifest.json",
+          "label": "Le Gaulois (08 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525134q/manifest.json",
+          "label": "Le Gaulois (09 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251353/manifest.json",
+          "label": "Le Gaulois (10 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525136g/manifest.json",
+          "label": "Le Gaulois (11 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525137v/manifest.json",
+          "label": "Le Gaulois (12 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251387/manifest.json",
+          "label": "Le Gaulois (13 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525139m/manifest.json",
+          "label": "Le Gaulois (14 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525140j/manifest.json",
+          "label": "Le Gaulois (15 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525141x/manifest.json",
+          "label": "Le Gaulois (16 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251429/manifest.json",
+          "label": "Le Gaulois (17 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525143p/manifest.json",
+          "label": "Le Gaulois (18 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251442/manifest.json",
+          "label": "Le Gaulois (19 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525145f/manifest.json",
+          "label": "Le Gaulois (20 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525146t/manifest.json",
+          "label": "Le Gaulois (21 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251476/manifest.json",
+          "label": "Le Gaulois (22 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525148k/manifest.json",
+          "label": "Le Gaulois (23 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525149z/manifest.json",
+          "label": "Le Gaulois (24 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525150w/manifest.json",
+          "label": "Le Gaulois (25 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251518/manifest.json",
+          "label": "Le Gaulois (26 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525152n/manifest.json",
+          "label": "Le Gaulois (27 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251531/manifest.json",
+          "label": "Le Gaulois (28 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525154d/manifest.json",
+          "label": "Le Gaulois (29 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525155s/manifest.json",
+          "label": "Le Gaulois (30 septembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-09-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251565/manifest.json",
+          "label": "Le Gaulois (01 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525157j/manifest.json",
+          "label": "Le Gaulois (02 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525158x/manifest.json",
+          "label": "Le Gaulois (03 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251599/manifest.json",
+          "label": "Le Gaulois (04 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251607/manifest.json",
+          "label": "Le Gaulois (05 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525161m/manifest.json",
+          "label": "Le Gaulois (06 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251620/manifest.json",
+          "label": "Le Gaulois (07 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525163c/manifest.json",
+          "label": "Le Gaulois (08 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525164r/manifest.json",
+          "label": "Le Gaulois (09 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251654/manifest.json",
+          "label": "Le Gaulois (10 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525166h/manifest.json",
+          "label": "Le Gaulois (11 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525167w/manifest.json",
+          "label": "Le Gaulois (12 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251688/manifest.json",
+          "label": "Le Gaulois (13 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525169n/manifest.json",
+          "label": "Le Gaulois (14 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525170k/manifest.json",
+          "label": "Le Gaulois (15 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525171z/manifest.json",
+          "label": "Le Gaulois (16 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525172b/manifest.json",
+          "label": "Le Gaulois (17 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525173q/manifest.json",
+          "label": "Le Gaulois (18 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251743/manifest.json",
+          "label": "Le Gaulois (19 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525175g/manifest.json",
+          "label": "Le Gaulois (20 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525176v/manifest.json",
+          "label": "Le Gaulois (21 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251777/manifest.json",
+          "label": "Le Gaulois (22 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525178m/manifest.json",
+          "label": "Le Gaulois (23 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251790/manifest.json",
+          "label": "Le Gaulois (24 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525180x/manifest.json",
+          "label": "Le Gaulois (25 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251819/manifest.json",
+          "label": "Le Gaulois (26 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525182p/manifest.json",
+          "label": "Le Gaulois (27 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251832/manifest.json",
+          "label": "Le Gaulois (28 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525184f/manifest.json",
+          "label": "Le Gaulois (29 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525185t/manifest.json",
+          "label": "Le Gaulois (30 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251866/manifest.json",
+          "label": "Le Gaulois (31 octobre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-10-31"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525187k/manifest.json",
+          "label": "Le Gaulois (01 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525188z/manifest.json",
+          "label": "Le Gaulois (02 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525189b/manifest.json",
+          "label": "Le Gaulois (03 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251908/manifest.json",
+          "label": "Le Gaulois (04 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525191n/manifest.json",
+          "label": "Le Gaulois (05 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251921/manifest.json",
+          "label": "Le Gaulois (06 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525193d/manifest.json",
+          "label": "Le Gaulois (07 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525194s/manifest.json",
+          "label": "Le Gaulois (08 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251955/manifest.json",
+          "label": "Le Gaulois (09 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525196j/manifest.json",
+          "label": "Le Gaulois (10 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525197x/manifest.json",
+          "label": "Le Gaulois (11 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5251989/manifest.json",
+          "label": "Le Gaulois (12 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525199p/manifest.json",
+          "label": "Le Gaulois (13 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525200g/manifest.json",
+          "label": "Le Gaulois (14 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525201v/manifest.json",
+          "label": "Le Gaulois (15 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252027/manifest.json",
+          "label": "Le Gaulois (16 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525203m/manifest.json",
+          "label": "Le Gaulois (17 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252040/manifest.json",
+          "label": "Le Gaulois (18 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525205c/manifest.json",
+          "label": "Le Gaulois (19 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525206r/manifest.json",
+          "label": "Le Gaulois (20 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252074/manifest.json",
+          "label": "Le Gaulois (21 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525208h/manifest.json",
+          "label": "Le Gaulois (22 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525209w/manifest.json",
+          "label": "Le Gaulois (23 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525210t/manifest.json",
+          "label": "Le Gaulois (24 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252116/manifest.json",
+          "label": "Le Gaulois (25 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525212k/manifest.json",
+          "label": "Le Gaulois (26 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525213z/manifest.json",
+          "label": "Le Gaulois (27 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525214b/manifest.json",
+          "label": "Le Gaulois (28 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525215q/manifest.json",
+          "label": "Le Gaulois (29 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252163/manifest.json",
+          "label": "Le Gaulois (30 novembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-11-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525217g/manifest.json",
+          "label": "Le Gaulois (01 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525218v/manifest.json",
+          "label": "Le Gaulois (02 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-02"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252197/manifest.json",
+          "label": "Le Gaulois (03 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-03"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252205/manifest.json",
+          "label": "Le Gaulois (04 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-04"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525221j/manifest.json",
+          "label": "Le Gaulois (05 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-05"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525222x/manifest.json",
+          "label": "Le Gaulois (06 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-06"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252239/manifest.json",
+          "label": "Le Gaulois (07 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-07"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525224p/manifest.json",
+          "label": "Le Gaulois (08 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-08"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252252/manifest.json",
+          "label": "Le Gaulois (09 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-09"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525226f/manifest.json",
+          "label": "Le Gaulois (10 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-10"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525227t/manifest.json",
+          "label": "Le Gaulois (11 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-11"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252286/manifest.json",
+          "label": "Le Gaulois (12 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-12"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525229k/manifest.json",
+          "label": "Le Gaulois (13 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-13"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525230h/manifest.json",
+          "label": "Le Gaulois (14 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-14"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525231w/manifest.json",
+          "label": "Le Gaulois (15 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252328/manifest.json",
+          "label": "Le Gaulois (16 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-16"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525233n/manifest.json",
+          "label": "Le Gaulois (17 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-17"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252341/manifest.json",
+          "label": "Le Gaulois (18 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-18"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525235d/manifest.json",
+          "label": "Le Gaulois (19 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-19"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525236s/manifest.json",
+          "label": "Le Gaulois (20 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-20"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252375/manifest.json",
+          "label": "Le Gaulois (21 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-21"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525238j/manifest.json",
+          "label": "Le Gaulois (22 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-22"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525239x/manifest.json",
+          "label": "Le Gaulois (23 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-23"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525240v/manifest.json",
+          "label": "Le Gaulois (24 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-24"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252417/manifest.json",
+          "label": "Le Gaulois (25 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-25"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525242m/manifest.json",
+          "label": "Le Gaulois (26 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-26"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252430/manifest.json",
+          "label": "Le Gaulois (27 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-27"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525244c/manifest.json",
+          "label": "Le Gaulois (28 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-28"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525245r/manifest.json",
+          "label": "Le Gaulois (29 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-29"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5252464/manifest.json",
+          "label": "Le Gaulois (30 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k524875c/manifest.json",
+          "label": "Le Gaulois (31 décembre 1883)",
+          "type": "Manifest",
+          "navDate": "1884-12-30"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k525247h/manifest.json",
+          "label": "Le Gaulois (31 décembre 1884)",
+          "type": "Manifest",
+          "navDate": "1884-12-31"
+       }]
+    }
