@@ -197,15 +197,15 @@ This final example ((produced with this [Perl script]()) shows the complete Gall
 
 This IIIF demonstration leverages the GallicaPix [objects detection](https://github.com/altomator/Image_Retrieval) data that are available when the GallicaPix database acts a IIIF annotations server.
 
-1. From GallicaPix or using [this URL](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en), open the Vogue [June 1920](https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/f11.item) issue in a Mirador instance, like the BnF https://manuscrits-france-angleterre.org/ portal.
+1. From GallicaPix (IIIF local menu available on each illustration) or using [this URL](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en), open the Vogue [June 1920](https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/f11.item) issue in a Mirador instance, like the BnF https://manuscrits-france-angleterre.org/ portal.
 
 [![Open in Mirador](/images/open.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
-2. Download the [GallicaPix IIIF annotations](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json) on your local disk. 
+2. Download the [GallicaPix IIIF annotations] for this June 20 issue (https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json) on your local disk (or export it from [GallicaPix](https://gallicapix.bnf.fr/rest?run=findIllustrations-app.xq&locale=fr&action=first&start=1&corpus=vogue&id=bpt6k9604118j&CS=0.5&operator=and&sourceTarget=&keyword=) using the IIIF menu). 
 3. Load the annotations file in Mirador (on the upper right corner, Download button + Importing Annotation option).
 4. Display the annotations (upper left corner, Toogle annotations button).
 
-![GallicaPix Annotations in Mirador](/images/annotations.jpg)
+[![GallicaPix Annotations in Mirador](/images/annotations.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
 These annotations could even be searchable using the [IIIF Content Search API](https://iiif.io/api/search/1.0/).
 
