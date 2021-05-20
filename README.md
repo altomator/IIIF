@@ -201,7 +201,7 @@ This IIIF demonstration leverages the GallicaPix [objects detection](https://git
 
 [![Open in Mirador](/images/open.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
-2. Download the [GallicaPix IIIF annotations] for this June 20 issue (https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json) on your local disk (or export it from [GallicaPix](https://gallicapix.bnf.fr/rest?run=findIllustrations-app.xq&locale=fr&action=first&start=1&corpus=vogue&id=bpt6k9604118j&CS=0.5&operator=and&sourceTarget=&keyword=) using the IIIF menu). 
+2. Download the [GallicaPix IIIF annotations](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json) for this June 20 issue on your local disk (or export it from [GallicaPix](https://gallicapix.bnf.fr/rest?run=findIllustrations-app.xq&locale=fr&action=first&start=1&corpus=vogue&id=bpt6k9604118j&CS=0.5&operator=and&sourceTarget=&keyword=) using the IIIF menu). 
 3. Load the annotations file in Mirador (on the upper right corner, Download button + Importing Annotation option).
 4. Display the annotations (upper left corner, Toogle annotations button).
 
