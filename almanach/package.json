@@ -1,0 +1,34 @@
+{
+  "name": "david-rumsey-map-collection-maptab",
+  "version": "0.4.1",
+  "description": "A tab Chrome extension for displaying random maps from the David Rumsey Map Collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "watchify ./index.js -o assets/bundle.js",
+    "build": "NODE_ENV=production node_modules/.bin/browserify ./index.js | node_modules/.bin/uglifyjs -c -m > assets/bundle.js"
+  },
+  "browserify": {
+    "transform": [
+      [
+        "babelify"
+      ]
+    ]
+  },
+  "author": "Jack Reed",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "leaflet": "~1.0",
+    "leaflet-iiif": "~1.1",
+    "react": "^0.13.3",
+    "react-keybinding": "2.0.0-beta"
+  },
+  "devDependencies": {
+    "babelify": "^6.0.2",
+    "browserify": "^7.0.3",
+    "reactify": "^1.1.0",
+    "uglify-js": "^2.4.16",
+    "watchify": "^2.2.1"
+  }
+}
