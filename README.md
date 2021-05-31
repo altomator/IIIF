@@ -296,7 +296,7 @@ tbc
 http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/962dc427-6241-4200-82ad-69a0821b573c&lang=en
 
 
-## IIIF Stories
+## Digital mediation and IIIF 
 
 IIIF can be used for digital storytelling round images and documents. 
 
@@ -324,4 +324,5 @@ Opening a IIIF manifest to start working with Exhibit is straightforward:
 
 Digirati [CanvasPanel](https://canvas-panel.netlify.app/#/about) is another way to build IIIF applications with complex layout and  rendering requirements.
 
+### Almanac as a navigator extension
 
