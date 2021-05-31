@@ -123,7 +123,7 @@
         case 4:
         case 5:
             season = 'spring';
-						e.exports = ["bpt6k6566839j/f21","bpt6k9798973g/f22","bpt6k9798989b/f8","bpt6k97983275/f14","bpt6k6538654b/f1","btv1b6938358d/f1","btv1b105278880/f65","btv1b6938036s/f1","btv1b90052187/f1","btv1b8495841s/f1","bpt6k11671952/f3","btv1b10526766j/f1"]
+						e.exports = ["btv1b102127125/f1","btv1b84960984/f1","btv1b10021431t/f1","btv1b8496086x/f1","btv1b10025644q/f1","btv1b10580250b/f1","btv1b105768740/f1","btv1b100214328/f1","btv1b10518011z/f1","btv1b105267028/f1","bpt6k6566839j/f21","bpt6k9798973g/f22","bpt6k9798989b/f8","bpt6k97983275/f14","bpt6k6538654b/f1","btv1b6938358d/f1","btv1b105278880/f65","btv1b6938036s/f1","btv1b90052187/f1","btv1b8495841s/f1","bpt6k11671952/f3","btv1b10526766j/f1"]
         break;
         case 6:
         case 7:
