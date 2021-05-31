@@ -326,3 +326,7 @@ Digirati [CanvasPanel](https://canvas-panel.netlify.app/#/about) is another way 
 
 ### Almanac as a navigator extension
 
+A [Chrome extension](https://altomator.github.io/IIIF/almanach/index.html) that shows a random document from the [Gallica digital library](http://www.gallica.bnf.fr) according to the current season.
+
+This is fork from the [David Rumsey Map Tab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde) by [mejackreed](https://github.com/mejackreed/DavidRumseyMapTab), which is itself a fork from the original [MapTab](https://chrome.google.com/webstore/detail/maptab/dmabflbokojjfjicmbjjfnmodihciemo) by [bsudekum](https://github.com/bsudekum).
+
