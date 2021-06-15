@@ -1,0 +1,101 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/cb343488519-1944.json",
+  "type": "Collection",
+  "label": { "fr": [ "Marie-Claire (1944)" ], "en": [ "Marie-Claire (1944)" ] },
+  "description": { "fr": [ "Cette collection regroupe tous les fascicules du titre Marie-Claire pour l'ann&#xE9;e 1944" ], "en": [ "This collection gathers all the issues of the title Marie-Claire for the year 1944" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/cb343488519/date1944",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : Marie-Claire (1944)" ],"en": [ "Gallica periodical: Marie-Claire (1944)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/cb343488519/date1944",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : Marie-Claire (1944)" ],"en": [ "Gallica periodical: Marie-Claire (1944)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701336f/manifest.json",
+          "label": "Marie-Claire (01 janvier 1944)",
+          "type": "Manifest",
+          "navDate": "1944-01-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701337v/manifest.json",
+          "label": "Marie-Claire (15 janvier 1944)",
+          "type": "Manifest",
+          "navDate": "1944-01-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k47013388/manifest.json",
+          "label": "Marie-Claire (01 février 1944)",
+          "type": "Manifest",
+          "navDate": "1944-02-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701339p/manifest.json",
+          "label": "Marie-Claire (15 février 1944)",
+          "type": "Manifest",
+          "navDate": "1944-02-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701340b/manifest.json",
+          "label": "Marie-Claire (01 mars 1944)",
+          "type": "Manifest",
+          "navDate": "1944-03-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701341r/manifest.json",
+          "label": "Marie-Claire (15 mars 1944)",
+          "type": "Manifest",
+          "navDate": "1944-03-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k47013425/manifest.json",
+          "label": "Marie-Claire (01 avril 1944)",
+          "type": "Manifest",
+          "navDate": "1944-04-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701343k/manifest.json",
+          "label": "Marie-Claire (15 avril 1944)",
+          "type": "Manifest",
+          "navDate": "1944-04-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k47013440/manifest.json",
+          "label": "Marie-Claire (01 mai 1944)",
+          "type": "Manifest",
+          "navDate": "1944-05-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701345d/manifest.json",
+          "label": "Marie-Claire (15 mai 1944)",
+          "type": "Manifest",
+          "navDate": "1944-05-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701346t/manifest.json",
+          "label": "Marie-Claire (01 juin 1944)",
+          "type": "Manifest",
+          "navDate": "1944-06-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k47013477/manifest.json",
+          "label": "Marie-Claire (15 juin 1944)",
+          "type": "Manifest",
+          "navDate": "1944-06-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701348n/manifest.json",
+          "label": "Marie-Claire (01 juillet 1944)",
+          "type": "Manifest",
+          "navDate": "1944-07-01"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k47013492/manifest.json",
+          "label": "Marie-Claire (15 juillet 1944)",
+          "type": "Manifest",
+          "navDate": "1944-07-15"
+       },{
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4701350q/manifest.json",
+          "label": "Marie-Claire (01 août 1944)",
+          "type": "Manifest",
+          "navDate": "1944-08-01"
+       }]
+    }
