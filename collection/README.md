@@ -36,4 +36,4 @@ This last example (produced using this [Perl script](https://github.com/altomato
 
 ## NewsEye european project
 
-The French dataset used within the NewsEye european project is as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/dataset_newseye_fr/collection.json)
+Using the same method, the French dataset used within the [NewsEye](https://www.newseye.eu/) european project is also disseminated as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/dataset_newseye_fr/collection.json).
