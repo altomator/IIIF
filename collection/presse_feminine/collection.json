@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/collection.json",
   "type": "Collection",
-  "label": { "fr": [ "Presse féminine (sélection Gallica)" ], "en": [ "Presse féminine (Gallica selection)" ] },
+  "label": { "fr": [ "Presse féminine (sélection Gallica)" ], "en": [ "Women press (selection Gallica)" ] },
   "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/thumbnail",
   "description": { "fr": [ "Cette collection est une adaptation de la sélection Gallica 'Presse féminine'" ], "en": [ "This collection is an adaptation of the Gallica selection 'Presse féminine'" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
@@ -12,7 +12,7 @@
     {
       "id": "https://gallica.bnf.fr/html/und/presse-et-revues/presse-feminine",
       "type": "Text",
-      "label": { "fr": [ "Sélection Gallica : Presse féminine" ],"en": [ "Gallica Selection: Presse féminine" ] },
+      "label": { "fr": [ "Sélection Gallica : Presse féminine" ],"en": [ "Gallica Selection: Women press" ] },
       "format": "text/html",
       "language": [ "fr" ]
     }
@@ -20,7 +20,7 @@
   "related": [{
 			"id": "https://gallica.bnf.fr/html/und/presse-et-revues/presse-feminine",
 			"format": "text/html",
-			"label": { "fr": [ "Sélection Gallica : Presse féminine" ],"en": [ "Gallica Selection: Presse féminine" ] }
+			"label": { "fr": [ "Sélection Gallica : Presse féminine" ],"en": [ "Gallica Selection: Women press" ] }
 		}],
   "items": [
 {
