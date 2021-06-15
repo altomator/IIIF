@@ -113,6 +113,13 @@
 		var d = new Date;
 		var season = "";
 		switch(d.getMonth()) {
+			  case 0:
+				  season = 'specific';
+					// fetch news somewhere @ bnf
+				  e.exports = ["bpt6k9605389m/f1"]
+
+					break;
+
         case 12:
         case 1:
         case 2:
@@ -138,7 +145,9 @@
 						e.exports = ["btv1b525073109/f35","btv1b9005200j/f1","btv1b8495660f/f1","bpt6k395191x/f1","btv1b105084706/f9","bpt6k97990068/f11","bpt6k9798991d/f21","btv1b105278880/f87","bpt6k65378784/f1","btv1b8451214g/f1","btv1b6938036s/f1"]
         break;
     }
-		console.log(" season: "+season);
+
+		console.log(" season: "+season+ " | documents: "+e.exports.length);
+
 
 	}, {}],
 	4: [function(t, e, n) {

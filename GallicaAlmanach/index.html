@@ -13,6 +13,32 @@
 <body>
   <div id='app'></div>
 </body>
-<script src='assets/bundle.js'></script>
+<script>
 
+window.dataGlobal = [];
+
+// calling gallicapix api
+const api_url =
+      "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/f24/info.json";
+
+// Defining async function
+const getApi = async () => {
+    // Storing response
+    const response = await fetch(api_url);
+    // Storing data in form of JSON
+    var data = await response.json();
+    var myID = data['@id'];
+    myID = myID.split('12148/')[1];
+    console.log(myID);
+    return myID
+}
+
+getApi().then(myData => {
+      console.log("index.html | ", myData);
+      window.dataGlobal = [myData]
+    });
+
+</script>
+
+<script src='assets/bundle.js'></script>
 </html>
