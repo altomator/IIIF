@@ -9,12 +9,15 @@ This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) d
 
 [https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
 
-Once open, the collection can be browsed, starting from the Information side panel:
+Once opened, the collection can be browsed, starting from the Information side panel:
 
-[![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb343833568.json)
+[![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
 
 
-### For Thematic Collections
+
+
+![IIIF collection in Mirador](/images/bd2.jpg)
+## Gallica Selections of Thematic Collections
 
 IIIF collections are also useful for organizing documents according to a filing plan. This example is inspired by a [Gallica selection](https://gallica.bnf.fr/html/und/litteratures/series-de-bande-dessinee) of comics published in the press. The [collection](https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json) (API Presentation [v3](https://iiif.io/api/presentation/3.0/#51-collection)) lists comics series as sub-collections. 
 
@@ -22,14 +25,9 @@ IIIF collections are also useful for organizing documents according to a filing 
 
 Launching Mirador with both a comics sample and the collection (as in the screenshot) is done with some [Javascript](https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.html):
 
-
-
 Multiple collections can be used to organize a complex navigation scheme as Mirador windows. In this example, comic book content is organized around two entry points, by series and by authors.
 
-![IIIF collection in Mirador](/images/bd2.jpg)
-## Gallica Selections
-
-This example (produced using this [Perl script](https://github.com/altomator/IIIF/tree/main/scripts)) shows the complete Gallica thematic selection of [women's magazines and newspapers](https://gallica.bnf.fr/html/presse-et-revues/presse-feminine) transcribes as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/collection.json). 
+This last example (produced using this [Perl script](https://github.com/altomator/IIIF/tree/main/scripts)) shows the complete Gallica thematic selection of [women's magazines and newspapers](https://gallica.bnf.fr/html/presse-et-revues/presse-feminine) transcribes as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/collection.json). 
 
 [![IIIF Magazines Collection in Mirador](/images/feminine.png)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_feminine/collection.json)
 
