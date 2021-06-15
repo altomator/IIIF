@@ -184,7 +184,7 @@ Multiple collections can be used to organize a complex navigation scheme as Mira
 
 ![IIIF collection in Mirador](/images/bd2.jpg)
 
-This final example ((produced with this [Perl script]()) shows the complete Gallica thematic selection of [women's magazines](https://gallica.bnf.fr/html/presse-et-revues/presse-feminine) transcribes as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_feminine.json). 
+This final example (produced using this [Perl script]()) shows the complete Gallica thematic selection of [women's magazines](https://gallica.bnf.fr/html/presse-et-revues/presse-feminine) transcribes as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_feminine.json). 
 
 [![IIIF Magazines Collection in Mirador](/images/feminine.png)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_feminine.json)
 
@@ -295,9 +295,10 @@ tbc
 *tbc* 
 http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/962dc427-6241-4200-82ad-69a0821b573c&lang=en
 
-## IIIF Stories
 
-IIIF can be used for digital storytelling round  images and documents. 
+## Digital mediation and IIIF 
+
+IIIF can be used for digital storytelling round images and documents. 
 
 ### Storiiies
 Look at the Cogapp [Storiiies](https://www.cogapp.com/storiiies) web app and this [example](https://storiiies.cogapp.com/viewer/ae11y/Egyptien19-Papyrus-de-Padiamonnebnsouttaouy) exploring an Egyptian [papyrus](https://gallica.bnf.fr/ark:/12148/btv1b8304462j.image). See also this [post](https://gallica.bnf.fr/blog/27052020/le-livre-pour-sortir-au-jour-ou-livre-des-morts-des-anciens-egyptiens?mode=desktop) (FR).  
@@ -323,4 +324,9 @@ Opening a IIIF manifest to start working with Exhibit is straightforward:
 
 Digirati [CanvasPanel](https://canvas-panel.netlify.app/#/about) is another way to build IIIF applications with complex layout and  rendering requirements.
 
+### Almanac as a navigator extension
+
+A [Chrome extension](https://altomator.github.io/IIIF/almanach/index.html) that shows a random document from the [Gallica digital library](http://www.gallica.bnf.fr) according to the current season.
+
+This is a fork from the [David Rumsey Map Tab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde) by [mejackreed](https://github.com/mejackreed/DavidRumseyMapTab), which is itself a fork from the original [MapTab](https://chrome.google.com/webstore/detail/maptab/dmabflbokojjfjicmbjjfnmodihciemo) by [bsudekum](https://github.com/bsudekum).
 
