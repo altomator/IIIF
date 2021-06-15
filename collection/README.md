@@ -21,8 +21,7 @@ IIIF collections are also useful for organizing documents according to a filing 
 
 [![IIIF collection in Mirador](/images/bd.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json)
 
-Launching Mirador with both a comics sample and the collection (as in the screenshot) is done with some [Javascript](https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.html):
-
+Launching Mirador with both a comics sample and the collection (as in the screenshot) is done with some [Javascript](https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.html).
 
 Multiple collections can be used to organize a complex navigation scheme as Mirador windows. In this example, comic book content is organized around two entry points, by series and by authors.
 
