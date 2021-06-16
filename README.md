@@ -33,7 +33,7 @@ Comparing images was one of the initial objectives of the IIIF initiative. Just 
 ### Comparing Documents and Images with Mirador
 Comparing a IIIF document and a local images is also possible in [Mirador 3](https://projectmirador.org/embed/?iiif-content=). Open this [black & white photo](https://gallica.bnf.fr/ark:/12148/btv1b531454753) in Mirador 3 using the drag-and-drop technique: 
 
-[![Local images](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/ark:/12148/btv1b531454753?manifest=https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
+[![Local images](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
 
 Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) version (produced with [DeOldify](https://www.myheritage.fr/incolor/))  on your disk. Finally, drag and drop the image file in Mirador.
 
