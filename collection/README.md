@@ -35,3 +35,5 @@ This last example (produced using this [Perl script](https://github.com/altomato
 ## NewsEye european project
 
 Using the same method, the French dataset (6 titles) used within the [NewsEye](https://www.newseye.eu/) european project is also disseminated as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/dataset_newseye_fr/collection.json).
+
+See also this [presentation](https://docs.google.com/presentation/d/1Hz2Yxd5IfIJaMDb1IJX2IVqJXR8Z8BRTASG_Sip8BvU/edit#slide=id.gc6f73a04f_0_0) at 2021 IIIF Annual Conference.
