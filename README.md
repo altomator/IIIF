@@ -149,7 +149,7 @@ The Biblissima Mirador 3 instance can be used to open this collection:
 
 Once open, the collection can be browsed, starting from the Information side panel:
 
-[![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb343833568.json)
+[![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
 
 
 ### For Thematic Collections
