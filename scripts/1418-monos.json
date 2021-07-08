@@ -1,0 +1,1351 @@
+{ "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://gallicapix.bnf.fr/static/collection/1418-monos.json",
+  "type": "Collection",
+  "label": { "fr": [ "14-18 – Monographies (corpus GallicaPix)"], "en": [ "14-18 – Monographs (GallicaPix dataset)"]},
+  "description": { "fr": [ "Cette collection inclut toutes les monographies du corpus 14-18"], "en": [ "This collection includes all the monographs of the 14-18 dataset"]},
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallicapix.bnf.fr",
+      "type": "Text",
+      "label": { "fr": ["Corpus iconographique GallicaPix"],"en": ["GallicaPix iconographic dataset"]},
+      "format": "text/html"
+    }
+  ],
+  "manifests": [
+
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62692922/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1837)",
+   "navDate": "1837"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6246914s/manifest.json",
+   "type": "Manifest",
+   "label": "Objets divers. Sociétés de préparation et de perfectionnement militaires. Sociétés agréées par le ministre de la Guerre [S. A. G.]. Volume arrêté à la date du 1er mai 1914 (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6234134w/manifest.json",
+   "type": "Manifest",
+   "label": "Pages de gloire du 68e bataillon de chasseurs alpins : 2 août 1914-30 mars 1919 (1914-08-02-1919-03-30)",
+   "navDate": "1914-08-02-1919-03-30"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6421301g/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 26e régiment de dragons (1914-1918)",
+   "navDate": "1914-1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6226665h/manifest.json",
+   "type": "Manifest",
+   "label": "Historique sommaire du deuxième régiment de chasseurs d'Afrique pendant la campagne 1914-1918 (1914-1918)",
+   "navDate": "1914-1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6440035g/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 6e régiment d'infanterie coloniale. 1914-1918 (1914-1918)",
+   "navDate": "1914-1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6214741j/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 158e régiment d'infanterie. Campagne 1914-1919 (1914-1919)",
+   "navDate": "1914-1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6252687p/manifest.json",
+   "type": "Manifest",
+   "label": "Administration et comptabilité des corps de troupe. Service du chauffage et de l'éclairage dans les corps de troupe à la mobilisation et en temps de guerre. Volume mis à jour à la date du 12 juillet 1915 (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6316951g/manifest.json",
+   "type": "Manifest",
+   "label": "Organisation de l'armée. IIe partie. Cadres et effectifs. Volume mis à jour à la date du 18 avril 1916 (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8594527d/manifest.json",
+   "type": "Manifest",
+   "label": "Verdun. Images de guerre / John Grand Carteret (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6236453w/manifest.json",
+   "type": "Manifest",
+   "label": "Décorations. Volume arrêté à la date du 10 novembre 1917 (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6237011g/manifest.json",
+   "type": "Manifest",
+   "label": "Service de santé. L'armée à l'intérieur. Modèles : Volume mis à jour à la date du 1er mai 1917 (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62248326/manifest.json",
+   "type": "Manifest",
+   "label": "Mouvements et transports. Organisation générale aux armées. II. Transports stratégiques. Volume mis à jour à la date du 5 mai 1917 (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6431381s/manifest.json",
+   "type": "Manifest",
+   "label": "Mouvements et transports. Organisation générale aux armées. I. Services de l'arrière aux armées. Volume mis à jour à la date du 1er septembre 1917 (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62287323/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 260e régiment d'infanterie pendant la guerre 1914-1918 (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6235406x/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 507e régiment de chars blindés ou d'artillerie d'assaut ou de chars de combat (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6240599n/manifest.json",
+   "type": "Manifest",
+   "label": "Historique des 59e et 259e régiments d'artillerie de campagne (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6246389f/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 9e régiment de dragons depuis son entrée en campagne, le 1er août 1914, jusqu'au 11 novembre 1918, date de la signature de l'armistice , rédigé par M. le lieutenant-colonel Picaud (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6235200r/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 4e régiment du génie (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62657966/manifest.json",
+   "type": "Manifest",
+   "label": "Archives de la guerre. Volume mis à jour à la date du 20 décembre 1918 (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6235405h/manifest.json",
+   "type": "Manifest",
+   "label": "Le 15-2 pendant la Grande Guerre. De l'Alsace aux Flandres, 1914-1918 (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6322081j/manifest.json",
+   "type": "Manifest",
+   "label": "Le 201e d'infanterie en campagne, 1914-1919 . Préface de M. Eugène Etienne,... (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6237102v/manifest.json",
+   "type": "Manifest",
+   "label": "60e bataillon de chasseurs à pied, historique et livre d'or, par le capitaine Antiglio. Août 1914-février 1919 . [Lettre du commandant Potier.] (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6413362h/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 108e régiment d'infanterie. 1914-1918 : la grande guerre (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k63270880/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 230e R. I. : guerre 1914-1918 (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62702966/manifest.json",
+   "type": "Manifest",
+   "label": "Récits et faits de guerre du 9e régiment de cuirassiers : 1914-1918 (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62257874/manifest.json",
+   "type": "Manifest",
+   "label": "Le 9e Bataillon de chasseurs à pied pendant la guerre de 1914-1918. Souvenir à tous ceux qui en ont fait partie (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6226880w/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 6e bataillon alpin de chasseurs à pied : campagne 1914-1918 (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5657302v/manifest.json",
+   "type": "Manifest",
+   "label": "Récits et faits de guerre du 9e régiment de cuirassiers : 1914-1918 (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6230623k/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 10e régiment de cuirassiers, 1914-1918 (1919-1920)",
+   "navDate": "1919-1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6226092b/manifest.json",
+   "type": "Manifest",
+   "label": "Historique sommaire du 110e régiment d'artillerie lourde, 1er et 2e groupes (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62260856/manifest.json",
+   "type": "Manifest",
+   "label": "Notice historique. Le 27e régiment territorial d'infanterie (dans la Grande Guerre) (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6234133g/manifest.json",
+   "type": "Manifest",
+   "label": "Historique sommaire du 8e groupe d'artillerie de campagne d'Afrique (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62340905/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 501e régiment d'artillerie d'assaut pendant la guerre (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6291404h/manifest.json",
+   "type": "Manifest",
+   "label": "1er régiment de chasseurs d'Afrique... En campagne européenne 1914-1919. [Historique rédigé par le commandant L. Martin.] (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62167786/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 5e régiment d'infanterie coloniale pendant la Grande guerre (1914-1918) : d'après documents officiels et souvenirs personnels (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6255285d/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 10e bataillon de chasseurs à pied (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62354117/manifest.json",
+   "type": "Manifest",
+   "label": "128e régiment d'infanterie. Historique sommaire du régiment de la mobilisation au 11 novembre 1918 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6239072s/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 5e régiment du génie (1914-1919) : campagne contre l'Allemagne (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6361620q/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 89e régiment d'artillerie lourde à tracteurs (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6413364b/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 28e territorial d'infanterie. Campagne 1914-1918 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6261959c/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 219e régiment d'infanterie pendant la guerre 1914-1918 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k63278932/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la 18e légion de gendarmerie (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6240606b/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 3e régiment du génie : guerre de 1914-1918 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62341448/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 50e bataillon de chasseurs à pied : campagne 1914-1918 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6239074m/manifest.json",
+   "type": "Manifest",
+   "label": "Historique des 83e et 283e régiments d'artillerie pendant la grande guerre (1915-1918) (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6228742g/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 202e régiment d'artillerie de campagne pendant la guerre 1914-1918 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6327249k/manifest.json",
+   "type": "Manifest",
+   "label": "Journal de marche du 23me régiment de dragons : Pendant la campagne 1914-1918 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k64133613/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 65e régiment d'infanterie. Stralsund (1807), Ratisbonne (1809), Anvers (1832), Magenta (1859), la Grande Guerre (1914-1918) (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6446153m/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 13e bataillon de chasseurs alpins (1914-1918) (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k64205703/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 210e R.A.C. au cours de la grande guerre : 1914-1919 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6253893d/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 1er bataillon de marche d'infanterie légère d'Afrique (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62267668/manifest.json",
+   "type": "Manifest",
+   "label": "Petit journal de marche du 2ème dragons : 1er aout 1914-11 novembre 1918 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6235095j/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 90e régiment A.L.T. formé par les 90e et 290e R.A.L.T. (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62272411/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 27e dragons pendant la campagne 1914-1918... (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6225790m/manifest.json",
+   "type": "Manifest",
+   "label": "Les Goums mixtes marocains pendant la campagne 1914-1918 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6215861z/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 270e régiment d'artillerie de campagne au cours de la grande guerre 1914-1919 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6317485v/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 8me Rég[im]ent d'infanterie coloniale pendant la Grande guerre, 1914-1919 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6419962f/manifest.json",
+   "type": "Manifest",
+   "label": "Livre d'or du 21e régiment d'infanterie coloniale (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k63174868/manifest.json",
+   "type": "Manifest",
+   "label": "De l'Algérie au Rhin. Journal de guerre du 3e tirailleurs de marche (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6235155c/manifest.json",
+   "type": "Manifest",
+   "label": "Historique : 5e escadron du train des équipages militaires (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6239381s/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 33e régiment d'infanterie coloniale pendant la guerre 1914-1919 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6237019s/manifest.json",
+   "type": "Manifest",
+   "label": "Le 106e régiment d'infanterie pendant la guerre. 1914-1919 (1920)",
+   "navDate": "1920"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62552840/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 96e régiment d'infanterie territoriale (1921)",
+   "navDate": "1921"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62364549/manifest.json",
+   "type": "Manifest",
+   "label": "Notre bataillon le 120e chasseurs ! : historique du 120e bataillon de chasseurs à pied pendant la guerre 1914-1918 (1921)",
+   "navDate": "1921"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62385956/manifest.json",
+   "type": "Manifest",
+   "label": "Pages de gloire du 28e bataillon de chasseurs alpins : 2 août 1914-30 mars 1919 (1921)",
+   "navDate": "1921"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6399988n/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 333e régiment d'infanterie. Guerre de 1914-1918 (1921)",
+   "navDate": "1921"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62258276/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 32e régiment d'infanterie territoriale. Guerre 1914-1918 (1922)",
+   "navDate": "1922"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6235410t/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 3e groupe d'artillerie de campagne d'Afrique. 1914-1918 (1922)",
+   "navDate": "1922"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6253691w/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la 15e légion 'ter' de gendarmerie. 1914-1918 (1922)",
+   "navDate": "1922"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6264401c/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 263e régiment d'artillerie (1922)",
+   "navDate": "1922"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62341552/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 205e régiment d'infanterie. 1914-1918 (1922)",
+   "navDate": "1922"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6289742f/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 255e régiment d'artillerie de campagne (1922)",
+   "navDate": "1922"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62426044/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la 6e Légion de gendarmerie. 1914-1919 (1923)",
+   "navDate": "1923"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6228028s/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 53e régiment d'artillerie pendant la Grande Guerre. 2 août 1914-20 janvier 1919 (1923)",
+   "navDate": "1923"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6361673v/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 7e bataillon de chasseurs alpins. Emules de Sidi-Brahim . Lettres-Préfaces des généraux Gratier et Goubeau (1923)",
+   "navDate": "1923"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6275904x/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1924)",
+   "navDate": "1924"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6281532w/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1924)",
+   "navDate": "1924"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62710977/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1925)",
+   "navDate": "1925"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6275568g/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1925)",
+   "navDate": "1925"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6275165v/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1925)",
+   "navDate": "1925"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6269291n/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1926)",
+   "navDate": "1926"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6329619f/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1926)",
+   "navDate": "1926"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6260775g/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1927)",
+   "navDate": "1927"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6271193x/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1927)",
+   "navDate": "1927"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6335507x/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1927)",
+   "navDate": "1927"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10315951f/manifest.json",
+   "type": "Manifest",
+   "label": "L_Histoire de la Grande guerre : la Guerre en Images vécue et racontée au jour le jour : récits de combats... (1928)",
+   "navDate": "1928"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62760259/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la Compagnie 28/4 du génie (1929)",
+   "navDate": "1929"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6280059h/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1930)",
+   "navDate": "1930"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6275753q/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1931)",
+   "navDate": "1931"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6354062n/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1931)",
+   "navDate": "1931"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6386681h/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1931)",
+   "navDate": "1931"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6275905b/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1931)",
+   "navDate": "1931"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6271192h/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1931)",
+   "navDate": "1931"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6269522f/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1931)",
+   "navDate": "1931"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65404798/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1931)",
+   "navDate": "1931"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6272525s/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1931)",
+   "navDate": "1931"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6243540z/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 283e R.I. : guerre 1914-1918 (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k63535978/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6334068k/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62664047/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62669432/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6423281s/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 120e régiment d'infanterie pendant la guerre 1914-1918 (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65299493/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62759238/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6267171x/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k63296203/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1932)",
+   "navDate": "1932"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6230003r/manifest.json",
+   "type": "Manifest",
+   "label": "Mémorial du 264e régiment d'artillerie 1914-1918 (1932-12-20)",
+   "navDate": "1932-12-20"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6486257q/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1933)",
+   "navDate": "1933"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6261350k/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1933)",
+   "navDate": "1933"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6347615q/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1933)",
+   "navDate": "1933"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62711023/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1933)",
+   "navDate": "1933"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6235412n/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 8e bataillon de Chasseurs à pied, pendant la guerre 1914-1918 (1934)",
+   "navDate": "1934"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6294535b/manifest.json",
+   "type": "Manifest",
+   "label": "Honneur et Patrie. Historique des 39e et 239e régiments d'artillerie de campagne. 2e édition (1934)",
+   "navDate": "1934"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6267091b/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1934)",
+   "navDate": "1934"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62628830/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1934)",
+   "navDate": "1934"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6286452v/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1934)",
+   "navDate": "1934"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6330304f/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1934)",
+   "navDate": "1934"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6275176n/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1934)",
+   "navDate": "1934"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6275942m/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1934)",
+   "navDate": "1934"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k64292392/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1935)",
+   "navDate": "1935"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6351281r/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1935)",
+   "navDate": "1935"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6461075v/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1935)",
+   "navDate": "1935"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62257911/manifest.json",
+   "type": "Manifest",
+   "label": "Les 25e, 65e et 106e bataillons de chasseurs à pied pendant la grande guerre . [Du 2 août 1914 au 11 nov. 1918.] Préface de M. le général Mordacq,... (1935)",
+   "navDate": "1935"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62608070/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1935)",
+   "navDate": "1935"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6331308d/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1935)",
+   "navDate": "1935"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62751772/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1935)",
+   "navDate": "1935"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6274616s/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1936)",
+   "navDate": "1936"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6336626x/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1937)",
+   "navDate": "1937"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k63439321/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1937)",
+   "navDate": "1937"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62762962/manifest.json",
+   "type": "Manifest",
+   "label": "Les armées françaises dans la Grande guerre (1939)",
+   "navDate": "1939"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6226079g/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 2e groupe cycliste pendant la guerre 1914-1918 : Honneur et Patrie (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6228914v/manifest.json",
+   "type": "Manifest",
+   "label": "Le 7e régiment d'infanterie coloniale dans la grande guerre : 1914-1919 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62260782/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 1er régiment mixte de zouaves-tirailleurs (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6260575s/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 1er bataillon d'infanterie légère d'Afrique pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6243541c/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 8e régiment d'artillerie (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62206091/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 69e bataillon de chasseurs à pieds. Campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6226084s/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 4e régiment de chasseurs à cheval pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6230625d/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 8e régiment de marche de tirailleurs. Campagne 1914-1918 : 2e 4e et 5e bataillons du 8e régiment de tirailleurs indigènes (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6228240x/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 249e régiment d'infanterie pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6225823j/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 408e régiment d'infanterie (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62271779/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 64e régiment d'artillerie D.C.A. (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6226081j/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 43e régiment d'infanterie coloniale pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62914018/manifest.json",
+   "type": "Manifest",
+   "label": "Pages de gloire de la Division marocaine (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62272285/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 3e régiment de spahis algériens de 1892 à 1923 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62897285/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 264e régiment d'artillerie (1914-1918) (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6226082z/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 234e régiment d'infanterie : guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6228736r/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 154e régiment d'artillerie à pied pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62919470/manifest.json",
+   "type": "Manifest",
+   "label": "Historique sommaire du 5e régiment de chasseurs à cheval pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6289729k/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 4e régiment d'infanterie territorial (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6264407v/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 8e régiment de marche de zouaves (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6262843g/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 506e régiment de chars de combat (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6261392x/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 30e R.I. : 4 citations fourragère aux couleurs de la médaille militaire (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6216906d/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 19e régiment d'infanterie pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62622776/manifest.json",
+   "type": "Manifest",
+   "label": "Historique abrégé du 24e bataillon alpin de chasseurs à pied pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k64239319/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la compagnie saharienne de Touggourt (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6295614t/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 284e régiment d'infanterie pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k64697943/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 156e régiment d'artillerie à pied : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62168707/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 13e régiment d'artillerie coloniale pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62267438/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 226e régiment A.C.P. (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62172121/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique des 44e, 244e 264e régiments d'artillerie de campagne (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6216865x/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 230e régiment d'artillerie et du P.A.D. 55 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6262276s/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 175e régiment d'infanterie pendant la guerre 1914-1919 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62169050/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 140e régiment d'infanterie pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6445680x/manifest.json",
+   "type": "Manifest",
+   "label": "Le 19è bataillon de chasseurs à pied pendant la guerre 1914-1918... [Par le Commandant Ducornez. - L'Adieu au chef, par le Médecin-major Groc.] (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62270487/manifest.json",
+   "type": "Manifest",
+   "label": "André Gadioux et Maurice Pouron. Ce que nous avons fait, historique du 32e régiment d'infanterie pendant la campagne 1914-1919 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62435184/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 179e régiment d'artillerie de tranchée (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6262273j/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique des 85e et 285e régiments d'artillerie lourde à tracteurs automobiles (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62168633/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 112me régiment d'infanterie pendant la grande guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6227053j/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 43e régiment d'artillerie coloniale pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62945145/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 252e régiment d'infanterie pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6413224g/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 42e bataillon de chasseurs à pied : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k64205666/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 1er régiment d'artillerie de campagne : campagne contre l'Allemagne (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62270524/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 266e Régt d'artillerie de campagne : Grande guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62168685/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 22me régiment de dragons : Campagne contre l'Allemagne 1914-1919 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6216896g/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 262e régiment d'artillerie de campagne : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k64132232/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la compagnie 6/4 pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62548640/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 4me régiment de zouaves : 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6227054z/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique des 5e, 205e, 265e régiment d'artillerie de campagne (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6216909n/manifest.json",
+   "type": "Manifest",
+   "label": "120e régiment d'artillerie lourde. Historique du 1er groupe : 1916-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6262278m/manifest.json",
+   "type": "Manifest",
+   "label": "Le 4e régiment de marche de tirailleurs tunisiens au 1er janvier 1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6254866t/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 15e régiment d'artillerie de campagne pendant la guerre 1914-1919 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62538905/manifest.json",
+   "type": "Manifest",
+   "label": "L'artillerie de la division marocaine : 276e régiment d'artillerie crapouillots parc 8/112 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6281295c/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 9e régiment de marche de tirailleurs algériens pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6239484c/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 141e régiment d'infanterie territoriale (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6227226b/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la compagnie 6/2 pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62272322/manifest.json",
+   "type": "Manifest",
+   "label": "Historique sommaire du 159e régiment d'artillerie à pied pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6236471t/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 3e groupe du 106e régiment d'artillerie lourde (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6227030j/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 27e R.I. pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6236840n/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la compagnie 6/3 pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62628155/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 11e régiment de chasseurs à cheval pendant la guerre 1914-1918 : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6262814r/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 3e régiment de chasseurs d'Afrique pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6260583b/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 84e régiment d'artillerie lourde pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6294402m/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 17e escadron du train des équipages pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62271794/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 7e régiment de tirailleurs (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6227227r/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 215e régiment d'artillerie de campagne pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6227231n/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 13e régiment d'artillerie de campagne pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6227225x/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la compagnie 6/15T devenue compagnie 6/6 pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6289727r/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 11e régiment de cuirassiers (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6262816k/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique des 107e, 307e et 407e régiments d'artillerie lourde (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62628170/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 43e bataillon de chasseurs à pied pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6291948d/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 5e bataillon de chasseurs alpins : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6227185v/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 8e régiment de hussards : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6242655f/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 29e bataillon de chasseurs à pied pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6263116g/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 6e régiment de chasseurs à cheval pendant la guerre de 1914-1919 contre l'Allemagne (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6289726b/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 38e régiment d'artillerie (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62272307/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 4e régiment de hussards : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6226670t/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 251e régiment d'artillerie de campagne et du P.A.D. 61 : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6235368p/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 40e régiment d'artillerie de campagne pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6260584r/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 212e régiment d'artillerie de campagne pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62271816/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 8e régiment de dragons : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6262812x/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 28e régiment d'infanterie territoriale, 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6242644n/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 163e régim. d'infanterie : guerre de 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6230005k/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la compagnie 6/5 pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62605781/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 46e bataillon de chasseurs alpins : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6227182m/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 22e régiment d'infanterie coloniale pendant la guerre 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6262839k/manifest.json",
+   "type": "Manifest",
+   "label": "Historique du 87e régiment d'infanterie : campagne 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62271831/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 7e régiment de marche de tirailleurs (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6260579f/manifest.json",
+   "type": "Manifest",
+   "label": "Petit historique du 8e zouaves pendant la grande guerre : 1914-1919 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6242653m/manifest.json",
+   "type": "Manifest",
+   "label": "Historique de la compagnie saharienne de la saoura de 1914 à 1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62826759/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne 1914-1918. Historique du 30e régiment d'artillerie (]-d-[s)",
+   "navDate": "]-d-[s"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6226672n/manifest.json",
+   "type": "Manifest",
+   "label": "79e régiment d'infanterie. 1914-1918 (]-d-[s)",
+   "navDate": "]-d-[s"
+ }]
+         }

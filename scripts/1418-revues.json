@@ -1,0 +1,87 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://gallicapix.bnf.fr/static/collection/1418-revues.json",
+  "type": "Collection",
+  "label": { "fr": [ "14-18 – Magazines et revues (corpus GallicaPix)" ], "en": [ "14-18 – Magazines (GallicaPix dataset)" ] },
+  "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k6557391t/thumbnail",
+  "description": { "fr": [ "Cette collection inclut tous les magazines et revues du corpus 14-18" ], "en": [ "This collection includes all the magazines of the 14-18 dataset" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallicapix.bnf.fr/",
+      "type": "Text",
+      "label": { "fr": [ "Corpus iconographique GallicaPix : <label>" ],"en": [ "GallicaPix iconographic dataset: <label>" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr",
+			"format": "text/html",
+			"label": { "fr": [ "Corpus Gallica : <label>" ],"en": [ "Gallica dataset: <label>" ] }
+		}],
+  "items": [
+{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32807694j.json",
+        "label": "Ligue aéronautique de France",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb34457768w.json",
+        "label": "L'Ambulance",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb343631418.json",
+        "label": "L'Aviation et l'automobilisme",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb327354521.json",
+        "label": "Les Cahiers de la guerre",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb327844357.json",
+        "label": "La Guerre aérienne illustrée",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32788750x.json",
+        "label": "L'Image de la guerre ",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32800408w.json",
+        "label": "Journal des sciences militaires",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb34419118b.json",
+        "label": "Le Miroir",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb38728672j.json",
+        "label": "Le Miroir des sports",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb328312353.json",
+        "label": "Pages de gloire",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb328533478.json",
+        "label": "La Restauration maxillo-faciale",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb34432899t.json",
+        "label": "Le Rire",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb328658898.json",
+        "label": "La Science et la vie",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32888628n.json",
+        "label": "La Vie aérienne illustrée",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32888685g.json",
+        "label": "La Vie au grand air",
+        "type": "Collection"
+    }]
+  }

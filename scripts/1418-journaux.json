@@ -1,0 +1,91 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://gallicapix.bnf.fr/static/collection/1418-journaux.json",
+  "type": "Collection",
+  "label": { "fr": [ "14-18 – Quotidiens (corpus GallicaPix)" ], "en": [ "14-18 – Newspapers (GallicaPix dataset)" ] },
+  "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k46000007/thumbnail",
+  "description": { "fr": [ "Cette collection inclut tous les quotidiens du corpus 14-18" ], "en": [ "This collection includes all the newspapers of the 14-18 dataset" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallicapix.bnf.fr/",
+      "type": "Text",
+      "label": { "fr": [ "Corpus iconographique GallicaPix : <label>" ],"en": [ "GallicaPix iconographic dataset: <label>" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr",
+			"format": "text/html",
+			"label": { "fr": [ "Corpus Gallica : <label>" ],"en": [ "Gallica dataset: <label>" ] }
+		}],
+  "items": [
+{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb326819451.json",
+        "label": "L'Action française",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32747578p.json",
+        "label": "Le Constitutionnel",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb343631418.json",
+        "label": "La Croix",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb34429768r.json",
+        "label": "L'Echo de Paris",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32771891w.json",
+        "label": "L'Excelsior",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb34355551z.json",
+        "label": "Le Figaro",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32779904b.json",
+        "label": "Le Gaulois",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb327877302.json",
+        "label": "L'Humanité",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb39294634r.json",
+        "label": "Journal des débats politiques et littéraires",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb327844744.json",
+        "label": "La Guerre mondiale",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb328123058.json",
+        "label": "Le Matin",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb34429265b.json",
+        "label": "L'Oeuvre",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32830550k.json",
+        "label": "L'Ouest Eclair (Rennes)",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32836564q.json",
+        "label": "Le Petit journal",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb34419111x.json",
+        "label": "Le Petit Parisien",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/cb32868136g.json",
+        "label": "Le Siècle",
+        "type": "Collection"
+    }]
+  }

@@ -1,8 +1,11 @@
 #!/usr/bin/perl -w
 #######################
-# USAGE: perl toolbox.pl  IN option
+# USAGE: perl CSV_to_IIIF.pl IN
 #   IN : input .csv file
-#   option :
+######################
+# create a IIIF collection of Gallica periodical titles
+# The periodical ARKs must be given as CSV data
+######################
 
 # use strict;
 use warnings;
@@ -17,7 +20,7 @@ use Date::Simple qw(date);
 #binmode(STDOUT, ":utf8");
 use open ':std', ':encoding(utf-8)';
 
-$msg = "\nUsage : perl toolbox.pl csv_data template
+$msg = "\nUsage : perl toolbox.pl csv_data
 csv_data: CSV input file
 ";
 
@@ -25,7 +28,10 @@ csv_data: CSV input file
 my $OUT = "OUT_coll";
 
 # base URL for the IIIF collection files
-my $baseURL = "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/";
+#my $baseURL = "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/";
+my $baseURL = "https://gallicapix.bnf.fr/static/collection/";
+#my $baseURL = "http://localhost:8984/static/collection/";
+
 # Gallica
 my $gallicaURL = "https://gallica.bnf.fr/ark:/12148/";
 my $iiifGallicaURL = "https://gallica.bnf.fr/iiif/ark:/12148/";
@@ -39,16 +45,26 @@ $datePattern= "\"\>(.+)\<";
 
 my @externalData; # data structure for import
 # JSON file template for a IIIF collection
-my $topTemplate = "template_coll_top.json";
-my $subTemplate = "template_coll_title.json";
+my $topTemplate = "template_coll_top_gallicapix.json";
+my $subTemplate = "template_coll_title_gallicapix.json";
 
 my $totalYears =0;
 
+
+sub continuer {
+ say " ********************************************";
+ print " OK to continue? (Y/N)\n >";
+ my $rep = <STDIN>;
+ chomp $rep;
+ if (($rep eq "N") or ($rep eq "n")) {die}
+}
 
 # write the IIIF sub-collections for a periodical title
 sub writeSubcollections {
 	my $ark=shift;
 	my $title=shift;
+	my $fromYear=shift;
+	my $toYear=shift;
 
   my $newSubJSON = "$OUT/$ark.json";
   my $nYears = 0;
@@ -80,7 +96,15 @@ sub writeSubcollections {
      #say "L: ".$line;
      ( $year ) = $line =~ m/$yearPattern/;
      if ($year) {
-      say " year: $year";
+			say " year: $year";
+			if ($fromYear and  $year lt $fromYear){
+				say "   ...jumping $year";
+				next;
+			}
+			if ($toYear and  $year gt $toYear){
+				say "   ...ending at $year";
+				last;
+			}
       $nYears++;
       $subJSON .= "{
           \"id\": \"$baseURL$ark-$year.json\",
@@ -92,8 +116,13 @@ sub writeSubcollections {
       writeYearCollection($ark,$title,$year);
     }
   }
-  $subJSON =~ s/<description_fr>/Cette collection regroupe tous les fascicules du titre $title ($nYears ann&#xE9;es)/g;
-  $subJSON =~ s/<description_en>/This collection gathers all the issues of the title $title ($nYears years)/g;
+  if ($fromYear) {
+  	$subJSON =~ s/<description_fr>/Cette collection inclut les fascicules du titre $title pour les ann&#xE9;es $fromYear &#x224; $toYear ($nYears ann&#xE9;es)/g;
+  	$subJSON =~ s/<description_en>/This collection includes the issues of $title from $fromYear to $toYear ($nYears years)/g;}
+		else {
+			$subJSON =~ s/<description_fr>/Cette collection inclut tous les fascicules du titre $title ($nYears ann&#xE9;es)/g;
+	  	$subJSON =~ s/<description_en>/This collection includes all the issues of $title ($nYears years)/g;
+		}
   chop($subJSON); # remove the last ,
   $subJSON .= "]
     }";
@@ -107,7 +136,6 @@ sub writeSubcollections {
 sub writeYearCollection {
 	my $ark=shift;
 	my $title=shift;
-  my $year=shift;
 
   my $newSubJSON = "$OUT/$ark-$year.json";
   my $nIssues=0;
@@ -117,8 +145,8 @@ sub writeYearCollection {
   my $subJSON = read_file $newSubJSON, {binmode => ':utf8'};
   $subJSON =~ s/<name>/$ark-$year/g;
   $subJSON =~ s/<label>/$title ($year)/g;
-  $subJSON =~ s/<description_fr>/Cette collection regroupe tous les fascicules du titre $title pour l'ann&#xE9;e $year/g;
-  $subJSON =~ s/<description_en>/This collection gathers all the issues of the title $title for the year $year/g;
+  $subJSON =~ s/<description_fr>/Cette collection inclut tous les fascicules de $title pour l'ann&#xE9;e $year/g;
+  $subJSON =~ s/<description_en>/This collection includes all the issues of $title for the year $year/g;
   $subJSON =~ s/<url>/$gallicaURL$ark/g;
   $subJSON =~ s/<baseURL>/$baseURL/g;
   $subJSON =~ s/<year>/$year/g;
@@ -137,7 +165,7 @@ sub writeYearCollection {
      unlink($newSubJSON);
      return
    }
-   say $res;
+   #say $res;
    my @reponseXML = split '\n', $res;
    foreach my $line (@reponseXML) {
      ( $d ) = $line =~ m/$doyPattern/; # day of year
@@ -171,6 +199,8 @@ if (scalar(@ARGV)<1)  {
 	die $msg;
 }
 
+say "\n... IIIF base URL is: $baseURL...";
+
 # output folder
 if(-d $OUT){
 		say "\n... writing files in $OUT...";
@@ -182,16 +212,16 @@ if(-d $OUT){
 
 my $IN=shift @ARGV;
 
+say "\n 1. Reading data $IN...";
+# building the data
+open(my $data, '<:encoding(utf8)', $IN) or die "### Can't open $IN file: $!\n";
+
 my $csv = Text::CSV->new (
 {
     binary => 1,
     auto_diag => 1,
     sep_char => ','
 });
-
-say "\n 1. Reading data $IN...";
-# building the data
-open(my $data, '<:encoding(utf8)', $IN) or die "### Can't open $IN file: $!\n";
 
 #open(DATA, $IN) || die "### Can't open $IN file: $!\n";
 #seek $fhTF, 0, 0;
@@ -220,19 +250,26 @@ say  int($nbData - 1)." items\n--------";
 
 # Generating the top level IIIF collection
 my $collName = $externalData[0]->[0];
+my $label_fr = $externalData[0]->[1];
+my $label_en = $externalData[0]->[2];
+my $description_fr = $externalData[0]->[3];
+my $description_en = $externalData[0]->[4];
+my $url = $externalData[0]->[5];
+my $thumbnail = $externalData[0]->[6];
+my $fromYear = $externalData[0]->[7];
+my $toYear = $externalData[0]->[8];
+
 say "\n 2. Generating the IIIF collection '$collName' ...";
-my $label = $externalData[0]->[1];
-my $description_fr = $externalData[0]->[2];
-my $description_en = $externalData[0]->[3];
-my $url = $externalData[0]->[4];
-my $thumbnail = $externalData[0]->[5];
+say "  from year $fromYear to $toYear";
+continuer();
 
 my $newJSONfile = $collName.".json";
 say " ...creating the IIIF collection file: ".$newJSONfile;
 copy($topTemplate,$newJSONfile) or die " # copy failed: $! #";
 my $currentJSON = read_file $newJSONfile, {binmode => ':utf8'};
 $currentJSON =~ s/<name>/$collName/g;
-$currentJSON =~ s/<label>/$label/g;
+$currentJSON =~ s/<label_fr>/$label_fr/g;
+$currentJSON =~ s/<label_en>/$label_en/g;
 $currentJSON =~ s/<description_fr>/$description_fr/g;
 $currentJSON =~ s/<description_en>/$description_en/g;
 $currentJSON =~ s/<url>/$url/g;
@@ -251,7 +288,7 @@ for (my $i = 1; $i < $nbData; $i++)
     if ($i< $nbData-1) { $currentJSON .= ","}
 
     # generating the IIIF subcollection for each title
-    writeSubcollections($externalData[$i]->[0],$externalData[$i]->[1]);
+    writeSubcollections($externalData[$i]->[0],$externalData[$i]->[1], $fromYear, $toYear);
 
   }
 

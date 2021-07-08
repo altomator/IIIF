@@ -1,0 +1,35 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://gallicapix.bnf.fr/static/collection/1418pub.json",
+  "type": "Collection",
+  "label": { "fr": [ "14-18 (corpus GallicaPix)" ], "en": [ "14-18 (GallicaPix dataset)" ] },
+  "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k46000007/thumbnail",
+  "description": { "fr": [ "Cette collection inclut tous les documents du corpus Publicités 14-18" ], "en": [ "This collection includes all the documents of the 14-18 Ads dataset" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallicapix.bnf.fr/",
+      "type": "Text",
+      "label": { "fr": [ "Corpus iconographique GallicaPix : <label>" ],"en": [ "GallicaPix iconographic dataset: <label>" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr",
+			"format": "text/html",
+			"label": { "fr": [ "Corpus Gallica : <label>" ],"en": [ "Gallica dataset: <label>" ] }
+		}],
+  "items": [
+{
+        "id": "https://gallicapix.bnf.fr/static/collection/1418-journaux.json",
+        "label": "Quotidiens",
+        "type": "Collection"
+    },{
+        "id": "https://gallicapix.bnf.fr/static/collection/1418-revues.json",
+        "label": "Revues et magazines",
+        "type": "Collection"
+    }]
+  }

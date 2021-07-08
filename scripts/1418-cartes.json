@@ -1,0 +1,619 @@
+{ "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://gallicapix.bnf.fr/static/collection/1418-cartes.json",
+  "type": "Collection",
+  "label": { "fr": [ "14-18 (corpus GallicaPix)"], "en": [ "14-18 (GallicaPix dataset)"]},
+  "description": { "fr": [ "Cette collection inclut toutes les cartes du corpus 14-18"], "en": [ "This collection includes all the maps of the 14-18 dataset"]},
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallicapix.bnf.fr",
+      "type": "Text",
+      "label": { "fr": ["Corpus iconographique GallicaPix"],"en": ["GallicaPix iconographic dataset"]},
+      "format": "text/html"
+    }
+  ],
+  "manifests": [
+
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530641626/manifest.json",
+   "type": "Manifest",
+   "label": "L_Angleterre : carte relief n°7 / Edition Louis Burgy (191.)",
+   "navDate": "191."
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064169b/manifest.json",
+   "type": "Manifest",
+   "label": "Russie & Carpathes : carte relief n°12 / Editions Louis Burgy (191.)",
+   "navDate": "191."
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064163n/manifest.json",
+   "type": "Manifest",
+   "label": "Front austro-italien : carte relief n°8 / Edition Louis Burgy (191.)",
+   "navDate": "191."
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530641789/manifest.json",
+   "type": "Manifest",
+   "label": "La Grèce et les Balkans : carte relief n°10 / Editions Louis Burgy (191.)",
+   "navDate": "191."
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445941r/manifest.json",
+   "type": "Manifest",
+   "label": "Carte des Opérations militaires contre l’Allemagne / Théâtre de la Guerre (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84459425/manifest.json",
+   "type": "Manifest",
+   "label": "Souvenir de Verdun. Chemin de la Classe, 191... à 191... Plan de M.Lesage et H. Simond. 1 : 5 000 env (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84459655/manifest.json",
+   "type": "Manifest",
+   "label": "Théâtre des opérations de la guerre européenne (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593470r/manifest.json",
+   "type": "Manifest",
+   "label": "Campagne de 1914. Opérations en Haute et Basse-Alsace (Ligne des Vosges) (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593472k/manifest.json",
+   "type": "Manifest",
+   "label": "Carte des opérations militaires en Champagne, sur la Marne et sur la Somme Positions des alliés aux offensives générales, 22 Août, 29 Août, 6 septembre. Positions de repli de des alliés. Direction d_attaque des corps allemands (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85935525/manifest.json",
+   "type": "Manifest",
+   "label": "La guerre en Belgique (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525047831/manifest.json",
+   "type": "Manifest",
+   "label": "Hark ! Hark ! The dogs do bark ! Écoutez, écoutez bien les chiens aboyer ! .With notes by Walter Emmanuel : affiche / Non identifié (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530634370/manifest.json",
+   "type": "Manifest",
+   "label": "La France Guerrière (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063544f/manifest.json",
+   "type": "Manifest",
+   "label": "La Guerre européenne : Théâtre des opérations (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446070p/manifest.json",
+   "type": "Manifest",
+   "label": "Carte de la Frontière, Meuse, Meurthe et Moselle, Vosges, Alsace-Lorraine (1914)",
+   "navDate": "1914"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446039w/manifest.json",
+   "type": "Manifest",
+   "label": "Camps des prisonniers français en Allemagne / Agence des prisonniers de guerre, Croix-Rouge française (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446042c/manifest.json",
+   "type": "Manifest",
+   "label": "Carte de la frontière russe à Berlin (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446045m/manifest.json",
+   "type": "Manifest",
+   "label": "L’Europe en 1915, la fin de la Prusse et le démembrement de l'Allemagne et de l'Autriche-Hongrie. S. J., des (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85935184/manifest.json",
+   "type": "Manifest",
+   "label": "Carte des positions ennemies devant Binarville (Marne), avec indication de l_emplacement des batteries, des bivouacs ou parcs et du tracé des tranchées 1 : 20 000 Signé : . Le Colonel chef de groupe A.Lallemand (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064749s/manifest.json",
+   "type": "Manifest",
+   "label": "Der russische Kriegsschauplatz (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064179r/manifest.json",
+   "type": "Manifest",
+   "label": "Dardanelles : Balkans Egypte Russie Perse : carte relief n°4 / Edition Louis Burgy (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593515w/manifest.json",
+   "type": "Manifest",
+   "label": "Carte du front oriental, avec indication des positions des unités allemandes et austro-allemandes en 1915. 1:1 400 000 env (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593555d/manifest.json",
+   "type": "Manifest",
+   "label": "L_atlas-index de tous les théâtres de la Guerre... : I bis : Nord-Est de la France, Alsace, Belgique (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459603j/manifest.json",
+   "type": "Manifest",
+   "label": "Le Théâtre oriental de la Guerre européenne (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459606s/manifest.json",
+   "type": "Manifest",
+   "label": "Les cartes des fronts, d_après les communiqués officiels à la date du 9 juillet 1915 (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593532d/manifest.json",
+   "type": "Manifest",
+   "label": "Carte du front occidental. Gratuitement  Le Journal  offre cette carte (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459598p/manifest.json",
+   "type": "Manifest",
+   "label": "Le terrain de lutte en forêt d_Argonne (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063698p/manifest.json",
+   "type": "Manifest",
+   "label": "Allemagne _ Autriche-Hongrie (au verso) Hongrie - Région des Carpathes (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446072h/manifest.json",
+   "type": "Manifest",
+   "label": "Hongrie. Région des Carpathes (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446266g/manifest.json",
+   "type": "Manifest",
+   "label": "La Main de Massiges (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064192f/manifest.json",
+   "type": "Manifest",
+   "label": "Front austro-italien : carte relief n°13 / Editions Louis Burgy (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530634603/manifest.json",
+   "type": "Manifest",
+   "label": "Allemagne - Autriche-Hongrie et une carte de la frontière russe à Berlin (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84595993/manifest.json",
+   "type": "Manifest",
+   "label": "La région entre Meuse et Moselle, avec le tracé approximatif de la ligne de contact des armées (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459605c/manifest.json",
+   "type": "Manifest",
+   "label": "Les cartes des fronts, d_après les communiqués officiels à la date du 4 juin 1915 (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530641660/manifest.json",
+   "type": "Manifest",
+   "label": "L_Italie et l'Autriche : carte relief n°5 / Edition Louis Burgy (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064165j/manifest.json",
+   "type": "Manifest",
+   "label": "La Guerre Européenne : La France, l_Angleterre et la Belgique contre l'Allemagne et l'Autriche-Hongrie / par Paul Kaeppelin, ... (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446163w/manifest.json",
+   "type": "Manifest",
+   "label": "Emplacement des Tombes des Militaires des 127e, 108e, 84e et 49e Régiments d’Infanterie tombés devant le bois de Pareid dans les combats du 6 au 9 Avril 1915. Sous-Secteur d'Hennemont (Meuse) (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067320f/manifest.json",
+   "type": "Manifest",
+   "label": "Carte panoramique à vol d_oiseau des Dardanelles et du Bosphore / Sidney Hébert...   Poyet Frères... (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85935577/manifest.json",
+   "type": "Manifest",
+   "label": "L_atlas-index de tous les théâtres de la Guerre... : III : Italie du Nord, Tyrol, Adriatique, Balkans, Turquie, Caucase (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446054k/manifest.json",
+   "type": "Manifest",
+   "label": "Carte pour suivre les opérations militaires Dardanelles, Mer de Marmara et Bosphore (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593556t/manifest.json",
+   "type": "Manifest",
+   "label": "L_atlas-index de tous les théâtres de la Guerre... : II : Prusse, Pologne, Galicie, Hongrie (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593563z/manifest.json",
+   "type": "Manifest",
+   "label": "Atlas de Poche du Théâtre de la Guerre. 56 cartes (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531025432/manifest.json",
+   "type": "Manifest",
+   "label": "Territorios ocupados por las distintas tropas en los diferentes teatro de la guerra - au verso El teatro de la guerra en el Sur (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593562j/manifest.json",
+   "type": "Manifest",
+   "label": "Atlas de Poche du Théâtre de la Guerre. 56 cartes (1915)",
+   "navDate": "1915"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067322b/manifest.json",
+   "type": "Manifest",
+   "label": "Front français. Champagne - Environs de Souain. 10, Perthes (Sud) / Groupe des canevas de tir (1915-1918)",
+   "navDate": "1915-1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446142q/manifest.json",
+   "type": "Manifest",
+   "label": "Département de la Somme (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593523f/manifest.json",
+   "type": "Manifest",
+   "label": "La Région verdunoise / R. Bolzé (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673086/manifest.json",
+   "type": "Manifest",
+   "label": "Maricourt : 9 Août 1916 / dresse et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067304d/manifest.json",
+   "type": "Manifest",
+   "label": "Nord de la Somme : 15 Août 1916 (edition annulant les précédentes.) / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067305v/manifest.json",
+   "type": "Manifest",
+   "label": "Sud de la Somme : 14 Juillet 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067313c/manifest.json",
+   "type": "Manifest",
+   "label": "Maricourt : restitution par la S.T.C.A. 20 des photographies prises jusqu_au 9 Aout 1916 / Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067332r/manifest.json",
+   "type": "Manifest",
+   "label": "Combles : 6 Août 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673069/manifest.json",
+   "type": "Manifest",
+   "label": "Organisations allemandes à la date du 15 Aout 1916 : (d_après un croquis trouvé sur un lieutenant du 127e) / EM - VIe A - 2e Bureau   Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673336/manifest.json",
+   "type": "Manifest",
+   "label": "Péronne / Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067336j/manifest.json",
+   "type": "Manifest",
+   "label": "Péronne : 6 Juillet 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673353/manifest.json",
+   "type": "Manifest",
+   "label": "Dompierre : 10 Juin 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064184x/manifest.json",
+   "type": "Manifest",
+   "label": "Soissons. 1 : 20.000 / Groupe des Canevas de Tir, 15 décembre 1916 (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067314t/manifest.json",
+   "type": "Manifest",
+   "label": "Combles - Maricourt : 20e C.A. 2e Bureau - Restitution des photographies prises jusqu_au 16 Août 1916 / S.T.C.A. 20   Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067338f/manifest.json",
+   "type": "Manifest",
+   "label": "Maurepas : 20 Juin 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067300m/manifest.json",
+   "type": "Manifest",
+   "label": "Combles - Maricourt : 20e C.A. 2e Bureau - Restitution des photographies prises jusqu_au 17 Août 1916 / S.T.C.A. 20   Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067339w/manifest.json",
+   "type": "Manifest",
+   "label": "Nord de la Somme : 6 Août 1916 (edition annulant les précédentes.) / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064427x/manifest.json",
+   "type": "Manifest",
+   "label": "Carte de la Pologne   Hongrie. Région des Carpathes (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673370/manifest.json",
+   "type": "Manifest",
+   "label": "Combles : 22 Juillet 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067302h/manifest.json",
+   "type": "Manifest",
+   "label": "Nord de la Somme : 10 Aout 1916 : schema des organisations defensives allemandes au nord de la Somme (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673012/manifest.json",
+   "type": "Manifest",
+   "label": "Maricourt : restitution par la S.T.C.A. 20 des photographies prises jusqu_au 31 Juillet 1916 (12 Heures.) / Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067303z/manifest.json",
+   "type": "Manifest",
+   "label": "Nord de la Somme : activité de l_artillerie ennemie du 6 au 11 Août 1916 / dressé et restitué par le Groupe des canevas de tir   S.R.A. 20 (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673158/manifest.json",
+   "type": "Manifest",
+   "label": "Rectificatif du 19 Août 1916 / S.T.C.A. 7 & 14 D.I.   Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067316q/manifest.json",
+   "type": "Manifest",
+   "label": "Rectificatif du 13 Aout 1916 / S.T.C.A. 7 & 14 D.I.   Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53033005d/manifest.json",
+   "type": "Manifest",
+   "label": "Le Théâtre occidental de la Guerre européenne. La plus claire la plus détaillée des cartes en une seule feuille pour suivre les opérations Franco-Anglo-Belges-Allemandes / par le Prof. B. Barrecchia. 1 : 800 000 The occidental theater of the European War... (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067334n/manifest.json",
+   "type": "Manifest",
+   "label": "Maricourt : 9 Juillet 1916 / dresse et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067311g/manifest.json",
+   "type": "Manifest",
+   "label": "Maricourt : 20 Juin 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067307r/manifest.json",
+   "type": "Manifest",
+   "label": "Cambrai Sud Ouest / levée par les officiers du corps d_etat-major et publiée par le Dépôt de la Guerre...   Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85935206/manifest.json",
+   "type": "Manifest",
+   "label": "Les Dardanelles - Le Bosphore (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067309n/manifest.json",
+   "type": "Manifest",
+   "label": "Combles - Cléry : 22 Juillet 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530644988/manifest.json",
+   "type": "Manifest",
+   "label": "Damier géographique (breveté s. g. d. g.) : Les Alliés : Nouveau jeu de guerre (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673101/manifest.json",
+   "type": "Manifest",
+   "label": "Curlu : 18 Juin 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067312x/manifest.json",
+   "type": "Manifest",
+   "label": "Hem : 20 Juin 1916 / dressé et restitué par le Groupe des canevas de tir (1916)",
+   "navDate": "1916"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84461827/manifest.json",
+   "type": "Manifest",
+   "label": "Environs de Verdun (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446199h/manifest.json",
+   "type": "Manifest",
+   "label": "Guerre de 1914-1917. Les Destructions d’immeubles en Belgique. Carte de Belgique montrant l'importance des destructions d'immeubles. (Situation au 1er mai 1916) (3e éd.) (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446195v/manifest.json",
+   "type": "Manifest",
+   "label": "W. and A. K. Johnston_s War map of Palestine (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505979d/manifest.json",
+   "type": "Manifest",
+   "label": "Visite au secteur de Saint-Mihiel, 22 septembre 1917. A Monsieur Raymond Poincaré, président de la République française, le XVIIe Corps d_Armée (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593549p/manifest.json",
+   "type": "Manifest",
+   "label": "La Pologne et le futur équilibre européen. Projet de démembrement de l_Allemagne (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064167f/manifest.json",
+   "type": "Manifest",
+   "label": "Camp de Lassigny. Anciennes organisations françaises et allemandes (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459627z/manifest.json",
+   "type": "Manifest",
+   "label": "Carte du Front. Plan directeur. Région de Soissons. Zones battues par l_artillerie ennemie (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593544m/manifest.json",
+   "type": "Manifest",
+   "label": "Plan du Musée de la grande guerre. Collection Henri Leblanc, 6 avenue Malakoff (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8460124g/manifest.json",
+   "type": "Manifest",
+   "label": "Organisations allemandes dans la région Roye-Lassigny (1917)",
+   "navDate": "1917"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064713v/manifest.json",
+   "type": "Manifest",
+   "label": "Théâtre des guerres : guerre de 1914-1918. Mésopotamie et Asie Mineure. - Philips_Strategical map of Mesopotamia and Asia minor (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593521m/manifest.json",
+   "type": "Manifest",
+   "label": "Cimetières français (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531026119/manifest.json",
+   "type": "Manifest",
+   "label": "La guerre russo-allemande : carte de La Dépêche (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064798d/manifest.json",
+   "type": "Manifest",
+   "label": "Boulogne. St. Omer. : Feindleiche Anlagen vor der 6 Armee. Stand vom 1. April 1918 / Bearbeitet in der Kartogr. Abteilung der Königl. Preuß. Landesaufnahme. 1917   Zeichnung u. Druck : Stoverm 4 (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064541f/manifest.json",
+   "type": "Manifest",
+   "label": "Planmaterial der 3. Armee : Verdun. Bl. 106 (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459680b/manifest.json",
+   "type": "Manifest",
+   "label": "Turquie d_Asie (croquis). 1 : 3.700.000. Situation présumée des forces ennemies au 1er octobre 1918 (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446307z/manifest.json",
+   "type": "Manifest",
+   "label": "The British Front / Alexander Gross F.R.G.S (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121330t/manifest.json",
+   "type": "Manifest",
+   "label": "Seine, Meuse and Rhine basins (1918)",
+   "navDate": "1918"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525100443/manifest.json",
+   "type": "Manifest",
+   "label": "Tout le Banat doit appartenir à la Roumanie . Albert Thomas (1919)",
+   "navDate": "1919"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121377m/manifest.json",
+   "type": "Manifest",
+   "label": "Carte du front. La frontière française de la Mer du Nord à l_Italie (1940)",
+   "navDate": "1940"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531213782/manifest.json",
+   "type": "Manifest",
+   "label": "Le front français. France, Belgique et Allemagne occidentale / Dressée et gravée par Blondel La Rougery (1940)",
+   "navDate": "1940"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531215707/manifest.json",
+   "type": "Manifest",
+   "label": "Alsace, Lorraine, Luxembourg. Bords du Rhin (1940)",
+   "navDate": "1940"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223347s/manifest.json",
+   "type": "Manifest",
+   "label": "Paasche_s Spezialkarten der Westfront / Bearbeitet und herausgegeben von Walter Paasche. Blatt 12, Belfort-Mülhausen (inconnu)",
+   "navDate": "inconnu"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223545n/manifest.json",
+   "type": "Manifest",
+   "label": "1914 Guerre Européenne 1915. Carte relief no 2, Les Vosges (inconnu)",
+   "navDate": "inconnu"
+ },
+ {
+   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102233593/manifest.json",
+   "type": "Manifest",
+   "label": "Schlachtenplan IV  Vogesen  : Belfort-Metz-Verdun-Wœwreebene Maas-und Moseltäler (inconnu)",
+   "navDate": "inconnu"
+ }]
+         }

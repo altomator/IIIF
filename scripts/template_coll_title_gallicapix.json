@@ -1,0 +1,24 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "<baseURL><name>.json",
+  "type": "Collection",
+  "label": { "fr": [ "<label>" ], "en": [ "<label>" ] },
+  "description": { "fr": [ "<description_fr>" ], "en": [ "<description_en>" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "<url>/date<year>",
+      "type": "Text",
+      "label": { "fr": [ "Périodique Gallica : <label>" ],"en": [ "Gallica periodical: <label>" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "<url>/date<year>",
+			"format": "text/html",
+			"label": { "fr": [ "Périodique Gallica : <label>" ],"en": [ "Gallica periodical: <label>" ] }
+		}],
+  "items": [
