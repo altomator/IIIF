@@ -21,9 +21,7 @@ IIIF collections are also useful for organizing documents according to a filing 
 
 [![IIIF collection in Mirador](/images/bd.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.json)
 
-Launching Mirador with both a comics sample and the collection (as in the screenshot) is done with some [Javascript](https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.html).
-
-Multiple collections can be used to organize a complex navigation scheme as Mirador windows. In this example, comic book content is organized around two entry points, by series and by authors.
+Launching Mirador with both a comics sample and the collection (as in the screenshot) is done with some [Javascript](https://raw.githubusercontent.com/altomator/IIIF/main/collection/collection-bd.html). Multiple collections can be used to organize a complex navigation scheme as Mirador windows. In this example, comic book content is organized around two entry points, by series and by authors.
 
 ![IIIF collection in Mirador](/images/bd2.jpg)
 
@@ -31,9 +29,11 @@ Multiple collections can be used to organize a complex navigation scheme as Mira
 
 This last example (produced using this [Perl script](https://github.com/altomator/IIIF/tree/main/scripts)) shows the complete Gallica thematic selection of [women's magazines and newspapers](https://gallica.bnf.fr/html/presse-et-revues/presse-feminine) transcribes as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/collection.json). 
 
-[![IIIF Magazines Collection in Mirador](/images/feminine.png)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_feminine/collection.json)
+[![IIIF Magazines Collection in Mirador](/images/feminine.png)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/collection.json)
 
 
 ## NewsEye european project
 
 Using the same method, the French dataset (6 titles) used within the [NewsEye](https://www.newseye.eu/) european project is also disseminated as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/dataset_newseye_fr/collection.json).
+
+See also this [presentation](https://docs.google.com/presentation/d/1Hz2Yxd5IfIJaMDb1IJX2IVqJXR8Z8BRTASG_Sip8BvU/edit#slide=id.gc6f73a04f_0_0) made during the 2021 IIIF Annual Conference.

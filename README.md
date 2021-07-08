@@ -19,21 +19,21 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) c
 ### Comparing Documents with Mirador
 Comparing images was one of the initial objectives of the IIIF initiative. Just drag and drop the IIIF icons in any IIIF viewer (like this [one](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)) to open side by side a BnF and a Standford digital edition of *Sidereus nuncius, magna... spectacula pandens... quae a Galileo Galileo,...* ([RES P-V-743](https://gallica.bnf.fr/ark:/12148/bpt6k9907264/))
 
-[Gallica IIIF manifest](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
+[Gallica IIIF manifest](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
 
-[![Gallica](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
+[![Gallica](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
 
 
-[Standford Libraries IIIF manifest](https://purl.stanford.edu/tm309fq4104/iiif/manifest)
+[Standford Libraries IIIF manifest](https://purl.stanford.edu/tm309fq4104/iiif/manifest.json?iiif-content=https://purl.stanford.edu/tm309fq4104/iiif/manifest.json)
 
-[![Standford](images/iiif-drag-n-drop.png)](https://purl.stanford.edu/tm309fq4104/iiif/manifest.json)
+[![Standford](images/iiif-drag-n-drop.png)](https://purl.stanford.edu/tm309fq4104/iiif/manifest.json?iiif-content=https://purl.stanford.edu/tm309fq4104/iiif/manifest.json)
 
 [![Comparing documents)](images/2documents.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
 
 ### Comparing Documents and Images with Mirador
 Comparing a IIIF document and a local images is also possible in [Mirador 3](https://projectmirador.org/embed/?iiif-content=). Open this [black & white photo](https://gallica.bnf.fr/ark:/12148/btv1b531454753) in Mirador 3 using the drag-and-drop technique: 
 
-[![Local images](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/ark:/12148/btv1b531454753?manifest=https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
+[![Local images](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/btv1b531454753/manifest.json)
 
 Then download its [colorized](images/btv1b531454753-Enhanced-Colorized.jpg) version (produced with [DeOldify](https://www.myheritage.fr/incolor/))  on your disk. Finally, drag and drop the image file in Mirador.
 
@@ -149,7 +149,7 @@ The Biblissima Mirador 3 instance can be used to open this collection:
 
 Once open, the collection can be browsed, starting from the Information side panel:
 
-[![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cb343833568.json)
+[![IIIF collection in Mirador](/images/collection.jpg)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568.json)
 
 
 ### For Thematic Collections
@@ -184,9 +184,9 @@ Multiple collections can be used to organize a complex navigation scheme as Mira
 
 ![IIIF collection in Mirador](/images/bd2.jpg)
 
-This final example (produced using this [Perl script](https://github.com/altomator/IIIF/tree/main/scripts)) shows the complete Gallica thematic selection of [women's magazines](https://gallica.bnf.fr/html/presse-et-revues/presse-feminine) transcribes as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_feminine.json). 
+This final example (produced using this [Perl script](https://github.com/altomator/IIIF/tree/main/scripts)) shows the complete Gallica thematic selection of [women's magazines](https://gallica.bnf.fr/html/presse-et-revues/presse-feminine) transcribes as a [IIIF collection](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/collection.json). 
 
-[![IIIF Magazines Collection in Mirador](/images/feminine.png)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/presse_feminine.json)
+[![IIIF Magazines Collection in Mirador](/images/feminine.png)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/collection.json)
 
 
 ## IIIF Annotations
