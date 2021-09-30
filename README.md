@@ -81,6 +81,8 @@ This [example](https://altomator.github.io/IIIF/megapixels/Visages-1418.html), b
 
 [![Deep zoom (38 800 × 21 000 pixels)](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)](https://altomator.github.io/IIIF/megapixels/Visages-1418.html)
 
+[Another example on Vogue frontpages](https://altomator.github.io/IIIF/megapixels/Vogue.html)
+
 *tbc: large Cassini map *
 
 
