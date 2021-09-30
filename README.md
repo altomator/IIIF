@@ -77,7 +77,7 @@ This last Leaflet-iiif example derived from [https://bl.ocks.org/mejackreed](htt
 ## Deep zoom with large images
 
 Large composite file of images can be fragmented into smaller tiled units allowing rapid load and smooth  deep zoom navigation in a browser.
-This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/) makes use of OpenSeaDragon, an open-source, web-based viewer for high-resolution zoomable images.  OpenSeaDragon has [support](https://openseadragon.github.io/examples/tilesource-iiif/) for the IIIF Image API (this example is not IIIF-compliant).
+This [example](https://dm0lds.wordpress.com/2018/11/02/20-370-visages/), based on 20k faces extrated from Gallica (1910-1920), makes use of OpenSeaDragon, an open-source, web-based viewer for high-resolution zoomable images.  OpenSeaDragon has [support](https://openseadragon.github.io/examples/tilesource-iiif/) for the IIIF Image API (this example is not IIIF-compliant).
 
 [![Deep zoom (38 800 × 21 000 pixels)](https://dm0lds.files.wordpress.com/2015/11/visages.jpg)](https://altomator.github.io/IIIF/megapixels/Visages-1418.html)
 
