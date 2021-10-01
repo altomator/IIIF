@@ -92,7 +92,7 @@ This [example](https://altomator.github.io/IIIF/megapixels/Visages-1418.html), b
 
 This basic [IIIF collection](https://iiif.io/api/presentation/2.1/#collection) describes a sub-collection of the [Vogue](https://gallica.bnf.fr/ark:/12148/cb343833568/date.item) magazine (French edition, 1920-1940), organized by publication date (year).
 
-[cb343833568.json](https://raw.githubusercontent.com/altomator/IIIF/main/vogue-avec-ocr/collection/cb343833568.json) is the collection's manifest that can be opened in a IIIF compliant viewer like Mirador. 
+[cb343833568.json](https://raw.githubusercontent.com/altomator/IIIF/main/collection/vogue-avec-ocr/cb343833568.json) is the collection's manifest that can be opened in a IIIF compliant viewer like Mirador. 
 
 ```json
 {
@@ -227,7 +227,7 @@ Some of the Mandragore database's enlightened manscripts has been exported as [I
 Texts produced by OCR engines can be disseminated using various mechanisms offered by IIIF (look at this [work](https://iiif.io/community/groups/text-granularity/charter/)).
 
 ### SeeAlso
-OCR resources like ALTO files can be linked to a IIIF manifest as seeAlso content, attached to a specific canvas. In this IIIF document manifest ([bpt6k9604118j](https://github.com/altomator/IIIF/blob/main/collection/bpt6k9604118j.json) ID), we are linking the ALTO file X/X00000019.xml to canvas #19:
+OCR resources like ALTO files can be linked to a IIIF manifest as seeAlso content, attached to a specific canvas. In this IIIF document manifest ([bpt6k9604118j](https://github.com/altomator/IIIF/blob/main/collection/vogue-avec-ocr/bpt6k9604118j.json) ID), we are linking the ALTO file X/X00000019.xml to canvas #19:
 
 ```json
 ...
@@ -263,7 +263,7 @@ These ALTO files could also be dereferenced on the fly thanks to the Gallica OCR
 IIIF viewers need an extension to display the OCR content. Johannes Baiter (MDZ Digital Library team, Bavarian State Library) developped such a Mirador 3 [plugin](https://github.com/dbmdz/mirador-textoverlay) that can be used to open our OCR test:
 
 1. Open the Mirador demo instance: https://mirador-textoverlay.netlify.app/
-2. Add a new IIIF resource (use the + blue button) and load the Vogue [collection manifest](https://raw.githubusercontent.com/altomator/IIIF/main/collection/cb343833568ocr.json) with its URL.
+2. Add a new IIIF resource (use the + blue button) and load the Vogue [collection manifest](https://raw.githubusercontent.com/altomator/IIIF/main/collection/vogue-avec-ocr/cb343833568ocr.json) with its URL.
 3. Using the Info side panel, navigate to the 1920 sub-collection, then to the June issue and finally to image #19 (page folio #3).
 4. The text overlay toolbox must be visible, and the OCR content displayed as overlays.
 
