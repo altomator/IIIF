@@ -19,12 +19,12 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) c
 ### Comparing Documents with Mirador
 Comparing images was one of the initial objectives of the IIIF initiative. Just drag and drop the IIIF icons in any IIIF viewer (like this [one](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)) to open side by side a BnF and a Standford digital edition of *Sidereus nuncius, magna... spectacula pandens... quae a Galileo Galileo,...* ([RES P-V-743](https://gallica.bnf.fr/ark:/12148/bpt6k9907264/))
 
-[Gallica IIIF manifest](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
+[Gallica IIIF manifest](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
 
-[![Gallica](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
+[![Gallica](images/iiif-drag-n-drop.png)](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json?manifest=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9907264/manifest.json)
 
 
-[Standford Libraries IIIF manifest](https://purl.stanford.edu/tm309fq4104/iiif/manifest.json?manifest=https://purl.stanford.edu/tm309fq4104/iiif/manifest.json)
+[Standford Libraries IIIF manifest](https://purl.stanford.edu/tm309fq4104/iiif/manifest.json)
 
 [![Standford](images/iiif-drag-n-drop.png)](https://purl.stanford.edu/tm309fq4104/iiif/manifest.json?manifest=https://purl.stanford.edu/tm309fq4104/iiif/manifest.json)
 
