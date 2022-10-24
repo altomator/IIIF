@@ -269,8 +269,8 @@ IIIF viewers need an extension to display the OCR content. Johannes Baiter (MDZ 
 
 ![OCR text as overlays](/images/ocr.jpg)
 
-Same is true for transcription produced by HTR. Open with the MDZ plug-in this [Michel Foucault reading notes](https://gallica.bnf.fr/iiif/ark:/12148/btv1b105425466/manifest.json) transcribed by the ANR [Fiches de lecture Michel Foucault project](https://odhn.ens.psl.eu/article/foucault-fiches-de-lecture-ffl)
- thanks to Transcribus, and jump to page 4.
+Same is true for transcription produced by HTR. Open with the MDZ plug-in this [Michel Foucault reading notes](https://raw.githubusercontent.com/altomator/IIIF/main/collection/FFL-avec-htr/btv1b105425466.json) transcribed by the ANR [Fiches de lecture Michel Foucault project](https://odhn.ens.psl.eu/article/foucault-fiches-de-lecture-ffl)
+ thanks to Transcribus, and jump to page 4 (note: scaling problem).
 
 
 ### OCR as Annotations
