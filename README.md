@@ -197,7 +197,7 @@ This final example (produced using this [Perl script](https://github.com/altomat
 
 ### AI Annotations
 
-This IIIF demonstration leverages the GallicaPix [objects detection](https://github.com/altomator/Image_Retrieval) data that are available when the GallicaPix database acts a IIIF annotations server.
+This IIIF demonstration leverages the GallicaPix [objects detection](https://github.com/altomator/Image_Retrieval) data that are available when the GallicaPix database acts a IIIF annotation server. In this scenario, the annotations are stored somewhere, delivered by a server and hooked up to documents thanks to user interactions in Mirador (an instance of Mirador could also been programmatically hooked up to a database to avoid human interaction).
 
 1. From GallicaPix (IIIF local menu available on each illustration) or using [this URL](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en), open the Vogue [June 1920](https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/f11.item) issue in a Mirador instance, like the BnF https://manuscrits-france-angleterre.org/ portal.
 
@@ -209,7 +209,23 @@ This IIIF demonstration leverages the GallicaPix [objects detection](https://git
 
 [![GallicaPix Annotations in Mirador](/images/annotations.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
-The content fo these annotations could even be searchable using the [IIIF Content Search API](https://iiif.io/api/search/1.0/).
+Another scenario implies to directly link the annotations to the manifest, using the otherContent feature:
+
+```
+...
+,
+      "otherContent": [
+    {
+        "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json",
+        "@type": "sc:AnnotationList",
+        "label": "Annotations produced by GallicaPix"
+    }
+       ],
+...
+```
+
+Note: The content of these annotations could even be searchable using the [IIIF Content Search API](https://iiif.io/api/search/1.0/).
+
 
 ### Scientific Annotations
 
