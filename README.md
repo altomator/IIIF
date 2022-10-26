@@ -209,7 +209,7 @@ This IIIF demonstration leverages the GallicaPix [objects detection](https://git
 
 [![GallicaPix Annotations in Mirador](/images/annotations.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
-In the previous scenario, the manifest and its annotations are not formally linked. Another use case implies to directly link the annotations to the manifest, using the otherContent feature. A link to the annotations file is added into the first canvas of the manifest:
+In the previous scenario, the manifest and its annotations are not formally linked. Other use cases may imply to directly link the annotations to the manifest, using the otherContent feature. A link to the annotations file is added into the first canvas of the manifest:
 
 ```
 ...
@@ -224,6 +224,22 @@ In the previous scenario, the manifest and its annotations are not formally link
 ...
 ```
 Now the annotations are visible when one opens the manifest in [Mirador](https://manuscrits-france-angleterre.org/view3if/?target=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/bpt6k9604118j_linked_annot.json&page=22&lang=fr).
+
+Obviously, as we're dealing with a server, the link might be a direct call to the end-point outputing the JSON data:
+
+```
+...
+,
+      "otherContent": [
+    {
+        "@id": "https://gallicapix.bnf.fr/rest?run=exportAnnotationsIIIF.xq&corpus=vogue&id=bpt6k9604118j&locale=en",
+        "@type": "sc:AnnotationList",
+        "label": "Annotations produced by GallicaPix"
+    }
+       ],
+...
+```
+
 
 Note: The content of these annotations could even be searchable using the [IIIF Content Search API](https://iiif.io/api/search/1.0/).
 
