@@ -70,6 +70,13 @@
         },
         "@type" : "oa:Annotation"
       } ],
+      "otherContent": [
+    {
+        "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json",
+        "@type": "sc:AnnotationList",
+        "label": "Annotations produced by GallicaPix"
+    }
+       ],
       "thumbnail" : {
         "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/f1.thumbnail"
       },
@@ -616,13 +623,6 @@
         },
         "@type" : "oa:Annotation"
       } ],
-      "otherContent": [
-    {
-        "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json",
-        "@type": "sc:AnnotationList",
-        "label": "My fantastic annotations"
-    }
-       ],
       "thumbnail" : {
         "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/f22.thumbnail"
       },
