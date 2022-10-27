@@ -1,6 +1,6 @@
 # IIIF Experiments
 
-This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) content and real life use cases when working with IIIF documents.
+This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) content and real life use cases when working with IIIF documents. Most of the content is IIIF Presentation version 2 based.
 
 - [*Comparing Documents and Images*](#comparing-documents-and-images)
 - [*Deep Zoom with large images*](#deep-zoom-with-large-images)
