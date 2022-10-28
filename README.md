@@ -253,7 +253,9 @@ Some of the Mandragore database's enlightened manscripts has been exported as [I
 
 ## IIIF Range
 
-*tbc*
+ToC, lists, index can be exposed as a structure of Ranges. This v3.0 [manifest](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/VictorHugo_manifest_v3.json) showcases how to expose a ToC from a [monography](https://gallica.bnf.fr/ark:/12148/bpt6k1264641j/f512.item) using this [feature](https://iiif.io/api/presentation/3.0/#54-range).
+
+
 
 ## IIIF and OCR 
 
