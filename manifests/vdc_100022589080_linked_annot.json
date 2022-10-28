@@ -233,13 +233,11 @@
 							"on":"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022589080.0x000175"
 						}
 					],
-					"otherContent": [
-		    {
+					"otherContent": [{
 		        "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/annotations/vdc_100022589080_annot2.json",
 		        "@type": "sc:AnnotationList",
 		        "label": "Annotations produced by LibCrowd"
-		    }
-		       ],
+		    }]
 				},
 	 	 	 	{
 	 	 	 	 	"@id":"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022589080.0x000176",
