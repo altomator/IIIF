@@ -1,0 +1,37 @@
+{
+	"https://raw.githubusercontent.com/altomator/IIIF/main/manifests/bpt6k9604118j_linked_annot.json": {
+		"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022589080.0x000175": [{
+			"@context": "http://iiif.io/api/presentation/2/context.json",
+			"@type": "oa:Annotation",
+			"motivation": ["oa:commenting", "oa:tagging"],
+			"resource": [{
+				"@type": "dctypes:Text",
+				"format": "text/html",
+				"chars": "<p><em>Actress of all Work!</em></p><small>(LibCrowds)</small>"
+			}, {
+				"@type": "oa:Tag",
+				"chars": "title"
+			}],
+			"on": [{
+				"@type": "oa:SpecificResource",
+				"full": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022589080.0x000175",
+				"selector": {
+					"@type": "oa:Choice",
+					"default": {
+						"@type": "oa:FragmentSelector",
+						"value": "xywh=384,2200,1706,184"
+					},
+					"item": {
+						"@type": "oa:SvgSelector",
+						"value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M383.9647,2199.7528h853.0062v0h853.0062v91.88066v91.88066h-853.0062h-853.0062v-91.88066z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_6e75f3a0-7cfc-4b1e-a831-3b7156f00632\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1.62287\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+					}
+				},
+				"within": {
+					"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022589080.0x000002/manifest.json",
+					"@type": "sc:Manifest"
+				}
+			}],
+			"@id": "622c09c0-09f5-41f1-b6de-0d6c73f949fd"
+		}]
+	}
+}
