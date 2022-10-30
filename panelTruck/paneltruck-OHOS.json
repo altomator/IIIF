@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "author": "Jean-Philippe Moreux (BnF)",
+    "author": "Jean-Philippe Moreux, BnF",
     "title": "Narrating maps and images with PanelTruck (Leventhal Map & Education Center)",
-    "subtitle": "OHOS project",
+    "subtitle": "OHOS project demo",
     "publishedDate": "2022-10-30"
   },
   "sources": [
     {
       "id": "1",
       "type": "iiifManifest",
-      "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:6969z354f/manifest.json",
-      "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:6969z354f"
+      "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6913857m/manifest.json",
+      "moreInfo": "https://gallica.bnf.fr/ark:/12148/btv1b6913857m/"
     },
     {
       "id": "2",
@@ -59,8 +59,8 @@
         -1837
       ],
       "caption": {
-        "title": "A caption may have a title",
-        "text": "And descriptive text telling the reader what we're looking at. This image is loaded from a IIIF Manifest, by passing the Manifest URL together with a sequence, canvas, and image indices."
+        "title": "Madame Hubertine Auclert (1848-1914), suffragette",
+        "text": "1910, Agence Rol (photo agency) [See in Gallica](https://gallica.bnf.fr/ark:/12148/btv1b6913857m/)"
       }
     },
     {
