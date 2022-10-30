@@ -87,39 +87,14 @@
     {
       "source": "4",
       "extent": [
-        -7913969.8286,
-        5225321.2452,
-        -7908050.7362,
-        5231737.1783
+        -1252344, 6261721,
+    0, 7514066
       ],
       "caption": {
-        "text": "We can also use real world maps; this one is from OSM"
+        "text": "OpenStreetMap of UK"
       }
     },
-    {
-      "source": "4",
-      "extent": [
-        -7911817.6485,
-        5229372.4077,
-        -7910337.8754,
-        5230976.391
-      ],
-      "caption": {
-        "text": "And now we're zooming the map to a new extent"
-      }
-    },
-    {
-      "source": "5",
-      "extent": [
-        -7910381.833063327,
-        5214743.9101842595,
-        -7909811.426519942,
-        5215200.235418969
-      ],
-      "caption": {
-        "text": "If we have a custom web map, we can pass it in using either a TileJSON ..."
-      }
-    },
+
     {
       "source": "6",
       "extent": [
@@ -129,7 +104,7 @@
 6706891
       ],
       "caption": {
-        "text": "... or as a standard XYZ schema. Map scenes use EPSG:3857 (Web Mercator) coordinates for their extents."
+        "text": "Cardiff - EPSG:3857 (Web Mercator) coordinates for their extents"
       }
     },
     {
