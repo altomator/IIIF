@@ -9,6 +9,12 @@
     {
       "id": "1",
       "type": "iiifManifest",
+      "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:6969z354f/manifest.json",
+      "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:6969z354f"
+    },
+    {
+      "id": "2",
+      "type": "iiifManifest",
       "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6913857m/manifest.json",
       "sequence": 0,
       "canvas": 1,
@@ -16,76 +22,70 @@
       "moreInfo": "https://gallica.bnf.fr/ark:/12148/btv1b6913857m/"
     },
     {
-      "id": "2",
+      "id": "3",
       "type": "iiifImage",
       "imageEndpoint": "https://iiif.wellcomecollection.org/image/L0010481.jpg/info.json",
       "moreInfo": "https://wellcomecollection.org/works/n5jnxrrt"
     },
     {
-      "id": "3",
+      "id": "4",
       "type": "staticImage",
       "imageFile": "https://www.peoplescollection.wales/sites/default/files/images/2017/May/vcs_chronicle_lw_17.jpg?itok=wW7PIvvd",
       "moreInfo": "https://www.peoplescollection.wales/items/575934"
     },
     {
-      "id": "4",
+      "id": "5",
       "type": "geoMap"
     },
     {
-      "id": "5",
+      "id": "6",
       "type": "geoMap",
       "tileJSON": "https://s3.us-east-2.wasabisys.com/urbanatlases/39999059012052/tileset.json",
       "moreInfo": "https://atlascope.leventhalmap.org"
     },
     {
-      "id": "6",
+      "id": "7",
       "type": "geoMap",
       "tileXYZ": "https://a.tile.opentopomap.org/{z}/{x}/{y}.png"
     }
   ],
   "scenes": [
+      {
+        "source": "1",
+        "extent": [
+          1983,
+          -2568,
+          2831,
+          -1837
+        ],
+        "caption": {
+          "title": "Tour with confidence with Shell (Bloodgood, Don) *(IIIF manifest)*",
+          "text": "Boston Public Library, Norman B. Leventhal Map Center [See in the digital collection](https://collections.leventhalmap.org/search/commonwealth:6969z354f)"
+        }
+      },
     {
-      "source": "1",
-      "extent": [
-        1983,
-        -2568,
-        2831,
-        -1837
-      ],
+      "source": "2",
       "caption": {
         "title": "Madame Hubertine Auclert (1848-1914), suffragette *(IIIF manifest)*",
         "text": "1910, Agence Rol (photo agency) [See in Gallica](https://gallica.bnf.fr/ark:/12148/btv1b6913857m)"
       }
     },
     {
-      "source": "1",
-      "extent": [
-        2395,
-        -3374,
-        4168,
-        -2155
-      ],
-      "caption": {
-        "title": "Taking a tour",
-        "text": "We can tour around the image by changing the extent that we want featured in the view."
-      }
-    },
-    {
-      "source": "2",
+      "source": "3",
       "caption": {
         "title": "Power Cobbe by Herself (1894) *(IIIF Single Image, info.json)*",
         "text": "Frances Power Cobbe (4 December 1822 – 5 April 1904) was an Irish writer, social reformer, and suffragist. Founder of the British Union for the Abolition of Vivisection (BUAV) in 1898, and was a member of the executive council of the London National Society for Women's Suffrage. [See in the Welcome Collection](https://wellcomecollection.org/works/n5jnxrrt)"
       }
     },
     {
-      "source": "3",
+      "source": "4",
       "caption": {
         "title": "Photograph of the Women for Life on Earth (WFLOE) Volunteers  *(static image)*",
         "text": "The Peace March from Cardiff to Greenham Common, outside Cardiff City Hall, 27 August 1981. See in the [People Collection Wales](https://www.peoplescollection.wales)"
       }
     },
     {
-      "source": "4",
+      "source": "5",
       "extent": [
         -1252344, 6261721,
     0, 7514066
@@ -96,7 +96,7 @@
     },
 
     {
-      "source": "6",
+      "source": "7",
       "extent": [
         -357114,
         6701999,
@@ -108,7 +108,7 @@
       }
     },
     {
-      "source": "6",
+      "source": "7",
       "caption": {
         "text": "If you don't provide an extent for a geographic map, it will zoom to the entire world."
       }
