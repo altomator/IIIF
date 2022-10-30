@@ -15,8 +15,8 @@
     {
       "id": "2",
       "type": "iiifImage",
-      "imageEndpoint": "https://digital.library.unt.edu/iiif/ark:/67531/metadc891/m1/1/info.json",
-      "moreInfo": "https://digital.library.unt.edu/ark:/67531/metadc891/m1/1/"
+      "imageEndpoint": "https://iiif.wellcomecollection.org/image/L0010481.jpg/info.json",
+      "moreInfo": "https://wellcomecollection.org/works/n5jnxrrt"
     },
     {
       "id": "3",
@@ -50,8 +50,8 @@
         -1837
       ],
       "caption": {
-        "title": "Madame Hubertine Auclert (1848-1914), suffragette",
-        "text": "1910, Agence Rol (photo agency) [See in Gallica](https://gallica.bnf.fr/iiif/ark:/12148/btv1b6913857m/manifest.json"
+        "title": "Madame Hubertine Auclert (1848-1914), suffragette *(IIIF manifest)*",
+        "text": "1910, Agence Rol (photo agency) [See in Gallica](https://gallica.bnf.fr/iiif/ark:/12148/btv1b6913857m/manifest.json)"
       }
     },
     {
@@ -70,15 +70,17 @@
     {
       "source": "2",
       "caption": {
-        "title": "IIIF Single Image",
-        "text": "If we don't want to load from a Manifest, we can pass an Image endpoint directly, instead"
+        "title": "Power Cobbe by Herself (1894) *(IIIF Single Image, info.json)*",
+        "text": "Frances Power Cobbe (4 December 1822 – 5 April 1904) was an Irish writer, social reformer, and suffragist. Founder of the British Union for the Abolition of Vivisection (BUAV) in 1898, and was a member of the executive council of the London National Society for Women's Suffrage.
+        [See in the Welcome Collection](https://wellcomecollection.org/works/n5jnxrrt)"
       }
     },
     {
       "source": "3",
       "caption": {
-        "title": "But not everybody uses IIIF!",
-        "text": "That's true ... which is why we can also pass in a static image"
+        "title": "Photograph of the Women for Life on Earth (WFLOE) Volunteers  *(static image)*",
+        "text": "The Peace March from Cardiff to Greenham Common, outside Cardiff City Hall, 27 August 1981.
+        See in the [People Collection Wales](https://www.peoplescollection.wales)"
       }
     },
     {
