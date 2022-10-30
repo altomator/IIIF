@@ -14,37 +14,28 @@
     },
     {
       "id": "2",
-      "type": "iiifManifest",
-      "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:6969z354f/manifest.json",
-      "sequence": 0,
-      "canvas": 1,
-      "image": 0,
-      "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:6969z354f"
-    },
-    {
-      "id": "3",
       "type": "iiifImage",
       "imageEndpoint": "https://digital.library.unt.edu/iiif/ark:/67531/metadc891/m1/1/info.json",
       "moreInfo": "https://digital.library.unt.edu/ark:/67531/metadc891/m1/1/"
     },
     {
-      "id": "4",
+      "id": "3",
       "type": "staticImage",
       "imageFile": "https://www.peoplescollection.wales/sites/default/files/images/2017/May/vcs_chronicle_lw_17.jpg?itok=wW7PIvvd",
       "moreInfo": "https://www.peoplescollection.wales/items/575934"
     },
     {
-      "id": "5",
+      "id": "4",
       "type": "geoMap"
     },
     {
-      "id": "6",
+      "id": "5",
       "type": "geoMap",
       "tileJSON": "https://s3.us-east-2.wasabisys.com/urbanatlases/39999059012052/tileset.json",
       "moreInfo": "https://atlascope.leventhalmap.org"
     },
     {
-      "id": "7",
+      "id": "6",
       "type": "geoMap",
       "tileXYZ": "https://a.tile.opentopomap.org/{z}/{x}/{y}.png"
     }
@@ -60,7 +51,7 @@
       ],
       "caption": {
         "title": "Madame Hubertine Auclert (1848-1914), suffragette",
-        "text": "1910, Agence Rol (photo agency) [See in Gallica](https://gallica.bnf.fr/ark:/12148/btv1b6913857m/)"
+        "text": "1910, Agence Rol (photo agency) [See in Gallica](https://gallica.bnf.fr/iiif/ark:/12148/btv1b6913857m/manifest.json"
       }
     },
     {
@@ -77,46 +68,14 @@
       }
     },
     {
-      "source": "1",
-      "caption": {
-        "text": "A caption doesn't need a title; only the text is required. **Markdown** _is also_ supported, and we can [insert links](https://leventhalmap.org)"
-      }
-    },
-    {
       "source": "2",
-      "extent": [
-        5434,
-        -4641,
-        7566,
-        -3015
-      ],
-      "caption": {
-        "title": "Jumping to a new image in the same Manifest",
-        "text": "Now we've jumped over to another image from the same Manifest."
-      }
-    },
-    {
-      "source": "2",
-      "extent": [
-        50,
-        -1300,
-        1200,
-        -800
-      ],
-      "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:6969z354f",
-      "caption": {
-        "text": "And now we're panning around that image. You can pan around as much as you like, at any zoom level."
-      }
-    },
-    {
-      "source": "3",
       "caption": {
         "title": "IIIF Single Image",
         "text": "If we don't want to load from a Manifest, we can pass an Image endpoint directly, instead"
       }
     },
     {
-      "source": "4",
+      "source": "3",
       "caption": {
         "title": "But not everybody uses IIIF!",
         "text": "That's true ... which is why we can also pass in a static image"
@@ -124,19 +83,6 @@
     },
     {
       "source": "4",
-      "moreInfo": "http://patrickstewartsong.ytmnd.com",
-      "extent": [
-        300,
-        200,
-        700,
-        450
-      ],
-      "caption": {
-        "text": "Image extents are in positive pixel coordinates from the lower left corner. We can also override the moreInfo link for a specific slide."
-      }
-    },
-    {
-      "source": "5",
       "extent": [
         -7913969.8286,
         5225321.2452,
@@ -148,7 +94,7 @@
       }
     },
     {
-      "source": "5",
+      "source": "4",
       "extent": [
         -7911817.6485,
         5229372.4077,
@@ -160,7 +106,7 @@
       }
     },
     {
-      "source": "6",
+      "source": "5",
       "extent": [
         -7910381.833063327,
         5214743.9101842595,
@@ -172,7 +118,7 @@
       }
     },
     {
-      "source": "7",
+      "source": "6",
       "extent": [
         -7910896.224,
         5214033.0488,
@@ -184,7 +130,7 @@
       }
     },
     {
-      "source": "7",
+      "source": "6",
       "caption": {
         "text": "If you don't provide an extent for a geographic map, it will zoom to the entire world."
       }
