@@ -1,0 +1,226 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cartes/plans_paris_XIX.json",
+  "type": "Collection",
+  "label": { "fr": [ "Plans de Paris par accès chronologique (XIXe siècle)" ], "en": [ "Paris maps by chronological access (XIXth century)" ] },
+  "description": { "fr": [ "Cette collection regroupe des Plans de Paris par accès chronologique (XIX e si&#xE9;cle)" ], "en": [ "This collection gathers Paris maps by chronological access (XIX th century)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/%28%28%28%28%28%28%28%28dc.subject%20adj%20%22Paris%22%20and%20not%20dc.subject%20adj%20%22environs%22%20%29%20and%20not%20dc.subject%20adj%20%22banlieue%22%20%29%20and%20not%20dc.subject%20adj%20%22route%20de%22%20%29%20and%20not%20dc.subject%20adj%20%22chemins%20de%20fer%22%20%29%20and%20not%20dc.subject%20adj%20%22Seine%20cours%20d%27eau%20%22%20%29%20and%20not%20dc.subject%20adj%20%22Seine%20bassin%22%20%29%20and%20not%20dc.subject%20adj%20%22chemin%20de%20fer%22%20%29%20or%20notice%20adj%20%22btv1b53136338f%22%20%29%20and%20%28dc.type%20all%20%22carte%22%29%20and%20%28gallicapublication_date%3E%3D%221800%22%20and%20gallicapublication_date%3C%3D%221899%22%29%20and%20%28provenance%20adj%20%22bnf.fr%22%20or%20provenance%20adj%20%22ville-paris%22%29%20sortby%20dc.date%2Fsort.ascending",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Plans de Paris par accès chronologique (XIXe siècle)" ],"en": [ "Gallica selection: Paris maps by chronological access (XIXth century)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/%28%28%28%28%28%28%28%28dc.subject%20adj%20%22Paris%22%20and%20not%20dc.subject%20adj%20%22environs%22%20%29%20and%20not%20dc.subject%20adj%20%22banlieue%22%20%29%20and%20not%20dc.subject%20adj%20%22route%20de%22%20%29%20and%20not%20dc.subject%20adj%20%22chemins%20de%20fer%22%20%29%20and%20not%20dc.subject%20adj%20%22Seine%20cours%20d%27eau%20%22%20%29%20and%20not%20dc.subject%20adj%20%22Seine%20bassin%22%20%29%20and%20not%20dc.subject%20adj%20%22chemin%20de%20fer%22%20%29%20or%20notice%20adj%20%22btv1b53136338f%22%20%29%20and%20%28dc.type%20all%20%22carte%22%29%20and%20%28gallicapublication_date%3E%3D%221800%22%20and%20gallicapublication_date%3C%3D%221899%22%29%20and%20%28provenance%20adj%20%22bnf.fr%22%20or%20provenance%20adj%20%22ville-paris%22%29%20sortby%20dc.date%2Fsort.ascending",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Plans de Paris par accès chronologique (XIXe siècle)" ],"en": [ "Gallica selection: Paris maps by chronological access (XIXth century)" ] }
+		}],
+  "items": [
+{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8442525b/manifest.json",
+          "label": "Plan du rez-de-chaussée de l'hôtel Egerton, à Paris / Landon, fils del. et sc.",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84427288/manifest.json",
+          "label": "Plan de Paris / Couché, fils, dir.",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8443893h/manifest.json",
+          "label": "Plan des Halles couvertes et incombustibles pratiquées pour les grains, farines et grenailles, en l'emplacement de l'ancien Hôtel de Soissons, quartier de Sr Eustache / C. Poulleau sculp.",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84444795/manifest.json",
+          "label": "Nouveau quartier Poissonnière",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84438107/manifest.json",
+          "label": "Département de la Seine. Ville de Paris. Projet de distribution générale de 7,673 modules ou 4,000 pouces des eaux du canal de l'Ourcq. / (Signé : l'Ingénieur en chef des nouvelles eaux de Paris Ch.s Mallet)",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8441466m/manifest.json",
+          "label": "Assainissement de Paris. Carte des égouts",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8441037h/manifest.json",
+          "label": "Plan de l'église des Blancs-Manteaux",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84445553/manifest.json",
+          "label": "Plan et coupe d'un magasin situé au coin de la rue Vivienne et de la rue Colbert destiné à agrandir la Bibliothèque Nationale",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84406482/manifest.json",
+          "label": "Plan général des trois cours du Musée des monuments français... dédié au cit. Chaptal, ministre de l'intérieur / par Alexandre Lenoir...",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8443209h/manifest.json",
+          "label": "(Plan de Paris.)",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8441941h/manifest.json",
+          "label": "Plan perspectif de l'Ecole royale militaire et du Champ de Mars avec ses environs... / Levé et dessiné d'après nature par de Lespinasse",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84424947/manifest.json",
+          "label": "Projet de prolongement de la rue Corneille.. .",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444818v/manifest.json",
+          "label": "Plan du Quartier du Temple ou du Marais",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444809w/manifest.json",
+          "label": "Plan du Quartier Montmartre (1er Partie)",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8446400d/manifest.json",
+          "label": "[Projet d'aménagement de la colline de Chaillot en place du Trocadéro]",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84420083/manifest.json",
+          "label": "Plan et coupe de la fouille. Collège Ste Barbe",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444466j/manifest.json",
+          "label": "Propriété de M. Gauthier. Impasse Gauthier rue St Laurent à Paris Belleville 19e arrondt.",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444443j/manifest.json",
+          "label": "Ville de Paris. Carte d'ensemble",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8445269d/manifest.json",
+          "label": "Paris tel qu'il est aujourd'hui, or Plan of Paris at the present Day. 1800. From a Drawing deposited in the Archieves of the National Library at Paris / Menzles, sculpt.",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8442567p/manifest.json",
+          "label": "Plan d'une nouvelle salle pour le Théâtre des Arts, projetté pour être construite (sic) en brique dans l'intérieur d'une des cours du ci-devant palais d'Orléans, à la proximité du jardin",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8443767p/manifest.json",
+          "label": "Nouveau quartier du faubourg du Temple",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8441806q/manifest.json",
+          "label": "Coupes de puits forés ou artésiens pour être jointes à la demande faite / par M. Moussier...",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8442460f/manifest.json",
+          "label": "Plan de Paris et de ses environs avec le tracé général d'une distribution des eaux de l'Ourcq",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8443805x/manifest.json",
+          "label": "(Plan d'un terrain situé au bassin de La Villette / signé : M. [Mongelard])",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444811z/manifest.json",
+          "label": "Plan du Quartier Sainte-Avoye",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8440509m/manifest.json",
+          "label": "Département de la Seine. Ville de Paris. Projet de distribution générale de 7678 modules ou 4 000 pouces des eaux du canal de l'Ourcq. / (Signé : l'Ingénieur en chef des nouvelles eaux de Paris Ch.les Mallet)",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8442041q/manifest.json",
+          "label": "Plan de terrains à vendre à la Villette, près le pont de Flandres",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8439680s/manifest.json",
+          "label": "Bâtiments et terrains à vendre sur l'emplacement des anciens hotels des Finances et de la loterie",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84444476/manifest.json",
+          "label": "Trait explicatif de l'aspect général de Paris",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8442726f/manifest.json",
+          "label": "Galignani's Plan of Paris and environs",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8443716c/manifest.json",
+          "label": "Le Louvre réuni aux Tuileries",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84448806/manifest.json",
+          "label": "Plan de la chapelle haute (Sainte Chapelle) à Paris / Cailliat direxit ; Adams del. ; Gravé par Huguet",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8442731r/manifest.json",
+          "label": "Plan de l'église de Saint-Eustache",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8441480w/manifest.json",
+          "label": "Plan du nouveau Grenelle",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84445071/manifest.json",
+          "label": "Jardin du Luxembourg converti en jardin pittoresque / comp.é et dess.é par Lecoq",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444813s/manifest.json",
+          "label": "Plan du Quartier St Antoine (Première partie, côté occidental)",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8445382m/manifest.json",
+          "label": "Enceinte de Paris avec ses 55 barrières ou octrois",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444875w/manifest.json",
+          "label": "[Temple de la Gloire] / Vaudoyer inv.t ; C. Normand, sc.",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84414797/manifest.json",
+          "label": "Panorama de la ville de Paris / par A.-M. Perrot",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84456016/manifest.json",
+          "label": "Plan indiquant la paroisse de St-Thomas d'Aquin",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444557x/manifest.json",
+          "label": "Paris sous le règne de Louis XIII",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444815m/manifest.json",
+          "label": "Plan du Quartier St Paul ou de la Mortellerie",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84447173/manifest.json",
+          "label": "[Plan perspectif de Paris d'après les plans du XVIe siècle]",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8444496p/manifest.json",
+          "label": "Distribution dans Paris. Conduite des eaux nouvelles",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84448020/manifest.json",
+          "label": "19e Arrondissement. Rue B. Parties située entre la Rue Drouin-Quintaine (La Villette) et la Rue de Paris (Belleville)",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8443216n/manifest.json",
+          "label": "Tableau comparatif des divers projets anciens et modernes de réunion du Louvre au palais impérial des Tuileries",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84425683/manifest.json",
+          "label": "Plan d'une nouvelle salle pour le Théâtre des Arts, projetté (sic) pour être construite en brique dans l'intérieur d'une des cours du ci-devant palais d'Orléans, à la proximité du jardin",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84448072/manifest.json",
+          "label": "Plan du Quartier de la Grève",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b84448146/manifest.json",
+          "label": "Plan du Quartier St Antoine. Troisième partie, côté méridional",
+          "type": "Manifest"
+      },{
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b8443343w/manifest.json",
+          "label": "Palais de l'Industrie. Porte n°15. Exposition du plan au relief de Paris porte de mer. Canal maritime de Dieppe à Paris d'un seul bief, projet Le Breton",
+          "type": "Manifest"
+      }]
+    }
