@@ -25,23 +25,28 @@
   "items": [
 {
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cartes/plans_paris_XVI.json",
-        "label": "XVI",
+        "label": { "fr": ["XVIe si&#xE9;cle"],
+				             "en": ["XVIth century"]},
         "type": "Collection"
     },{
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cartes/plans_paris_XVII.json",
-        "label": "XVII",
+        "label": { "fr": ["XVIIe si&#xE9;cle"],
+				             "en": ["XVIIth century"]},
         "type": "Collection"
     },{
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cartes/plans_paris_XVIII.json",
-        "label": "XVIII",
+        "label": { "fr": ["XVIIIe si&#xE9;cle"],
+				             "en": ["XVIIIth century"]},
         "type": "Collection"
     },{
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cartes/plans_paris_XIX.json",
-        "label": "XIX",
+        "label": { "fr": ["XIXe si&#xE9;cle"],
+				             "en": ["XIXth century"]},
         "type": "Collection"
     },{
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/selection/cartes/plans_paris_XX.json",
-        "label": "XX",
+        "label": { "fr": ["XXe si&#xE9;cle"],
+				             "en": ["XXth century"]},
         "type": "Collection"
     }]
   }
