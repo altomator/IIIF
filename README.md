@@ -190,6 +190,7 @@ This final example (produced using this [Perl script](https://github.com/altomat
 
 [![IIIF Magazines Collection in Mirador](/images/feminine.png)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/collection.json)
 
+Same experiment for a collection of [Paris maps](https://mirador.bnf.fr/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cartes/plans_paris.json).
 
 ## IIIF Annotations
 
