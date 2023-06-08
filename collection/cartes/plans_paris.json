@@ -3,12 +3,19 @@
   "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cartes/plans_paris.json",
   "type": "Collection",
   "label": { "fr": [ "Plans de Paris par accès chronologique" ], "en": [ "Paris maps by chronological access" ] },
-  "thumbnail": "https://gallica.bnf.fr/html/sites/default/files/vignette_paris1570_gaignieres_btv1b6902600j.jpg",
+  "thumbnail": [
+    {
+      "id": "https://gallica.bnf.fr/html/sites/default/files/vignette_paris1570_gaignieres_btv1b6902600j.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+
   "description": { "fr": [ "Cette collection est une adaptation de la sélection Gallica 'Plans de Paris : accès chronologique' — https://gallica.bnf.fr/html/und/france/cartes-de-paris" ], "en": [ "This collection is an adaptation of the Gallica selection 'Plans de Paris : accès chronologique' — https://gallica.bnf.fr/html/und/france/cartes-de-paris" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
-   "summary": { "en": [ "This is a summary of the object." ] }, 
+   "summary": { "en": [ "This is a summary of the object." ] },
   "homepage": [
     {
       "id": "https://gallica.bnf.fr/html/und/france/cartes-de-paris",
