@@ -1,0 +1,492 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530952065.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "BnF, département Cartes et plans, GE FF-18595 (10)"
+        ]
+    },
+    "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica Project"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "behavior": [
+        "paged"
+    ],
+    "homepage": [
+        {
+            "id": "https://gallica.bnf.fr/ark:/12148/btv1b530952065",
+            "type": "Text",
+            "label": {
+                "en": [
+                    "Relates to"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b530952065/f1/full/,120/0/default.webp",
+            "type": "Image",
+            "format": "image/webp",
+            "service": [
+                {
+                    "id": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b530952065/f1",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "none": [
+            "Carte générale de la France. 010, [Bourges]. N°10. 48e Flle / par le Roy le J.[eu]ne ; [établie sous la direction de César-François Cassini de Thury]"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "en": [
+                    "French"
+                ]
+            }
+        },
+        {
+            "label": {
+                "fr": [
+                    "Dépôt"
+                ],
+                "en": [
+                    "Repository"
+                ]
+            },
+            "value": {
+                "fr": [
+                    "Bibliothèque nationale de France"
+                ],
+                "en": [
+                    "Bibliothèque nationale de France"
+                ]
+            }
+        },
+        {
+            "label": {
+                "fr": [
+                    "Numérisation par"
+                ],
+                "en": [
+                    "Digitised by"
+                ]
+            },
+            "value": {
+                "fr": [
+                    "Bibliothèque nationale de France"
+                ],
+                "en": [
+                    "Bibliothèque nationale de France"
+                ]
+            }
+        },
+        {
+            "label": {
+                "fr": [
+                    "Source images"
+                ],
+                "en": [
+                    "Images source"
+                ]
+            },
+            "value": {
+                "fr": [
+                    "https://gallica.bnf.fr/ark:/12148/btv1b530952065"
+                ],
+                "en": [
+                    "https://gallica.bnf.fr/ark:/12148/btv1b530952065"
+                ]
+            }
+        },
+        {
+            "label": {
+                "fr": [
+                    "Source meta-données"
+                ],
+                "en": [
+                    "Metadata source"
+                ]
+            },
+            "value": {
+                "fr": [
+                    "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b530952065"
+                ],
+                "en": [
+                    "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b530952065"
+                ]
+            }
+        },
+        {
+            "label": {
+                "fr": [
+                    "Titre"
+                ],
+                "en": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "fr": [
+                    "Carte générale de la France. 010, [Bourges]. N°10. 48e Flle / par le Roy le J.[eu]ne ; [établie sous la direction de César-François Cassini de Thury]"
+                ],
+                "en": [
+                    "Carte générale de la France. 010, [Bourges]. N°10. 48e Flle / par le Roy le J.[eu]ne ; [établie sous la direction de César-François Cassini de Thury]"
+                ]
+            }
+        },
+        {
+            "label": {
+                "fr": [
+                    "Relation"
+                ],
+                "en": [
+                    "Relation"
+                ]
+            },
+            "value": {
+                "fr": [
+                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40860501t"
+                ],
+                "en": [
+                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40860501t"
+                ]
+            }
+        },
+        {
+            "label": {
+                "fr": [
+                    "Cote"
+                ],
+                "en": [
+                    "Shelfmark"
+                ]
+            },
+            "value": {
+                "fr": [
+                    "Bibliothèque nationale de France, département Cartes et plans, GE FF-18595 (10)"
+                ],
+                "en": [
+                    "Bibliothèque nationale de France, département Cartes et plans, GE FF-18595 (10)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1759-1761"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Format1"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1 carte : en coul. ; 60 x 94,5 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Format2"
+                ]
+            },
+            "value": {
+                "none": [
+                    "image/jpeg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Format3"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Nombre total de vues :  1"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Creator"
+                ],
+                "none": [
+                    "Creator"
+                ],
+                "fr": [
+                    "Créateur"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Cassini de Thury, César-François (1714-1784). Cartographe. Éditeur scientifique"
+                ],
+                "none": [
+                    "Cassini de Thury, César-François (1714-1784). Cartographe. Éditeur scientifique"
+                ],
+                "fr": [
+                    "Cassini de Thury, César-François (1714-1784). Cartographe. Éditeur scientifique"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Date"
+                ],
+                "none": [
+                    "Date"
+                ],
+                "fr": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1759-1761"
+                ],
+                "none": [
+                    "1759-1761"
+                ],
+                "fr": [
+                    "1759-1761"
+                ]
+            }
+        },
+        {
+            "label": {
+                "fr": [
+                    "Type"
+                ],
+                "en": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "fr": [
+                    "Carte"
+                ],
+                "en": [
+                    "Map"
+                ]
+            }
+        }
+    ],
+    "start": {
+        "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530952065/f1/canvas",
+        "type": "Canvas"
+    },
+    "rights": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Bibliothèque nationale de France, département Cartes et plans, GE FF-18595 (10)"
+            ]
+        }
+    },
+    "seeAlso": [
+        {
+            "id": "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b530952065",
+            "type": "Dataset",
+            "label": {
+                "en": [
+                    "Bibliographic Description in XML"
+                ]
+            },
+            "format": "application/xml",
+            "profile": "http://www.openarchives.org/OAI/2.0/"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530952065/f1/canvas",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "NP"
+                ]
+            },
+            "height": 9707,
+            "width": 15201,
+            "thumbnail": [
+                {
+                    "id": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b530952065/f1/full/,120/0/default.webp",
+                    "type": "Image",
+                    "format": "image/webp"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530952065/f1/canvas/annotationpage/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530952065/f1/canvas/annotationpage/1/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "metadata": [
+                                {
+                                    "label": {
+                                        "en": [
+                                            "DPI"
+                                        ],
+                                        "fr": [
+                                            "PPP"
+                                        ]
+                                    },
+                                    "value": {
+                                        "en": [
+                                            "400"
+                                        ],
+                                        "fr": [
+                                            "400"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "body": {
+                                "id": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b530952065/f1/full/max/0/default.webp",
+                                "type": "Image",
+                                "label": {
+                                    "none": [
+                                        "T0000001.TIF"
+                                    ]
+                                },
+                                "format": "image/webp",
+                                "height": 9707,
+                                "width": 15201,
+                                "service": [
+                                    {
+                                        "id": "https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b530952065/f1",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530952065/f1/canvas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "annotations": [
+        {
+          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530952065/f1/annotationPage.json",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530952065/f1/canvas-annotation.json",
+              "type": "Annotation",
+              "motivation": "georeferencing",
+              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530952065/f1/canvas",
+              "body": {
+                "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530952065/f1/feature-collection.json",
+                "type": "FeatureCollection",
+                "transformation": {
+                  "type": "polynomial",
+                  "options": {
+                    "order": 1
+                  }
+                },
+                "features": [
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [0, 0]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [47.250000, 1.833333]
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [15201, 9707]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [46.816667, 2.866667]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+}
