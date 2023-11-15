@@ -442,5 +442,51 @@
                 }
             ]
         }
-    ]
+    ],
+    "annotations": [
+        {
+          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530951918/f1/annotationPage.json",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530951918/f1/canvas-annotation.json",
+              "type": "Annotation",
+              "motivation": "georeferencing",
+              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530951918/f1/canvas",
+              "body": {
+                "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b530951918/f1/feature-collection.json",
+                "type": "FeatureCollection",
+                "transformation": {
+                  "type": "polynomial",
+                  "options": {
+                    "order": 1
+                  }
+                },
+                "features": [
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [0, 0]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [49.5037487264915, 3.9502684329856397]
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [15317, 9795]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [49.033333, 5.033333]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
 }
