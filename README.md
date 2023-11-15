@@ -6,6 +6,7 @@ This repository shows some IIIF experiments based on [Gallica](gallica.bnf.fr) c
 - [*Deep Zoom with large images*](#deep-zoom-with-large-images)
 - [*IIIF Collections*](#iiif-collections)
 - [*IIIF Annotations*](#iiif-annotations)
+- [*IIIF and maps*](#iiif-and-maps)
 - [*IIIF Ranges*](#iiif-range)
 - [*IIIF and OCR*](#iiif-and-ocr)
 - [*IIIF and A/V*](#iiif-and-av)
@@ -251,6 +252,11 @@ Some of the Mandragore database's enlightened manscripts has been exported as [I
 
 [![Mandragore annotations](images/arabe-274.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
+## IIIF and maps
+
+The Georef extension
+
+Example: [manifest v3](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530951918.json)
 
 ## IIIF Ranges
 
