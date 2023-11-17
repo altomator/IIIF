@@ -259,6 +259,8 @@ The [IIIF Georeference extension](https://iiif.io/api/extension/georef/) allows 
 Example for this [Gallica map]([https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530951918.json](https://gallica.bnf.fr/ark:/12148/btv1b530951918)) (Carte Cassini 079, région de Reims) which has been georeferenced using [AllMaps Editor](https://editor.allmaps.org/): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_editor.json)
 The illustrated region on the map is specified using an SVG selector drawn with AllMaps Editor. 
 
+![AllMaps Viewer](images/allmaps.jpg)
+
 The same map georeferenced with 2 GCPs extracted from the [BnF catalog's record](https://catalogue.bnf.fr/ark:/12148/cb40860573p.intermarc): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_catalog.json). In this case, there is no SVG selector and the third GCP is deduced from existing GCPs (with an obviously imprecise result).
 
 ## IIIF Ranges
