@@ -254,9 +254,11 @@ Some of the Mandragore database's enlightened manscripts has been exported as [I
 
 ## IIIF and maps
 
-The Georef extension
+The [IIIF Georeference extension](https://iiif.io/api/extension/georef/) allows to store the metadata needed to georeference a IIIF resource in a georeference annotation.
 
-Example for this [v3 manifest](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530951918.json) edited using [AllMaps Editor](https://editor.allmaps.org/): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_editor.json)
+Example for this [Gallica map]([https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530951918.json](https://gallica.bnf.fr/ark:/12148/btv1b530951918)) (Carte Cassini 079, région de Reims) which has been georeferenced using [AllMaps Editor](https://editor.allmaps.org/): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_editor.json)
+
+The same map georeferenced with 2 GCPs extracted from the [BnF catalog map record] in (https://catalogue.bnf.fr/ark:/12148/cb40860573p.intermarc): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_catalog.json)
 
 ## IIIF Ranges
 
