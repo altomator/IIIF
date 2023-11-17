@@ -262,7 +262,7 @@ Open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.gi
 
 ![AllMaps Viewer](images/allmaps.jpg)
 
-In a automation perspective, the same map can be georeferenced with 2 GCPs extracted from the [BnF catalog's record](https://catalogue.bnf.fr/ark:/12148/cb40860573p.intermarc) (field 042, scale and coordinates):
+In an automation perspective, the same map can be georeferenced with 2 GCPs extracted from the [BnF catalog's record](https://catalogue.bnf.fr/ark:/12148/cb40860573p.intermarc) (field 042, scale and coordinates):
 
 ```
 042 0. $a a $u hi $b 86400 $d E0035700 $e E0050200 $f N0493100 $g N0490200
