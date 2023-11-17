@@ -1,0 +1,92 @@
+{
+  "type": "AnnotationPage",
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld"
+  ],
+  "items": [
+    {
+      "id": "9ff66e18e8d30064",
+      "type": "Annotation",
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "Image",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530951918/f1/full/max/0/default.jpg",
+        "service": [
+          {
+            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530951918/f1",
+            "type": "ImageService3"
+          }
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"15317\" height=\"9795\"><polygon points=\"0,0 0,9795 15317,9795 15317,0\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                 3.950000,
+                49.516667
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                15317,
+                9795
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.033333,
+                49.033333
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                15317,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.033333,
+                49.516667
+              ]
+            }
+          }
+
+        ]
+      }
+    }
+  ]
+}
