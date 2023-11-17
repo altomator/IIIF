@@ -256,7 +256,7 @@ Some of the Mandragore database's enlightened manscripts has been exported as [I
 
 The [IIIF Georeference extension](https://iiif.io/api/extension/georef/) allows to store the metadata needed to georeference a IIIF resource in a georeference annotation.
 
-Example for this [Gallica map]([https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530951918.json](https://gallica.bnf.fr/ark:/12148/btv1b530951918)) (Carte Cassini 079, région de Reims) which has been georeferenced using [AllMaps Editor](https://editor.allmaps.org/): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_editor.json)
+Example for this [map]([https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530951918.json](https://gallica.bnf.fr/ark:/12148/btv1b530951918)) (Carte Cassini 079, région de Reims) which has been georeferenced using [AllMaps Editor](https://editor.allmaps.org/): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_editor.json)
 The illustrated region on the map is specified using an SVG selector drawn with AllMaps Editor. 
 
 ![AllMaps Viewer](images/allmaps.jpg)
