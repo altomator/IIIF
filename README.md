@@ -261,7 +261,13 @@ The illustrated region on the map is specified using an SVG selector drawn with 
 
 ![AllMaps Viewer](images/allmaps.jpg)
 
-The same map georeferenced with 2 GCPs extracted from the [BnF catalog's record](https://catalogue.bnf.fr/ark:/12148/cb40860573p.intermarc): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_catalog.json). In this case, there is no SVG selector and the third GCP is deduced from existing GCPs (with an obviously imprecise result).
+The same map is now georeferenced with 2 GCPs extracted from the [BnF catalog's record](https://catalogue.bnf.fr/ark:/12148/cb40860573p.intermarc) (field 042, scale and coordinates):
+
+```
+042 0. $a a $u hi $b 86400 $d E0035700 $e E0050200 $f N0493100 $g N0490200
+```
+
+Open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_catalog.json). In this case, there is no SVG selector and the third GCP is deduced from existing GCPs (with an obviously imprecise result).
 
 ## IIIF Ranges
 
