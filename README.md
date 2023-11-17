@@ -256,18 +256,20 @@ Some of the Mandragore database's enlightened manscripts has been exported as [I
 
 The [IIIF Georeference extension](https://iiif.io/api/extension/georef/) allows to store the metadata needed to georeference a IIIF resource in a georeference annotation.
 
-Example for this [map]([https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530951918.json](https://gallica.bnf.fr/ark:/12148/btv1b530951918)) (Carte Cassini 079, région de Reims) which has been georeferenced using [AllMaps Editor](https://editor.allmaps.org/): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_editor.json)
-The illustrated region on the map is specified using an SVG selector drawn with AllMaps Editor. 
+Example for this [map](https://gallica.bnf.fr/ark:/12148/btv1b530951918) (Carte Cassini 079, région de Reims) which has been georeferenced using [AllMaps Editor](https://editor.allmaps.org/). The illustrated region on the map is specified using an SVG selector drawn with AllMaps Editor. GCPs and selector are outputed as an IIIF [Annotation Page](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/annotation-btv1b530951918_editor.json).
+
+Open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_editor.json)
 
 ![AllMaps Viewer](images/allmaps.jpg)
 
-The same map is now georeferenced with 2 GCPs extracted from the [BnF catalog's record](https://catalogue.bnf.fr/ark:/12148/cb40860573p.intermarc) (field 042, scale and coordinates):
+In a automation perspective, the same map can be georeferenced with 2 GCPs extracted from the [BnF catalog's record](https://catalogue.bnf.fr/ark:/12148/cb40860573p.intermarc) (field 042, scale and coordinates):
 
 ```
 042 0. $a a $u hi $b 86400 $d E0035700 $e E0050200 $f N0493100 $g N0490200
 ```
+In this case (see the [Annotation Page](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/annotation-btv1b530951918_catalog.json)), there is no SVG selector and the third GCP is deduced from existing GCPs (with an obviously imprecise result).
 
-Open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_catalog.json). In this case, there is no SVG selector and the third GCP is deduced from existing GCPs (with an obviously imprecise result).
+Open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_catalog.json). 
 
 ## IIIF Ranges
 
