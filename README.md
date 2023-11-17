@@ -256,7 +256,7 @@ Some of the Mandragore database's enlightened manscripts has been exported as [I
 
 The Georef extension
 
-Example: [manifest v3](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530951918.json)
+Example for this [v3 manifest](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/btv1b530951918.json) edited using [AllMaps Editor](https://editor.allmaps.org/): open it in [AllMaps Viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faltomator%2FIIIF%2Fmain%2Fannotations%2Fannotation-btv1b530951918_editor.json)
 
 ## IIIF Ranges
 
