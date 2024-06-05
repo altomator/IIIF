@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_Poeme symphonique (orchestre).json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore : Poème symphonique (orchestre)" ], "en": [ "Camille Saint-Saën musical scores / ANR project CollabScore: Symphonic poem (orchestra)" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_BnF.svg/320px-Logo_BnF.svg.png",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "description": { "fr": [ "Cette collection présente des Partitions de Camille Saint-Saëns / projet ANR CollabScore : Poème symphonique (orchestre)" ], "en": [ "This collection is presenting Camille Saint-Saën musical scores / ANR project CollabScore: Poème symphonique (orchestre)" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11669142%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore : Poème symphonique (orchestre)</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11669142%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore: Poème symphonique (orchestre)</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Source" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11669142%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11669142%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  }
+  },
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11669142%22%20)%20and%20(dc.type%20all%20%22partition%22)",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11669142%22%20)%20and%20(dc.type%20all%20%22partition%22)",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore : Poème symphonique (orchestre)"],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore: Symphonic poem (orchestra)" ] }
+		}],
+  "navDate": "",
+  "items": [
+{
+	          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k11669142/manifest.json",
+	          "label": "title (source)",
+	          "type": "Manifest",
+						"metadata": [
+	    			{
+	      "label":  "Source" ,
+	      "value": "source"
+	    			}
+	  							]
+	      }]
+	 }
