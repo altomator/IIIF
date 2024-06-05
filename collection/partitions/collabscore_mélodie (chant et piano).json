@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_mélodie (chant et piano).json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore (mélodie (chant et piano))" ], "en": [ "Camille Saint-Saën musical scores / ANR project CollabScore (song)" ] },
+  "thumbnail":
+  [
+    {
+      "id": "",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "description": { "fr": [ "Cette collection présente des Partitions de Camille Saint-Saëns / projet ANR CollabScore (mélodie (chant et piano))" ], "en": [ "This collection is presenting Camille Saint-Saën musical scores / ANR project CollabScore (mélodie (chant et piano))" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1162014q%22%20or%20notice%20all%20%22bpt6k11620562%22%20)%20or%20notice%20all%20%22bpt6k1161987d%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1162014q%22%20or%20notice%20all%20%22bpt6k11620562%22%20)%20or%20notice%20all%20%22bpt6k1161987d%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Source" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1162014q%22%20or%20notice%20all%20%22bpt6k11620562%22%20)%20or%20notice%20all%20%22bpt6k1161987d%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1162014q%22%20or%20notice%20all%20%22bpt6k11620562%22%20)%20or%20notice%20all%20%22bpt6k1161987d%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  }
+  },
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1162014q%22%20or%20notice%20all%20%22bpt6k11620562%22%20)%20or%20notice%20all%20%22bpt6k1161987d%22%20)%20and%20(dc.type%20all%20%22partition%22)",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore (mélodie (chant et piano))" ],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore (song)" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1162014q%22%20or%20notice%20all%20%22bpt6k11620562%22%20)%20or%20notice%20all%20%22bpt6k1161987d%22%20)%20and%20(dc.type%20all%20%22partition%22)",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore (mélodie (chant et piano))" ],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore (song)" ] }
+		}],
+  "navDate": "",
+  "items": [
+{
+	          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1161987d/manifest.json",
+	          "label": "title (source)",
+	          "type": "Manifest",
+						"metadata": [
+	    			{
+	      "label":  "Source" ,
+	      "value": "source"
+	    			}
+	  							]
+	      },{
+	          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1162014q/manifest.json",
+	          "label": "title (source)",
+	          "type": "Manifest",
+						"metadata": [
+	    			{
+	      "label":  "Source" ,
+	      "value": "source"
+	    			}
+	  							]
+	      },{
+	          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k11620562/manifest.json",
+	          "label": "title (source)",
+	          "type": "Manifest",
+						"metadata": [
+	    			{
+	      "label":  "Source" ,
+	      "value": "source"
+	    			}
+	  							]
+	      }]
+	 }
