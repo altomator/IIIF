@@ -1,8 +1,8 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_deux pianos.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_Deux pianos.json",
   "type": "Collection",
-  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore (deux pianos)" ], "en": [ "Camille Saint-Saën musical scores / ANR project CollabScore (2 pianos)" ] },
+  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore : Deux pianos" ], "en": [ "Camille Saint-Saën musical scores / ANR project CollabScore: Two pianos" ] },
   "thumbnail":
   [
     {
@@ -11,20 +11,20 @@
       "format": "image/jpeg"
     }
   ],
-  "description": { "fr": [ "Cette collection présente des Partitions de Camille Saint-Saëns / projet ANR CollabScore (deux pianos)" ], "en": [ "This collection is presenting Camille Saint-Saën musical scores / ANR project CollabScore (deux pianos)" ] },
+  "description": { "fr": [ "Cette collection présente des Partitions de Camille Saint-Saëns / projet ANR CollabScore : Deux pianos)" ], "en": [ "This collection is presenting Camille Saint-Saën musical scores / ANR project CollabScore: Deux pianos" ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
-  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  },
+  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore : Deux pianos</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore: Deux pianos</a></p>"]  },
   "requiredStatement": {
     "label": { "fr": [ "Source" ], "en": [ "Source" ] },
-    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  }
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  }
   },
   "homepage": [
     {
       "id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)",
       "type": "Text",
-      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore (deux pianos)" ],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore (2 pianos)" ] },
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore" ] },
       "format": "text/html",
       "language": [ "fr" ]
     }
@@ -32,7 +32,7 @@
   "related": [{
 			"id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)",
 			"format": "text/html",
-      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore (deux pianos)" ],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore (2 pianos)" ] }
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore (Deux pianos)" ],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore (Two pianos)" ] }
 		}],
   "navDate": "",
   "items": [
