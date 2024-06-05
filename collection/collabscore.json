@@ -37,6 +37,11 @@
   "navDate": "1850-1900",
   "items": [
 {
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_Choeur.json",
+        "label": { "fr": ["Choeur"],
+				             "en": ["Choir"]},
+        "type": "Collection"
+    },{
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_Melodie (chant et piano).json",
         "label": { "fr": ["Mélodie (chant et piano)"],
 				             "en": ["Melody (vocals and piano)"]},
@@ -44,6 +49,11 @@
     },{
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_Musique concertante.json",
         "label": { "fr": ["Musique concertante"],
+				             "en": [""]},
+        "type": "Collection"
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_Musique de chambre.json",
+        "label": { "fr": ["Musique de chambre"],
 				             "en": [""]},
         "type": "Collection"
     },{
