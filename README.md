@@ -191,7 +191,7 @@ This final example (produced using this [Perl script](https://github.com/altomat
 
 [![IIIF Magazines Collection in Mirador](/images/feminine.png)](https://iiif.biblissima.fr/mirador3/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/presse_feminine/collection.json)
 
-Same experiment for a collection of [Paris maps](https://mirador.bnf.fr/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cartes/plans_paris.json) or for a collection of [music scores](https://mirador.bnf.fr/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/collabscore.json).
+Same experiment for a collection of [Paris maps](https://mirador.bnf.fr/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/cartes/plans_paris.json) or for a collection of [music scores](https://mirador.bnf.fr/?iiif-content=https://raw.githubusercontent.com/altomator/IIIF/main/collection/collabscore.json) ([avec UV](https://uv-v3.netlify.app/#?c=&m=&s=&cv=&manifest=https://raw.githubusercontent.com/altomator/IIIF/main/collection/collabscore.json)).
 
 ## IIIF Annotations
 
