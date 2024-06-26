@@ -1,5 +1,7 @@
 # convert Roboflow annotations to IIIF annotations (API Presentation 2.0)
 # The annotations can then be uploaded in a IIIF viewer
+# Usage:
+# >python3 roboflow2iiif.py btv1b10537237h 29 2.8 roboflow-btv1b10537237h-29.json
 
 import json
 import argparse
@@ -9,10 +11,10 @@ parser.add_argument('ark',  type=str,
                     help='ARK identifier')
 parser.add_argument('page',  type=int,
                     help='page number')
-parser.add_argument('data',  type=str,
-                    help='input JSON data')
 parser.add_argument('ratio',  type=float, default=1.0,
                     help='image dimensions ratio')
+parser.add_argument('data',  type=str,
+                    help='input JSON data')
 
 args = parser.parse_args()
 
