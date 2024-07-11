@@ -1,0 +1,144 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<style>
+  #main-viewer {
+    position: relative;
+    x: 0px;
+    y: 0px;
+
+}
+
+  body {
+    margin: 5px;
+    padding: 0;
+  }
+</style>
+
+<div id="main-viewer"></div>
+<script src="./openseadragon.min.js"></script>
+<script type="text/javascript">
+
+  // F. Delhoume 2024
+  // OSD collectionMode
+
+  const getJSON = async url => {
+    const response = await fetch(url);
+    if (!response.ok)
+      throw new Error(response.statusText);
+    const data = response.json();
+    return data; // returns a promise
+  }
+
+
+  var viewer = OpenSeadragon({
+    id: "main-viewer",
+    prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@3.1.0/build/openseadragon/images/",
+
+     debugMode: false,
+    showNavigator: true,
+    navigatorBackground: "#fff",
+    navigatorAutoFade: false,
+    crossOriginPolicy: "Anonymous",
+    collectionMode: false
+  });
+
+  // 1791 constitution robespierre
+  let  ManifestUrl = `https://gallica.bnf.fr/iiif/ark:/12148/btv1b55007144x/manifest.json`;
+  // notes Proust
+  //ManifestUrl = `https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000486k/manifest.json`;
+  // enluminures
+  //ManifestUrl = `https://iiif.biblissima.fr/chateauroux/B360446201_MS0005/manifest.json`;
+  //ManifestUrl = "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10539526g/manifest.json";
+  // atlas btv1b52509636n
+  //ManifestUrl = `https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509636n/manifest.json`;
+  // Zoologie btv1b84573724
+  //ManifestUrl = `https://gallica.bnf.fr/iiif/ark:/12148/btv1b84573724/manifest.json`;
+  // livers d'heure bpt6k991429m
+  ManifestUrl = `https://gallica.bnf.fr/iiif/ark:/12148/bpt6k991429m/manifest.json`;
+
+  let grid;
+  let border = 1.05; // expansion factor
+  let regulargrid = true;
+  let gridx = 0;
+  let gridy = 0;
+
+  let count = 0;
+
+  function complete(event) {
+    count--;
+       let bb = new OpenSeadragon.Rect(0, 0, grid * gridx, grid * gridy)
+      viewer.viewport.fitBounds(bb, true);
+  }
+
+  // fetch manifest
+  getJSON(ManifestUrl).then((json) => {
+    let s = json.sequences;
+    let col = 0;
+    let row = 0;
+    if (s && s.length > 0) {
+      let canvases = s[0].canvases;
+      grid = Math.floor(Math.sqrt(canvases.length));
+      for (let c = 0; c < canvases.length; ++c) {
+        count += canvases[c].images.length;
+        gridx = Math.max(gridx, canvases[c].width);
+        gridy = Math.max(gridy, canvases[c].height);
+
+      }
+       gridx *= border;
+      gridy *= border;
+      if (regulargrid) {
+        if (gridx > gridy) gridy = gridx;
+        else gridx = gridy;
+      }
+     let c = 0;
+      for (let y = 0; y < grid; ++y) {
+        for (let x = 0; x < grid; ++x, ++c) {
+          if (c >= canvases.length) {
+            break;
+          }
+          let xpos = x * gridx;
+          let ypos = y * gridy;
+          let canvas = canvases[c];
+          let canvas_width = canvas.width;
+          let canvas_height = canvas.height;
+          let images = canvas.images;
+          for (let i = 0; i < images.length; ++i) {
+            let image = canvas.images[i];
+            let coords = image.on.split("xywh=");
+            let xstart = xpos;
+            let ystart = ypos;
+            let dstwidth = canvas_width;
+            let dstheight = canvas_height;
+            if (coords.length > 1) {
+              let locs = coords[1].split(",");
+              if (locs.length > 1) {
+                xstart += Number(locs[0]);
+                ystart += Number(locs[1]);
+                dstwidth = Number(locs[2]);
+                dstheight = Number(locs[3]);
+              }
+            }
+
+
+  //          if (i== 0) {
+             let bb = new OpenSeadragon.Rect(xstart, ystart, dstwidth, dstheight);
+              viewer.addTiledImage({
+                tileSource: {
+                  "@context": "http://iiif.io/api/image/2/context.json", //image.resource.service["@context"],
+                  "@id": image.resource.service["@id"],
+                  profile: "http://iiif.io/api/image/2/level2.json", //image.resource.service.profile,
+                  protocol: "http://iiif.io/api/image",
+                  width: image.resource.width,
+                  height: image.resource.height,
+                },
+                fitBounds: bb,
+                success: complete,
+                error: complete
+              });
+   //         }
+          }
+        }
+      }
+    }
+  });
+
+</script>--_mixed 0046DDECC1258B57_--
