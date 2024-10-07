@@ -1,0 +1,90 @@
+/* styling a ref */
+.highcharts-drilldown-data-label text{
+  text-decoration:none !important;
+}
+
+/* collections links */
+.scope-description  {
+    font-family: Lucida Grande, sans-serif;
+    font-weight: normal;
+    font-size: 1em;
+    background-color: #EBEBEB;
+    margin: 10px auto;
+    margin-top: -10px;
+    padding-top : 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%
+}
+
+/* group of icons under the charts */
+.highcharts-description  {
+  font-family: Lucida Grande;
+  margin: 10px auto;
+  text-align: center;
+  font-size: 1.1em;
+  width: 100%
+}
+
+.highcharts-figure,
+.highcharts-data-table  {
+  margin: 1em auto;
+}
+
+.caption { color : gray }
+.flag { width : 20px }
+a { text-decoration: none }
+
+.picto-item {
+  position: relative;  /*les .picto-item deviennent référents*/
+  cursor: help;
+  border-radius: 50%;
+}
+
+/* on génère un élément :after lors du survol et du focus :*/
+.picto-item:hover:after,
+.picto-item:focus:after {
+  content: attr(aria-label);  /* on affiche aria-label */
+  position: absolute;
+  top: -2.4em;
+  left: 50%;
+	transform: translateX(-50%); /* on centre horizontalement  */
+  z-index: 1; /* pour s'afficher au dessus des éléments en position relative */
+  white-space: nowrap;  /* on interdit le retour à la ligne*/
+  padding: 5px 14px;
+  background: #413219;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 0.7rem;
+}
+
+/* on génère un second élément en :before pour la flèche */
+[aria-label]:hover:before,
+[aria-label]:focus:before {
+  content: "▼";
+  position: absolute;
+  top: -1em;
+	left: 50%;
+	transform: translateX(-50%); /* on centre horizontalement  */
+  font-size: 14px;
+  color: #413219;
+}
+
+/* pas de contour durant le :focus */
+[aria-label]:focus {
+  outline: none;
+}
+
+.picto-item {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3em 2em  1.5em  2e;
+  width: 1.2em;
+  height: 1.2em;
+  color: #413219;
+  background: #A0A0A0;
+  font-size: 0.95rem;
+  text-align: center;
+  text-decoration: none;
+}
