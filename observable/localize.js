@@ -5,7 +5,7 @@ const translations = {
   // English translations
   "en": {
     "title": "Digital collection history (full collection)",
-    "subtitle": "Source: Gallica and Gallica SRU API (2023/02)",
+    "subtitle": "Source: Gallica and Gallica SRU API (2024/01)",
     "li1": "OVERVIEW",
     "li2": "PROVENANCE",
     "li3": "PARTNERS",
@@ -16,7 +16,7 @@ const translations = {
   },
   "fr": {
     "title": "Historique de la numérisation (collection complète)",
-    "subtitle": "Source : Gallica et API Gallica SRU (02/2023)",
+    "subtitle": "Source : Gallica et API Gallica SRU (01/2024)",
     "li1": "SYNTHÈSE",
     "li3": "PARTENAIRES",
     "li4": "CARTE PART.",
