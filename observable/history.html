@@ -30,7 +30,7 @@ myLocale = urlParams.get('locale')
 if (myLocale===null) {
   myLocale="fr"
 }
-console.log("locale: ",myLocale);
+console.log("locale: ", myLocale);
 
 function disable (id) {
   document.getElementById(id).style.display = "none";
@@ -47,7 +47,7 @@ function enable (id) {
 <div id="tabs">
 
 <p localize-key="title" style="text-align:center;font-size:14pt;font-family:'Lucida Grande',sans-serif;font-weight:bold">Historique de la numérisation (collection complète)</p>
-<p localize-key="subtitle" style="text-align:center;font-size:10pt;color: grey;margin-top: -10pt;font-family:'Lucida Grande',sans-serif;font-weight:bold">Source : Gallica et API Gallica SRU (02/2023)</p>
+<p localize-key="subtitle" style="text-align:center;font-size:10pt;color: grey;margin-top: -10pt;font-family:'Lucida Grande',sans-serif;font-weight:bold">Source : Gallica et API Gallica SRU (01/2024)</p>
 
 
 <iframe id="fr_chart" width="100%" height="650" frameborder="0"
@@ -70,7 +70,7 @@ function enable (id) {
 <p id="fr_menu" class="highcharts-description">
 <small class="caption"><a class="picto-item" aria-label="Source et documentation" href="https://github.com/altomator/Gallica_Dataviz" target="_blank">☁</a>
 <a class="picto-item" aria-label="Ce graphique décrit l'historique du processus de numérisation de Gallica." href="#">≡</a>
-<a class="picto-item" aria-label="English" href="./history.html/?locale=en">⚐</a></small>
+<a class="picto-item" aria-label="English" href="./history.html?locale=en">⚐</a></small>
 </p>
 <script>
     if (myLocale==="fr") {
