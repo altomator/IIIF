@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" >
+<html>
+<head>
+<title>Gallica : historique de la collection numérique </title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+body
+{
+    margin: 5px;
+    margin-top: 30px;
+    font-size:100%;
+    font-family: arial, sans;
+    background-color: #EBEBEB;
+}
+
+.legal
+{
+    text-align:center;
+    font-size: 80%;
+    color: #666;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="/Applications/basex924/webapp/static/dataviz.css"></link>
+</head>
+<script>
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+myLocale = urlParams.get('locale')
+if (myLocale===null) {
+  myLocale="fr"
+}
+console.log("locale: ",myLocale);
+
+function disable (id) {
+  document.getElementById(id).style.display = "none";
+}
+function enable (id) {
+  document.getElementById(id).style.display = "true";
+}
+</script>
+<script type="text/javascript" src="localize.js"></script>
+
+<body>
+<div id="content">
+<div id="tabs">
+
+<p localize-key="title" style="text-align:center;font-size:14pt;font-family:'Lucida Grande',sans-serif;font-weight:bold">Historique de la numérisation (collection complète)</p>
+<p localize-key="subtitle" style="text-align:center;font-size:10pt;color: grey;margin-top: -10pt;font-family:'Lucida Grande',sans-serif;font-weight:bold">Source : Gallica et API Gallica SRU (02/2023)</p>
+
+
+<iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/05c563c872aea953@3306?cell=*"></iframe>
+
+  
+<!--
+
+<iframe id="en_chart" width="100%" height="640" frameborder="0"
+    src="https://observablehq.com/embed/07494930306f68f6@3342?cells=*"></iframe>
+-->
+
+<p id="en_menu" class="highcharts-description">
+<small class="caption"><a class="picto-item" aria-label="Source and documentation" href="https://github.com/altomator/Gallica_Dataviz" target="_blank">☁</a>
+<a class="picto-item" aria-label="This graph describes the history of the Gallica digitization process." href="#">≡</a>
+<a class="picto-item" aria-label="French" href="./history.html">⚐</a></small>
+</p>
+<p id="fr_menu" class="highcharts-description">
+<small class="caption"><a class="picto-item" aria-label="Source et documentation" href="https://github.com/altomator/Gallica_Dataviz" target="_blank">☁</a>
+<a class="picto-item" aria-label="Ce graphique décrit l'historique du processus de numérisation de Gallica." href="#">≡</a>
+<a class="picto-item" aria-label="English" href="./history.html/?locale=en">⚐</a></small>
+</p>
+<script>
+    if (myLocale==="fr") {
+      console.log("FR chart")
+      disable("en_chart");
+      disable("en_menu");
+      enable("fr_chart");
+      enable("en_menu");
+    }
+    else {
+      console.log("EN chart")
+      disable("fr_chart");
+      disable("fr_menu");
+      enable("en_chart");
+      enable("en_menu");
+    }
+</script>
+</div>
+</div>
+</body>
+</html>
