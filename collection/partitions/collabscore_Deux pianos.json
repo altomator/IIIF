@@ -11,18 +11,18 @@
       "format": "image/png"
     }
   ],
-  "description": { "fr": [ "Contenu de la collection : Deux pianos" ], "en": [ "DESCRIP: Collection content: Deux pianos" ] },
+  "description": { "fr": [ "Contenu de la collection : Deux pianos" ], "en": [ "Collection content: Deux pianos" ] },
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
-  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Deux pianos</a></p>"], "en": ["<p>SUMMARY:<a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Deux pianos</a></p>"]  },
+  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Deux pianos</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Deux pianos</a></p>"]  },
   "requiredStatement": {
     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
-    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p>ATTRIB: <a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  }
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  }
   },
   "homepage": [
     {
       "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668510%22%20)%20and%20(dc.type%20all%20%22partition%22)",
       "type": "Text",
-      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "HOME: Gallica selection: Camille Saint-Saëns musical scores / ANR project CollabScore" ] },
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores / ANR project CollabScore" ] },
       "format": "text/html",
       "language": [ "fr" ]
     }
@@ -83,7 +83,8 @@
 {
 	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k11668510/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Caprice héroïque pour 2 pianos 4 mains, par C. Saint-Saëns (op. 106) - 1898 - (Bibliothèque nationale de France, département Musique, A-47274)"] }
+	          "label": {"fr": [ "Caprice héroïque pour 2 pianos 4 mains, par C. Saint-Saëns (op. 106) - 1898 - (Bibliothèque nationale de France, département Musique, A-47274)"] },
+			  "navDate": "1898"
 	          
 	      }]
 	 }
