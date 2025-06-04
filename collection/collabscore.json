@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore.json",
   "type": "Collection",
-  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore" ], "en": [ "Camille Saint-Saën musical scores / ANR project CollabScore" ] },
+  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore" ], "en": [ "Camille Saint-Saëns musical scores / ANR project CollabScore" ] },
   "thumbnail":
   [
     {
@@ -12,29 +12,74 @@
     }
   ],
   "description": { "fr": [ "Cette collection décrit le corpus du projet ANR CollabScore" ], "en": [ "This collection describes the dataset of the ANR project Collabscore" ] },
-  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "rights": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica" ,
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
-  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
-  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>, selection: <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  },
+  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>, selection: <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  },
   "requiredStatement": {
-    "label": { "fr": [ "Source" ], "en": [ "Source" ] },
-    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>, selection: <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  }
+    "label": { "fr": [ "Attribution" ], "en": [ "Source" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>"]  }
   },
   "homepage": [
     {
       "id": "https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens",
       "type": "Text",
-      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica Selection: Camille Saint-Saën musical scores / ANR project CollabScore" ] },
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica Selection: Camille Saint-Saëns musical scores / ANR project CollabScore" ] },
       "format": "text/html",
       "language": [ "fr" ]
     }
   ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
   "related": [{
 			"id": "https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens",
 			"format": "text/html",
-			"label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica Selection: Camille Saint-Saën musical scores / ANR project CollabScore" ] }
+			"label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica Selection: Camille Saint-Saëns musical scores / ANR project CollabScore" ] }
 		}],
-  "navDate": "1850-1900",
+  "navDate": "1870-1920",
   "items": [
 {
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_Choeur.json",
