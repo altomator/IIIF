@@ -13,15 +13,15 @@
   ],
   "description": { "fr": [ "Cette collection décrit le corpus du projet ANR CollabScore" ], "en": [ "This collection describes the dataset of the ANR project Collabscore" ] },
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
-  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>, selection: <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  },
+  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  },
   "requiredStatement": {
-    "label": { "fr": [ "Attribution" ], "en": [ "Source" ] },
-    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>"], "en": ["<p><a href='https://gallica.bnf.fr'>gallica.bnf.fr</a>"]  }
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica, selection: <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  }
   },
   "metadata": [
       {
         "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
-        "value": { "fr": [ "Anne (1776-1824)" ], "en": [ "Anne Artist (1776-1824)" ] }
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
       }
     ],
   "homepage": [
