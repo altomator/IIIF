@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_Orgue.json",
   "type": "Collection",
-  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore : Orgue" ], "en": [ "Camille Saint-Saën musical scores / ANR project CollabScore: Organ" ] },
+  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore : Orgue" ], "en": [ "Camille Saint-Saëns musical scores / ANR project CollabScore: Organ" ] },
   "thumbnail":
   [
     {
@@ -11,40 +11,79 @@
       "format": "image/jpeg"
     }
   ],
-  "description": { "fr": [ "Cette collection présente des Partitions de Camille Saint-Saëns / projet ANR CollabScore : Orgue" ], "en": [ "This collection is presenting Camille Saint-Saën musical scores / ANR project CollabScore: Orgue" ] },
-  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "description": { "fr": [ "Contenu de la collection : Orgue" ], "en": [ "DESCRIP: Collection content: Orgue" ] },
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
-  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
-  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore : Orgue</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore: Orgue</a></p>"]  },
+  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Orgue</a></p>"], "en": ["<p>SUMMARY:<a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Orgue</a></p>"]  },
   "requiredStatement": {
-    "label": { "fr": [ "Source" ], "en": [ "Source" ] },
-    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  }
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p>ATTRIB: <a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  }
   },
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)",
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)",
       "type": "Text",
-      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore" ] },
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "HOME: Gallica selection: Camille Saint-Saëns musical scores / ANR project CollabScore" ] },
       "format": "text/html",
       "language": [ "fr" ]
     }
   ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)",
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)",
 			"format": "text/html",
-      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore : Orgue"],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore: Organ" ] }
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore : Orgue"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores / ANR project CollabScore: Organ" ] }
 		}],
   "navDate": "",
   "items": [
 {
-	          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1281534p/manifest.json",
-	          "label": "Marche religieuse pour orgue... (op. 107)",
-	          "type": "Manifest",
-						"metadata": [
-	    			{
-	      "label":  "Source" ,
-	      "value": "Bibliothèque nationale de France, département Musique, VM11-1570"
-	    			}
-	  							]
+	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k1281534p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Marche religieuse pour orgue... (op. 107) (Bibliothèque nationale de France, département Musique, VM11-1570)"] }
+	          
 	      }]
 	 }

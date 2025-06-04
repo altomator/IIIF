@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_Piano.json",
   "type": "Collection",
-  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore : Piano" ], "en": [ "Camille Saint-Saën musical scores / ANR project CollabScore: Piano" ] },
+  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore : Piano" ], "en": [ "Camille Saint-Saëns musical scores / ANR project CollabScore: Piano" ] },
   "thumbnail":
   [
     {
@@ -11,60 +11,89 @@
       "format": "image/jpeg"
     }
   ],
-  "description": { "fr": [ "Cette collection présente des Partitions de Camille Saint-Saëns / projet ANR CollabScore : Piano" ], "en": [ "This collection is presenting Camille Saint-Saën musical scores / ANR project CollabScore: Piano" ] },
-  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "description": { "fr": [ "Contenu de la collection : Piano" ], "en": [ "DESCRIP: Collection content: Piano" ] },
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
-  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
-  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore : Piano</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore: Piano</a></p>"]  },
+  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Piano</a></p>"], "en": ["<p>SUMMARY:<a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Piano</a></p>"]  },
   "requiredStatement": {
-    "label": { "fr": [ "Source" ], "en": [ "Source" ] },
-    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saën musical scores / ANR project CollabScore</a></p>"]  }
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p>ATTRIB: <a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  }
   },
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)",
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)",
       "type": "Text",
-      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore" ] },
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "HOME: Gallica selection: Camille Saint-Saëns musical scores / ANR project CollabScore" ] },
       "format": "text/html",
       "language": [ "fr" ]
     }
   ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
   "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)",
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)",
 			"format": "text/html",
-      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore : Piano"],"en": [ "Gallica selection: Camille Saint-Saën musical scores / ANR project CollabScore: Piano" ] }
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore : Piano"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores / ANR project CollabScore: Piano" ] }
 		}],
   "navDate": "",
   "items": [
 {
-	          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1174902h/manifest.json",
-	          "label": "Valse mignonne : pour piano : opus 104 / par C. Saint-Saëns",
-	          "type": "Manifest",
-						"metadata": [
-	    			{
-	      "label":  "Source" ,
-	      "value": "Ancien fonds du Conservatoire, A-47266"
-	    			}
-	  							]
+	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k1174902h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Valse mignonne : pour piano : opus 104 / par C. Saint-Saëns (Ancien fonds du Conservatoire, A-47266)"] }
+	          
 	      },{
-	          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1166853t/manifest.json",
-	          "label": "Six études pour la main gauche seule : Op. 135 / C. Saint-Saëns.",
-	          "type": "Manifest",
-						"metadata": [
-	    			{
-	      "label":  "Source" ,
-	      "value": "Bibliothèque nationale de France, département Musique, A-47321"
-	    			}
-	  							]
+	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k1166853t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Six études pour la main gauche seule : Op. 135 / C. Saint-Saëns. (Bibliothèque nationale de France, département Musique, A-47321)"] }
+	          
 	      },{
-	          "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k11701792/manifest.json",
-	          "label": "Allegro appassionato : pour piano : op. 70 / par C. Saint-Saëns",
-	          "type": "Manifest",
-						"metadata": [
-	    			{
-	      "label":  "Source" ,
-	      "value": "Bibliothèque nationale de France, département Musique, VMA-3552 (4)"
-	    			}
-	  							]
+	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k11701792/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Allegro appassionato : pour piano : op. 70 / par C. Saint-Saëns (Bibliothèque nationale de France, département Musique, VMA-3552 (4))"] }
+	          
 	      }]
 	 }
