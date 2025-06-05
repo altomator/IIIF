@@ -85,10 +85,14 @@
 			  "type": "Manifest",
 	          "label": {"fr": [ "Ave maria, pour choeur à 4 voix mixtes, avec accompagnement d'orgue - 1914 - (Bibliothèque nationale de France, département Musique, FOL-VM1-422)"] },
 			  "navDate": "1914",
-                "metadata": [
+              "metadata": [
                   {
-                    "label": { "en": [ "Creator" ] },
-                    "value": { "en": [ "Anne Artist (1776-1824)" ] }
+                    "label": { "fr": [ "Source" ], "en": [ "Source" ] },
+                    "value": { "fr": ["Anne Artist (1776-1824)"], "en": ["Anne Artist (1776-1824)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+                    "value": { "fr": ["1888"], "en": ["1888"] }
                   }
                 ]
         
