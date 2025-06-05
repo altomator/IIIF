@@ -84,18 +84,48 @@
 	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k1174902h/manifest.json",
 			  "type": "Manifest",
 	          "label": {"fr": [ "Valse mignonne : pour piano : opus 104 / par C. Saint-Saëns - 1896 - (Ancien fonds du Conservatoire, A-47266)"] },
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, A-47266"], "en": ["Ancien fonds du Conservatoire, A-47266"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896"], "en": ["1896"] }
+                  }
+  				]
 			  "navDate": "1896"
 	          
 	      },{
 	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k1166853t/manifest.json",
 			  "type": "Manifest",
 	          "label": {"fr": [ "Six études pour la main gauche seule : Op. 135 / C. Saint-Saëns. - 1912 - (Bibliothèque nationale de France, département Musique, A-47321)"] },
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, A-47321"], "en": ["Bibliothèque nationale de France, département Musique, A-47321"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1912"], "en": ["1912"] }
+                  }
+  				]
 			  "navDate": "1912"
 	          
 	      },{
 	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k11701792/manifest.json",
 			  "type": "Manifest",
 	          "label": {"fr": [ "Allegro appassionato : pour piano : op. 70 / par C. Saint-Saëns - 1884 - (Bibliothèque nationale de France, département Musique, VMA-3552 (4))"] },
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMA-3552 (4)"], "en": ["Bibliothèque nationale de France, département Musique, VMA-3552 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884"], "en": ["1884"] }
+                  }
+  				]
 			  "navDate": "1884"
 	          
 	      }]

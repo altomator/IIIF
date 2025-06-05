@@ -84,6 +84,16 @@
 	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k11669142/manifest.json",
 			  "type": "Manifest",
 	          "label": {"fr": [ "Le Rouet d'Omphale. Poeme symphonique... Op. 31 - 1875 - (Bibliothèque nationale de France, département Musique, VM7-3715)"] },
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3715"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3715"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875"], "en": ["1875"] }
+                  }
+  				]
 			  "navDate": "1875"
 	          
 	      }]

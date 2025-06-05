@@ -84,6 +84,16 @@
 	          "id": "https://gallica.bnf.fr/iiif/https://gallica.bnf.fr/ark:/12148/bpt6k1281534p/manifest.json",
 			  "type": "Manifest",
 	          "label": {"fr": [ "Marche religieuse pour orgue... (op. 107) - 1898 - (Bibliothèque nationale de France, département Musique, VM11-1570)"] },
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM11-1570"], "en": ["Bibliothèque nationale de France, département Musique, VM11-1570"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1898"], "en": ["1898"] }
+                  }
+  				]
 			  "navDate": "1898"
 	          
 	      }]
