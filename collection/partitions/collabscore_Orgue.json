@@ -12,6 +12,7 @@
     }
   ],
   "description": { "fr": [ "Contenu de la collection : Orgue" ], "en": [ "Collection content: Orgue" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Orgue</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281534p%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Orgue</a></p>"]  },
   "requiredStatement": {
@@ -83,7 +84,15 @@
 {
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1281534p/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Marche religieuse pour orgue... (op. 107) - 1898 - (Bibliothèque nationale de France, département Musique, VM11-1570)"] },
+	          "label": {"fr": [ "Marche religieuse pour orgue... (op. 107) - 1898-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM11-1570)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -91,10 +100,10 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1898"], "en": ["1898"] }
+                    "value": { "fr": ["1898-01-01T00:00:00"], "en": ["1898-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1898"
+			  "navDate": "1898-01-01T00:00:00"
 	          
 	      }]
 	 }

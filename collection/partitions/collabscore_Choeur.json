@@ -12,6 +12,7 @@
     }
   ],
   "description": { "fr": [ "Contenu de la collection : Choeur" ], "en": [ "Collection content: Choeur" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281539r%22%20or%20notice%20all%20%22bpt6k11702001%22%20)%20or%20notice%20all%20%22bpt6k1170201f%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Choeur</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1281539r%22%20or%20notice%20all%20%22bpt6k11702001%22%20)%20or%20notice%20all%20%22bpt6k1170201f%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Choeur</a></p>"]  },
   "requiredStatement": {
@@ -83,7 +84,15 @@
 {
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1281539r/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Ave maria, pour choeur à 4 voix mixtes, avec accompagnement d'orgue - 1914 - (Bibliothèque nationale de France, département Musique, FOL-VM1-422)"] },
+	          "label": {"fr": [ "Ave maria, pour choeur à 4 voix mixtes, avec accompagnement d'orgue - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM1-422)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -91,15 +100,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1914"], "en": ["1914"] }
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1914"
+			  "navDate": "1914-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702001/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "2 choeurs à 4 voix (S.C.T.B.) : avec accompagnement piano ad libitum : op. 68. N° 1, Calme des nuits / par Camille Saint-Saëns - 1883 - (Ancien fonds du Conservatoire, L-1720 (1))"] },
+	          "label": {"fr": [ "2 choeurs à 4 voix (S.C.T.B.) : avec accompagnement piano ad libitum : op. 68. N° 1, Calme des nuits / par Camille Saint-Saëns - 1883-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-1720 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -107,15 +124,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1883"], "en": ["1883"] }
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1883"
+			  "navDate": "1883-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170201f/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "2 choeurs à 4 voix (S.C.T.B.) : avec accompagnement piano ad libitum : op. 68. N° 2, Les fleurs et les arbres / par Camille Saint-Saëns - 1883 - (Ancien fonds du Conservatoire, L-1720 (2))"] },
+	          "label": {"fr": [ "2 choeurs à 4 voix (S.C.T.B.) : avec accompagnement piano ad libitum : op. 68. N° 2, Les fleurs et les arbres / par Camille Saint-Saëns - 1883-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-1720 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -123,10 +148,10 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1883"], "en": ["1883"] }
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1883"
+			  "navDate": "1883-01-01T00:00:00"
 	          
 	      }]
 	 }

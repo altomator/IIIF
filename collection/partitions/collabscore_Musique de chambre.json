@@ -12,6 +12,7 @@
     }
   ],
   "description": { "fr": [ "Contenu de la collection : Musique de chambre" ], "en": [ "Collection content: Musique de chambre" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668903%22%20or%20notice%20all%20%22btv1b525019327%22%20)%20or%20notice%20all%20%22bpt6k3208945%22%20)%20or%20notice%20all%20%22bpt6k11827724%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Musique de chambre</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11668903%22%20or%20notice%20all%20%22btv1b525019327%22%20)%20or%20notice%20all%20%22bpt6k3208945%22%20)%20or%20notice%20all%20%22bpt6k11827724%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Musique de chambre</a></p>"]  },
   "requiredStatement": {
@@ -83,7 +84,15 @@
 {
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668903/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Fantaisie pour violon et harpe par C. Saint-Saëns. Op. 124 - 1907 - (Bibliothèque nationale de France, département Musique, VM15-5174)"] },
+	          "label": {"fr": [ "Fantaisie pour violon et harpe par C. Saint-Saëns. Op. 124 - 1907-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM15-5174)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -91,15 +100,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1907"], "en": ["1907"] }
+                    "value": { "fr": ["1907-01-01T00:00:00"], "en": ["1907-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1907"
+			  "navDate": "1907-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b525019327/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Cavatine pour trombone ténor avec accompagnement de piano, musique de C. Saint-Saëns. Op. 144 - 1915 - (Bibliothèque nationale de France, département Musique, FOL-VM10 F-13)"] },
+	          "label": {"fr": [ "Cavatine pour trombone ténor avec accompagnement de piano, musique de C. Saint-Saëns. Op. 144 - 1915-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM10 F-13)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -107,15 +124,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1915"], "en": ["1915"] }
+                    "value": { "fr": ["1915-01-01T00:00:00"], "en": ["1915-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1915"
+			  "navDate": "1915-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11827724/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Introduction et rondo capriccioso : pour violon et orchestre : op. 28 / par Camille Saint-Saëns ; réd. de piano par Georges Bizet - 1875 - (Bibliothèque nationale de France, département Musique, VMA-3551 (5))"] },
+	          "label": {"fr": [ "Introduction et rondo capriccioso : pour violon et orchestre : op. 28 / par Camille Saint-Saëns ; réd. de piano par Georges Bizet - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA-3551 (5))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -123,15 +148,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1875"], "en": ["1875"] }
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1875"
+			  "navDate": "1875-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k3208945/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Romance pour flute (ou violon) avec acc. d'orchestre (ou piano) op. 37 - 1874 - (Bibliothèque nationale de France, département Musique, VM9-2938)"] },
+	          "label": {"fr": [ "Romance pour flute (ou violon) avec acc. d'orchestre (ou piano) op. 37 - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM9-2938)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -139,10 +172,10 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1874"], "en": ["1874"] }
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1874"
+			  "navDate": "1874-01-01T00:00:00"
 	          
 	      }]
 	 }

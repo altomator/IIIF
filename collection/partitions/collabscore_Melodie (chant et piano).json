@@ -12,6 +12,7 @@
     }
   ],
   "description": { "fr": [ "Contenu de la collection : Mélodie (chant et piano)" ], "en": [ "Collection content: Mélodie (chant et piano)" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1162014q%22%20or%20notice%20all%20%22bpt6k11620562%22%20)%20or%20notice%20all%20%22bpt6k1161987d%22%20)%20or%20notice%20all%20%22bpt6k1161964d%22%20)%20or%20notice%20all%20%22bpt6k11620688%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Mélodie (chant et piano)</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k1162014q%22%20or%20notice%20all%20%22bpt6k11620562%22%20)%20or%20notice%20all%20%22bpt6k1161987d%22%20)%20or%20notice%20all%20%22bpt6k1161964d%22%20)%20or%20notice%20all%20%22bpt6k11620688%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Mélodie (chant et piano)</a></p>"]  },
   "requiredStatement": {
@@ -83,7 +84,15 @@
 {
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1161987d/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Rêverie / paroles de Monsieur Victor Hugo ; musique de C. Saint-Saëns - 1852 - (Bibliothèque nationale de France, département Musique, D-9658 (79))"] },
+	          "label": {"fr": [ "Rêverie / paroles de Monsieur Victor Hugo ; musique de C. Saint-Saëns - 1852-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9658 (79))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -91,15 +100,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1852"], "en": ["1852"] }
+                    "value": { "fr": ["1852-01-01T00:00:00"], "en": ["1852-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1852"
+			  "navDate": "1852-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1162014q/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "La libellule : valse chantée / poésie et musique de C. Saint-Saëns - 1894 - (Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (53))"] },
+	          "label": {"fr": [ "La libellule : valse chantée / poésie et musique de C. Saint-Saëns - 1894-01-01T00:00:00 - (Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (53))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -107,15 +124,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1894"], "en": ["1894"] }
+                    "value": { "fr": ["1894-01-01T00:00:00"], "en": ["1894-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1894"
+			  "navDate": "1894-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1161964d/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Vogue, vogue la galère ! : barcarolle : chant et piano avec accompagnement d'harmonium (ad lib.) / poésie de Jean Aicard ; musique de C. Saint-Saëns - 1877 - (Bibliothèque nationale de France, département Musique, D-9658 (106))"] },
+	          "label": {"fr": [ "Vogue, vogue la galère ! : barcarolle : chant et piano avec accompagnement d'harmonium (ad lib.) / poésie de Jean Aicard ; musique de C. Saint-Saëns - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9658 (106))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -123,15 +148,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1877"], "en": ["1877"] }
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1877"
+			  "navDate": "1877-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11620562/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Chanson à boire du vieux temps / poésie de Nicolas Boileau ; musique de C. Saint-Saëns - 1885 - (Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (14))"] },
+	          "label": {"fr": [ "Chanson à boire du vieux temps / poésie de Nicolas Boileau ; musique de C. Saint-Saëns - 1885-01-01T00:00:00 - (Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (14))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -139,10 +172,10 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1885"], "en": ["1885"] }
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1885"
+			  "navDate": "1885-01-01T00:00:00"
 	          
 	      }]
 	 }

@@ -12,6 +12,7 @@
     }
   ],
   "description": { "fr": [ "Contenu de la collection : Piano" ], "en": [ "Collection content: Piano" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Piano</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bpt6k11701792%22%20or%20notice%20all%20%22bpt6k1174902h%22%20)%20or%20notice%20all%20%22bpt6k1166853t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Piano</a></p>"]  },
   "requiredStatement": {
@@ -83,7 +84,15 @@
 {
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174902h/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Valse mignonne : pour piano : opus 104 / par C. Saint-Saëns - 1896 - (Ancien fonds du Conservatoire, A-47266)"] },
+	          "label": {"fr": [ "Valse mignonne : pour piano : opus 104 / par C. Saint-Saëns - 1896-01-01T00:00:00 - (Ancien fonds du Conservatoire, A-47266)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -91,15 +100,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1896"], "en": ["1896"] }
+                    "value": { "fr": ["1896-01-01T00:00:00"], "en": ["1896-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1896"
+			  "navDate": "1896-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166853t/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Six études pour la main gauche seule : Op. 135 / C. Saint-Saëns. - 1912 - (Bibliothèque nationale de France, département Musique, A-47321)"] },
+	          "label": {"fr": [ "Six études pour la main gauche seule : Op. 135 / C. Saint-Saëns. - 1912-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, A-47321)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -107,15 +124,23 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1912"], "en": ["1912"] }
+                    "value": { "fr": ["1912-01-01T00:00:00"], "en": ["1912-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1912"
+			  "navDate": "1912-01-01T00:00:00"
 	          
 	      },{
 	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11701792/manifest.json",
 			  "type": "Manifest",
-	          "label": {"fr": [ "Allegro appassionato : pour piano : op. 70 / par C. Saint-Saëns - 1884 - (Bibliothèque nationale de France, département Musique, VMA-3552 (4))"] },
+	          "label": {"fr": [ "Allegro appassionato : pour piano : op. 70 / par C. Saint-Saëns - 1884-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA-3552 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"type": "Image",
+      				"format": "image/jpeg"
+    				}
+  				],
   			  "metadata": [
     			{
                     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
@@ -123,10 +148,10 @@
                   },
                   {
                     "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
-                    "value": { "fr": ["1884"], "en": ["1884"] }
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
                   }
   				],
-			  "navDate": "1884"
+			  "navDate": "1884-01-01T00:00:00"
 	          
 	      }]
 	 }
