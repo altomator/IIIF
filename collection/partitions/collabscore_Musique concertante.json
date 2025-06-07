@@ -14,11 +14,21 @@
   "description": { "fr": [ "Contenu de la collection : Musique concertante" ], "en": [ "Collection content: Musique concertante" ] },
   "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
-  "summary": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bd6t54169559t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Musique concertante</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bd6t54169559t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Musique concertante</a></p>"]  },
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bd6t54169559t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Musique concertante</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a>, Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bd6t54169559t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Musique concertante</a></p>"]  },
   "requiredStatement": {
     "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
     "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bd6t54169559t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bd6t54169559t%22%20)%20and%20(dc.type%20all%20%22partition%22)'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  }
   },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1870-1920" ], "en": [ "1870-1920" ] }
+      }
+    ],
   "homepage": [
     {
       "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=((notice%20all%20%22bd6t54169559t%22%20)%20and%20(dc.type%20all%20%22partition%22)",
@@ -88,9 +98,9 @@
 			  "thumbnail": 
 				[
     				{
-      				"id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      				"id": "https://commons.wikimedia.org/wiki/File:Bnf_Gallica_logo.jpg",
       				"type": "Image",
-      				"format": "image/jpeg"
+      				"format": "image/png"
     				}
   				],
   			  "metadata": [
