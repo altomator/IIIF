@@ -1,0 +1,121 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions d'œuvres de Camille Saint-Saëns" ], "en": [ "Camille Saint-Saëns musical scores" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/btv1b8424684m/f1.thumbnail",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "description": { "fr": [ "Cette collection décrit les œuvres numérisées de Camille Saint-Saëns dans Gallica" ], "en": [ "This collection describes the digitised work of Camille Saint-Saëns in Gallica" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection IIIF présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Partitions d'œuvres de Camille Saint-Saëns</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection of <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Camille Saint-Saëns musical scores</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, Sélection : <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Partitions d'œuvres de Camille Saint-Saëns</a>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection: <a href='https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens'>Camille Saint-Saëns musical scores</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1870-1920" ], "en": [ "1870-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica Selection: Camille Saint-Saëns musical scores" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/html/und/partitions/partitions-doeuvres-de-camille-saint-saens",
+			"format": "text/html",
+			"label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica Selection: Camille Saint-Saëns musical scores" ] }
+		}],
+  "navDate": "1870-01-01T00:00:00",
+  "items": [
+{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Œuvres pour piano.json",
+        "label": { "fr": ["Œuvres pour piano"],
+				             "en": ["Piano works"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Œuvres pour orgue.json",
+        "label": { "fr": ["Œuvres pour orgue"],
+				             "en": ["Organ works"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    }]
+  }
