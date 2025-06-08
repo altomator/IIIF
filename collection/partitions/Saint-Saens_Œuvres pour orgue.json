@@ -1,0 +1,1439 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Œuvres pour orgue.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions d'œuvres de Camille Saint-Saëns : Œuvres pour orgue" ], "en": [ "Camille Saint-Saëns musical scores: Organ works" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+      "type": "Image",
+      "format": "image/png"
+    }
+  ],
+  "description": { "fr": [ "Contenu de la collection : Œuvres pour orgue" ], "en": [ "Collection content: Œuvres pour orgue" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20all%20%22orgue%22%20or%20gallica%20adj%20%22cor%20et%20orgue%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orgue%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20and%20not%20gallica%20all%20%22orchestre%22%20%29%20and%20not%20gallica%20all%20%22quatuor%22%20%29%20and%20not%20gallica%20all%20%22piano%22%20%29%20and%20not%20gallica%20adj%20%22etienne%20marcel%22%20%29%20and%20not%20gallica%20all%20%22motet%22%20%29%20and%20not%20gallica%20all%20%22oratorio%22%20%29%20and%20not%20gallica%20all%20%22requiem%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Œuvres pour orgue</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a>, Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20all%20%22orgue%22%20or%20gallica%20adj%20%22cor%20et%20orgue%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orgue%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20and%20not%20gallica%20all%20%22orchestre%22%20%29%20and%20not%20gallica%20all%20%22quatuor%22%20%29%20and%20not%20gallica%20all%20%22piano%22%20%29%20and%20not%20gallica%20adj%20%22etienne%20marcel%22%20%29%20and%20not%20gallica%20all%20%22motet%22%20%29%20and%20not%20gallica%20all%20%22oratorio%22%20%29%20and%20not%20gallica%20all%20%22requiem%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Œuvres pour orgue</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20all%20%22orgue%22%20or%20gallica%20adj%20%22cor%20et%20orgue%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orgue%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20and%20not%20gallica%20all%20%22orchestre%22%20%29%20and%20not%20gallica%20all%20%22quatuor%22%20%29%20and%20not%20gallica%20all%20%22piano%22%20%29%20and%20not%20gallica%20adj%20%22etienne%20marcel%22%20%29%20and%20not%20gallica%20all%20%22motet%22%20%29%20and%20not%20gallica%20all%20%22oratorio%22%20%29%20and%20not%20gallica%20all%20%22requiem%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Partitions d'œuvres de Camille Saint-Saëns</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20all%20%22orgue%22%20or%20gallica%20adj%20%22cor%20et%20orgue%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orgue%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20and%20not%20gallica%20all%20%22orchestre%22%20%29%20and%20not%20gallica%20all%20%22quatuor%22%20%29%20and%20not%20gallica%20all%20%22piano%22%20%29%20and%20not%20gallica%20adj%20%22etienne%20marcel%22%20%29%20and%20not%20gallica%20all%20%22motet%22%20%29%20and%20not%20gallica%20all%20%22oratorio%22%20%29%20and%20not%20gallica%20all%20%22requiem%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Camille Saint-Saëns musical scores</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1870-1920" ], "en": [ "1870-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20all%20%22orgue%22%20or%20gallica%20adj%20%22cor%20et%20orgue%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orgue%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20and%20not%20gallica%20all%20%22orchestre%22%20%29%20and%20not%20gallica%20all%20%22quatuor%22%20%29%20and%20not%20gallica%20all%20%22piano%22%20%29%20and%20not%20gallica%20adj%20%22etienne%20marcel%22%20%29%20and%20not%20gallica%20all%20%22motet%22%20%29%20and%20not%20gallica%20all%20%22oratorio%22%20%29%20and%20not%20gallica%20all%20%22requiem%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20all%20%22orgue%22%20or%20gallica%20adj%20%22cor%20et%20orgue%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orgue%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20and%20not%20gallica%20all%20%22orchestre%22%20%29%20and%20not%20gallica%20all%20%22quatuor%22%20%29%20and%20not%20gallica%20all%20%22piano%22%20%29%20and%20not%20gallica%20adj%20%22etienne%20marcel%22%20%29%20and%20not%20gallica%20all%20%22motet%22%20%29%20and%20not%20gallica%20all%20%22oratorio%22%20%29%20and%20not%20gallica%20all%20%22requiem%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns : Œuvres pour orgue"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores: Organ works" ] }
+		}],
+  
+  "items": [
+{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702127/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Fantaisie pour grande orgue : op. 101 / par C. Saint-Saëns - 1896-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-14575)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11702127/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-14575"], "en": ["Bibliothèque nationale de France, département Musique, VM7-14575"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896-01-01T00:00:00"], "en": ["1896-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1896-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108427850/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Prière // pour Violon // avec accompagnement d'orgue // op. 158 bis (manuscrit autographe) - 1920-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-714)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108427850/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-714"], "en": ["Bibliothèque nationale de France, département Musique, MS-714"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1920-01-01T00:00:00"], "en": ["1920-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1920-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10318595d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Prière, pour violoncelle avec accompagnement d'orgue, par C. Saint-Saëns... - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM9 B-408)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10318595d/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM9 B-408"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM9 B-408"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550078686/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Adagio pour cor en fa et orgue] (manuscrit autographe) - 1854-1857-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-896)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550078686/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-896"], "en": ["Bibliothèque nationale de France, département Musique, MS-896"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1854-1857-01-01T00:00:00"], "en": ["1854-1857-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1854-1857-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170199t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sept improvisations pour orgue : op. 150 / par C. Saint-Saëns - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM11-171)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170199t/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM11-171"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM11-171"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55008431n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Offertoire pour orgue et cor chromatique // C. Saint-Saëns (manuscrit autographe) - 1854-1857-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-833)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55008431n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-833"], "en": ["Bibliothèque nationale de France, département Musique, MS-833"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1854-1857-01-01T00:00:00"], "en": ["1854-1857-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1854-1857-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170185s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Trois préludes et fugues pour orgue : op. 99 / par Camille Saint-Saëns - 1894-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11272 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170185s/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11272 (1)"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11272 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1894-01-01T00:00:00"], "en": ["1894-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1894-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108431422/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Neuf chants religieux latins avec accompagnement] (manuscrit autographe) - 1859-1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-889 (a-i))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108431422/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-889 (a-i)"], "en": ["Bibliothèque nationale de France, département Musique, MS-889 (a-i)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-1875-01-01T00:00:00"], "en": ["1859-1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163844x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Fantaisie pour orgue / par Camille Saint-Saëns - 1857-01-01T00:00:00 - (Ex-libris : Eugène Gigout, VMA-3550 (9))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163844x/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ex-libris : Eugène Gigout, VMA-3550 (9)"], "en": ["Ex-libris : Eugène Gigout, VMA-3550 (9)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1857-01-01T00:00:00"], "en": ["1857-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1857-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842784j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Morceau inachevé, pour orgue] (manuscrit autographe) - 1871-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-685)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842784j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-685"], "en": ["Bibliothèque nationale de France, département Musique, MS-685"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1871-01-01T00:00:00"], "en": ["1871-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1871-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170220s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Six préludes et fugues pour orgue : pour orgue. 2e livre, op. 109 / par Camille Saint-Saëns - 1898-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11272 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170220s/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11272 (2)"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11272 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1898-01-01T00:00:00"], "en": ["1898-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1898-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55010127b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Prélude pour orgue [en fa majeur]] (manuscrit autographe) - 1855-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-649)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55010127b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-649"], "en": ["Bibliothèque nationale de France, département Musique, MS-649"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1855-01-01T00:00:00"], "en": ["1855-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1855-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108404838/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "7 Improvisations [pour orgue] - 1947-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA MS-2280)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108404838/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMA MS-2280"], "en": ["Bibliothèque nationale de France, département Musique, VMA MS-2280"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1947-01-01T00:00:00"], "en": ["1947-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1947-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468007h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Deux pièces d'orgue, écrites vers l'âge de 17 ou 18 ans] (manuscrit autographe) / Camille Saint-Saëns] - 1852-1854-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-873)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468007h/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-873"], "en": ["Bibliothèque nationale de France, département Musique, MS-873"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1852-1854-01-01T00:00:00"], "en": ["1852-1854-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1852-1854-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468001t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Praeludium & Fuga (manuscrit autographe) - 1850-1870-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-914 (B))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468001t/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-914 (B)"], "en": ["Bibliothèque nationale de France, département Musique, MS-914 (B)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1850-1870-01-01T00:00:00"], "en": ["1850-1870-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1850-1870-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11701970/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3e fantaisie pour orgue : op. 157 / par C. Saint-Saëns - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM11-167)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11701970/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM11-167"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM11-167"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104679979/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Adagio (manuscrit autographe) - 1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-914 (E))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104679979/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-914 (E)"], "en": ["Bibliothèque nationale de France, département Musique, MS-914 (E)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1509586d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Prière, pour violon, avec accompagnement d'orgue. (Op. 158 bis) - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM9-1823)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1509586d/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM9-1823"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM9-1823"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009243j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Morceau écrit // pour orgue Aeolian (manuscrit autographe) - 1906-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-648)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009243j/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-648"], "en": ["Bibliothèque nationale de France, département Musique, MS-648"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1906-01-01T00:00:00"], "en": ["1906-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1906-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550092586/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Fantaisie pour orgue, en mi bémol majeur] (manuscrit autographe) - 1857-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-650)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550092586/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-650"], "en": ["Bibliothèque nationale de France, département Musique, MS-650"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1857-01-01T00:00:00"], "en": ["1857-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1857-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009266q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Fantaisie pour orgue : Op. 157 (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-647)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009266q/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-647"], "en": ["Bibliothèque nationale de France, département Musique, MS-647"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170243s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3 rhapsodies sur des cantiques bretons : pélerinage au pardon de Ste Anne-la-Palude : op. 7 : pour grand orgue / par C. Saint-Saëns - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-9011)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170243s/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-9011"], "en": ["Bibliothèque nationale de France, département Musique, VM7-9011"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104679996/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Deux pièces brèves pour orgue ou harmonium] (manuscrit autographe) / Camille Saint-Saëns] - 1870-1921-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-914 (A))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104679996/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-914 (A)"], "en": ["Bibliothèque nationale de France, département Musique, MS-914 (A)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1870-1921-01-01T00:00:00"], "en": ["1870-1921-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1870-1921-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169446v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Offertoire pour la fête de la Toussaint par C. Saint-Saëns, pour choeur à 4 voix mixtes et orgue d'accompagnement (Violoncelle et contrebasse ad libitum) - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-125859)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169446v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-125859"], "en": ["Bibliothèque nationale de France, département Musique, VM7-125859"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550078110/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "O Salutaris // de la Messe op. 4 // transcrit pour orgue // par l'auteur (manuscrit autographe) - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-656)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550078110/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-656"], "en": ["Bibliothèque nationale de France, département Musique, MS-656"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009263c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "C. Saint-Saëns // 7 Improvisations // pour orgue (manuscrit autographe) - 1916-1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-645 (1-7))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009263c/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-645 (1-7)"], "en": ["Bibliothèque nationale de France, département Musique, MS-645 (1-7)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1916-1917-01-01T00:00:00"], "en": ["1916-1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1916-1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1281525q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Litanies de la Sainte -Vierge, avec accompagnement d'orgue par Saint-Saëns - 1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM1-534)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1281525q/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM1-534"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM1-534"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468000c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Deux pièces pour orgue] (manuscrit autographe) / Camille Saint-Saëns] - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-914 (C))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468000c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-914 (C)"], "en": ["Bibliothèque nationale de France, département Musique, MS-914 (C)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009246w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Préludes et fugues : pour orgue : Op. 99, no 2 et 3] (manuscrit autographe) - 1894-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-651 (2-3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009246w/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-651 (2-3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-651 (2-3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1894-01-01T00:00:00"], "en": ["1894-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1894-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702231/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Bénédiction nuptiale, pièce d'orgue... - 1868-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM11-1269)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11702231/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM11-1269"], "en": ["Bibliothèque nationale de France, département Musique, VM11-1269"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1868-01-01T00:00:00"], "en": ["1868-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1868-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169466m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. , Reine des cieux : consécration à Marie : unisson ou solo / par Camille Saint-Saëns - 1866-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99150)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169466m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99150"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99150"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1866-01-01T00:00:00"], "en": ["1866-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1866-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009245f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Prélude et fugue : pour orgue : Op. 99, no 1] (manuscrit autographe) - 1894-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-651 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009245f/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-651 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-651 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1894-01-01T00:00:00"], "en": ["1894-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1894-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108602745/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Bénédiction nuptiale : pour grand orgue. Op.9 / C. Saint-Saëns - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM11-1270)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108602745/f2/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM11-1270"], "en": ["Bibliothèque nationale de France, département Musique, VM11-1270"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843618d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Trois Préludes et fugues pour orgue, op. 99] (manuscrit autographe) - 1894-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-915 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843618d/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-915 (4)"], "en": ["Bibliothèque nationale de France, département Musique, MS-915 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1894-01-01T00:00:00"], "en": ["1894-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1894-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1281534p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Marche religieuse pour orgue... (op. 107) - 1898-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM11-1570)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1281534p/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM11-1570"], "en": ["Bibliothèque nationale de France, département Musique, VM11-1570"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1898-01-01T00:00:00"], "en": ["1898-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1898-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009247b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Cantiques bretons (manuscrit autographe) - 1866-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-655)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009247b/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-655"], "en": ["Bibliothèque nationale de France, département Musique, MS-655"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1866-01-01T00:00:00"], "en": ["1866-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1866-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k925647k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. Trois rhapsodies, cantiques bretons pour orgue-harmonium, par Camille Saint-Saëns - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11271)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k925647k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11271"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11271"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550086462/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Elévation // ou // communion // pour orgue (manuscrit autographe) - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-654)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550086462/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-654"], "en": ["Bibliothèque nationale de France, département Musique, MS-654"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550086267/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Marche religieuse // pour orgue // op. 107 (manuscrit autographe) - 1897-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-653)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550086267/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-653"], "en": ["Bibliothèque nationale de France, département Musique, MS-653"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1897-01-01T00:00:00"], "en": ["1897-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1897-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163830w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. , Rhapsodie III : orgue / [C. Saint-Saëns] - 1873-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA-3550 (10))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163830w/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMA-3550 (10)"], "en": ["Bibliothèque nationale de France, département Musique, VMA-3550 (10)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1873-01-01T00:00:00"], "en": ["1873-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1873-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843617z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Marche religieuse, op. 107 (manuscrit autographe) - 1897-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-915 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843617z/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-915 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-915 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1897-01-01T00:00:00"], "en": ["1897-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1897-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t541694834/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Elévation ou Communion... N° 1. pour grand orgue. N° 2. pour harmonium - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM11-1272)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t541694834/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM11-1272"], "en": ["Bibliothèque nationale de France, département Musique, VM11-1272"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169459g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. , Panis angelicus : mezzo-soprano ou baryton, transposé / C. Saint-Saëns - 1898-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99138)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169459g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99138"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99138"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1898-01-01T00:00:00"], "en": ["1898-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1898-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465864n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Litanies// de la Ste Vierge // C. Saint-Saëns (manuscrit autographe) - 1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-760)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465864n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-760"], "en": ["Bibliothèque nationale de France, département Musique, MS-760"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t541694582/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Bénédiction nuptiale : pour grand orgue. Op.9 / C. Saint-Saëns - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM11-1270)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t541694582/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM11-1270"], "en": ["Bibliothèque nationale de France, département Musique, VM11-1270"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108435933/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Veni creator (manuscrit en partie autographe) - 1858-1861-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2492 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108435933/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2492 (3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2492 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-1861-01-01T00:00:00"], "en": ["1858-1861-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-1861-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843134j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hymne à Jeanne d'arc // paroles latines de // mgr Foucault // Evêque de St-Dié // musique de // C. Saint-Saëns (manuscrit autographe) - 1920-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-770 (1-2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843134j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-770 (1-2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-770 (1-2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1920-01-01T00:00:00"], "en": ["1920-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1920-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169485z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Pie Jesu : N° 2, pour ténor avec choeur ad lib. / par Camille Saint-Saëns - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99143 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169485z/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99143 (2)"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99143 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169482q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Elévation ou Communion... N° 1. pour grand orgue. N° 2. pour harmonium - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM11-1271)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169482q/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM11-1271"], "en": ["Bibliothèque nationale de France, département Musique, VM11-1271"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009615q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3 Préludes et Fugues // pour orgue // (2me série) (manuscrit autographe) - 1898-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-652)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009615q/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-652"], "en": ["Bibliothèque nationale de France, département Musique, MS-652"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1898-01-01T00:00:00"], "en": ["1898-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1898-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10467998r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Six pièces pour harmonium] (manuscrit autographe) / Camille Saint-Saëns] - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-914 (D))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10467998r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-914 (D)"], "en": ["Bibliothèque nationale de France, département Musique, MS-914 (D)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11592824/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Adagio de la 3e symphonie, op. 78, , transcrit pour orgue par Emile Bernard - 1898-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM11-134)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11592824/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM11-134"], "en": ["Bibliothèque nationale de France, département Musique, VM11-134"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1898-01-01T00:00:00"], "en": ["1898-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1898-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169484j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Pie Jesu : N° 1, pour basse / par Camille Saint-Saëns - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99143 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169484j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99143 (1)"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99143 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104658636/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Litanies de la Ste Vierge // No 2 pour contralto ou Baryton // C. Saint-Saëns (manuscrit autographe) - 1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-761)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104658636/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-761"], "en": ["Bibliothèque nationale de France, département Musique, MS-761"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843136f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Offertoire pour la Fête // de la Toussaint // C. Saint-Saëns (manuscrit autographe) - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-788)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843136f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-788"], "en": ["Bibliothèque nationale de France, département Musique, MS-788"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100723087/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les Danses de nos pères. Reconstitution des anciennes danses des XVIIe et XVIIIe siècles avec gravures théorie, musique réglées pour amateurs à l'usage des salons par Madame Laure Fonta,... - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-10443)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100723087/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-10443"], "en": ["Bibliothèque nationale de France, département Musique, D-10443"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      }]
+	 }
