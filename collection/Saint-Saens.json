@@ -26,7 +26,7 @@
       },
       {
         "label": { "fr": [ "Date" ], "en": [ "Date" ] },
-        "value": { "fr": [ "1870-1920" ], "en": [ "1870-1920" ] }
+        "value": { "fr": [ "1840-1920" ], "en": [ "1840-1920" ] }
       }
     ],
   "homepage": [
@@ -89,7 +89,7 @@
 			"format": "text/html",
 			"label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica Selection: Camille Saint-Saëns musical scores" ] }
 		}],
-  "navDate": "1870-01-01T00:00:00",
+  "navDate": "1900-01-01T00:00:00",
   "items": [
 {
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Œuvres pour piano.json",
@@ -108,6 +108,110 @@
         "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Œuvres pour orgue.json",
         "label": { "fr": ["Œuvres pour orgue"],
 				             "en": ["Organ works"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Musique de chambre.json",
+        "label": { "fr": ["Musique de chambre"],
+				             "en": ["Chamber music"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Musique symphonique.json",
+        "label": { "fr": ["Musique symphonique"],
+				             "en": ["Symphonic works"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Œuvres concertantes.json",
+        "label": { "fr": ["Œuvres concertantes"],
+				             "en": ["Concertos"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Musique de scene.json",
+        "label": { "fr": ["Musique de scène"],
+				             "en": ["Incidental music"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Melodies.json",
+        "label": { "fr": ["Mélodies"],
+				             "en": ["Melodies"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Œuvres vocales.json",
+        "label": { "fr": ["Œuvres vocales"],
+				             "en": ["Vocal works"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Ouvrages lyriques.json",
+        "label": { "fr": ["Ouvrages lyriques"],
+				             "en": ["Lyrical works"]},
+        "type": "Collection",
+		"thumbnail": 
+		  [
+			{
+			  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+			  "type": "Image",
+			  "format": "image/png"
+			}
+		  ]
+    },{
+        "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Musique religieuse.json",
+        "label": { "fr": ["Musique religieuse"],
+				             "en": ["Sacred music"]},
         "type": "Collection",
 		"thumbnail": 
 		  [
