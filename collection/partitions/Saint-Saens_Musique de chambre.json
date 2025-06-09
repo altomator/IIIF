@@ -1,0 +1,1943 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Musique de chambre.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions d'œuvres de Camille Saint-Saëns : Musique de chambre" ], "en": [ "Camille Saint-Saëns musical scores: Chamber music" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+      "type": "Image",
+      "format": "image/png"
+    }
+  ],
+  "description": { "fr": [ "Contenu de la collection : Musique de chambre" ], "en": [ "Collection content: Musique de chambre" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20sonate%22%20or%20gallica%20all%20%22quatuors%22%20%29%20or%20gallica%20adj%20%22clarinette%20et%20fl%C3%BBte%22%20%29%20or%20gallica%20all%20%22trios%22%20%29%20or%20gallica%20adj%20%22cor%20et%20piano%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20piano%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20piano%22%20%29%20or%20gallica%20adj%20%22ensemble%20instrumental%22%20%29%20and%20%28dc.creator%20adj%20%22saint-sa%C3%ABns%20camille%22%20or%20dc.contributor%20adj%20%22saint-sa%C3%ABns%20camille%22%20%29%20%29%20and%20not%20gallica%20all%20%22eglise%22%20%29%20and%20not%20gallica%20all%20%22transcription%2A%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Musique de chambre</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20sonate%22%20or%20gallica%20all%20%22quatuors%22%20%29%20or%20gallica%20adj%20%22clarinette%20et%20fl%C3%BBte%22%20%29%20or%20gallica%20all%20%22trios%22%20%29%20or%20gallica%20adj%20%22cor%20et%20piano%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20piano%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20piano%22%20%29%20or%20gallica%20adj%20%22ensemble%20instrumental%22%20%29%20and%20%28dc.creator%20adj%20%22saint-sa%C3%ABns%20camille%22%20or%20dc.contributor%20adj%20%22saint-sa%C3%ABns%20camille%22%20%29%20%29%20and%20not%20gallica%20all%20%22eglise%22%20%29%20and%20not%20gallica%20all%20%22transcription%2A%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Musique de chambre</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20sonate%22%20or%20gallica%20all%20%22quatuors%22%20%29%20or%20gallica%20adj%20%22clarinette%20et%20fl%C3%BBte%22%20%29%20or%20gallica%20all%20%22trios%22%20%29%20or%20gallica%20adj%20%22cor%20et%20piano%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20piano%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20piano%22%20%29%20or%20gallica%20adj%20%22ensemble%20instrumental%22%20%29%20and%20%28dc.creator%20adj%20%22saint-sa%C3%ABns%20camille%22%20or%20dc.contributor%20adj%20%22saint-sa%C3%ABns%20camille%22%20%29%20%29%20and%20not%20gallica%20all%20%22eglise%22%20%29%20and%20not%20gallica%20all%20%22transcription%2A%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Partitions d'œuvres de Camille Saint-Saëns</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20sonate%22%20or%20gallica%20all%20%22quatuors%22%20%29%20or%20gallica%20adj%20%22clarinette%20et%20fl%C3%BBte%22%20%29%20or%20gallica%20all%20%22trios%22%20%29%20or%20gallica%20adj%20%22cor%20et%20piano%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20piano%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20piano%22%20%29%20or%20gallica%20adj%20%22ensemble%20instrumental%22%20%29%20and%20%28dc.creator%20adj%20%22saint-sa%C3%ABns%20camille%22%20or%20dc.contributor%20adj%20%22saint-sa%C3%ABns%20camille%22%20%29%20%29%20and%20not%20gallica%20all%20%22eglise%22%20%29%20and%20not%20gallica%20all%20%22transcription%2A%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Camille Saint-Saëns musical scores</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1840-1920" ], "en": [ "1840-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20sonate%22%20or%20gallica%20all%20%22quatuors%22%20%29%20or%20gallica%20adj%20%22clarinette%20et%20fl%C3%BBte%22%20%29%20or%20gallica%20all%20%22trios%22%20%29%20or%20gallica%20adj%20%22cor%20et%20piano%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20piano%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20piano%22%20%29%20or%20gallica%20adj%20%22ensemble%20instrumental%22%20%29%20and%20%28dc.creator%20adj%20%22saint-sa%C3%ABns%20camille%22%20or%20dc.contributor%20adj%20%22saint-sa%C3%ABns%20camille%22%20%29%20%29%20and%20not%20gallica%20all%20%22eglise%22%20%29%20and%20not%20gallica%20all%20%22transcription%2A%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20sonate%22%20or%20gallica%20all%20%22quatuors%22%20%29%20or%20gallica%20adj%20%22clarinette%20et%20fl%C3%BBte%22%20%29%20or%20gallica%20all%20%22trios%22%20%29%20or%20gallica%20adj%20%22cor%20et%20piano%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20piano%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20piano%22%20%29%20or%20gallica%20adj%20%22ensemble%20instrumental%22%20%29%20and%20%28dc.creator%20adj%20%22saint-sa%C3%ABns%20camille%22%20or%20dc.contributor%20adj%20%22saint-sa%C3%ABns%20camille%22%20%29%20%29%20and%20not%20gallica%20all%20%22eglise%22%20%29%20and%20not%20gallica%20all%20%22transcription%2A%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns : Musique de chambre"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores: Chamber music" ] }
+		}],
+  
+  "items": [
+{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170213n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate (op. 168), pour basson et piano - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM10 C-16)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170213n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM10 C-16"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM10 C-16"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166862s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2e Concerto pour violoncelle et orchestre : op. 119 / par C. Saint-Saëns ; [réduction] violoncelle et piano - 1903-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13807)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166862s/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13807"], "en": ["Ancien fonds du Conservatoire, D-13807"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52500916v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate // op 75 // piano et violon // Saint-Saëns (manuscrit autographe) - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-499)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52500916v/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-499"], "en": ["Bibliothèque nationale de France, département Musique, MS-499"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668458/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3 Transcriptions de Quatuors par C. Saint-Saëns - 1870-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC P-805 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668458/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC P-805 (3)"], "en": ["Bibliothèque nationale de France, département Musique, AC P-805 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1870-01-01T00:00:00"], "en": ["1870-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1870-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166843f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3 Transcriptions de Quatuors par C. Saint-Saëns - 1870-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC P-805 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166843f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC P-805 (1)"], "en": ["Bibliothèque nationale de France, département Musique, AC P-805 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1870-01-01T00:00:00"], "en": ["1870-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1870-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166844v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3 Transcriptions de Quatuors par C. Saint-Saëns - 1870-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC P-805 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166844v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC P-805 (2)"], "en": ["Bibliothèque nationale de France, département Musique, AC P-805 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1870-01-01T00:00:00"], "en": ["1870-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1870-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550093930/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Trio pour violon, violoncelle et piano : adapté du Septuor, op. 65] (manuscrit autographe) - 1880-1881-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-734 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550093930/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-734 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-734 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-1881-01-01T00:00:00"], "en": ["1880-1881-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-1881-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52000765b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Premières esquisses // de la Sonate (manuscrit autographe) - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-22961)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52000765b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-22961"], "en": ["Bibliothèque nationale de France, département Musique, MS-22961"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1182780p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite : pour violoncelle et piano : op. 16 / par C. Saint-Saëns - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA-3551 (6))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1182780p/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMA-3551 (6)"], "en": ["Bibliothèque nationale de France, département Musique, VMA-3551 (6)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009611x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Tarentelle : pour flûte, clarinette en la, piano] (manuscrit autographe) / par Camille Saint-Saëns] - 1857-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-836)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009611x/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-836"], "en": ["Bibliothèque nationale de France, département Musique, MS-836"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1857-01-01T00:00:00"], "en": ["1857-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1857-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b525001786/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pour cor ou (violoncelle) avec accompagnement d'orchestre (ou piano) : op. 36 / par Camille Saint-Saëns - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM9-882)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b525001786/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM9-882"], "en": ["Bibliothèque nationale de France, département Musique, VM9-882"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52500184t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pour cor ou (violoncelle) avec accompagnement d'orchestre (ou piano) : op. 36 / par Camille Saint-Saëns - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, K-2103)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52500184t/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, K-2103"], "en": ["Bibliothèque nationale de France, département Musique, K-2103"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170176t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2ème trio pour piano, violon et violoncelle : en mi mineur : op. 92 / par C. Saint Saëns - 1892-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-16505)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170176t/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-16505"], "en": ["Ancien fonds du Conservatoire, D-16505"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10073716m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2e Quatuor pour 2 violons, alto et violoncelle : op. 153 / C. Saint-Saëns - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E4-76)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10073716m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E4-76"], "en": ["Bibliothèque nationale de France, département Musique, AC E4-76"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11827791/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Quatuor : sur un fragment de l'Oratorio de Noël op. 12 : pour piano, violon, violoncelle et orgue-harmonium / par C. Saint-Saëns - 1882-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA-3551 (7))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11827791/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMA-3551 (7)"], "en": ["Bibliothèque nationale de France, département Musique, VMA-3551 (7)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1882-01-01T00:00:00"], "en": ["1882-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1882-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b520009117/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2e Sonate pour violoncelle et piano : op. 123 / , par C. Saint-Saëns - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-18289)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b520009117/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-18289"], "en": ["Bibliothèque nationale de France, département Musique, VM7-18289"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100737172/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Quatuor pour deux violons, alto et violoncelle : op. 112 / par C. Saint-Saëns - 1899-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E4-75)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100737172/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E4-75"], "en": ["Bibliothèque nationale de France, département Musique, AC E4-75"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170242c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate pour piano et violoncelle : op. 32 / par Camille Saint-Saëns - 1873-01-01T00:00:00 - (Ancien fonds du Conservatoire, K-8042)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170242c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, K-8042"], "en": ["Ancien fonds du Conservatoire, K-8042"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1873-01-01T00:00:00"], "en": ["1873-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1873-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10462869v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "n° 5 // Gavotte [de la Suite pour violoncelle et orchestre op. 16 bis] (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-848 (2-3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10462869v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-848 (2-3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-848 (2-3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169470h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Quatuor : pour piano, violon, alto et violoncelle / Camille Saint-Saëns ; édition de Sabina Teller Ratner, établie d'après le manuscrit autographe conservé à la Bibliothèque nationale de Paris - 1992-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMG-27880 (8))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169470h/f39/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMG-27880 (8)"], "en": ["Bibliothèque nationale de France, département Musique, VMG-27880 (8)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1992-01-01T00:00:00"], "en": ["1992-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1992-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108612393/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour le Trio pour violon, violoncelle et piano n°2, op. 92] (manuscrit autographe) - 1892-1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-916 (7))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108612393/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-916 (7)"], "en": ["Bibliothèque nationale de France, département Musique, MS-916 (7)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-1892-01-01T00:00:00"], "en": ["1892-1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52000918c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate pour piano et violoncelle : op. 32 / par Camille Saint-Saëns - 1873-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11247)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52000918c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11247"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11247"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1873-01-01T00:00:00"], "en": ["1873-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1873-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009624p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Quatuor à cordes No 1] (manuscrit autographe) - 1899-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-892)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009624p/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-892"], "en": ["Bibliothèque nationale de France, département Musique, MS-892"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10028439t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Concerto pour violoncelle et orchestre : réduction pour violoncelle et piano, op. 119] (manuscrit autographe) / Camille Saint-Saëns] - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-708)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10028439t/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-708"], "en": ["Bibliothèque nationale de France, département Musique, MS-708"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52500158c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance en Mi bécarre pour cor ou violoncelle Op. 67 : avec accompagnement d'orchestre ou de piano (édition pour cor (en Mi) et piano) / par C. Saint-Saëns ; à Mr. Henri Chaussier - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, K-2104)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52500158c/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, K-2104"], "en": ["Bibliothèque nationale de France, département Musique, K-2104"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53208465r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Quatuor // pour Piano Violon alto et violoncelle // 1851-1853 (manuscrit autographe) - 1851-1852-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-722)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53208465r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-722"], "en": ["Bibliothèque nationale de France, département Musique, MS-722"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1851-1852-01-01T00:00:00"], "en": ["1851-1852-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1851-1852-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550098715/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Quatuor à cordes No 1] (manuscrit autographe) - 1899-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-891)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550098715/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-891"], "en": ["Bibliothèque nationale de France, département Musique, MS-891"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104615108/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Muse et le poète // Esquisses (manuscrit autographe) - 1910-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-825)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104615108/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-825"], "en": ["Bibliothèque nationale de France, département Musique, MS-825"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1910-01-01T00:00:00"], "en": ["1910-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1910-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170175d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2ème trio pour piano, violon et violoncelle : en mi mineur : op. 92 / par C. Saint Saëns - 1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-7860)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170175d/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-7860"], "en": ["Bibliothèque nationale de France, département Musique, VM7-7860"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52500168s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite pour violoncelle et piano Op. 16 / par C. Saint-Saëns - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMG-7604 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52500168s/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMG-7604 (4)"], "en": ["Bibliothèque nationale de France, département Musique, VMG-7604 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10462864m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[2e Sonate [pour violoncelle et piano] // à Mr. Jules Griset] (manuscrit autographe) - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-849)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10462864m/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-849"], "en": ["Bibliothèque nationale de France, département Musique, MS-849"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10029995r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Morceau de concert // pour cor // op. 94 (manuscrit autographe) - 1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-663 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10029995r/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-663 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-663 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-01-01T00:00:00"], "en": ["1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10546936p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[2e] Quatuor // pour 2 Violons, Alto et Violoncelle (manuscrit autographe) - 1918-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-713)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10546936p/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-713"], "en": ["Bibliothèque nationale de France, département Musique, MS-713"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1918-01-01T00:00:00"], "en": ["1918-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1918-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108401906/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Barcarolle // pr. Violon, Alto, Violoncelle et Piano // (d'après l'op. 108) (manuscrit autographe) - 1909-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-739)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108401906/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-739"], "en": ["Bibliothèque nationale de France, département Musique, MS-739"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1909-01-01T00:00:00"], "en": ["1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10462627j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate // pour Violoncelle // & // Piano // Saint-Saëns // op. 32 (manuscrit autographe) - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-851)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10462627j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-851"], "en": ["Bibliothèque nationale de France, département Musique, MS-851"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10864290k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite pour violoncelle et orchestre (d'après la suite op. 16 pour violoncelle et piano) de Camille Saint-Saëns, red. violoncelle-piano (manuscrit autographe) - 1920-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-20821)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10864290k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-20821"], "en": ["Bibliothèque nationale de France, département Musique, MS-20821"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1920-01-01T00:00:00"], "en": ["1920-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1920-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100294628/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Quatuor // pr violon, alto, violoncelle // & piano [op. 41] (manuscrit autographe) - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-723)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100294628/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-723"], "en": ["Bibliothèque nationale de France, département Musique, MS-723"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10864288r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite pour violoncelle et orchestre (d'après la suite op. 16 pour violoncelle et piano) : réduction violoncelle-piano (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-20820)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10864288r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-20820"], "en": ["Bibliothèque nationale de France, département Musique, MS-20820"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104686856/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Prière] (manuscrit autographe) / Camille Saint-Saëns] - 1842-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-854 (13))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104686856/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-854 (13)"], "en": ["Bibliothèque nationale de France, département Musique, MS-854 (13)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1842-01-01T00:00:00"], "en": ["1842-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1842-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52500841g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Allegro appassionato pour violoncelle avec accompagnement de piano par Camille Saint-Saëns. Op. 43... - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11245)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52500841g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11245"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11245"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10462648t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "1ère Version du Final de la // Sonate en Ut mineur // pr piano et violoncelle // C. St. S (manuscrit autographe) - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-844)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10462648t/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-844"], "en": ["Bibliothèque nationale de France, département Musique, MS-844"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108438452/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate // pour violoncelle et piano - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-912 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108438452/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-912 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-912 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169524m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Quatuor en si bémol pour piano, violon alto et violoncelle, par Camille Saint-Saëns, op. 41 - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11254)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169524m/f45/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11254"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11254"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169522s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Trio pour piano, violons et violoncelle, par Camille Saint-Saëns, op. 18 - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11252)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169522s/f17/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11252"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11252"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668562/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Caprice sur des airs danois et russes : pour flûte, hautbois, clarinette et piano : op. 79 / par C. Saint-Saëns - 1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13792)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668562/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13792"], "en": ["Bibliothèque nationale de France, département Musique, D-13792"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-01-01T00:00:00"], "en": ["1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1182776s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Cygne, extrait du Carnaval des animaux. Mélodie pour violoncelle et piano par C. Saint-Saëns... - 1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM16-1342)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1182776s/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM16-1342"], "en": ["Bibliothèque nationale de France, département Musique, VM16-1342"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-01-01T00:00:00"], "en": ["1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11748930/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pour violoncelle avec accompagnement de piano, par Camille Saint-Saëns, op. 51 - 1877-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-16270)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11748930/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, L-16270"], "en": ["Ancien fonds du Conservatoire, L-16270"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b105469374/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Quatuor à cordes, op. 112] (manuscrit autographe) / par Camille Saint-Saëns] - 1899-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-737)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b105469374/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-737"], "en": ["Bibliothèque nationale de France, département Musique, MS-737"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52500188m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite pour violoncelle et piano Op. 16 / par C. Saint-Saëns - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMG-7604 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52500188m/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMG-7604 (3)"], "en": ["Bibliothèque nationale de France, département Musique, VMG-7604 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52500163j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite pour violoncelle et piano Op. 16 / par C. Saint-Saëns - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMG-7604 (5))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52500163j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMG-7604 (5)"], "en": ["Bibliothèque nationale de France, département Musique, VMG-7604 (5)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1161958p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Tarentelle pour flûte et clarinette avec accompagnement d'orchestre ou de piano : op. 6 / par Camille Saint Saëns - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMG-42647)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1161958p/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMG-42647"], "en": ["Bibliothèque nationale de France, département Musique, VMG-42647"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108642896/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite pour violoncelle et orchestre (d'après la suite op. 16 pour violoncelle et piano) de Camille Saint-Saëns (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-20822)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108642896/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-20822"], "en": ["Bibliothèque nationale de France, département Musique, MS-20822"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52510188x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate inachevée // pour Piano et Violon // (15 ans) (manuscrit autographe) / [Camille Saint-Saëns] - 1850-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-859)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52510188x/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-859"], "en": ["Bibliothèque nationale de France, département Musique, MS-859"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1850-01-01T00:00:00"], "en": ["1850-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1850-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10462904h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Chant saphique // pour Violoncelle // avec accompagnement de Piano // C. Saint-Saëns // op. 91 (manuscrit autographe) - 1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-850)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10462904h/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-850"], "en": ["Bibliothèque nationale de France, département Musique, MS-850"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10462875g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance // pour violoncelle // op. 51 (manuscrit autographe) - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-847)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10462875g/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-847"], "en": ["Bibliothèque nationale de France, département Musique, MS-847"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465228h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sarabande (manuscrit autographe) - 1893-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-736 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465228h/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-736 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-736 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1893-01-01T00:00:00"], "en": ["1893-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1893-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55008215v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pour cor // par C. Saint Saëns // op. 36 (manuscrit autographe) - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-837 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55008215v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-837 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-837 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52000829v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Caprice sur des airs danois et russes : pour flûte, hautbois, clarinette et piano : op. 79 / par C. Saint-Saëns - 1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, RES-2383)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52000829v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, RES-2383"], "en": ["Bibliothèque nationale de France, département Musique, RES-2383"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-01-01T00:00:00"], "en": ["1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550092497/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Odelette // pour Flûte // avec accompt. d'orchestre // Réduction de l'accompagnement // pour Piano (manuscrit autographe) - 1920-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-661 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550092497/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-661 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-661 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1920-01-01T00:00:00"], "en": ["1920-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1920-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468684r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Finale de la sonate pour violon et piano op. 75 : première version des cinq dernières mesures] (manuscrit autographe) / Camille Saint-Saëns] - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-854 (14))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468684r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-854 (14)"], "en": ["Bibliothèque nationale de France, département Musique, MS-854 (14)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169496r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Chant saphique pour violoncelle et piano par C. Saint-Saëns. op. 91 - 1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM16-1341)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169496r/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM16-1341"], "en": ["Bibliothèque nationale de France, département Musique, VM16-1341"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b525013878/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate pour piano et violon : op. 75 / par C. Saint-Saëns - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-4488)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b525013878/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-4488"], "en": ["Bibliothèque nationale de France, département Musique, VM7-4488"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11827865/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Cygne, extrait du Carnaval des animaux. Mélodie pour violoncelle et piano. Adaptation musicale de la poésie de Sully Prudhomme par J. Samm, C. Saint-Saëns - 1907-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM16-1343)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11827865/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM16-1343"], "en": ["Bibliothèque nationale de France, département Musique, VM16-1343"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1907-01-01T00:00:00"], "en": ["1907-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1907-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1159281q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2° Sonate pour violon et piano / par C. Saint-Saëns : op. 102 - 1896-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, K-5450)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1159281q/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, K-5450"], "en": ["Bibliothèque nationale de France, département Musique, K-5450"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896-01-01T00:00:00"], "en": ["1896-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1896-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53108887q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Sonate pour piano et violon, no 2 : Op. 102] (manuscrit autographe) - 1896-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-548)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53108887q/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-548"], "en": ["Bibliothèque nationale de France, département Musique, MS-548"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896-01-01T00:00:00"], "en": ["1896-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1896-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840042n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate de Liszt // Transcrite pour 2 pianos // C.Saint-Saëns // 1914 (manuscrit autographe) - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-625)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840042n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-625"], "en": ["Bibliothèque nationale de France, département Musique, MS-625"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550082186/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate finie le 8 janvier 1842 (manuscrit autographe) - 1842-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-854 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550082186/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-854 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-854 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1842-01-01T00:00:00"], "en": ["1842-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1842-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10029988p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate // pour clarinette // avec accompagnement de piano // op. 167 (manuscrit autographe) - 1921-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-842)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10029988p/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-842"], "en": ["Bibliothèque nationale de France, département Musique, MS-842"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1921-01-01T00:00:00"], "en": ["1921-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1921-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55002149f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Caprice // Sur des airs Danois // et // Russes // Pour // Flute Hautbois Clarinette // et // Piano // Partition (manuscrit autographe) - 1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-550)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55002149f/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-550"], "en": ["Bibliothèque nationale de France, département Musique, MS-550"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-01-01T00:00:00"], "en": ["1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10073711c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "O salutaris : pour une voix avec accompagnement d'orgue ou de piano : N° 5, en ré / par C. Saint-Saëns ; [arrangement pour chant, violon (ou violoncelle) et orgue (ou piano) par Gustave Sandré] - 1899-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99136)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10073711c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99136"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99136"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b7200778r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate // pour basson // avec accompagnement de piano // op. 168 (manuscrit autographe) / C. Saint-Saëns ; à Monsieur Léon Letellier // premier basson de l'Opéra // et de la Société des Concerts - 1921-01-01T00:00:00 - (Bibliothèque nationale de France, département Fonds du service reproduction, MS-843)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b7200778r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Fonds du service reproduction, MS-843"], "en": ["Bibliothèque nationale de France, département Fonds du service reproduction, MS-843"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1921-01-01T00:00:00"], "en": ["1921-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1921-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10029992d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sonate // pour Hautbois // avec accompagnement de piano (manuscrit autographe) - 1921-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-841)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10029992d/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-841"], "en": ["Bibliothèque nationale de France, département Musique, MS-841"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1921-01-01T00:00:00"], "en": ["1921-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1921-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11619630/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Vogue, vogue la galère ! : barcarolle : chant et piano avec accompagnement d'harmonium (ad lib.) / poésie de Jean Aicard ; musique de C. Saint-Saëns - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9658 (106 bis))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11619630/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-9658 (106 bis)"], "en": ["Bibliothèque nationale de France, département Musique, D-9658 (106 bis)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166870b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le carnaval des animaux : grande fantaisie zoologique : pour 2 pianos, 2 violons, alto, violoncelle, contre-basse, flûte, clarinette, harmonica & xylophone / C. Saint Saëns - 1922-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13817)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166870b/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13817"], "en": ["Ancien fonds du Conservatoire, D-13817"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1922-01-01T00:00:00"], "en": ["1922-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1922-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1161964d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Vogue, vogue la galère ! : barcarolle : chant et piano avec accompagnement d'harmonium (ad lib.) / poésie de Jean Aicard ; musique de C. Saint-Saëns - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9658 (106))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1161964d/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-9658 (106)"], "en": ["Bibliothèque nationale de France, département Musique, D-9658 (106)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1162058w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le bonheur est chose légère : mélodie : N° 3, le même avec accompagnement de violon / poésie de J. Barbier & M. Carré ; musique de C. Saint-Saëns - 1889-01-01T00:00:00 - (Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (12))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1162058w/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (12)"], "en": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (12)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1889-01-01T00:00:00"], "en": ["1889-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1889-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55007215h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Carnaval // des Animaux // Grande Fantaisie Zoologique // pour // 2 Pianos, 2 Violons, Alto, Violoncelle, Contrebasse, Flûte, Clarinette // Harmonica et Xilophone [sic] // I. Introduction et Marche royale du Lion - 2. Poules et Coqs - 3. Hémiones // - 4. Tortues - 5. Eléphants - 6. Kangourous - 7. Aquarium - 8. Personnages // à longues oreilles - 9. Le Coucou au fond des bois - 10. Volière - 11. Pianistes - // 12. Fossiles -13. Cygne - 14. Final (manuscrit autographe) - 1886-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2456 (1-14))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55007215h/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2456 (1-14)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2456 (1-14)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-01-01T00:00:00"], "en": ["1886-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-01-01T00:00:00"
+	          
+	      }]
+	 }

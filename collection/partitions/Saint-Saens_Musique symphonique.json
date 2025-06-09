@@ -1,0 +1,2327 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Musique symphonique.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions d'œuvres de Camille Saint-Saëns : Musique symphonique" ], "en": [ "Camille Saint-Saëns musical scores: Symphonic works" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+      "type": "Image",
+      "format": "image/png"
+    }
+  ],
+  "description": { "fr": [ "Contenu de la collection : Musique symphonique" ], "en": [ "Collection content: Musique symphonique" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20symphonie%22%20or%20gallica%20adj%20%22genre%20musical%20poeme%20symphonique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ouverture%22%20%29%20or%20gallica%20adj%20%22orchestre%20musique%20d%27%22%20%29%20or%20gallica%20adj%20%22orchestre%20d%27harmonie%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20musique%20militaire%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20dc.title%20all%20%22andromaque%22%20%29%20and%20not%20dc.title%20adj%20%22la%20foi%22%20%29%20and%20not%20dc.title%20adj%20%22hymne%20%C3%A0%20victor%20hugo%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Musique symphonique</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20symphonie%22%20or%20gallica%20adj%20%22genre%20musical%20poeme%20symphonique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ouverture%22%20%29%20or%20gallica%20adj%20%22orchestre%20musique%20d%27%22%20%29%20or%20gallica%20adj%20%22orchestre%20d%27harmonie%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20musique%20militaire%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20dc.title%20all%20%22andromaque%22%20%29%20and%20not%20dc.title%20adj%20%22la%20foi%22%20%29%20and%20not%20dc.title%20adj%20%22hymne%20%C3%A0%20victor%20hugo%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Musique symphonique</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20symphonie%22%20or%20gallica%20adj%20%22genre%20musical%20poeme%20symphonique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ouverture%22%20%29%20or%20gallica%20adj%20%22orchestre%20musique%20d%27%22%20%29%20or%20gallica%20adj%20%22orchestre%20d%27harmonie%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20musique%20militaire%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20dc.title%20all%20%22andromaque%22%20%29%20and%20not%20dc.title%20adj%20%22la%20foi%22%20%29%20and%20not%20dc.title%20adj%20%22hymne%20%C3%A0%20victor%20hugo%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Partitions d'œuvres de Camille Saint-Saëns</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20symphonie%22%20or%20gallica%20adj%20%22genre%20musical%20poeme%20symphonique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ouverture%22%20%29%20or%20gallica%20adj%20%22orchestre%20musique%20d%27%22%20%29%20or%20gallica%20adj%20%22orchestre%20d%27harmonie%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20musique%20militaire%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20dc.title%20all%20%22andromaque%22%20%29%20and%20not%20dc.title%20adj%20%22la%20foi%22%20%29%20and%20not%20dc.title%20adj%20%22hymne%20%C3%A0%20victor%20hugo%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Camille Saint-Saëns musical scores</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1840-1920" ], "en": [ "1840-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20symphonie%22%20or%20gallica%20adj%20%22genre%20musical%20poeme%20symphonique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ouverture%22%20%29%20or%20gallica%20adj%20%22orchestre%20musique%20d%27%22%20%29%20or%20gallica%20adj%20%22orchestre%20d%27harmonie%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20musique%20militaire%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20dc.title%20all%20%22andromaque%22%20%29%20and%20not%20dc.title%20adj%20%22la%20foi%22%20%29%20and%20not%20dc.title%20adj%20%22hymne%20%C3%A0%20victor%20hugo%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20symphonie%22%20or%20gallica%20adj%20%22genre%20musical%20poeme%20symphonique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ouverture%22%20%29%20or%20gallica%20adj%20%22orchestre%20musique%20d%27%22%20%29%20or%20gallica%20adj%20%22orchestre%20d%27harmonie%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20musique%20militaire%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20dc.title%20all%20%22andromaque%22%20%29%20and%20not%20dc.title%20adj%20%22la%20foi%22%20%29%20and%20not%20dc.title%20adj%20%22hymne%20%C3%A0%20victor%20hugo%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns : Musique symphonique"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores: Symphonic works" ] }
+		}],
+  
+  "items": [
+{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55007975n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3e // Symphonie // en ut mineur // par // Camille Saint-Saëns // op. 78 // arrangement à 2 pianos par l'auteur (manuscrit autographe) - 1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-498)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55007975n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-498"], "en": ["Bibliothèque nationale de France, département Musique, MS-498"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-01-01T00:00:00"], "en": ["1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170211t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre : poëme symphonique : op. 40 / par Camille Saint-Saëns Saint-Saëns ; d'après une poésie de Henri Cazalis ; à 2 pianos 8 mains par Guiraud - 1877-01-01T00:00:00 - (Ancien fonds du Conservatoire, A-47165)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170211t/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, A-47165"], "en": ["Ancien fonds du Conservatoire, A-47165"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b531418272/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Symphonie en La] (manuscrit autographe) / C. Saint-Saëns] - 1850-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-493)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b531418272/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-493"], "en": ["Bibliothèque nationale de France, département Musique, MS-493"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1850-01-01T00:00:00"], "en": ["1850-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1850-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k858041s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Marche du couronnement : op. 117 / par C. Saint-Saëns - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-466)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k858041s/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-466"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-466"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10022045v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Marche héroïque // Partition d'orchestre // Camille Saint-Saëns (manuscrit autographe) - 1871-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-526)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10022045v/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-526"], "en": ["Bibliothèque nationale de France, département Musique, MS-526"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1871-01-01T00:00:00"], "en": ["1871-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1871-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53141837g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Princesse jaune : Ouverture, op. 30] (manuscrit autographe) / Saint-Saëns] - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-532)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53141837g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-532"], "en": ["Bibliothèque nationale de France, département Musique, MS-532"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702038/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre : poëme symphonique : op. 40 / par Camille Saint-Saëns Saint-Saëns ; d'après une poésie de Henri Cazalis ; à 2 pianos par l'auteur - 1875-01-01T00:00:00 - (Ancien fonds du Conservatoire, A-47158)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11702038/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, A-47158"], "en": ["Ancien fonds du Conservatoire, A-47158"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170202v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre : poëme symphonique : op. 40 / par Camille Saint-Saëns Saint-Saëns ; d'après une poésie de Henri Cazalis ; à 4 mains par Guiraud - 1875-01-01T00:00:00 - (Ancien fonds du Conservatoire, A-47157)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170202v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, A-47157"], "en": ["Ancien fonds du Conservatoire, A-47157"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170183z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Phaéton : poëme symphonique : op. 39 / par Camille Saint-Saëns ; réduction à deux pianos - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11230)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170183z/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11230"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11230"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170184c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Phaéton : poème symphonique : op. 39 / par Camille Saint-Saëns ; à 4 mains par E. Guiraud - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11196)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170184c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11196"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11196"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11669142/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Rouet d'Omphale. Poeme symphonique... Op. 31 - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3715)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11669142/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3715"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3715"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668970/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Jeunesse d'Hercule, poème symphonique, par Camille Saint-Saëns, op. 50, à 2 pianos 4 mains, par l'auteur - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11227)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668970/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11227"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11227"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166913n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Phaéton. Poème symphonique... Op. 39 - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3714)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166913n/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3714"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3714"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170239w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre. Poème symphonique , d'après une poésie de Henri Cazalis..., op. 40 - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3708)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170239w/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3708"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3708"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b531088900/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Phaéton // Poëme symphonique // C. Saint-Saëns // fbg St Honoré 168 (manuscrit autographe) - 1873-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-524 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b531088900/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-524 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-524 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1873-01-01T00:00:00"], "en": ["1873-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1873-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166910d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Jeunesse d'Hercule. Poème symphonique... Op. 50 - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3709)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166910d/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3709"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3709"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55008436w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La jeunesse d'Hercule // poème symphonique // C. Saint-Saëns (manuscrit autographe) - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-512)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55008436w/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-512"], "en": ["Bibliothèque nationale de France, département Musique, MS-512"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53108889m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Phaéton // Poeme Symphonique - 1873-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-524 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53108889m/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-524 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-524 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1873-01-01T00:00:00"], "en": ["1873-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1873-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163839m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le rouet d'Omphale : poëme symphonique : op. 31 / par C. Saint-Saëns ; à 2 pianos 4 mains p.r l'auteur - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA-3550 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163839m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMA-3550 (4)"], "en": ["Bibliothèque nationale de France, département Musique, VMA-3550 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170236n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre : poëme symphonique / de Camille Sain-Saëns ; transcription pour piano par Franz Liszt - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA-3552 (5))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170236n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMA-3552 (5)"], "en": ["Bibliothèque nationale de France, département Musique, VMA-3552 (5)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1158612j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre : poëme symphonique / de Camille Sain-Saëns ; transcription pour piano par Franz Liszt - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-9896)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1158612j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-9896"], "en": ["Bibliothèque nationale de France, département Musique, VM7-9896"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170371f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La jeunesse d'Hercule : poème symphonique : op. 50 / par Camille Saint-Saëns, ; à 4 mains par E. Guiraud - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11189)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170371f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11189"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11189"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166898d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre : poëme symphonique : op. 40 / de Camille Saint-Saëns ; transcription pour violon et piano par l'auteur - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11239)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166898d/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11239"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11239"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k316894k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Pas redoublé de C. Saint-Saëns, arrangé (pour musique militaire) par Josneau - 1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM27-3770)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k316894k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM27-3770"], "en": ["Bibliothèque nationale de France, département Musique, VM27-3770"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-01-01T00:00:00"], "en": ["1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170198d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre : poëme symphonique : op. 40 / de Camille Saint-Saëns ; transcription pour violon et piano par l'auteur - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, K-5443)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170198d/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, K-5443"], "en": ["Bibliothèque nationale de France, département Musique, K-5443"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10892494c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre : poëme symphonique : op. 40 / de Camille Saint-Saëns ; transcription pour violon et piano par l'auteur - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11239)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10892494c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11239"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11239"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104658547/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hail ! California (manuscrit autographe) - 1915-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-827)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104658547/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-827"], "en": ["Bibliothèque nationale de France, département Musique, MS-827"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1915-01-01T00:00:00"], "en": ["1915-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1915-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k858035z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ouverture de fête : écrite pour l'inauguration du Musée océanographique de Monaco : op. 133 / C. Saint-Saëns - 1910-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-461)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k858035z/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-461"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-461"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1910-01-01T00:00:00"], "en": ["1910-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1910-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k858036b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ouverture d'un opéra-comique inachevé : 1854 / C. Saint-Saëns - 1913-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-460)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k858036b/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-460"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-460"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1913-01-01T00:00:00"], "en": ["1913-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1913-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465229z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Suite pour orchestre op. 49 en ré majeur] (manuscrit autographe) - 1863-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-554)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465229z/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-554"], "en": ["Bibliothèque nationale de France, département Musique, MS-554"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1863-01-01T00:00:00"], "en": ["1863-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1863-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166857g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Henry VIII : opéra en 4 actes. Ballet-divertissement : pour orchestre / de C. Saint-Saëns - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13793)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166857g/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13793"], "en": ["Bibliothèque nationale de France, département Musique, D-13793"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53128050x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Caprice andalous // op. 122 // pour Violon // avec acct d'orchestre (manuscrit autographe) - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-706 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53128050x/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-706 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-706 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468005m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Jota aragonese : op. 64 : transcription pour orchestre] (manuscrit autographe) / Camille Saint-Saëns] - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-657)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468005m/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-657"], "en": ["Bibliothèque nationale de France, département Musique, MS-657"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1167162p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "1re Symphonie à grand orchestre : opéra 2 / composée par Camille Saint-Saëns - 1855-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-897)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1167162p/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-897"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-897"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1855-01-01T00:00:00"], "en": ["1855-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1855-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166860z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Orient et occident : grande marche : [pour] harmonie militaire / par Camille Saint-Saëns - 1884-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13796)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166860z/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13796"], "en": ["Bibliothèque nationale de France, département Musique, D-13796"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1884-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465852b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Orient et occident, op. 25 : Grande Marche, Partition d'orchestre] (manuscrit autographe) / musique de Camille Saint-Saëns] - 1869-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-525)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465852b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-525"], "en": ["Bibliothèque nationale de France, département Musique, MS-525"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1869-01-01T00:00:00"], "en": ["1869-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1869-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k858037q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Orient et Occident : marche : op. 25 / par C. Saint-Saëns - 1909-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-462)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k858037q/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-462"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-462"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1909-01-01T00:00:00"], "en": ["1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k858034k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Proserpine : drame lyrique. Entr'acte / C. Saint-Saëns - 1909-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-459)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k858034k/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-459"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-459"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1909-01-01T00:00:00"], "en": ["1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840479j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hélène // Scène 5me // orchestre d'harmonie (manuscrit autographe) - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-679)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840479j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-679"], "en": ["Bibliothèque nationale de France, département Musique, MS-679"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b531280483/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Caprice andalous : pour violon et orchestre, réduction pour violon et piano] (manuscrit autographe) / par Camille Saint-Saëns] - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-706 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b531280483/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-706 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-706 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166858w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Marche du Syndode : de Henry VIII, opéra en 4 actes / de C. Saint-Saëns - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13794)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166858w/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13794"], "en": ["Bibliothèque nationale de France, département Musique, D-13794"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840175m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pour Violon // avec accompagnement d'orchestre // op. 27 - 1921-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-667)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840175m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-667"], "en": ["Bibliothèque nationale de France, département Musique, MS-667"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1921-01-01T00:00:00"], "en": ["1921-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1921-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b531088885/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Rhapsodie bretonne] (manuscrit autographe) / par Camille Saint-Saëns] - 1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-547)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b531088885/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-547"], "en": ["Bibliothèque nationale de France, département Musique, MS-547"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-01-01T00:00:00"], "en": ["1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52523890r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Caprice andalou op. 122 (1904), esquisse] (manuscrit autographe) - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-897)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52523890r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-897"], "en": ["Bibliothèque nationale de France, département Musique, MS-897"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468010s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Orient et Occident : marche pour orchestre militaire : op. 25 : transcription pour grand orchestre] (manuscrit autographe) / Camille Saint-Saëns] - 1909-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-705)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468010s/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-705"], "en": ["Bibliothèque nationale de France, département Musique, MS-705"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1909-01-01T00:00:00"], "en": ["1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170240j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Jota aragonese... Op. 64 - 1881-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3710)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170240j/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3710"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3710"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1881-01-01T00:00:00"], "en": ["1881-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1881-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166855n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Bacchanale : air de ballet de Samson et Dalila, opéra en 3 actes / de Camille Saint-Saëns - 1878-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13791)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166855n/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13791"], "en": ["Bibliothèque nationale de France, département Musique, D-13791"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1878-01-01T00:00:00"], "en": ["1878-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1878-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k325622r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Marche du couronnement de C. Saint-Saëns, arrangée (pour musique militaire) par L. Blémant - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM27-3768)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k325622r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM27-3768"], "en": ["Bibliothèque nationale de France, département Musique, VM27-3768"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166916w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Une Nuit à Lisbonne. Barcarolle... Op. 63 - 1881-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3720)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166916w/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3720"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3720"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1881-01-01T00:00:00"], "en": ["1881-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1881-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10878025v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Cyprès et Lauriers // I. Cyprès (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-835)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10878025v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-835"], "en": ["Bibliothèque nationale de France, département Musique, MS-835"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10876418m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "'Spartacus. Ouverture, C Saint Saëns'... (manuscrit autographe) - 1863-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-20285)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10876418m/f2/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-20285"], "en": ["Bibliothèque nationale de France, département Musique, MS-20285"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1863-01-01T00:00:00"], "en": ["1863-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1863-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b7400151h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "A Son Altesse Sérénissime // Albert Ier // Prince de Monaco // Ouverture de Fête // Ecrite pour l'inauguration du Musée Océanographique // de Monaco // C. Saint-Saëns (manuscrit autographe) - 1910-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-662)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b7400151h/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-662"], "en": ["Bibliothèque nationale de France, département Musique, MS-662"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1910-01-01T00:00:00"], "en": ["1910-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1910-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842543p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Symphonie no 2, réduite pour deux pianos] (manuscrit autographe) / par Camille Saint-Saëns] - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-913)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842543p/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-913"], "en": ["Bibliothèque nationale de France, département Musique, MS-913"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108436063/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Cyprès et Lauriers // I. Cyprès (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-835)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108436063/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-835"], "en": ["Bibliothèque nationale de France, département Musique, MS-835"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10467996v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Saint-Saëns // op. 40 // Danse Macabre // Réduction pour deux pianos] (manuscrit autographe) - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-598)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10467996v/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-598"], "en": ["Bibliothèque nationale de France, département Musique, MS-598"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166915g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2e Symphonie en la mineur... Op. 55 - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3718)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166915g/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3718"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3718"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465226m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Gavotte en ut mineur, op. 23 : version orchestrale] (manuscrit autographe) / par Camille Saint-Saëns] - 1871-1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-830)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465226m/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-830"], "en": ["Bibliothèque nationale de France, département Musique, MS-830"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1871-1877-01-01T00:00:00"], "en": ["1871-1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1871-1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100768735/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Symphonie n°2 : op. 55] - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-495)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100768735/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-495"], "en": ["Bibliothèque nationale de France, département Musique, MS-495"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108425355/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Passacaille pour orgue de J.S. Bach (BWV 582) ; transcription pour orchestre] (manuscrit autographe) / Camille Saint-Saëns] - 1850-1855-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2463)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108425355/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2463"], "en": ["Bibliothèque nationale de France, département Musique, MS-2463"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1850-1855-01-01T00:00:00"], "en": ["1850-1855-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1850-1855-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1159285c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3e Symphonie en ut mineur / par Camille Saint-Saëns : op. 78 - 1886-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-4590)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1159285c/f19/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-4590"], "en": ["Bibliothèque nationale de France, département Musique, VM7-4590"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-01-01T00:00:00"], "en": ["1886-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10841803t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Premier morceau de la // Symphonie en LA // (1ère Version) (manuscrit autographe) - 1850-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-702)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10841803t/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-702"], "en": ["Bibliothèque nationale de France, département Musique, MS-702"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1850-01-01T00:00:00"], "en": ["1850-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1850-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11638297/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Marche héroïque (N° 1, piano seul) / Camille Saint-Saëns - 1871-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA-3550 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11638297/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMA-3550 (1)"], "en": ["Bibliothèque nationale de France, département Musique, VMA-3550 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1871-01-01T00:00:00"], "en": ["1871-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1871-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b531418344/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Symphonie n°2 : op. 55] (manuscrit autographe) - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-494)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b531418344/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-494"], "en": ["Bibliothèque nationale de France, département Musique, MS-494"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55007810j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3e symphonie en ut mineur : op. 78 (manuscrit autographe) / par Camille Saint-Saëns - 1886-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-497)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55007810j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-497"], "en": ["Bibliothèque nationale de France, département Musique, MS-497"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-01-01T00:00:00"], "en": ["1886-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104642730/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Symphonie n°2 : op. 55] - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-495)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104642730/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-495"], "en": ["Bibliothèque nationale de France, département Musique, MS-495"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163814s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Javotte : ballet en 1 acte et 3 tableaux / de J. L. Croze ; musique de C. Saint-Saëns - 1896-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13788)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163814s/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13788"], "en": ["Bibliothèque nationale de France, département Musique, D-13788"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896-01-01T00:00:00"], "en": ["1896-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1896-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702320/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ouverture de la Princesse jaune. Opéra comique en un acte... Op. 30 - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3713)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11702320/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3713"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3713"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104626407/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Jeunesse d'Hercule // à 2 Pos [pianos] // Saint-Saëns, op. 50 (manuscrit autographe) - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-576)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104626407/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-576"], "en": ["Bibliothèque nationale de France, département Musique, MS-576"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55013056s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ouverture de la Princesse jaune : opéra comique en un acte, op. 30 / de Camille Saint-Saëns ; [pour piano à 4 mains par Gabriel Fauré] - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-571)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55013056s/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-571"], "en": ["Bibliothèque nationale de France, département Musique, MS-571"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170207x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2e Symphonie en la mineur : op. 55 / par Camille Saint-Saëns ; à 4 mains par A. Messager - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, A-47179)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170207x/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, A-47179"], "en": ["Bibliothèque nationale de France, département Musique, A-47179"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166901f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ouverture de la Princesse jaune : opéra comique en un acte, op. 30 / de Camille Saint-Saëns ; [pour piano à 4 mains par Gabriel Fauré] - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-12491)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166901f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-12491"], "en": ["Bibliothèque nationale de France, département Musique, VM7-12491"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1159286s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3e symphonie en ut mineur : op. 78 / par Camille Saint-Saëns ; [transcrite à 4 mains par Léon Roques] - 1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-4598)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1159286s/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-4598"], "en": ["Bibliothèque nationale de France, département Musique, VM7-4598"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-01-01T00:00:00"], "en": ["1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53141829z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Symphonie en fa majeur 'Urbs Roma'] (manuscrit autographe) - 1856-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-491)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53141829z/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-491"], "en": ["Bibliothèque nationale de France, département Musique, MS-491"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1856-01-01T00:00:00"], "en": ["1856-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1856-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55008435f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Rouet d'Omphale (manuscrit autographe) - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-501)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55008435f/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-501"], "en": ["Bibliothèque nationale de France, département Musique, MS-501"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52000497b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite concertante pour piano-pédalier et orchestre ou piano et orchestre / par Ch. Gounod ; C. Saint-Saëns, réduction pour 2 pianos concertants - 1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-4804 (23))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52000497b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-4804 (23)"], "en": ["Bibliothèque nationale de France, département Musique, D-4804 (23)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1888-01-01T00:00:00"], "en": ["1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550084340/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre (manuscrit autographe) - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-500)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550084340/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-500"], "en": ["Bibliothèque nationale de France, département Musique, MS-500"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10076867j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Symphonie en fa majeur 'Urbs Roma'] - 1856-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-492)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10076867j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-492"], "en": ["Bibliothèque nationale de France, département Musique, MS-492"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1856-01-01T00:00:00"], "en": ["1856-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1856-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104652327/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Symphonie en fa majeur 'Urbs Roma'] - 1856-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-492)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104652327/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-492"], "en": ["Bibliothèque nationale de France, département Musique, MS-492"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1856-01-01T00:00:00"], "en": ["1856-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1856-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10461509w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Symphonie n° 1, op. 2, en mi bémol majeur] (manuscrit autographe) / par Camille Saint-Saëns] - 1853-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-496)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10461509w/f13/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-496"], "en": ["Bibliothèque nationale de France, département Musique, MS-496"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1853-01-01T00:00:00"], "en": ["1853-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1853-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009626k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Cyprès et lauriers] (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-646 (2A))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009626k/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-646 (2A)"], "en": ["Bibliothèque nationale de France, département Musique, MS-646 (2A)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550096271/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Cyprès et lauriers] (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-646 (2B))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550096271/f4/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-646 (2B)"], "en": ["Bibliothèque nationale de France, département Musique, MS-646 (2B)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11592876/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3e Symphonie en ut mineur, op. 78 / par Camille Saint-Saëns - 1907-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMC-7565)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11592876/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMC-7565"], "en": ["Bibliothèque nationale de France, département Musique, VMC-7565"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1907-01-01T00:00:00"], "en": ["1907-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1907-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840486m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ave Verum // Juin 1849. Télésille // Scène Lyrique, // (Fragments) // paroles de Madame Amable Tastu. // 1849 (manuscrit autographe) - 1849-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2443 (1-2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840486m/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2443 (1-2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2443 (1-2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1849-01-01T00:00:00"], "en": ["1849-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1849-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108436152/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[6 Chœurs religieux] (manuscrit en partie autographe) / Camille Saint-Saëns] - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-890 (a-f))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108436152/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-890 (a-f)"], "en": ["Bibliothèque nationale de France, département Musique, MS-890 (a-f)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009621b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Cyprès et lauriers // 2. Lauriers // (esquisse) (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-646 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009621b/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-646 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-646 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10075440q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[3e Symphonie (Première esquisse)] (manuscrit autographe) - 1886-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-916 (8))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10075440q/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-916 (8)"], "en": ["Bibliothèque nationale de France, département Musique, MS-916 (8)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-01-01T00:00:00"], "en": ["1886-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k321991m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Orient et occident : grande marche : [pour] harmonie militaire / par Camille Saint-Saëns - 1884-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13796)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k321991m/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13796"], "en": ["Bibliothèque nationale de France, département Musique, D-13796"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1884-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009631r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Cyprès et lauriers : arrt. pour 2 pianos // op. 156 (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-646 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009631r/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-646 (3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-646 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11592824/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Adagio de la 3e symphonie, op. 78, , transcrit pour orgue par Emile Bernard - 1898-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM11-134)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11592824/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM11-134"], "en": ["Bibliothèque nationale de France, département Musique, VM11-134"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1898-01-01T00:00:00"], "en": ["1898-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1898-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k858930v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Danse macabre, poëme symphonique de C. Saint-Saëns, op. 40, , transcription pour piano à 4 mains, violon et violoncelle (ad. lib.) par L. Roques - 1890-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11180)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k858930v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11180"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11180"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1890-01-01T00:00:00"], "en": ["1890-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1890-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702357/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sur les Bords du Nil : marche militaire / par C. Saint-Saëns ; piano à 4 mains, par l'auteur - 1908-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM12 A-6)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11702357/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM12 A-6"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM12 A-6"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1908-01-01T00:00:00"], "en": ["1908-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1908-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1159283j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Adagio de la 3e Symphonie en Ut mineur de Saint-Saëns, arrangée (pour musique militaire) par G. Parès - 1893-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM27-3754)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1159283j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM27-3754"], "en": ["Bibliothèque nationale de France, département Musique, VM27-3754"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1893-01-01T00:00:00"], "en": ["1893-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1893-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1159279n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Troisième symphonie en ut mineur par Camille Saint-Saëns, op. 78 - 1911-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM12 A-231)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1159279n/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM12 A-231"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM12 A-231"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1911-01-01T00:00:00"], "en": ["1911-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1911-01-01T00:00:00"
+	          
+	      }]
+	 }

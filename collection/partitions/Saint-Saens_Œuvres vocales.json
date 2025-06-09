@@ -1,0 +1,1943 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Œuvres vocales.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions d'œuvres de Camille Saint-Saëns : Œuvres vocales" ], "en": [ "Camille Saint-Saëns musical scores: Vocal works" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+      "type": "Image",
+      "format": "image/png"
+    }
+  ],
+  "description": { "fr": [ "Contenu de la collection : Œuvres vocales" ], "en": [ "Collection content: Œuvres vocales" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20choeur%22%20or%20gallica%20adj%20%22genre%20musical%20hymne%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ode%22%20%29%20or%20gallica%20adj%20%22solistes%20choeurs%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantate%22%20%29%20or%20gallica%20adj%20%22airs%20d%27op%C3%A9ra%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Œuvres vocales</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20choeur%22%20or%20gallica%20adj%20%22genre%20musical%20hymne%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ode%22%20%29%20or%20gallica%20adj%20%22solistes%20choeurs%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantate%22%20%29%20or%20gallica%20adj%20%22airs%20d%27op%C3%A9ra%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Œuvres vocales</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20choeur%22%20or%20gallica%20adj%20%22genre%20musical%20hymne%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ode%22%20%29%20or%20gallica%20adj%20%22solistes%20choeurs%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantate%22%20%29%20or%20gallica%20adj%20%22airs%20d%27op%C3%A9ra%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Partitions d'œuvres de Camille Saint-Saëns</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20choeur%22%20or%20gallica%20adj%20%22genre%20musical%20hymne%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ode%22%20%29%20or%20gallica%20adj%20%22solistes%20choeurs%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantate%22%20%29%20or%20gallica%20adj%20%22airs%20d%27op%C3%A9ra%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Camille Saint-Saëns musical scores</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1840-1920" ], "en": [ "1840-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20choeur%22%20or%20gallica%20adj%20%22genre%20musical%20hymne%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ode%22%20%29%20or%20gallica%20adj%20%22solistes%20choeurs%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantate%22%20%29%20or%20gallica%20adj%20%22airs%20d%27op%C3%A9ra%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20choeur%22%20or%20gallica%20adj%20%22genre%20musical%20hymne%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20ode%22%20%29%20or%20gallica%20adj%20%22solistes%20choeurs%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantate%22%20%29%20or%20gallica%20adj%20%22airs%20d%27op%C3%A9ra%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns : Œuvres vocales"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores: Vocal works" ] }
+		}],
+  
+  "items": [
+{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11748789/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Trois choeurs : pour 3 voix de femmes avec accompagnement de piano : op. 151. II, Salut au chevalier Printemps / C. Saint-Saëns ; poésie de Paul Fournier - 1917-01-01T00:00:00 - (Ancien fonds du Conservatoire, A-28534)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11748789/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, A-28534"], "en": ["Ancien fonds du Conservatoire, A-28534"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k321149f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Vive Paris ! Vive la France ! : chant à l'unisson / paroles de Alfred Tranchant ; musique de Camille Saint-Saëns ; avec accompagnement de piano ou de musique militaire ad. lib. arr. par J. Meyer,... - 1894-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99181)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k321149f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99181"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99181"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1894-01-01T00:00:00"], "en": ["1894-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1894-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11701866/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La nuit : soprano solo, choeur de femmes et orchestre : op. 114 / poésie de Georges Audigier ; musique de C. Saint-Saëns - 1900-01-01T00:00:00 - (Ancien fonds du Conservatoire, K-17937)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11701866/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, K-17937"], "en": ["Ancien fonds du Conservatoire, K-17937"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-01-01T00:00:00"], "en": ["1900-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104658581/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Les Djins : choeur] (manuscrit autographe) / par Camille Saint-Saëns] - 1850-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-865)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104658581/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-865"], "en": ["Bibliothèque nationale de France, département Musique, MS-865"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1850-01-01T00:00:00"], "en": ["1850-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1850-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11621854/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance d'Henri VIII : [opéra en 4 actes] / de C. Saint-Saêns - 1890-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMG-58908)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11621854/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMG-58908"], "en": ["Bibliothèque nationale de France, département Musique, VMG-58908"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1890-01-01T00:00:00"], "en": ["1890-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1890-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169452k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. , Pour vous bénir, Seigneur : louanges à Jésus : trio pour S., Mz-S. et C. et grand choeur à l'unisson / paroles de Monsieur l'abbé A. Cuinet,... ; musique de Camille Saint-Saëns - 1866-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99146)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169452k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99146"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99146"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1866-01-01T00:00:00"], "en": ["1866-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1866-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174892k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les marins de Kermor : choeur pour 4 voix d'hommes : op. 71 N° 1 / paroles de T. Saint-Félix ; musique de C. Saint-Saëns - 1884-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-1718)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174892k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, L-1718"], "en": ["Ancien fonds du Conservatoire, L-1718"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1884-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10467484n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Le printemps : choeur pour 2 voix de femmes égales] (manuscrit autographe) / par Camille Saint-Saëns ; sur un poème de Jean de La Fontaine] - 1921-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-750)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10467484n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-750"], "en": ["Bibliothèque nationale de France, département Musique, MS-750"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1921-01-01T00:00:00"], "en": ["1921-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1921-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170182j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La nuit : soprano solo, choeur de femmes et orchestre : op. 114 / poésie de Georges Audigier ; musique de C. Saint-Saëns - 1900-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-9394)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170182j/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-9394"], "en": ["Ancien fonds du Conservatoire, D-9394"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-01-01T00:00:00"], "en": ["1900-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668740/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Deux choeurs sur des poésies extraites de L'art d'être grand-père de Victor Hugo. no 2, Chanson d'ancêtre : pour baryton solo et choeur d'hommes / C. Saint-Saëns - 1901-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13821)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668740/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13821"], "en": ["Ancien fonds du Conservatoire, D-13821"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1901-01-01T00:00:00"], "en": ["1901-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1901-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108438418/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hymne // à la Paix (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-778 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108438418/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-778 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-778 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10028447b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[La Gloire : Cantate pour voix d'hommes (solistes et choeur) et orchestre] (manuscrit autographe) / musique de Camille Saint-Saëns ; paroles de Lucien Augé de Lassus] - 1913-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-710)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10028447b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-710"], "en": ["Bibliothèque nationale de France, département Musique, MS-710"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1913-01-01T00:00:00"], "en": ["1913-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1913-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10881383g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Le retour de Virginie [cantate]] (manuscrit autographe) / musique de Camille Saint-Saëns ; paroles d'Auguste Rollet] - 1852-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-927)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10881383g/f2/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-927"], "en": ["Bibliothèque nationale de France, département Musique, MS-927"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1852-01-01T00:00:00"], "en": ["1852-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1852-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53112302h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Chœur des Sylphes [pour choeur et orchestre]] (manuscrit autographe) - 1852-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-535 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53112302h/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-535 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-535 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1852-01-01T00:00:00"], "en": ["1852-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1852-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k386168k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "God save the King Hymne national anglais, traduction française et accompagnement de piano par C. Saint-Saëns - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM7-12663)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k386168k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM7-12663"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM7-12663"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11748737/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Oeuvres de Camille Saint-Saëns. , Sérénade d'hiver : choeur à 4 voix d'homme / paroles de Henri Cazalis ; musique de C. Saint-Saëns - 1868-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-1748)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11748737/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, L-1748"], "en": ["Ancien fonds du Conservatoire, L-1748"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1868-01-01T00:00:00"], "en": ["1868-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1868-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174905r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les soldats de Gédéon : choeur pour voix d'hommes : op. 46 / paroles de Louis Gallet ; musique de Camille Saint-Saëns - 1876-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-1749)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174905r/f2/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, L-1749"], "en": ["Ancien fonds du Conservatoire, L-1749"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1876-01-01T00:00:00"], "en": ["1876-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1876-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11748915/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Choeurs sans accompagnement. , Hymne au printemps : [pour choeur à 4 voix d'hommes] : op. 138 / paroles de Jean Bonnerot ; musique de C. Saint-Saëns - 1912-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-14388)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11748915/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, L-14388"], "en": ["Ancien fonds du Conservatoire, L-14388"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1912-01-01T00:00:00"], "en": ["1912-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1912-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10467486j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Ode d'Horace 'Illi robur et aes triplex' pour choeur à 4 voix d'hommes sans accompagnement] (manuscrit autographe) / par Camille Saint-Saëns] - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-772)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10467486j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-772"], "en": ["Bibliothèque nationale de France, département Musique, MS-772"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t541694886/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Gloire, cantate pour voix d'hommes (soli et choeur) : op. 131 / C. Saint-Saëns ; poésie de L. Augé de Lassus - 1909-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM7 A-26)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t541694886/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM7 A-26"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM7 A-26"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1909-01-01T00:00:00"], "en": ["1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b531418433/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[La lyre et la harpe : pour soli, choeur et orchestre] (manuscrit autographe) / Ode de Victor Hugo, ; musique de Camille Saint-Saëns] - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-884)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b531418433/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-884"], "en": ["Bibliothèque nationale de France, département Musique, MS-884"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108436152/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[6 Chœurs religieux] (manuscrit en partie autographe) / Camille Saint-Saëns] - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-890 (a-f))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108436152/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-890 (a-f)"], "en": ["Bibliothèque nationale de France, département Musique, MS-890 (a-f)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468702x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Moïse sauvé des eaux] (manuscrit autographe) / par Camille Saint-Saëns ; d'après un poème de Victor Hugo] - 1851-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-869)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468702x/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-869"], "en": ["Bibliothèque nationale de France, département Musique, MS-869"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1851-01-01T00:00:00"], "en": ["1851-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1851-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842536m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Le nuage] (manuscrit en partie autographe) - 1863-1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2464)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842536m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2464"], "en": ["Bibliothèque nationale de France, département Musique, MS-2464"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1863-1875-01-01T00:00:00"], "en": ["1863-1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1863-1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169469v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Choeurs pour voix d'hommes sans accompagnement. , Les guerriers : [choeur à 4 voix d'hommes], op. 84 / paroles de Georges Audigier ; musique de C. Saint-Saëns - 1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM29-5439)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169469v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM29-5439"], "en": ["Bibliothèque nationale de France, département Musique, VM29-5439"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1888-01-01T00:00:00"], "en": ["1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465855p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Les marins de Kermor : op. 71, no 1 : choeur pour 4 voix d'hommes] (manuscrit autographe) / par Camille Saint-Saëns] - 1884-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-815)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465855p/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-815"], "en": ["Bibliothèque nationale de France, département Musique, MS-815"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1884-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108418243/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "A la France // Chœur pour les élèves des lycées et collèges (garçons) (manuscrit autographe) - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-811)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108418243/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-811"], "en": ["Bibliothèque nationale de France, département Musique, MS-811"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k12815264/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Trois choeurs pour 3 voix de femmes : avec accompagnement de piano : op. 151. I, Chanson des aiguilles / par C. Saint-Saëns ; poésie de Jean Bonnerot - 1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, A-28533)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k12815264/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, A-28533"], "en": ["Bibliothèque nationale de France, département Musique, A-28533"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108404855/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Ivanhoë, cantate pour le concours de composition musicale de 1864] (manuscrit autographe) / musique de Camille Saint-Saëns ; paroles de Victor Roussy] - 1864-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-534)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108404855/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-534"], "en": ["Bibliothèque nationale de France, département Musique, MS-534"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1864-01-01T00:00:00"], "en": ["1864-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1864-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11619845/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Samson et Dalila : opéra en 3 actes de F. Lemaire / paroles allemandes de Richard Pohl ; musique de Camille Saint-Saëns ; avec accompagnement de piano par l'auteur. No 6 bis, Chant de Dalila : soprano - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9658 (83))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11619845/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-9658 (83)"], "en": ["Bibliothèque nationale de France, département Musique, D-9658 (83)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174897n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les Titans : choeur sans accompagnement : op. 71. N° 2 / texte de T. Saint-Félix ; musique de C. Saint-Saëns - 1884-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-1719)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174897n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, L-1719"], "en": ["Ancien fonds du Conservatoire, L-1719"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1884-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10841814p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "God save the King // II. Baryton ou Contralto (manuscrit autographe) - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-784 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10841814p/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-784 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-784 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843134j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hymne à Jeanne d'arc // paroles latines de // mgr Foucault // Evêque de St-Dié // musique de // C. Saint-Saëns (manuscrit autographe) - 1920-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-770 (1-2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843134j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-770 (1-2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-770 (1-2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1920-01-01T00:00:00"], "en": ["1920-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1920-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10467480v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Les guerriers : op. 84 : choeur pour 4 voix d'hommes] (manuscrit autographe) / par Camille Saint-Saëns] - 1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-813)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10467480v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-813"], "en": ["Bibliothèque nationale de France, département Musique, MS-813"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1888-01-01T00:00:00"], "en": ["1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170218q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Lyre et la harpe, soli et choeurs. Transcription pour 2 pianos, 4 mains par Reynaldo Hahn - 1913-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM12 A-408)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170218q/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM12 A-408"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM12 A-408"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1913-01-01T00:00:00"], "en": ["1913-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1913-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10467994z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[La nuit : op. 114 : Cantate pour soprano solo, flûte solo, choeur pour voix de femmes, avec accompagnement de piano] (manuscrit autographe) / par Camille Saint-Saëns ; paroles de Georges Audigier] - 1900-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-902)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10467994z/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-902"], "en": ["Bibliothèque nationale de France, département Musique, MS-902"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-01-01T00:00:00"], "en": ["1900-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104680062/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Saltarelle : op. 84 : choeur pour 4 voix d'hommes] (manuscrit autographe) / par Camille Saint-Saëns] - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-814)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104680062/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-814"], "en": ["Bibliothèque nationale de France, département Musique, MS-814"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840477n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Vive la France] (manuscrit autographe) - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-716 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840477n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-716 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-716 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108418137/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "God save the King // I. Ténor ou Soprano (manuscrit autographe) - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-784 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108418137/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-784 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-784 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k3861731/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Vive la France ! Chant et piano, poésie de Paul Fournier, musique de C. Saint-Saëns - 1915-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM7-12659)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k3861731/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM7-12659"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM7-12659"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1915-01-01T00:00:00"], "en": ["1915-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1915-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169441s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Saltarelle : [choeur pour 4 voix d'hommes], op. 74 / poésie de Émile Deschamps ; musique de C. Saint-Saëns - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM29-5443)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169441s/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM29-5443"], "en": ["Bibliothèque nationale de France, département Musique, VM29-5443"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108400416/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Feu du ciel (manuscrit autographe) - 1900-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-624)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108400416/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-624"], "en": ["Bibliothèque nationale de France, département Musique, MS-624"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-01-01T00:00:00"], "en": ["1900-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104680028/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Romance du soir : op. 118 : choeur pour voix mixtes sans accompagnement] (manuscrit autographe) / par Camille Saint-Saëns ; paroles de J. L. Croze] - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-794)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104680028/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-794"], "en": ["Bibliothèque nationale de France, département Musique, MS-794"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702305/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le feu céleste : cantate pour soprano solo, choeurs, orchestre orgue et un récitant : op. 115 / poésie de Armand Silvestre ; musique de C. Saint-Saëns ; partition chant et piano - 1900-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-14162)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11702305/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, L-14162"], "en": ["Ancien fonds du Conservatoire, L-14162"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-01-01T00:00:00"], "en": ["1900-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465853s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Le sourire : op. 151 no 3 : choeur pour 3 voix de femmes avec accompagnement de piano] (manuscrit autographe) / par Camille Saint-Saëns ; paroles de Jean Mirval] - 1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-758)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465853s/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-758"], "en": ["Bibliothèque nationale de France, département Musique, MS-758"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104680994/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[La rose : choeur] (manuscrit autographe) / par Camille Saint-Saëns ; d'après Anacréon] - 1850-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-868)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104680994/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-868"], "en": ["Bibliothèque nationale de France, département Musique, MS-868"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1850-01-01T00:00:00"], "en": ["1850-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1850-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465860v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Salut au chevalier Printemps : op. 151, no 2 : choeur pour 4 voix de femmes avec accompagnement de piano] (manuscrit autographe) / par Camille Saint-Saëns] - 1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-781)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465860v/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-781"], "en": ["Bibliothèque nationale de France, département Musique, MS-781"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10841825j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Chants d'automne // Chœur à 4 voix d'hommes // par C. Saint-Saëns op. 113 (manuscrit autographe) - 1899-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-812)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10841825j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-812"], "en": ["Bibliothèque nationale de France, département Musique, MS-812"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170208b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Deux choeurs sur des poésies extraites de L'art d'être grand-père de Victor Hugo. no 1, Chanson de grand-père : choeur à deux voix de femmes / C. Saint-Saëns - 1901-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-9399)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170208b/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-9399"], "en": ["Ancien fonds du Conservatoire, D-9399"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1901-01-01T00:00:00"], "en": ["1901-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1901-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1162057g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Mélodies persanes. , La brise : choeur à deux voix égales, sopranos et contraltos / poésie d'Armand Renaud ; musique de C. Saint-Saëns - 1892-01-01T00:00:00 - (Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (13))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1162057g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (13)"], "en": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (13)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465857k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Les soldats de Gédéon : op. 46 : choeur pour voix d'hommes a capella] (manuscrit autographe) / par Camille Saint-Saëns ; paroles de Louis Gallet] - 1876-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-755)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465857k/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-755"], "en": ["Bibliothèque nationale de France, département Musique, MS-755"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1876-01-01T00:00:00"], "en": ["1876-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1876-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108418260/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Deux chœurs // I. Calme des nuits // II. Les fleurs et les arbres (manuscrit autographe) - 1882-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-821)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108418260/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-821"], "en": ["Bibliothèque nationale de France, département Musique, MS-821"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1882-01-01T00:00:00"], "en": ["1882-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1882-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10028437x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Feu du ciel [céleste] // Partition piano & chant // op. 113 (manuscrit autographe) - 1900-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-711 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10028437x/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-711 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-711 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-01-01T00:00:00"], "en": ["1900-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10028436g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hymne à la paix // op. 159 // J.L. Faure // C. Saint-Saëns // 1919 (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-709 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10028436g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-709 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-709 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465850f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Sur une allée : madrigal pour 4 voix mixtes] (manuscrit autographe) / par Camille Saint-Saëns ; sur des paroles de Maurice Boukay] - 1913-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-751)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465850f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-751"], "en": ["Bibliothèque nationale de France, département Musique, MS-751"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1913-01-01T00:00:00"], "en": ["1913-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1913-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10022054t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "S[ain]te Cécile // Ode-Cantate (manuscrit autographe) - 1852-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-527)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10022054t/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-527"], "en": ["Bibliothèque nationale de France, département Musique, MS-527"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1852-01-01T00:00:00"], "en": ["1852-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1852-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104626441/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les Noces de Prométhée // Cantate (manuscrit autographe) - 1867-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-523)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104626441/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-523"], "en": ["Bibliothèque nationale de France, département Musique, MS-523"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1867-01-01T00:00:00"], "en": ["1867-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1867-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108404766/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Vive la France // Quatuor (manuscrit autographe) - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-716 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108404766/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-716 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-716 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10028443j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hymne à la paix // J.L. Faure // C. Saint-Saëns // op. 159 (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-709 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10028443j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-709 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-709 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702001/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2 choeurs à 4 voix (S.C.T.B.) : avec accompagnement piano ad libitum : op. 68. N° 1, Calme des nuits / par Camille Saint-Saëns - 1883-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-1720 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11702001/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, L-1720 (1)"], "en": ["Ancien fonds du Conservatoire, L-1720 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166869p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les noces de Prométhée : cantate pour solos, choeurs et orchestre : op. 19 / paroles de M. Romain-Cornut fils ; musique de Camille Saint-Saëns - 1867-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13816)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166869p/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13816"], "en": ["Ancien fonds du Conservatoire, D-13816"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1867-01-01T00:00:00"], "en": ["1867-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1867-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10877213z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Le nuage] (manuscrit en partie autographe) - 1863-1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2464)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10877213z/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2464"], "en": ["Bibliothèque nationale de France, département Musique, MS-2464"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1863-1875-01-01T00:00:00"], "en": ["1863-1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1863-1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53112300m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Le retour de Virginie [cantate]] (manuscrit autographe) / musique de Camille Saint-Saëns ; paroles d'Auguste Rollet] - 1852-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-535 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53112300m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-535 (3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-535 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1852-01-01T00:00:00"], "en": ["1852-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1852-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169466m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. , Reine des cieux : consécration à Marie : unisson ou solo / par Camille Saint-Saëns - 1866-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99150)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169466m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99150"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99150"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1866-01-01T00:00:00"], "en": ["1866-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1866-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166911t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Lyre et la harpe--The Lyre and the harp. Ode. Poésie de Victor Hugo. English Words of M. M. Sidney M. Samuel and James Donzel. Soli, choeur & orchestre... Op. 57 - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3711)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166911t/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3711"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3711"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550065248/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[La gloire de Corneille : esquisses] (manuscrit autographe) - 1906-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-22960)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550065248/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-22960"], "en": ["Bibliothèque nationale de France, département Musique, MS-22960"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1906-01-01T00:00:00"], "en": ["1906-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1906-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170201f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2 choeurs à 4 voix (S.C.T.B.) : avec accompagnement piano ad libitum : op. 68. N° 2, Les fleurs et les arbres / par Camille Saint-Saëns - 1883-01-01T00:00:00 - (Ancien fonds du Conservatoire, L-1720 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170201f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, L-1720 (2)"], "en": ["Ancien fonds du Conservatoire, L-1720 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k3842923/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Honneur à l'Amérique pour chant et piano, textes français et anglais, paroles de Paul Fournier, musique de C. Saint-Saëns - 1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM7-14308)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k3842923/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM7-14308"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM7-14308"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10022042h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Lyre et la Harpe // C. Saint-Saëns // poésie de Victor Hugo // traduction anglaise de Mr Sydney et Samuel (manuscrit autographe)The Lyre and the Harp - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-742)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10022042h/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-742"], "en": ["Bibliothèque nationale de France, département Musique, MS-742"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104658564/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Scène d'Horace : 'Scène des imprécations' : op. 10 : pour soprano, baryton et orchestre] (manuscrit autographe) / par Camille Saint-Saëns ; paroles de Pierre Corneille] - 1860-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-757)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104658564/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-757"], "en": ["Bibliothèque nationale de France, département Musique, MS-757"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1860-01-01T00:00:00"], "en": ["1860-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1860-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1162011g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Madrigal : pour ténor solo et choeur d'hommes à 4 voix, avec acc. de piano / tiré de Psyché (Molière) ; musique de C. Saint-Saëns - 1897-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9658 (56))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1162011g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-9658 (56)"], "en": ["Bibliothèque nationale de France, département Musique, D-9658 (56)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1897-01-01T00:00:00"], "en": ["1897-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1897-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104674836/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Scène d'Horace : 'Scène des imprécations' : op. 10 : pour soprano, baryton et orchestre] (manuscrit autographe) / par Camille Saint-Saëns ; paroles de Pierre Corneille] - 1860-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-704)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104674836/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-704"], "en": ["Bibliothèque nationale de France, département Musique, MS-704"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1860-01-01T00:00:00"], "en": ["1860-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1860-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104681033/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Salut à la noble amérique (manuscrit autographe) - 1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-783)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104681033/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-783"], "en": ["Bibliothèque nationale de France, département Musique, MS-783"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100284406/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Feu du ciel [céleste] // Poésie d'Armand Silvestre // Musique de C. Saint-Saëns // op. 115 // Soprano solo // Choeurs // Orchestre // Orgue // Un récitant // à Mr. Paul Taffanel (manuscrit autographe) - 1900-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-711 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100284406/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-711 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-711 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-01-01T00:00:00"], "en": ["1900-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108431261/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Lyre et la Harpe (manuscrit en partie autographe) - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2444 (1-12))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108431261/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2444 (1-12)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2444 (1-12)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840481c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Vive la France ! (manuscrit autographe) - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-785)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840481c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-785"], "en": ["Bibliothèque nationale de France, département Musique, MS-785"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163845b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La lyre et la harpe : ode : op. 57 : soli, choeur & orchestre / poésie de Victor Hugo ; paroles allemandes de Hermann Wolff ; musique de Camille Saint-Saëns ; [titre orné par L. Denis] - 1882-01-01T00:00:00 - (Legs Fauré-Frémiet, VMA-4618)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163845b/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Legs Fauré-Frémiet, VMA-4618"], "en": ["Legs Fauré-Frémiet, VMA-4618"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1882-01-01T00:00:00"], "en": ["1882-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1882-01-01T00:00:00"
+	          
+	      }]
+	 }

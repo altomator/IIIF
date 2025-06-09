@@ -1,0 +1,1559 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Musique religieuse.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions d'œuvres de Camille Saint-Saëns : Musique religieuse" ], "en": [ "Camille Saint-Saëns musical scores: Sacred music" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+      "type": "Image",
+      "format": "image/png"
+    }
+  ],
+  "description": { "fr": [ "Contenu de la collection : Musique religieuse" ], "en": [ "Collection content: Musique religieuse" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20oratorio%22%20or%20gallica%20adj%20%22genre%20musical%20messe%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20motet%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20psaume%22%20%29%20or%20gallica%20adj%20%22veni%20creator%22%20%29%20and%20%28dc.creator%20adj%20%22saint-saens%2C%20camille%22%20or%20dc.contributor%20adj%20%22saint-saens%2C%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Musique religieuse</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20oratorio%22%20or%20gallica%20adj%20%22genre%20musical%20messe%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20motet%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20psaume%22%20%29%20or%20gallica%20adj%20%22veni%20creator%22%20%29%20and%20%28dc.creator%20adj%20%22saint-saens%2C%20camille%22%20or%20dc.contributor%20adj%20%22saint-saens%2C%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Musique religieuse</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20oratorio%22%20or%20gallica%20adj%20%22genre%20musical%20messe%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20motet%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20psaume%22%20%29%20or%20gallica%20adj%20%22veni%20creator%22%20%29%20and%20%28dc.creator%20adj%20%22saint-saens%2C%20camille%22%20or%20dc.contributor%20adj%20%22saint-saens%2C%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Partitions d'œuvres de Camille Saint-Saëns</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20oratorio%22%20or%20gallica%20adj%20%22genre%20musical%20messe%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20motet%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20psaume%22%20%29%20or%20gallica%20adj%20%22veni%20creator%22%20%29%20and%20%28dc.creator%20adj%20%22saint-saens%2C%20camille%22%20or%20dc.contributor%20adj%20%22saint-saens%2C%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Camille Saint-Saëns musical scores</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1840-1920" ], "en": [ "1840-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20oratorio%22%20or%20gallica%20adj%20%22genre%20musical%20messe%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20motet%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20psaume%22%20%29%20or%20gallica%20adj%20%22veni%20creator%22%20%29%20and%20%28dc.creator%20adj%20%22saint-saens%2C%20camille%22%20or%20dc.contributor%20adj%20%22saint-saens%2C%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20oratorio%22%20or%20gallica%20adj%20%22genre%20musical%20messe%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20motet%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20cantique%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20psaume%22%20%29%20or%20gallica%20adj%20%22veni%20creator%22%20%29%20and%20%28dc.creator%20adj%20%22saint-saens%2C%20camille%22%20or%20dc.contributor%20adj%20%22saint-saens%2C%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns : Musique religieuse"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores: Sacred music" ] }
+		}],
+  
+  "items": [
+{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550078078/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Messe // Saint-Saëns - 1856-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-521)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550078078/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-521"], "en": ["Bibliothèque nationale de France, département Musique, MS-521"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1856-01-01T00:00:00"], "en": ["1856-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1856-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10022047r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Oratorio de Noël // par // Camille Saint-Saëns // op. 12 - 1858-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2470)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10022047r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2470"], "en": ["Bibliothèque nationale de France, département Musique, MS-2470"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-01-01T00:00:00"], "en": ["1858-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550130594/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les Israëlites sur la montagne d'Oreb // Oratorio (manuscrit autographe) - 1848-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-862)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550130594/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-862"], "en": ["Bibliothèque nationale de France, département Musique, MS-862"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1848-01-01T00:00:00"], "en": ["1848-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1848-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108425427/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Deux choeurs religieux / 1° Ave Maria pour 3 voix de femmes en fa (publié ?) 2° Veni creator pour 2 timbres et 2 basses (publié) (manuscrit autographe) - 1858-1865-01-01T00:00:00 - (Bibliothèque nationale de France, MS-885)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108425427/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, MS-885"], "en": ["Bibliothèque nationale de France, MS-885"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-1865-01-01T00:00:00"], "en": ["1858-1865-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-1865-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108435933/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Veni creator (manuscrit en partie autographe) - 1858-1861-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2492 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108435933/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2492 (3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2492 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-1861-01-01T00:00:00"], "en": ["1858-1861-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-1861-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169517g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Coeli enarrant : psaume XVIII : op. 42 / C. St-Saëns - 1878-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM1-4822)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169517g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM1-4822"], "en": ["Bibliothèque nationale de France, département Musique, VM1-4822"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1878-01-01T00:00:00"], "en": ["1878-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1878-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108436135/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "A St Joseph - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-888 (c))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108436135/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-888 (c)"], "en": ["Bibliothèque nationale de France, département Musique, MS-888 (c)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108436118/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Dans ce beau mois (manuscrit en partie autographe) - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-888 (a))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108436118/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-888 (a)"], "en": ["Bibliothèque nationale de France, département Musique, MS-888 (a)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52502461g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Messe à quatre voix, soli et choeur avec acc.t d'orchestre, Gd orgue et orgue d'acc.t obligé. - Oeuv. 4 - 1857-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM1-571 (BIS))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52502461g/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM1-571 (BIS)"], "en": ["Bibliothèque nationale de France, département Musique, VM1-571 (BIS)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1857-01-01T00:00:00"], "en": ["1857-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1857-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843612q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Reçois nos hommages (manuscrit autographe) - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-888 (b))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843612q/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-888 (b)"], "en": ["Bibliothèque nationale de France, département Musique, MS-888 (b)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843610t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Inviolata (alto) - 1865-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-886 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843610t/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-886 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-886 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1865-01-01T00:00:00"], "en": ["1865-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1865-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668688/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Oratorio de Noël : op. 12 : soli et choeur / C. Saint-Saëns - 1892-01-01T00:00:00 - (Collection Charles Malherbe. Ancien fonds du Conservatoire, D-13815)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668688/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Collection Charles Malherbe. Ancien fonds du Conservatoire, D-13815"], "en": ["Collection Charles Malherbe. Ancien fonds du Conservatoire, D-13815"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1281539r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ave maria, pour choeur à 4 voix mixtes, avec accompagnement d'orgue - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM1-422)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1281539r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM1-422"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM1-422"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108427761/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Fragment du psaume 'Super flumina Babylonis'] (manuscrit en partie autographe) - 1854-1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2461)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108427761/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2461"], "en": ["Bibliothèque nationale de France, département Musique, MS-2461"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1854-1874-01-01T00:00:00"], "en": ["1854-1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1854-1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009617m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Oratorium // pro nocte Nativitatis Christi (manuscrit autographe) - 1858-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-700)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009617m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-700"], "en": ["Bibliothèque nationale de France, département Musique, MS-700"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-01-01T00:00:00"], "en": ["1858-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166891h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Coeli enarrant, psaume XVIII, soli, choeurs et orchestre... op. 42. Partition piano et chant par Eug Gigout - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM1-566)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166891h/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM1-566"], "en": ["Bibliothèque nationale de France, département Musique, VM1-566"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1281538b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Tu es Petrus : motet : op. 147 / C. Saint-Saëns - 1917-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, 4-VM1-367)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1281538b/f2/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, 4-VM1-367"], "en": ["Bibliothèque nationale de France, département Musique, 4-VM1-367"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1917-01-01T00:00:00"], "en": ["1917-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1917-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840038x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Chœur du Printemps (les Saisons) // Haydn // Transcription pour Piano à 4 mains (manuscrit autographe) - 1845-1870-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-620)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840038x/f4/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-620"], "en": ["Bibliothèque nationale de France, département Musique, MS-620"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1845-1870-01-01T00:00:00"], "en": ["1845-1870-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1845-1870-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10860809s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Messe de Requiem : soli, choeurs et orchestre : op. 54 / par Camille Saint-Saëns ; partition chant et piano par Messager - 1878-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9416)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10860809s/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-9416"], "en": ["Bibliothèque nationale de France, département Musique, D-9416"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1878-01-01T00:00:00"], "en": ["1878-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1878-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464277s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Psaume XVIII, Coeli enarrant] (manuscrit autographe) - 1865-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-660)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464277s/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-660"], "en": ["Bibliothèque nationale de France, département Musique, MS-660"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1865-01-01T00:00:00"], "en": ["1865-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1865-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b7200829m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Messe de requiem : pour soli, choeurs & orchestre / Camille Saint-Saëns - 2008-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMH-12084)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b7200829m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMH-12084"], "en": ["Bibliothèque nationale de France, département Musique, VMH-12084"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["2008-01-01T00:00:00"], "en": ["2008-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "2008-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k925647k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. Trois rhapsodies, cantiques bretons pour orgue-harmonium, par Camille Saint-Saëns - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11271)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k925647k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11271"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11271"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104680117/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Ave Maria : choeur pour 4 voix mixtes avec accompagnement d'orgue] (manuscrit autographe) / Camille Saint-Saëns] - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-764)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104680117/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-764"], "en": ["Bibliothèque nationale de France, département Musique, MS-764"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1162012w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La madonna col bambino : cantico / poesia di Santo Alfonso di Liguori ; musica di C. Saint-Saëns - 1868-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9658 (55))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1162012w/f2/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-9658 (55)"], "en": ["Bibliothèque nationale de France, département Musique, D-9658 (55)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1868-01-01T00:00:00"], "en": ["1868-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1868-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k19104371/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Laudate Dominum / arrangé pour choeur à quatre voix mixtes avec accompagnement d'orgue par Pierre Kunc - 1936-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM7 A-620 (16))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k19104371/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM7 A-620 (16)"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM7 A-620 (16)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1936-01-01T00:00:00"], "en": ["1936-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1936-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t54169486c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. , Ave Maria : [pour mezzo-soprano ou baryton et orgue] / C. Saint Saëns - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMG-42648)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t54169486c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMG-42648"], "en": ["Bibliothèque nationale de France, département Musique, VMG-42648"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bd6t541694441/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. , O salutaris : [N° 1, en mi bémol] : solo de contralto ou basse / par C. Saint-Saëns - 1884-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99131)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bd6t541694441/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99131"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99131"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1884-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1509603g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Credo de la 'Messe royale' de H. Du Mont (Ier ton), pour une voix ou unisson et choeur à 4 voix mixtes. Accompagnement du choeur à l'unisson ou solo par l' abbé F. Brun. Choeurs de C. Saint-Saëns. Chant seul. - 1939-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, K-17475)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1509603g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, K-17475"], "en": ["Bibliothèque nationale de France, département Musique, K-17475"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1939-01-01T00:00:00"], "en": ["1939-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1939-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108427638/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Super // Flumina // Babylonis. // Psaume 136 // C. Saint-Saëns. - 1900-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-882 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108427638/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-882 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-882 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-01-01T00:00:00"], "en": ["1900-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464274f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Psalm CL, pour deux choeurs et orchestre : Praise ye the Lord in his sanctuary] (manuscrit autographe) - 1908-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-549)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464274f/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-549"], "en": ["Bibliothèque nationale de France, département Musique, MS-549"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1908-01-01T00:00:00"], "en": ["1908-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1908-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52000847s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Psalm CL : Praise Ye The Lord : For double-chorus of mixed voices with orchestra and organ : Op. 127 / by Camille Saint-Saëns ; dedicated to Whitney Warren, Esq. - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13864)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52000847s/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13864"], "en": ["Bibliothèque nationale de France, département Musique, D-13864"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843614m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Nous qu'en ces lieux] (manuscrit en partie autographe) - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-888 (d))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843614m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-888 (d)"], "en": ["Bibliothèque nationale de France, département Musique, MS-888 (d)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843594j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Felix es // Motet (manuscrit autographe) - 1851-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2492 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843594j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2492 (4)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2492 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1851-01-01T00:00:00"], "en": ["1851-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1851-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842764q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Super flumina Babylonis. Psaume 136] - 1854-1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-882 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842764q/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-882 (3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-882 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1854-1874-01-01T00:00:00"], "en": ["1854-1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1854-1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11748752/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. , Tantum ergo : choeur / par Camille Saint-Saëns - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99170)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11748752/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99170"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99170"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464276b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Coeli enarrant (manuscrit en partie autographe) - 1865-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-533)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464276b/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-533"], "en": ["Bibliothèque nationale de France, département Musique, MS-533"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1865-01-01T00:00:00"], "en": ["1865-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1865-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842789s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Pour accompagner le motet 'ave verum' // pour 4 voix de femme (manuscrit autographe) - 1860-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-834)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842789s/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-834"], "en": ["Bibliothèque nationale de France, département Musique, MS-834"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1860-01-01T00:00:00"], "en": ["1860-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1860-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550078110/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "O Salutaris // de la Messe op. 4 // transcrit pour orgue // par l'auteur (manuscrit autographe) - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-656)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550078110/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-656"], "en": ["Bibliothèque nationale de France, département Musique, MS-656"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842762t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Super flumina Babylonis // Psaume 136 (manuscrit autographe) - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-882 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842762t/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-882 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-882 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10023711t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Oratorio de Noël // Partition d'orchestre (manuscrit autographe) - 1858-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-883 (1-11))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10023711t/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-883 (1-11)"], "en": ["Bibliothèque nationale de France, département Musique, MS-883 (1-11)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-01-01T00:00:00"], "en": ["1858-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1281532v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église. , Deus Abraham : en fa : avec choeur et accompagnement de harpe (ad lib.) / Camille Saint-Saëns - 1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-99095)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1281532v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-99095"], "en": ["Bibliothèque nationale de France, département Musique, VM7-99095"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465866j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Quam dilecta // motet à 4 voix // C. Saint-Saëns (manuscrit autographe) - 1915-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-762)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465866j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-762"], "en": ["Bibliothèque nationale de France, département Musique, MS-762"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1915-01-01T00:00:00"], "en": ["1915-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1915-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108431316/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "'O Salutaris' // pour Ténor et Baryton // avec accompagnement d'orgue (manuscrit autographe) - 1884-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-767)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108431316/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-767"], "en": ["Bibliothèque nationale de France, département Musique, MS-767"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1884-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55013055b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Le Déluge : Op. 45] (manuscrit autographe) - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-490)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55013055b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-490"], "en": ["Bibliothèque nationale de France, département Musique, MS-490"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108427655/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "By the rivers of Babylon // Psalm // C. Saint-Saëns (manuscrit en partie autographe) - 1870-1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-882 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108427655/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-882 (4)"], "en": ["Bibliothèque nationale de France, département Musique, MS-882 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1870-1880-01-01T00:00:00"], "en": ["1870-1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1870-1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843132n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "O Salutaris // Contralto // C. Saint-Saëns (manuscrit autographe) - 1884-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-768)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843132n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-768"], "en": ["Bibliothèque nationale de France, département Musique, MS-768"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1884-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465862r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Deus Abraham, parties de chœur sur les paroles 'Beati omnes'] (manuscrit autographe) - 1885-1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-766)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465862r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-766"], "en": ["Bibliothèque nationale de France, département Musique, MS-766"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-1892-01-01T00:00:00"], "en": ["1885-1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104658653/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Tu es Petrus // Chœur à quatre voix et orgue (manuscrit autographe) - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-765)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104658653/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-765"], "en": ["Bibliothèque nationale de France, département Musique, MS-765"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843609f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ave Maria (manuscrit autographe) - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-886 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843609f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-886 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-886 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10841828w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Le déluge] (manuscrit autographe) / par Camille Saint-Saëns] - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-832)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10841828w/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-832"], "en": ["Bibliothèque nationale de France, département Musique, MS-832"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55007867r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Requiem (manuscrit autographe) - 1878-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-522)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55007867r/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-522"], "en": ["Bibliothèque nationale de France, département Musique, MS-522"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1878-01-01T00:00:00"], "en": ["1878-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1878-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550086462/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Elévation // ou // communion // pour orgue (manuscrit autographe) - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-654)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550086462/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-654"], "en": ["Bibliothèque nationale de France, département Musique, MS-654"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108431333/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Pie Jesu : pour basse avec acc. d'orgue, chœur ad libitum] (manuscrit autographe) - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-769)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108431333/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-769"], "en": ["Bibliothèque nationale de France, département Musique, MS-769"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166892x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Vingt motets : N° 2. Édition transposée (Edition transposée) / par Camille Saint-Saëns ; [couv. ill. par L. Denis] - 1885-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM1-786)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166892x/f13/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM1-786"], "en": ["Bibliothèque nationale de France, département Musique, VM1-786"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668814/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Vingt motets : N° 1. Édition originale / par Camille Saint-Saëns ; [couv. ill. par L. Denis] - 1885-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-9411)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668814/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-9411"], "en": ["Ancien fonds du Conservatoire, D-9411"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-01-01T00:00:00"], "en": ["1885-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11592787/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Messe de requiem, soli, choeurs et orchestre... Op. 54... - -01-01T00:00:00 - (Bibliothèque du Conservatoire, D-13865)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11592787/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque du Conservatoire, D-13865"], "en": ["Bibliothèque du Conservatoire, D-13865"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11638171/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le déluge : op. 45 / poëm biblique en trois parties de Louis Gallet ; texte allemand de Mosenthal ; musique de Camille Saint-SaënsDie Sündfluth - 1877-1912-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, L-905)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11638171/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, L-905"], "en": ["Bibliothèque nationale de France, département Musique, L-905"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-1912-01-01T00:00:00"], "en": ["1877-1912-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-1912-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163818f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Déluge, poème biblique en trois parties de Louis Gallet, ... op. 45. Partition piano et chant - 1876-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM1-567)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163818f/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM1-567"], "en": ["Bibliothèque nationale de France, département Musique, VM1-567"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1876-01-01T00:00:00"], "en": ["1876-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1876-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163819v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église : solos, duos, trios, choeurs. Édition 1, Soprano ou ténor / Camille Saint-Saëns - 1869-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM1-568)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163819v/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM1-568"], "en": ["Bibliothèque nationale de France, département Musique, VM1-568"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1869-01-01T00:00:00"], "en": ["1869-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1869-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163820h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique d'église : solos, duos, trios, choeurs. Édition 2, Contralto ou baryton / Camille Saint-Saëns - 1869-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM1-569)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163820h/f13/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM1-569"], "en": ["Bibliothèque nationale de France, département Musique, VM1-569"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1869-01-01T00:00:00"], "en": ["1869-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1869-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k15096022/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Echos du monde religieux. T. 7. Harmonium ou orgue seul.. Volume 7 - 1899-1901-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, L-10722 (7))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k15096022/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, L-10722 (7)"], "en": ["Bibliothèque nationale de France, département Musique, L-10722 (7)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-1901-01-01T00:00:00"], "en": ["1899-1901-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-1901-01-01T00:00:00"
+	          
+	      }]
+	 }

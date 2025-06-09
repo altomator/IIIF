@@ -1,0 +1,935 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Musique de scene.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions d'œuvres de Camille Saint-Saëns : Musique de scène" ], "en": [ "Camille Saint-Saëns musical scores: Incidental music" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+      "type": "Image",
+      "format": "image/png"
+    }
+  ],
+  "description": { "fr": [ "Contenu de la collection : Musique de scène" ], "en": [ "Collection content: Musique de scène" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28gallica%20adj%20%22musique%20de%20sc%C3%A8ne%22%20or%20gallica%20adj%20%22musique%20de%20film%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20sc%C3%A8ne%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Musique de scène</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28gallica%20adj%20%22musique%20de%20sc%C3%A8ne%22%20or%20gallica%20adj%20%22musique%20de%20film%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20sc%C3%A8ne%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Musique de scène</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28gallica%20adj%20%22musique%20de%20sc%C3%A8ne%22%20or%20gallica%20adj%20%22musique%20de%20film%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20sc%C3%A8ne%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Partitions d'œuvres de Camille Saint-Saëns</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28gallica%20adj%20%22musique%20de%20sc%C3%A8ne%22%20or%20gallica%20adj%20%22musique%20de%20film%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20sc%C3%A8ne%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Camille Saint-Saëns musical scores</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1840-1920" ], "en": [ "1840-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28gallica%20adj%20%22musique%20de%20sc%C3%A8ne%22%20or%20gallica%20adj%20%22musique%20de%20film%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20sc%C3%A8ne%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28gallica%20adj%20%22musique%20de%20sc%C3%A8ne%22%20or%20gallica%20adj%20%22musique%20de%20film%22%20%29%20or%20gallica%20adj%20%22genre%20musical%20sc%C3%A8ne%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns : Musique de scène"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores: Incidental music" ] }
+		}],
+  
+  "items": [
+{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668651/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique pour Andromaque, tragédie de Racine. Ouverture / C. Saint-Saëns - 1903-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13810)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668651/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13810"], "en": ["Ancien fonds du Conservatoire, D-13810"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166864m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Déjanire. prélude et cortège (4ème acte) / tragédie de Louis Gallet ; C. Saint-Saëns - 1899-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13809)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166864m/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13809"], "en": ["Ancien fonds du Conservatoire, D-13809"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668636/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Airs de ballet de Parysatis / C. Saint-Saëns - 1903-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13808)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668636/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13808"], "en": ["Ancien fonds du Conservatoire, D-13808"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53141842n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[La foi : musique de scène] (manuscrit autographe) / par Camille Saint-Saëns] - 1909-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-503)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53141842n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-503"], "en": ["Bibliothèque nationale de France, département Musique, MS-503"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1909-01-01T00:00:00"], "en": ["1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166883z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La foi : musique de scène / [pour le] drame de Brieux ; par C. Saint-Saëns ; partition réduite pour piano par l'auteur - 1912-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-9434)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166883z/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-9434"], "en": ["Ancien fonds du Conservatoire, D-9434"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1912-01-01T00:00:00"], "en": ["1912-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1912-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840179d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "On ne badine pas avec l'amour // Esquisses (manuscrit autographe) - 1916-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-676)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840179d/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-676"], "en": ["Bibliothèque nationale de France, département Musique, MS-676"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1916-01-01T00:00:00"], "en": ["1916-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1916-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104615053/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Andromaque : musique de scène] (manuscrit autographe) / par Camille Saint-Saëns ; pour la pièce de Jean Racine] - 1908-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-518)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104615053/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-518"], "en": ["Bibliothèque nationale de France, département Musique, MS-518"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1908-01-01T00:00:00"], "en": ["1908-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1908-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468102n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique pour // Lola // scène dramatique // à deux personnages // de Stephan Bordèse // - Prélude // - Le Songe // - Le Rossignol // Tango // Conclusion (manuscrit autographe) - 1900-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-819)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468102n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-819"], "en": ["Bibliothèque nationale de France, département Musique, MS-819"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-01-01T00:00:00"], "en": ["1900-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108750607/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "On ne badine pas avec l'amour (manuscrit autographe) - 1916-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2446)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108750607/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2446"], "en": ["Bibliothèque nationale de France, département Musique, MS-2446"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1916-01-01T00:00:00"], "en": ["1916-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1916-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104615070/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Malade imaginaire // Charpentier // revu par C. Saint-Saëns (manuscrit autographe) - 1892-1912-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-514)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104615070/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-514"], "en": ["Bibliothèque nationale de France, département Musique, MS-514"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-1912-01-01T00:00:00"], "en": ["1892-1912-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-1912-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009872m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[La foi] (manuscrit autographe) - 1908-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2448)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009872m/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2448"], "en": ["Bibliothèque nationale de France, département Musique, MS-2448"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1908-01-01T00:00:00"], "en": ["1908-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1908-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10467995d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Déjanire // Musique // de // C. Saint-Saëns // Chant, Quatuor, Musiques d'harmonie (manuscrit en partie autographe) - 1898-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-510)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10467995d/f17/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-510"], "en": ["Bibliothèque nationale de France, département Musique, MS-510"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1898-01-01T00:00:00"], "en": ["1898-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1898-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170206h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Antigone : tragédie de Sophocle / mise à la scène française par Paul Meurice et Auguste Vacquerie ; musique de C. Saint-Saëns ; partition chant et piano - 1893-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-7949)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170206h/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-7949"], "en": ["Bibliothèque nationale de France, département Musique, VM7-7949"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1893-01-01T00:00:00"], "en": ["1893-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1893-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104686873/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Travaux d'orchestration pour Les Burgraves] (manuscrit autographe) / Camille Saint-Saëns] - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-829)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104686873/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-829"], "en": ["Bibliothèque nationale de France, département Musique, MS-829"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166882j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Parysatis, drame de Mme Jane Dieulafoy, musique de C. Saint-Saëns, partition pour chant et piano réduite par l'auteur - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9427)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166882j/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-9427"], "en": ["Bibliothèque nationale de France, département Musique, D-9427"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104681016/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Récitatif // pour 'l'air du Rossignol' // de Parysatis (manuscrit autographe) - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-683)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104681016/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-683"], "en": ["Bibliothèque nationale de France, département Musique, MS-683"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840464w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "On ne badine pas avec l'amour // acte I [II, III] (manuscrit autographe) - 1916-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2447)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840464w/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2447"], "en": ["Bibliothèque nationale de France, département Musique, MS-2447"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1916-01-01T00:00:00"], "en": ["1916-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1916-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166871r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Antigone / tragédie de Sophocle ; mise à la scène française par Paul Meurice et Auguste Vacquerie ; musique de C. Saint-Saëns - 1909-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13818)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166871r/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13818"], "en": ["Ancien fonds du Conservatoire, D-13818"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1909-01-01T00:00:00"], "en": ["1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843127g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "On ne badine pas avec l'amour (manuscrit autographe) - 1916-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2446)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843127g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2446"], "en": ["Bibliothèque nationale de France, département Musique, MS-2446"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1916-01-01T00:00:00"], "en": ["1916-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1916-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166866f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique pour Andromaque, tragédie de Racine. Ouverture / C. Saint-Saëns ; [réduction pour] piano à 4 mains - 1903-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13811)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166866f/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13811"], "en": ["Ancien fonds du Conservatoire, D-13811"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10461506j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Antigone : musique de scène pour la tragédie de Sophocle] (manuscrit autographe) / par Camille Saint-Saëns ; mise à la scène par Paul Meurice et Auguste Vacquerie] - 1893-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-517)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10461506j/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-517"], "en": ["Bibliothèque nationale de France, département Musique, MS-517"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1893-01-01T00:00:00"], "en": ["1893-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1893-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11620421/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Déjanire. Épithalame : transposition pour mezzo-soprano ou baryton / paroles de Louis Gallet ; musique de C. Saint-Saëns - 1899-01-01T00:00:00 - (Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (28))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11620421/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (28)"], "en": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (28)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468688j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Esquisses pour La Foi et le Psaume CL (manuscrit autographe) - 1908-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-826 (1-4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468688j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-826 (1-4)"], "en": ["Bibliothèque nationale de France, département Musique, MS-826 (1-4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1908-01-01T00:00:00"], "en": ["1908-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1908-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170216w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Airs de ballet de Parysatis / C. Saint-Saëns ; à 2 pianos 4 mains par l'auteur - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, A-47298)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170216w/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, A-47298"], "en": ["Bibliothèque nationale de France, département Musique, A-47298"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10468695m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Sicilien // ou // l'Amour peintre (manuscrit autographe) - 1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-502)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10468695m/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-502"], "en": ["Bibliothèque nationale de France, département Musique, MS-502"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b525032021/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Antigone / tragédie de Sophocle ; mise à la scène française par Paul Meurice et Auguste Vacquerie ; musique de C. Saint-Saëns - 1909-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM2-29)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b525032021/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM2-29"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM2-29"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1909-01-01T00:00:00"], "en": ["1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1162020f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hymne à Éros : extrait [des choeurs] d'Antigone / tragédie de Sophocle ; traduction de P. Meurice et A. Vacquerie ; musique de C. Saint-Saëns - 1894-01-01T00:00:00 - (Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (47))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1162020f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (47)"], "en": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (47)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1894-01-01T00:00:00"], "en": ["1894-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1894-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108401728/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Rigaudon. // op: 93 no 2 (manuscrit autographe) - 1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-664 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108401728/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-664 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-664 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10467479g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Parysatis, drame en 3 actes et 1 prologue de Mme Jane Dieulafoy (1902) (manuscrit autographe) - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-519)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10467479g/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-519"], "en": ["Bibliothèque nationale de France, département Musique, MS-519"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840173q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Rigaudon (manuscrit autographe) - 1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-664 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840173q/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-664 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-664 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1162043f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Déjanire. Épithalame : ton original pour ténor ou soprano / paroles de Louis Gallet ; musique de C. Saint-Saëns - 1899-01-01T00:00:00 - (Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (27))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1162043f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (27)"], "en": ["Exemplaire localisé à la Médiathèque Hector Berlioz (CNSMDP), D-9658 (27)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166876t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "L'Assassinat du duc de Guise, tableaux d'histoire, scénario, d' Henri Lavedan, musique de C. Saint-Saëns, (op. 128). Partition pour piano à 2 mains... - 1908-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9393)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166876t/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-9393"], "en": ["Bibliothèque nationale de France, département Musique, D-9393"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1908-01-01T00:00:00"], "en": ["1908-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1908-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840463f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Parysatis] (manuscrit autographe) - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-520)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840463f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-520"], "en": ["Bibliothèque nationale de France, département Musique, MS-520"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166867v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Musique pour Andromaque, tragédie de Racine. Prélude du 4e acte / C. Saint-Saëns - 1903-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13812)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166867v/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13812"], "en": ["Ancien fonds du Conservatoire, D-13812"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668777/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Lola : scène dramatique à deux personnages / par Stéphan Bordèse, musique de C. Saint-Saëns, (op. 116) - 1901-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-9395)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668777/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-9395"], "en": ["Bibliothèque nationale de France, département Musique, D-9395"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1901-01-01T00:00:00"], "en": ["1901-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1901-01-01T00:00:00"
+	          
+	      }]
+	 }

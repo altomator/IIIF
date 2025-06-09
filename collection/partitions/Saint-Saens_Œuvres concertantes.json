@@ -1,0 +1,2159 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Œuvres concertantes.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions d'œuvres de Camille Saint-Saëns : Œuvres concertantes" ], "en": [ "Camille Saint-Saëns musical scores: Concertos" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+      "type": "Image",
+      "format": "image/png"
+    }
+  ],
+  "description": { "fr": [ "Contenu de la collection : Œuvres concertantes" ], "en": [ "Collection content: Œuvres concertantes" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20concerto%22%20or%20gallica%20adj%20%22piano%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violon%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22cor%20et%20orchestre%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20gallica%20adj%20%22danse%20macabre%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Œuvres concertantes</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20concerto%22%20or%20gallica%20adj%20%22piano%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violon%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22cor%20et%20orchestre%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20gallica%20adj%20%22danse%20macabre%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Œuvres concertantes</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20concerto%22%20or%20gallica%20adj%20%22piano%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violon%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22cor%20et%20orchestre%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20gallica%20adj%20%22danse%20macabre%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Partitions d'œuvres de Camille Saint-Saëns</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20concerto%22%20or%20gallica%20adj%20%22piano%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violon%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22cor%20et%20orchestre%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20gallica%20adj%20%22danse%20macabre%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Camille Saint-Saëns musical scores</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1840-1920" ], "en": [ "1840-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20concerto%22%20or%20gallica%20adj%20%22piano%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violon%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22cor%20et%20orchestre%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20gallica%20adj%20%22danse%20macabre%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28%28%28%28%28%28gallica%20adj%20%22genre%20musical%20concerto%22%20or%20gallica%20adj%20%22piano%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violon%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22violoncelle%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22fl%C3%BBte%20et%20orchestre%22%20%29%20or%20gallica%20adj%20%22cor%20et%20orchestre%22%20%29%20and%20%28dc.creator%20adj%20%22saint%20saens%20camille%22%20or%20dc.contributor%20adj%20%22saint%20saens%20camille%22%20%29%20%29%20and%20not%20gallica%20adj%20%22danse%20macabre%22%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns : Œuvres concertantes"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores: Concertos" ] }
+		}],
+  
+  "items": [
+{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b74001481/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Concerto [pour piano] en Sol mineur op. 22 // C. Saint-Saëns // faubourg St. Honoré 168 // Paris (manuscrit autographe) - 1868-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-488)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b74001481/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-488"], "en": ["Bibliothèque nationale de France, département Musique, MS-488"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1868-01-01T00:00:00"], "en": ["1868-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1868-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166862s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2e Concerto pour violoncelle et orchestre : op. 119 / par C. Saint-Saëns ; [réduction] violoncelle et piano - 1903-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13807)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166862s/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13807"], "en": ["Ancien fonds du Conservatoire, D-13807"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170234t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "5e concerto pour piano et orchestre : op. 103 / par C. Saint-Saëns - 1896-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-14620)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170234t/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-14620"], "en": ["Bibliothèque nationale de France, département Musique, VM7-14620"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896-01-01T00:00:00"], "en": ["1896-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1896-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166861c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2e Concerto (en ut majeur) pour violon avec accompagnement d'orchestre ou de piano : op. 58 / par Camille Saint-Saëns - 1879-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13806)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166861c/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13806"], "en": ["Ancien fonds du Conservatoire, D-13806"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10022043z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Concerto pour violoncelle et orchestre, no. 1] (manuscrit autographe) / Camille Saint-Saëns] - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-485)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10022043z/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-485"], "en": ["Bibliothèque nationale de France, département Musique, MS-485"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174877w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Wedding Cake : caprice-valse pour le piano avec accompagnement d'instruments à cordes : op. 76 / par C. Saint-Saëns - 1886-01-01T00:00:00 - (Ancien fonds du Conservatoire, K-8047)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174877w/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, K-8047"], "en": ["Ancien fonds du Conservatoire, K-8047"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-01-01T00:00:00"], "en": ["1886-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170210d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Allegro appassionato : pour piano seul ou avec accompagnement d'orchestre : op. 70 / par C. Saint-Saëns ; 2 pianos [2d piano réduction de l'orchestre] - 1905-01-01T00:00:00 - (Ancien fonds du Conservatoire, A-47305)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170210d/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, A-47305"], "en": ["Ancien fonds du Conservatoire, A-47305"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174876g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Wedding Cake : caprice-valse pour le piano avec accompagnement d'instruments à cordes : op. 76 / par C. Saint-Saëns ; avec accompagnement d'un 2e piano - 1886-01-01T00:00:00 - (Ancien fonds du Conservatoire, A-47217)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174876g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, A-47217"], "en": ["Ancien fonds du Conservatoire, A-47217"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-01-01T00:00:00"], "en": ["1886-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174879q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Concerto pour violon avec accompagnement d'orchestre : op. 20 / par Camille Saint-Saëns - 1868-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3706)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174879q/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3706"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3706"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1868-01-01T00:00:00"], "en": ["1868-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1868-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550093718/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Rhapsodie d'Auvergne : Piano et Orchestre, op. 73] (manuscrit autographe) - 1884-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-546)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550093718/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-546"], "en": ["Bibliothèque nationale de France, département Musique, MS-546"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1884-01-01T00:00:00"], "en": ["1884-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1884-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55008208s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pr [pour] cor [et orchestre] // C St Saëns // op. 36 (manuscrit autographe) - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-837 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55008208s/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-837 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-837 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170372v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "4e concerto pour piano avec accompagnement d'orchestre : op. 44 / par Camille Saint Saëns ; [réduction de l'orchestre pour un 2me piano par G. Fauré] - 1876-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11261)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170372v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11261"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11261"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1876-01-01T00:00:00"], "en": ["1876-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1876-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100220501/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Concerto pour violon et orchestre, no. 2, op. 58, en do majeur : réduction pour violon et piano] (manuscrit autographe) / Camille Saint-Saëns] - 1859-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-484)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100220501/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-484"], "en": ["Bibliothèque nationale de France, département Musique, MS-484"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-01-01T00:00:00"], "en": ["1859-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10022051g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Concerto pour violon et orchestre, no. 2, op. 58, en do majeur] (manuscrit autographe) / Camille Saint-Saëns] - 1858-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-483)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10022051g/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-483"], "en": ["Bibliothèque nationale de France, département Musique, MS-483"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-01-01T00:00:00"], "en": ["1858-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10028439t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Concerto pour violoncelle et orchestre : réduction pour violoncelle et piano, op. 119] (manuscrit autographe) / Camille Saint-Saëns] - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-708)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10028439t/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-708"], "en": ["Bibliothèque nationale de France, département Musique, MS-708"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k8580425/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Caprice andalou : pour violon avec accompagnement d'orchestre : op. 122 / par C. Saint-Saëns - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-467)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k8580425/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-467"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-467"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11748826/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "5e concerto de piano : op. 103 (Édition simplifiée) / C. Saint-Saëns ; réduction de l'orchestre pour un 2me piano par l'auteur - 1899-01-01T00:00:00 - (Ancien fonds du Conservatoire, A-47280)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11748826/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, A-47280"], "en": ["Ancien fonds du Conservatoire, A-47280"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1899-01-01T00:00:00"], "en": ["1899-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1899-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10462869v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "n° 5 // Gavotte [de la Suite pour violoncelle et orchestre op. 16 bis] (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-848 (2-3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10462869v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-848 (2-3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-848 (2-3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k8580336/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Allegro appassionato : pour piano seul ou avec accompagnement d'orchestre : op. 70 / par C. Saint-Saëns - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-468)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k8580336/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-468"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-468"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550130577/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Concerto pour piano no 1 : réduction de l'orchestre pour un 2e piano] (manuscrit autographe) / par Camille Saint-Saëns] - 1858-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-487)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550130577/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-487"], "en": ["Bibliothèque nationale de France, département Musique, MS-487"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-01-01T00:00:00"], "en": ["1858-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702268/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3me concerto : pour piano avec accompagnement d'orchestre : op. 29 / Camille Saint Saëns - 1876-01-01T00:00:00 - (Ancien fonds du Conservatoire, AC E10-1010)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11702268/f13/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, AC E10-1010"], "en": ["Ancien fonds du Conservatoire, AC E10-1010"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1876-01-01T00:00:00"], "en": ["1876-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1876-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550130488/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Concerto pour piano et orchestre no. 1] (manuscrit autographe) / par Camille Saint-Saëns] - 1858-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-489)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550130488/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-489"], "en": ["Bibliothèque nationale de France, département Musique, MS-489"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-01-01T00:00:00"], "en": ["1858-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840187x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Concerto // Pour // Violon // M Saint-Saëns // Piano (manuscrit en partie autographe) - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-731)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840187x/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-731"], "en": ["Bibliothèque nationale de France, département Musique, MS-731"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174895t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "5e concerto pour piano et orchestre : op. 103 / par C. Saint-Saëns ; 2 pianos 4 mains, [réduction de l'orchestre pour un 2d. piano par L. Diémer] - 1896-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-14592)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174895t/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-14592"], "en": ["Bibliothèque nationale de France, département Musique, VM7-14592"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896-01-01T00:00:00"], "en": ["1896-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1896-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100753980/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3me concerto : pour piano avec accompagnement d'orchestre : op. 29 / par Camille Saint Saëns ; à 2 pianos - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11260)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100753980/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11260"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11260"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840175m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pour Violon // avec accompagnement d'orchestre // op. 27 - 1921-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-667)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840175m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-667"], "en": ["Bibliothèque nationale de France, département Musique, MS-667"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1921-01-01T00:00:00"], "en": ["1921-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1921-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550130520/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Concerto pour violon et orchestre no. 1, en la majeur, op. 20] (manuscrit autographe) / Camille Saint-Saëns] - 1859-1864-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-482)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550130520/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-482"], "en": ["Bibliothèque nationale de France, département Musique, MS-482"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-1864-01-01T00:00:00"], "en": ["1859-1864-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-1864-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104615108/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Muse et le poète // Esquisses (manuscrit autographe) - 1910-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-825)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104615108/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-825"], "en": ["Bibliothèque nationale de France, département Musique, MS-825"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1910-01-01T00:00:00"], "en": ["1910-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1910-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170194r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Caprice d'après l'étude en forme de valse, op. 52 N° 6 : pour violon avec accompagnement d'orchestre / par Eug. Ysaÿe ; violon avec accompagnement de piano - 1901-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM15-6216)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170194r/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM15-6216"], "en": ["Bibliothèque nationale de France, département Musique, VM15-6216"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1901-01-01T00:00:00"], "en": ["1901-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1901-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840171t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pr. Violon // avec accompt. d'Orchestre // op: 48 (manuscrit autographe) - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-659)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840171t/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-659"], "en": ["Bibliothèque nationale de France, département Musique, MS-659"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b531418522/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Africa : pour piano et orchestre symphonique] (manuscrit autographe) - 1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2445)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b531418522/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2445"], "en": ["Bibliothèque nationale de France, département Musique, MS-2445"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-01-01T00:00:00"], "en": ["1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11827724/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Introduction et rondo capriccioso : pour violon et orchestre : op. 28 / par Camille Saint-Saëns ; réd. de piano par Georges Bizet - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMA-3551 (5))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11827724/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMA-3551 (5)"], "en": ["Bibliothèque nationale de France, département Musique, VMA-3551 (5)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53128050x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Caprice andalous // op. 122 // pour Violon // avec acct d'orchestre (manuscrit autographe) - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-706 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53128050x/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-706 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-706 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k8580383/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La muse et le poète : duo pour violon et violoncelle avec accompagnement d'orchestre (ou de piano) : op. 132 / C. Saint-Saëns - 1910-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-463)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k8580383/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-463"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-463"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1910-01-01T00:00:00"], "en": ["1910-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1910-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10841799v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour le Concerto pour piano et orchestre no 3] (manuscrit autographe) / par Camille Saint-Saëns] - 1869-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-692)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10841799v/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-692"], "en": ["Bibliothèque nationale de France, département Musique, MS-692"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1869-01-01T00:00:00"], "en": ["1869-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1869-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b53128049j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "2me Concerto // pour Violoncelle op. 119 (manuscrit autographe) - 1902-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-707)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b53128049j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-707"], "en": ["Bibliothèque nationale de France, département Musique, MS-707"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1902-01-01T00:00:00"], "en": ["1902-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1902-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52000497b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite concertante pour piano-pédalier et orchestre ou piano et orchestre / par Ch. Gounod ; C. Saint-Saëns, réduction pour 2 pianos concertants - 1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-4804 (23))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52000497b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-4804 (23)"], "en": ["Bibliothèque nationale de France, département Musique, D-4804 (23)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1888-01-01T00:00:00"], "en": ["1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52509129p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "A M. Sarasate // Introduction et Rondo capriccioso // pour Violon // avec accompagnement d'Orchestre // Partition. // C. Saint-Saëns - 1863-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2454 (BIS))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52509129p/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2454 (BIS)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2454 (BIS)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1863-01-01T00:00:00"], "en": ["1863-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1863-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11638475/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Premier concerto pour piano, avec accompagnement d'orchestre : op. 17 / par Camille Saint-Saëns ; piano principal avec réduction de l'orchestre pour un 2ème piano - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, X-545 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11638475/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, X-545 (2)"], "en": ["Bibliothèque nationale de France, département Musique, X-545 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100299966/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Morceau de concert // pour cor // op. 94 (manuscrit autographe) - 1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-663 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100299966/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-663 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-663 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-01-01T00:00:00"], "en": ["1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163848k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Deuxième concerto pour piano, avec accompagnement d'orchestre : op. 22 / par Camille Saint-Saëns ; [pour piano principal avec l'accompagnement d'orchestre réduit pour un 2d. piano] - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, X-545 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163848k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, X-545 (3)"], "en": ["Bibliothèque nationale de France, département Musique, X-545 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10462637z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Concerto pour piano et orchestre no 5, en fa majeur, op. 103 : l'égyptien / Camille Saint-Saëns] - 1896-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-586)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10462637z/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-586"], "en": ["Bibliothèque nationale de France, département Musique, MS-586"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896-01-01T00:00:00"], "en": ["1896-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1896-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b531280483/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Caprice andalous : pour violon et orchestre, réduction pour violon et piano] (manuscrit autographe) / par Camille Saint-Saëns] - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-706 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b531280483/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-706 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-706 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100249578/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Morceau de concert // pour violon // op. 62 // à Monsieur Ovide Musin (manuscrit autographe) - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-701)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100249578/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-701"], "en": ["Bibliothèque nationale de France, département Musique, MS-701"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10864288r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite pour violoncelle et orchestre (d'après la suite op. 16 pour violoncelle et piano) : réduction violoncelle-piano (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-20820)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10864288r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-20820"], "en": ["Bibliothèque nationale de France, département Musique, MS-20820"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842564z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Muse et le poète / [Duo pour violon et violoncelle, avec accompagnement d'orchestre] / C. Saint-Saëns op. 132 - 1910-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2451)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842564z/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2451"], "en": ["Bibliothèque nationale de France, département Musique, MS-2451"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1910-01-01T00:00:00"], "en": ["1910-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1910-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842769z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "St Saëns // arrangement pr piano [du Concerto pour violon et orchestre no 1] // par Adam Laussel (manuscrit autographe) - 1859-1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-899)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842769z/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-899"], "en": ["Bibliothèque nationale de France, département Musique, MS-899"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-1877-01-01T00:00:00"], "en": ["1859-1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55007871g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Tarentelle pour flûte, clarinette avec accompagnement d'orchestre : op. 6] (manuscrit autographe) / par Camille Saint-Saëns] - 1857-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2455)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55007871g/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2455"], "en": ["Bibliothèque nationale de France, département Musique, MS-2455"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1857-01-01T00:00:00"], "en": ["1857-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1857-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840039c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Réduction pour piano // des instruments [à vent] du // 1er Concerto [pour piano et orchestre] (manuscrit autographe) - 1858-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-622)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840039c/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-622"], "en": ["Bibliothèque nationale de France, département Musique, MS-622"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1858-01-01T00:00:00"], "en": ["1858-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1858-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52520072r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Morceau de concert pour violon, esquisse datée de juillet 1880] (manuscrit autographe) - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-900)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52520072r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-900"], "en": ["Bibliothèque nationale de France, département Musique, MS-900"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b525013804/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Morceau de concert : pour cor avec accompagnement de piano ou d'orchestre : op. 94 / par C. Saint-Saëns - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-18233)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b525013804/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-18233"], "en": ["Bibliothèque nationale de France, département Musique, VM7-18233"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b525014023/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Morceau de concert : pour cor avec accompagnement de piano ou d'orchestre : op. 94 / par C. Saint-Saëns - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM9-881)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b525014023/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM9-881"], "en": ["Bibliothèque nationale de France, département Musique, VM9-881"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009248s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Odelette // pour flûte // avec acct d'orchestre (manuscrit autographe) - 1920-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-661 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009248s/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-661 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-661 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1920-01-01T00:00:00"], "en": ["1920-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1920-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10864290k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite pour violoncelle et orchestre (d'après la suite op. 16 pour violoncelle et piano) de Camille Saint-Saëns, red. violoncelle-piano (manuscrit autographe) - 1920-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-20821)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10864290k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-20821"], "en": ["Bibliothèque nationale de France, département Musique, MS-20821"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1920-01-01T00:00:00"], "en": ["1920-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1920-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11669053/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Premier Concerto pour piano avec accompagnement d'orchestre... Op. 17 - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3701)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11669053/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3701"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3701"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10467993h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Sarabande // de // S. Bach // transcrite pour violon (manuscrit autographe) - 1889-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-672)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10467993h/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-672"], "en": ["Bibliothèque nationale de France, département Musique, MS-672"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1889-01-01T00:00:00"], "en": ["1889-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1889-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174894d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Africa : fantaisie pour piano avec accompagnement d'orchestre : op. 89 / par C. Saint-Saëns ; [édition pour piano seul par l'auteur] - 1891-01-01T00:00:00 - (Ancien fonds du Conservatoire, A-47250)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174894d/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, A-47250"], "en": ["Ancien fonds du Conservatoire, A-47250"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-01-01T00:00:00"], "en": ["1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104628724/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "n° 5 // Gavotte [de la Suite pour violoncelle et orchestre op. 16 bis] (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-848 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104628724/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-848 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-848 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100237128/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Africa // op. 89 // Fantaisie pour piano et orchestre // Partie de piano (manuscrit autographe) - 1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-580 (1-2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100237128/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-580 (1-2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-580 (1-2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-01-01T00:00:00"], "en": ["1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174874n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Introduction et rondo capriccioso : pour violon et orchestre : op. 28 / par Camille Saint-Saëns ; à 2 pianos 4 mains [par A. Debussy] - 1889-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11226)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174874n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11226"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11226"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1889-01-01T00:00:00"], "en": ["1889-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1889-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166908b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "4e Concerto pour piano avec accompagnement d'orchestre... Op. 44 - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3704)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166908b/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3704"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3704"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108642896/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Suite pour violoncelle et orchestre (d'après la suite op. 16 pour violoncelle et piano) de Camille Saint-Saëns (manuscrit autographe) - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-20822)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108642896/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-20822"], "en": ["Bibliothèque nationale de France, département Musique, MS-20822"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10461493j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Wedding Cake // 2d Piano (manuscrit autographe) - 1885-1886-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-584)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10461493j/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-584"], "en": ["Bibliothèque nationale de France, département Musique, MS-584"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1885-1886-01-01T00:00:00"], "en": ["1885-1886-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1885-1886-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52513824b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses de plusieurs oeuvres : Sonate pour violon et piano, op. 102 ; Hymne à Vénus : cadence finale du concerto pour piano et orchestre no 5] (manuscrit autographe) / par Camille Saint-Saëns] - 1896-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-875 (11))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52513824b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-875 (11)"], "en": ["Bibliothèque nationale de France, département Musique, MS-875 (11)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896-01-01T00:00:00"], "en": ["1896-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1896-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11619593/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Tarentelle pour flûte et clarinette avec accompagnement d'orchestre : op. 6 / par Camille Saint-Saëns - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3719)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11619593/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3719"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3719"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166909r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Concerto pour violoncelle... Op. 33 / partition d'orchestre - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3707)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166909r/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3707"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3707"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1874-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b7400152x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Introduction // & // Rondo capriccioso // p.r Violon (manuscrit autographe) - 1863-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2454)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b7400152x/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2454"], "en": ["Bibliothèque nationale de France, département Musique, MS-2454"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1863-01-01T00:00:00"], "en": ["1863-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1863-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840173q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Rigaudon (manuscrit autographe) - 1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-664 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840173q/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-664 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-664 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1892-01-01T00:00:00"], "en": ["1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108612376/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour le Concerto pour piano et orchestre n°5, op. 103] (manuscrit autographe) - 1896-1896-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-916 (5))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108612376/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-916 (5)"], "en": ["Bibliothèque nationale de France, département Musique, MS-916 (5)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1896-1896-01-01T00:00:00"], "en": ["1896-1896-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1896-1896-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104626280/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Havanaise // pour Violon et Orchestre // C. Saint-Saëns // op. 82 (manuscrit autographe) - 1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-846)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104626280/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-846"], "en": ["Bibliothèque nationale de France, département Musique, MS-846"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1888-01-01T00:00:00"], "en": ["1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b52510115p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pour flûte : Op. 37 / C. Saint-Saëns - 1871-1897-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-8398)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b52510115p/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-8398"], "en": ["Bibliothèque nationale de France, département Musique, D-8398"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1871-1897-01-01T00:00:00"], "en": ["1871-1897-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1871-1897-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1174904b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Africa : fantaisie pour piano avec accompagnement d'orchestre : op. 89 / C. Saint-Saëns - 1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMB-3507)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1174904b/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMB-3507"], "en": ["Bibliothèque nationale de France, département Musique, VMB-3507"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-01-01T00:00:00"], "en": ["1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108401656/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Concerto en ut mineur // de Mozart (manuscrit autographe) - 1914-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-626)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108401656/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-626"], "en": ["Bibliothèque nationale de France, département Musique, MS-626"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1914-01-01T00:00:00"], "en": ["1914-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1914-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k858040d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Morceau de concert : pour cor avec accompagnement de piano ou d'orchestre : op. 94 / par C. Saint-Saëns - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-465)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k858040d/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-465"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-465"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1170204p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Caprice d'après l'étude en forme de valse, op. 52 N° 6 : pour violon avec accompagnement d'orchestre / par Eug. Ysaÿe - 1901-01-01T00:00:00 - (Ancien fonds du Conservatoire, AC E10-1028)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1170204p/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, AC E10-1028"], "en": ["Ancien fonds du Conservatoire, AC E10-1028"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1901-01-01T00:00:00"], "en": ["1901-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1901-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11669001/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "1er Concerto pour violoncelle avec accompagnement d'orchestre ou de piano, par Camille Saint-Saëns, op. 33 - 1873-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11262)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11669001/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11262"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11262"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1873-01-01T00:00:00"], "en": ["1873-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1873-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10861238n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour le Concerto pour piano et orchestre n°5, op. 103] (manuscrit autographe) - 1894-1894-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-916 (6))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10861238n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-916 (6)"], "en": ["Bibliothèque nationale de France, département Musique, MS-916 (6)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1894-1894-01-01T00:00:00"], "en": ["1894-1894-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1894-1894-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104629032/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Africa // Fantaisie pour piano (manuscrit autographe) - 1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-581)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104629032/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-581"], "en": ["Bibliothèque nationale de France, département Musique, MS-581"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-01-01T00:00:00"], "en": ["1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166906h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Deuxième Concerto pour piano avec accomp.t d'orchestre... Op. 22 - 1875-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3702)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166906h/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3702"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3702"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-01-01T00:00:00"], "en": ["1875-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1162249m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Deuxième concerto pour piano avec accomp.t d'orchestre par Camille Saint-Saëns, op. 22. partition de piano avec la réduction de l'orchestre pour un second piano - 1868-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-11259)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1162249m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-11259"], "en": ["Bibliothèque nationale de France, département Musique, VM7-11259"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1868-01-01T00:00:00"], "en": ["1868-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1868-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55001033m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Concerto p[ou]r Violon (manuscrit autographe) - 1880-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-486)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55001033m/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-486"], "en": ["Bibliothèque nationale de France, département Musique, MS-486"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1880-01-01T00:00:00"], "en": ["1880-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1880-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166907x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "3e Concerto (en si mineur) pour violon avec accompagnement d'orchestre ou de piano, op. 61 / par Camille Saint-Saëns - 1881-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM7-3703)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166907x/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM7-3703"], "en": ["Bibliothèque nationale de France, département Musique, VM7-3703"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1881-01-01T00:00:00"], "en": ["1881-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1881-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10841801x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour le Concerto pour violoncelle no 1 en la mineur] (manuscrit autographe) - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-694)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10841801x/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-694"], "en": ["Bibliothèque nationale de France, département Musique, MS-694"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k858039g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Morceau de concert : pour harpe avec accompagnement d'orchestre : op. 154 / par C. Saint-Saëns - 1919-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-464)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k858039g/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-464"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-464"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1919-01-01T00:00:00"], "en": ["1919-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1919-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10841802c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour Les soldats de Gédéon] (manuscrit autographe) - 1876-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-695)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10841802c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-695"], "en": ["Bibliothèque nationale de France, département Musique, MS-695"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1876-01-01T00:00:00"], "en": ["1876-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1876-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k3208945/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance pour flute (ou violon) avec acc. d'orchestre (ou piano) op. 37 - 1874-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM9-2938)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k3208945/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM9-2938"], "en": ["Bibliothèque nationale de France, département Musique, VM9-2938"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1874-01-01T00:00:00"], "en": ["1874-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1874-01-01T00:00:00"
+	          
+	      }]
+	 }

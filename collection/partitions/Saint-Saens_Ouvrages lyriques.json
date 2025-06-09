@@ -1,0 +1,2303 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/Saint-Saens_Ouvrages lyriques.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions d'œuvres de Camille Saint-Saëns : Ouvrages lyriques" ], "en": [ "Camille Saint-Saëns musical scores: Lyrical works" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+      "type": "Image",
+      "format": "image/png"
+    }
+  ],
+  "description": { "fr": [ "Contenu de la collection : Ouvrages lyriques" ], "en": [ "Collection content: Ouvrages lyriques" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28gallica%20adj%20%22genre%20musical%20opera%22%20or%20gallica%20adj%20%22genre%20musical%20tragedie%20lyrique%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Ouvrages lyriques</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28gallica%20adj%20%22genre%20musical%20opera%22%20or%20gallica%20adj%20%22genre%20musical%20tragedie%20lyrique%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Ouvrages lyriques</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28gallica%20adj%20%22genre%20musical%20opera%22%20or%20gallica%20adj%20%22genre%20musical%20tragedie%20lyrique%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Partitions d'œuvres de Camille Saint-Saëns</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28gallica%20adj%20%22genre%20musical%20opera%22%20or%20gallica%20adj%20%22genre%20musical%20tragedie%20lyrique%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29'>Camille Saint-Saëns musical scores</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1840-1920" ], "en": [ "1840-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28gallica%20adj%20%22genre%20musical%20opera%22%20or%20gallica%20adj%20%22genre%20musical%20tragedie%20lyrique%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=%28%28gallica%20adj%20%22genre%20musical%20opera%22%20or%20gallica%20adj%20%22genre%20musical%20tragedie%20lyrique%22%20%29%20and%20%28dc.creator%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20or%20dc.contributor%20adj%20%22Saint-Sa%C3%ABns%2C%20Camille%20%281835-1921%29.%20Compositeur%22%20%29%20%29%20%20and%20%28dc.type%20all%20%22partition%22%29",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions d'œuvres de Camille Saint-Saëns : Ouvrages lyriques"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores: Lyrical works" ] }
+		}],
+  
+  "items": [
+{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11701740/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les Barbares : tragédie lyrique en 3 actes et un prologue / poème de Victorien Sardou et P. B. Gheusi ; musique de C. Saint-Saëns - 1901-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-6414)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11701740/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-6414"], "en": ["Bibliothèque nationale de France, département Musique, D-6414"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1901-01-01T00:00:00"], "en": ["1901-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1901-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550099006/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[La Princesse jaune : opéra-comique en un acte] (manuscrit autographe) - 1871-1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-531)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550099006/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-531"], "en": ["Bibliothèque nationale de France, département Musique, MS-531"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1871-1872-01-01T00:00:00"], "en": ["1871-1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1871-1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843592n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour l'opéra Ascanio] (manuscrit autographe) - 1887-1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2492 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843592n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2492 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2492 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-1888-01-01T00:00:00"], "en": ["1887-1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842771s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Air et ouverture d'un opéra-comique inachevé (sujet persan)] (manuscrit autographe) - 1850-1860-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-870 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842771s/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-870 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-870 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1850-1860-01-01T00:00:00"], "en": ["1850-1860-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1850-1860-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1281492s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Princesse jaune, opéra-comique en 1 acte de Louis Gallet (Nouvelle édition) - 1906-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM5-3913)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1281492s/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM5-3913"], "en": ["Bibliothèque nationale de France, département Musique, VM5-3913"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1906-01-01T00:00:00"], "en": ["1906-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1906-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108436029/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour Henry VIII] (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-823 (6))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108436029/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-823 (6)"], "en": ["Bibliothèque nationale de France, département Musique, MS-823 (6)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11749080/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ascanio : opéra en 5 actes et 6 tableaux / d'après le drame 'Benvenuto Cellini' de Paul Meurice ; poème de Louis Gallet ; musique de C. Saint-Saëns - 1891-01-01T00:00:00 - (Ancien fonds du Conservatoire, D-13829)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11749080/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Ancien fonds du Conservatoire, D-13829"], "en": ["Ancien fonds du Conservatoire, D-13829"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-01-01T00:00:00"], "en": ["1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1161962k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Helena, Dichtung in einem Akt, deutsche Übertragung von Albert Ahn. Klavierauszug mit Text - 1904-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM2-1389)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1161962k/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM2-1389"], "en": ["Bibliothèque nationale de France, département Musique, VM2-1389"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1904-01-01T00:00:00"], "en": ["1904-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1904-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10022040m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Phryné : opéra-comique en deux actes] (manuscrit autographe) / par Camille Saint-Saëns ; sur un livret de Lucien Augé de Lassus] - 1893-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-516)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10022040m/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-516"], "en": ["Bibliothèque nationale de France, département Musique, MS-516"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1893-01-01T00:00:00"], "en": ["1893-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1893-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843844m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Fragment de l'opéra Ascanio] (manuscrit autographe) / Camille Saint-Saëns] - 1889-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-778 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843844m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-778 (4)"], "en": ["Bibliothèque nationale de France, département Musique, MS-778 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1889-01-01T00:00:00"], "en": ["1889-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1889-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11668955/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Phryné, opéra comique en 2 actes, poème de L. Augé de Lassus, partition chant et piano réduite par l'auteur - 1893-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM5-3250)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11668955/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM5-3250"], "en": ["Bibliothèque nationale de France, département Musique, VM5-3250"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1893-01-01T00:00:00"], "en": ["1893-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1893-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11929241/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Proserpine, (d'après Auguste Vacquerie), drame lyrique en 4 actes de Louis Gallet, partition chant et piano par Ph. Bellenot - 1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM5-3035)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11929241/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM5-3035"], "en": ["Bibliothèque nationale de France, département Musique, VM5-3035"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-01-01T00:00:00"], "en": ["1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843833r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Fragment de l'opéra Etienne Marcel] (manuscrit autographe) / Camille Saint-Saëns] - 1879-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-778 (5))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843833r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-778 (5)"], "en": ["Bibliothèque nationale de France, département Musique, MS-778 (5)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1879-01-01T00:00:00"], "en": ["1879-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1879-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10073736f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Henri VIII, opéra en 4 actes, poëme de Léonce Détroyat et Armand Silvestre - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, RES VM2-50)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10073736f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, RES VM2-50"], "en": ["Bibliothèque nationale de France, département Musique, RES VM2-50"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k858034k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Proserpine : drame lyrique. Entr'acte / C. Saint-Saëns - 1909-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, AC E10-459)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k858034k/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, AC E10-459"], "en": ["Bibliothèque nationale de France, département Musique, AC E10-459"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1909-01-01T00:00:00"], "en": ["1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108438363/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Fragment de l'opéra Ascanio] (manuscrit autographe) / Camille Saint-Saëns] - 1890-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-778 (9))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108438363/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-778 (9)"], "en": ["Bibliothèque nationale de France, département Musique, MS-778 (9)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1890-01-01T00:00:00"], "en": ["1890-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1890-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840479j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hélène // Scène 5me // orchestre d'harmonie (manuscrit autographe) - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-679)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840479j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-679"], "en": ["Bibliothèque nationale de France, département Musique, MS-679"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843605n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisse pour l'entrée des clans, dans Henry VIII, partie supérieure] (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-823 (9))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843605n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-823 (9)"], "en": ["Bibliothèque nationale de France, département Musique, MS-823 (9)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108436046/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour Henry VIII] (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-823 (8))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108436046/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-823 (8)"], "en": ["Bibliothèque nationale de France, département Musique, MS-823 (8)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10515919x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Henry VIII : opéra en 4 actes] (manuscrit autographe) - 1882-01-01T00:00:00 - (Bibliothèque nationale de France, A-640 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10515919x/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, A-640 (2)"], "en": ["Bibliothèque nationale de France, A-640 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1882-01-01T00:00:00"], "en": ["1882-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1882-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550094869/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Henry VIII : opéra en 4 actes (manuscrit autographe) - 1881-1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, A-640 (B I-IV))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550094869/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, A-640 (B I-IV)"], "en": ["Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, A-640 (B I-IV)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1881-1883-01-01T00:00:00"], "en": ["1881-1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1881-1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10465851w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Ouverture et duo // destination et date inconnues // d'un opéra-comique inachevé // (écrits probablement à 17 ans) (manuscrit autographe) - 1854-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-871)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10465851w/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-871"], "en": ["Bibliothèque nationale de France, département Musique, MS-871"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1854-01-01T00:00:00"], "en": ["1854-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1854-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843597w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour Henry VIII] (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-823 (10))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843597w/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-823 (10)"], "en": ["Bibliothèque nationale de France, département Musique, MS-823 (10)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100737350/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Samson et Dalila, opéra en 3 actes de Ferdinand Lemaire, traduction allemande par Richard Pohl - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, RES VM2-52)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100737350/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, RES VM2-52"], "en": ["Bibliothèque nationale de France, département Musique, RES VM2-52"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100220469/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Phryné : opéra-comique en deux actes] (manuscrit autographe) / par Camille Saint-Saëns ; sur un livret de Lucien Augé de Lassus] - 1897-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-515)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100220469/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-515"], "en": ["Bibliothèque nationale de France, département Musique, MS-515"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1897-01-01T00:00:00"], "en": ["1897-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1897-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b105110120/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Henry VIII : opéra en 4 actes] (manuscrit autographe) - 1882-01-01T00:00:00 - (Bibliothèque nationale de France, A-640 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b105110120/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, A-640 (3)"], "en": ["Bibliothèque nationale de France, A-640 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1882-01-01T00:00:00"], "en": ["1882-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1882-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842552n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Benvenuto // 1.er Acte // 1.er Tableau[-Acte 5.me // 2.me Tableau] (manuscrit autographe) - 1887-1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2449 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842552n/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2449 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2449 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-1888-01-01T00:00:00"], "en": ["1887-1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550082112/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hélène (manuscrit autographe) - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2452)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550082112/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2452"], "en": ["Bibliothèque nationale de France, département Musique, MS-2452"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108404872/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "C. Saint-Saëns // Proserpine // Autres versions // (orchestre) (manuscrit en partie autographe) - 1886-1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-543 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108404872/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-543 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-543 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-1891-01-01T00:00:00"], "en": ["1886-1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550096667/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hélène (manuscrit autographe) - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-681)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550096667/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-681"], "en": ["Bibliothèque nationale de France, département Musique, MS-681"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100721897/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Timbre d'argent, drame lyrique en 4 actes de J. Barbier et M. Carré, partition piano seul par Anthony Choudens - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM2-893)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100721897/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM2-893"], "en": ["Bibliothèque nationale de France, département Musique, VM2-893"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464283d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Proserpine : drame lyrique en 4 actes (manuscrit autographe) - 1886-1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-542)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464283d/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-542"], "en": ["Bibliothèque nationale de France, département Musique, MS-542"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-1891-01-01T00:00:00"], "en": ["1886-1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464286r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Proserpine : drame lyrique en 4 actes (manuscrit autographe) - 1886-1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-539)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464286r/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-539"], "en": ["Bibliothèque nationale de France, département Musique, MS-539"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-1891-01-01T00:00:00"], "en": ["1886-1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840178z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Menuet // de la // Reine Anne // de l'Opéra // Henry VIII // C. Saint-Saëns (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-669)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840178z/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-669"], "en": ["Bibliothèque nationale de France, département Musique, MS-669"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108425550/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Benvenuto // 1.er Acte // 1.er Tableau[-Acte 5.me // 2.me Tableau] (manuscrit autographe) - 1887-1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2449 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108425550/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2449 (4)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2449 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-1888-01-01T00:00:00"], "en": ["1887-1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108425533/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Benvenuto // 1.er Acte // 1.er Tableau[-Acte 5.me // 2.me Tableau] (manuscrit autographe) - 1887-1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2449 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108425533/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2449 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2449 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-1888-01-01T00:00:00"], "en": ["1887-1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842554j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Benvenuto // 1.er Acte // 1.er Tableau[-Acte 5.me // 2.me Tableau] (manuscrit autographe) - 1887-1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2449 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842554j/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2449 (3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2449 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-1888-01-01T00:00:00"], "en": ["1887-1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843598b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour le ballet d'Henry VIII, no 7 Gigue] (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-823 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843598b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-823 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-823 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840184k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Saint-Saëns // Henry VIII // Fragments (manuscrit autographe) - 1881-1882-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-688)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840184k/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-688"], "en": ["Bibliothèque nationale de France, département Musique, MS-688"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1881-1882-01-01T00:00:00"], "en": ["1881-1882-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1881-1882-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b105110103/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Henry VIII : opéra en 4 actes] (manuscrit autographe) - 1882-01-01T00:00:00 - (Bibliothèque nationale de France, A-640 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b105110103/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, A-640 (1)"], "en": ["Bibliothèque nationale de France, A-640 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1882-01-01T00:00:00"], "en": ["1882-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1882-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10841798d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour la Princesse jaune] (manuscrit autographe) - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-690)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10841798d/f3/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-690"], "en": ["Bibliothèque nationale de France, département Musique, MS-690"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843835n/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "La Princesse jaune / Saint-Saëns / Ariette / Chant et piano (manuscrit autographe) - 1871-1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-778 (7))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843835n/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-778 (7)"], "en": ["Bibliothèque nationale de France, département Musique, MS-778 (7)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1871-1872-01-01T00:00:00"], "en": ["1871-1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1871-1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009644h/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hélène (manuscrit autographe) - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-680)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009644h/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-680"], "en": ["Bibliothèque nationale de France, département Musique, MS-680"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464263k/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Samson et] Dalila // C. Saint-Saëns (manuscrit autographe) - 1859-1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-545 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464263k/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-545 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-545 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-1877-01-01T00:00:00"], "en": ["1859-1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464265g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Samson et] Dalila // C. Saint-Saëns (manuscrit autographe) - 1859-1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-545 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464265g/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-545 (4)"], "en": ["Bibliothèque nationale de France, département Musique, MS-545 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-1877-01-01T00:00:00"], "en": ["1859-1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843599s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisse pour Henry VIII, Acte IV, scène 3] (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-823 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843599s/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-823 (3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-823 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b100299714/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Benvenuto [Ascanio] : piano-chant] (manuscrit autographe) / Camille Saint-Saëns] - 1887-1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-530)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b100299714/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-530"], "en": ["Bibliothèque nationale de France, département Musique, MS-530"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-1888-01-01T00:00:00"], "en": ["1887-1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843596f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Henry VIII. // Musique sur le théâtre // acte IV // 1er Tableau Tacet // 2d Tableau (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-823 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843596f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-823 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-823 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11621854/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Romance d'Henri VIII : [opéra en 4 actes] / de C. Saint-Saêns - 1890-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMG-58908)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11621854/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMG-58908"], "en": ["Bibliothèque nationale de France, département Musique, VMG-58908"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1890-01-01T00:00:00"], "en": ["1890-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1890-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108401834/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Esquisses // pour La Princesse Jaune (manuscrit autographe) - 1872-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-687)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108401834/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-687"], "en": ["Bibliothèque nationale de France, département Musique, MS-687"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1872-01-01T00:00:00"], "en": ["1872-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1872-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842556f/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Benvenuto // 1.er Acte // 1.er Tableau[-Acte 5.me // 2.me Tableau] (manuscrit autographe) - 1887-1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2449 (5))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842556f/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2449 (5)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2449 (5)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-1888-01-01T00:00:00"], "en": ["1887-1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842558b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Benvenuto // 1.er Acte // 1.er Tableau[-Acte 5.me // 2.me Tableau] (manuscrit autographe) - 1887-1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2449 (7))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842558b/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2449 (7)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2449 (7)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-1888-01-01T00:00:00"], "en": ["1887-1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842557w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Benvenuto // 1.er Acte // 1.er Tableau[-Acte 5.me // 2.me Tableau] (manuscrit autographe) - 1887-1888-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2449 (6))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842557w/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2449 (6)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2449 (6)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1887-1888-01-01T00:00:00"], "en": ["1887-1888-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1887-1888-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840182p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Timbre d'argent // 4me acte // air de ballet (manuscrit autographe) - 1875-1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-686)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840182p/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-686"], "en": ["Bibliothèque nationale de France, département Musique, MS-686"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-1877-01-01T00:00:00"], "en": ["1875-1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104642859/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Proserpine : drame lyrique en 4 actes (manuscrit autographe) - 1886-1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-540)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104642859/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-540"], "en": ["Bibliothèque nationale de France, département Musique, MS-540"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-1891-01-01T00:00:00"], "en": ["1886-1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464284v/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Proserpine : drame lyrique en 4 actes (manuscrit autographe) - 1886-1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-541)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464284v/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-541"], "en": ["Bibliothèque nationale de France, département Musique, MS-541"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-1891-01-01T00:00:00"], "en": ["1886-1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842761c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Esquisses pour // Proserpine (manuscrit autographe) - 1886-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-828)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842761c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-828"], "en": ["Bibliothèque nationale de France, département Musique, MS-828"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-01-01T00:00:00"], "en": ["1886-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843129c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Saint-Saëns // Proserpine // Esquisses et Fragments (manuscrit autographe) - 1886-1887-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-699)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843129c/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-699"], "en": ["Bibliothèque nationale de France, département Musique, MS-699"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1886-1887-01-01T00:00:00"], "en": ["1886-1887-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1886-1887-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464279p/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Étienne Marcel (manuscrit autographe) - 1878-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-552)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464279p/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-552"], "en": ["Bibliothèque nationale de France, département Musique, MS-552"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1878-01-01T00:00:00"], "en": ["1878-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1878-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464907j/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Étienne Marcel (manuscrit autographe) - 1878-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-551)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464907j/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-551"], "en": ["Bibliothèque nationale de France, département Musique, MS-551"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1878-01-01T00:00:00"], "en": ["1878-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1878-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104642802/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Étienne Marcel (manuscrit autographe) - 1878-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-553)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104642802/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-553"], "en": ["Bibliothèque nationale de France, département Musique, MS-553"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1878-01-01T00:00:00"], "en": ["1878-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1878-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108425605/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "L'Ancêtre (manuscrit autographe) - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2450 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108425605/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2450 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2450 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108425622/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "L'Ancêtre (manuscrit autographe) - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2450 (3))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108425622/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2450 (3)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2450 (3)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b525132081/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Samson et] Dalila // C. Saint-Saëns (manuscrit autographe) - 1859-1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-545 (1))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b525132081/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-545 (1)"], "en": ["Bibliothèque nationale de France, département Musique, MS-545 (1)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-1877-01-01T00:00:00"], "en": ["1859-1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104642698/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "L'Ancêtre // 1.er[-3.me] Acte // (Piano et Chant) (manuscrit autographe) - 1906-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-506)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104642698/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-506"], "en": ["Bibliothèque nationale de France, département Musique, MS-506"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1906-01-01T00:00:00"], "en": ["1906-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1906-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104674819/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les Barbares (manuscrit autographe) - 1901-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-556)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104674819/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-556"], "en": ["Bibliothèque nationale de France, département Musique, MS-556"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1901-01-01T00:00:00"], "en": ["1901-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1901-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10840161d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "C. Saint-Saëns // Proserpine // chant et piano (manuscrit en partie autographe) - 1891-1891-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-543 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10840161d/f11/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-543 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-543 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-1891-01-01T00:00:00"], "en": ["1891-1891-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-1891-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55002150t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Dalila // C. Saint-Saëns // 1er Acte (manuscrit autographe) - 1873-1892-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-544)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55002150t/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-544"], "en": ["Bibliothèque nationale de France, département Musique, MS-544"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1873-1892-01-01T00:00:00"], "en": ["1873-1892-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1873-1892-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10842561m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "L'Ancêtre (manuscrit autographe) - 1905-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-2450 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10842561m/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-2450 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-2450 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1905-01-01T00:00:00"], "en": ["1905-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1905-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10464268t/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Samson et] Dalila // C. Saint-Saëns (manuscrit autographe) - 1859-1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-545 (5))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10464268t/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-545 (5)"], "en": ["Bibliothèque nationale de France, département Musique, MS-545 (5)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-1877-01-01T00:00:00"], "en": ["1859-1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b104642641/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Samson et] Dalila // C. Saint-Saëns (manuscrit autographe) - 1859-1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-545 (2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b104642641/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-545 (2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-545 (2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1859-1877-01-01T00:00:00"], "en": ["1859-1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1859-1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55008643q/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Ascanio / Camille Saint-Saëns] (manuscrit autographe) - 1888-1889-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-480)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55008643q/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-480"], "en": ["Bibliothèque nationale de France, département Musique, MS-480"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1888-1889-01-01T00:00:00"], "en": ["1888-1889-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1888-1889-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108404620/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Le Timbre d'argent, drame lyrique en 4 actes de Jules Barbier et Michel Carré, musique de Saint-Saëns] (manuscrit en partie autographe) - 1875-1913-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-599 (1-31))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108404620/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-599 (1-31)"], "en": ["Bibliothèque nationale de France, département Musique, MS-599 (1-31)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1875-1913-01-01T00:00:00"], "en": ["1875-1913-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1875-1913-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843600d/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour Henry VIII] (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-823 (4))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843600d/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-823 (4)"], "en": ["Bibliothèque nationale de France, département Musique, MS-823 (4)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55009199x/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Ascanio / Camille Saint-Saëns] (manuscrit autographe) - 1888-1889-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-481)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55009199x/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-481"], "en": ["Bibliothèque nationale de France, département Musique, MS-481"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1888-1889-01-01T00:00:00"], "en": ["1888-1889-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1888-1889-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11638156/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Phryné : opéra-comique en deux actes / poème de L. Augé de Lassus ; musique de C. Saint-Saëns - 1893-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13789)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11638156/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13789"], "en": ["Bibliothèque nationale de France, département Musique, D-13789"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1893-01-01T00:00:00"], "en": ["1893-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1893-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163822b/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Samson et Dalila, opéra en 3 actes, partition piano à 4 mains par Paul Dukas - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM2-1033)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163822b/f13/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM2-1033"], "en": ["Bibliothèque nationale de France, département Musique, VM2-1033"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163898g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Etienne Marcel, opéra en 4 actes, poème de Louis Gallet - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, RES VM2-51)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163898g/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, RES VM2-51"], "en": ["Bibliothèque nationale de France, département Musique, RES VM2-51"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11638245/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "L'Ancêtre, drame lyrique en 3 actes, poème de L. Augé de Lassus, musique de C. Saint-Saëns - 1906-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM2-1452)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11638245/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM2-1452"], "en": ["Bibliothèque nationale de France, département Musique, VM2-1452"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1906-01-01T00:00:00"], "en": ["1906-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1906-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163823r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "L'Ancêtre, drame lyrique en 3 actes, poème de L. Augé de Lassus, partition chant et piano réduite par l'auteur - 1906-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM2-1431)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163823r/f7/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM2-1431"], "en": ["Bibliothèque nationale de France, département Musique, VM2-1431"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1906-01-01T00:00:00"], "en": ["1906-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1906-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163853w/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Proserpine : drame lyrique en 4 actes de Louis Gallet (Nouvelle édition) / (d'après Auguste Vacquerie) ; musique de C. Saint-Saëns ; [réduction] chant et piano par Ph. Bellenot - 1891-1909-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM5-3035 (A))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163853w/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM5-3035 (A)"], "en": ["Bibliothèque nationale de France, département Musique, VM5-3035 (A)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1891-1909-01-01T00:00:00"], "en": ["1891-1909-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1891-1909-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163812z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Timbre d'argent, drame lyrique en 4 actes de J. Barbier et M. Carré. Musique de Camille Saint-Saëns. Partition chant et piano (Nouvelle édition, avec récits) - 1913-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, 4-VM2-113)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163812z/f13/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, 4-VM2-113"], "en": ["Bibliothèque nationale de France, département Musique, 4-VM2-113"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1913-01-01T00:00:00"], "en": ["1913-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1913-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163852g/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Etienne Marcel. Opéra en quatre actes. Poème de Louis Gallet.... Partition chant et piano par A. Messager - -01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VMB-27)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163852g/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VMB-27"], "en": ["Bibliothèque nationale de France, département Musique, VMB-27"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["-01-01T00:00:00"], "en": ["-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163813c/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Hélène : poème lyrique en un acte / de C. Saint-Saëns - 1903-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, D-13763)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163813c/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, D-13763"], "en": ["Bibliothèque nationale de France, département Musique, D-13763"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1903-01-01T00:00:00"], "en": ["1903-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1903-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b10843603r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisse du menuet de la reine Anne dans Henry VIII] (manuscrit autographe) - 1883-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-823 (7))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b10843603r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-823 (7)"], "en": ["Bibliothèque nationale de France, département Musique, MS-823 (7)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1883-01-01T00:00:00"], "en": ["1883-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1883-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b550086517/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Déjanire (manuscrit autographe) - 1910-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-509 (1-2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b550086517/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-509 (1-2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-509 (1-2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1910-01-01T00:00:00"], "en": ["1910-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1910-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b55008650s/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Déjanire (manuscrit autographe) - 1910-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-509 (1-2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b55008650s/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-509 (1-2)"], "en": ["Bibliothèque nationale de France, département Musique, MS-509 (1-2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1910-01-01T00:00:00"], "en": ["1910-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1910-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b108436080/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "[Esquisses pour Frédégonde] (manuscrit autographe) / par Camille Saint-Saëns] - 1895-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, MS-881 (1-10))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b108436080/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, MS-881 (1-10)"], "en": ["Bibliothèque nationale de France, département Musique, MS-881 (1-10)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1895-01-01T00:00:00"], "en": ["1895-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1895-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1163816m/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Déjanire, tragédie lyrique en 4 actes. Poème de C. Saint-Saëns - 1911-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, FOL-VM2-47)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1163816m/f9/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, FOL-VM2-47"], "en": ["Bibliothèque nationale de France, département Musique, FOL-VM2-47"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1911-01-01T00:00:00"], "en": ["1911-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1911-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k1166894r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Le Timbre d'argent, drame lyrique en 4 actes de J. Barbier et M. Carré, partition chant et piano , arrangée par Georges Bizet - 1877-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM2-892)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k1166894r/f13/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM2-892"], "en": ["Bibliothèque nationale de France, département Musique, VM2-892"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1877-01-01T00:00:00"], "en": ["1877-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1877-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k11702053/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Frédégonde. Opéra en cinq actes. Poème de Louis Gallet. Musique de Ernest Guiraud et Camille Saint-Saëns. Partition chant et piano, réduite par Alfred Bachelet... - 1895-01-01T00:00:00 - (Bibliothèque nationale de France, département Musique, VM2-1107)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k11702053/f13/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Musique, VM2-1107"], "en": ["Bibliothèque nationale de France, département Musique, VM2-1107"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1895-01-01T00:00:00"], "en": ["1895-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1895-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/btv1b525135318/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "Les Barbares, opéra en 3 actes de Camille Saint-Saëns, livret de Victorien Sardou et P. B. Gheusi. Recueil de documents concernant la genèse de l'oeuvre et sa reception dans la presse : lettres, coupures de presse, photographies et épreuves corrigées de la réduction chant et piano, réunis par P. B. Gheusi, pour la période Mars 1900 - décembre 1908 - 1900-1908-01-01T00:00:00 - (Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, RES-2045 (1-2))"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/btv1b525135318/f5/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, RES-2045 (1-2)"], "en": ["Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, RES-2045 (1-2)"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1900-1908-01-01T00:00:00"], "en": ["1900-1908-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1900-1908-01-01T00:00:00"
+	          
+	      }]
+	 }
