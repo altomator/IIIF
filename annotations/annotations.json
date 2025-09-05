@@ -1,0 +1,71 @@
+{"https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json": {
+"https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/canvas/f5": [
+    {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "btv1b86000632-5-0",
+        "@type": "oa:Annotation",
+        "motivation": "oa:describing",
+        "resource": [
+            {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Vignette (0.93)</p>"
+            }
+        ],
+        "on": [
+            {
+                "@type": "oa:SpecificResource",
+                "full": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/canvas/f5",
+                "selector": {
+                    "@type": "oa:Choice",
+                    "default": {
+                        "@type": "oa:FragmentSelector",
+                        "value": "xywh=732,1407,1215,1635"
+                    },
+                    "item": {
+                        "@type": "oa:SvgSelector",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M732,1407h1215v1635h-1215z\" id=\"annotations_btv1b86000632-5-0\" fill-opacity=\".2\" fill=\"#ff0000\" stroke=\"#ff0000\" /></svg>"
+                    }
+                },
+                "within": {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json",
+                    "@type": "sc:Manifest"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "btv1b86000632-5-1",
+        "@type": "oa:Annotation",
+        "motivation": "oa:describing",
+        "resource": [
+            {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Lettrine (0.89)</p>"
+            }
+        ],
+        "on": [
+            {
+                "@type": "oa:SpecificResource",
+                "full": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/canvas/f5",
+                "selector": {
+                    "@type": "oa:Choice",
+                    "default": {
+                        "@type": "oa:FragmentSelector",
+                        "value": "xywh=304,91,578,862"
+                    },
+                    "item": {
+                        "@type": "oa:SvgSelector",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M304,91h578v862h-578z\" id=\"annotations_btv1b86000632-5-1\" fill-opacity=\".2\" fill=\"#ff0000\" stroke=\"#ff0000\" /></svg>"
+                    }
+                },
+                "within": {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json",
+                    "@type": "sc:Manifest"
+                }
+            }
+        ]
+    }
+]}}
