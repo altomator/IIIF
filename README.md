@@ -201,17 +201,17 @@ Same experiment for a collection of [Paris maps](https://mirador.bnf.fr/?iiif-co
 #### Automatic annotation generation
 In this use case, computer vision models are used to detect objects in images. The [Roboflow](https://roboflow.com/) platform was used to train a model for detecting typographical elements (initial letters, illustrations, ornaments) in old printed works. Based on the segmentation data produced by the [model](https://app.roboflow.com/snooptypo/snooptypo/models), an IIIF annotation [file](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/btv1b86000632_iiif.json) (IIIF Presentation API 2.0) is generated.           
 
-[![Open in Mirador](/images/typo.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json&page=5&lang=en)
+[![Open in Mirador](/images/typo.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://raw.githubusercontent.com/altomator/IIIF/refs/heads/main/manifests/btv1b86000632_linked_annot.json&page=5&lang=en)
 
 (To display the annotations, just click the bubbles button in the upper left corner).
 
-> [Illustrations de De la Déclaration des louenges de follies](https://gallica.bnf.fr/ark:/12148/btv1b22000344/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b22000344/manifest.json&page=1)
+> [Illustrations de De la Déclaration des louenges de follies](https://gallica.bnf.fr/ark:/12148/btv1b22000344/f1.planchecontact): [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b22000344/manifest.json&page=1)
 
-> [Guy de Warvich chevalier d'Angleterre qui en son temps fit plusieurs prouesses et conquestes en Allemaigne, Ytalie et Dannemarche..](https://gallica.bnf.fr/ark:/12148/btv1b86000632/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json&page=5)
+> [Guy de Warvich chevalier d'Angleterre qui en son temps fit plusieurs prouesses et conquestes en Allemaigne, Ytalie et Dannemarche..](https://gallica.bnf.fr/ark:/12148/btv1b86000632/f1.planchecontact): [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://raw.githubusercontent.com/altomator/IIIF/refs/heads/main/manifests/btv1b86000632_linked_annot.json&page=5)
 
-> [Les cent hystoires de Troye . Lepistre de Othea deesse de prudence envoyee a lesperit chevalereux Hector de Troye avec cent hystoires](https://gallica.bnf.fr/ark:/12148/bpt6k70569r/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k70569r/manifest.json&page=2)
+> [Les cent hystoires de Troye . Lepistre de Othea deesse de prudence envoyee a lesperit chevalereux Hector de Troye avec cent hystoires](https://gallica.bnf.fr/ark:/12148/bpt6k70569r/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://raw.githubusercontent.com/altomator/IIIF/refs/heads/main/manifests/bpt6k70569r_linked_annot.json&page=2)
 
-> [Homeri Iliados libri duo , una cum annotatiunculis Volmarii, passim suis locis adpositis](https://gallica.bnf.fr/ark:/12148/bpt6k70791g/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k70791g/manifest.json&page=2)
+> [Homeri Iliados libri duo , una cum annotatiunculis Volmarii, passim suis locis adpositis](https://gallica.bnf.fr/ark:/12148/bpt6k70791g/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://raw.githubusercontent.com/altomator/IIIF/refs/heads/main/manifests/bpt6k70791g_linked_annot.json&page=2)
 
  
  
