@@ -208,6 +208,12 @@ In this use case, computer vision models are used to detect objects in images. T
 > [Illustrations de De la Déclaration des louenges de follies](https://gallica.bnf.fr/ark:/12148/btv1b22000344/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b22000344/manifest.json&page=1)
 
 > [Guy de Warvich chevalier d'Angleterre qui en son temps fit plusieurs prouesses et conquestes en Allemaigne, Ytalie et Dannemarche..](https://gallica.bnf.fr/ark:/12148/btv1b86000632/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json&page=5)
+
+> [Les cent hystoires de Troye . Lepistre de Othea deesse de prudence envoyee a lesperit chevalereux Hector de Troye avec cent hystoires](https://gallica.bnf.fr/ark:/12148/bpt6k70569r/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k70569r/manifest.json&page=2)
+
+> [Homeri Iliados libri duo , una cum annotatiunculis Volmarii, passim suis locis adpositis](https://gallica.bnf.fr/ark:/12148/bpt6k70791g/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k70791g/manifest.json&page=2)
+
+ 
  
 In this scenario, the manifest and its annotations are formally linked, using the `otherContent` feature. A link to the annotations file is added into the first canvas of the manifest:
 
