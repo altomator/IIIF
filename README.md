@@ -213,7 +213,7 @@ In this use case, computer vision models are used to detect objects in images. T
 
 > [Homeri Iliados libri duo , una cum annotatiunculis Volmarii, passim suis locis adpositis](https://gallica.bnf.fr/ark:/12148/bpt6k70791g/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://raw.githubusercontent.com/altomator/IIIF/refs/heads/main/manifests/bpt6k70791g_linked_annot.json&page=2)
 
- 
+
  
 In this scenario, the manifest and its annotations are formally linked, using the `otherContent` feature. A link to the annotations file is added into the first canvas of the manifest:
 
