@@ -205,8 +205,7 @@ In this use case, computer vision models are used to detect objects in images. T
 
 (To display the annotations, just click the bubbles button in the upper left corner).
 
->
-[Illustrations de De la Déclaration des louenges de follies](https://gallica.bnf.fr/ark:/12148/btv1b22000344/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b22000344/manifest.json&page=1)
+> [Illustrations de De la Déclaration des louenges de follies](https://gallica.bnf.fr/ark:/12148/btv1b22000344/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b22000344/manifest.json&page=1)
 
 > [Guy de Warvich chevalier d'Angleterre qui en son temps fit plusieurs prouesses et conquestes en Allemaigne, Ytalie et Dannemarche..](https://gallica.bnf.fr/ark:/12148/btv1b86000632/f1.planchecontact) : [annotations](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json&page=5)
  
