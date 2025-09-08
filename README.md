@@ -198,7 +198,27 @@ Same experiment for a collection of [Paris maps](https://mirador.bnf.fr/?iiif-co
 [IIIF annotations](https://iiif.io/api/presentation/3.0/#56-annotation) are a convenient way to disseminate annotations, transcriptions, comments, etc., that may have been produced regarding a specific image or region of an image. IIIF annotations follow the Open Annotations and the [W3C Web Annotation](http://w3.org/TR/annotation-model/) model for IIIF version 3.0.
 
 ### AI Annotations
+#### Automatic annotation generation
+In this use case, computer vision models are used to detect objects in images. The [Roboflow](https://roboflow.com/) platform was used to train a model for detecting typographical elements (initial letters, illustrations, ornaments) in old printed works. Based on the segmentation data produced by the [model](https://app.roboflow.com/snooptypo/snooptypo/models), an IIIF annotation [file]((https://raw.githubusercontent.com/altomator/IIIF/main/annotations/btv1b86000632_iiif.json)) (IIIF Presentation API 2.0) is generated.           
 
+[![Open in Mirador](/images/open.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json&page=5&lang=en)
+
+In this scenario, the manifest and its annotations are formally linked, using the otherContent feature. A link to the annotations file is added into the first canvas of the manifest:
+
+```
+...
+,
+      "otherContent": [
+    {
+        "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/annotations/btv1b86000632_iiif.json",
+        "@type": "sc:AnnotationList",
+        "label": "Annotations produced by Roboflow"
+    }
+       ],
+...
+```
+
+#### IIIF annotation server
 This IIIF demonstration leverages the GallicaPix [objects detection](https://github.com/altomator/Image_Retrieval) data that are available when the GallicaPix database acts a IIIF annotation server. In this scenario, the annotations are stored somewhere, delivered by a server and hooked up to documents thanks to user interactions in Mirador (an instance of Mirador could also been programmatically hooked up to a database to avoid human interaction). 
 
 1. From GallicaPix (IIIF local menu available on each illustration) or using [this URL](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en), open the Vogue [June 1920](https://gallica.bnf.fr/ark:/12148/bpt6k9604118j/f11.item) issue in a Mirador instance, like the BnF https://manuscrits-france-angleterre.org/ portal.
@@ -211,21 +231,6 @@ This IIIF demonstration leverages the GallicaPix [objects detection](https://git
 
 [![GallicaPix Annotations in Mirador](/images/annotations.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/manifest.json&page=11&lang=en)
 
-In the previous scenario, the manifest and its annotations are not formally linked. Other use cases may imply to directly link the annotations to the manifest, using the otherContent feature. A link to the annotations file is added into the first canvas of the manifest:
-
-```
-...
-,
-      "otherContent": [
-    {
-        "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k9604118j_iiif.json",
-        "@type": "sc:AnnotationList",
-        "label": "Annotations produced by GallicaPix"
-    }
-       ],
-...
-```
-Now the annotations are visible when one opens the manifest in [Mirador](https://manuscrits-france-angleterre.org/view3if/?target=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/bpt6k9604118j_linked_annot.json&page=22&lang=fr).
 
 Obviously, as we're dealing with a server, the otherContent link in our [manifest](https://raw.githubusercontent.com/altomator/IIIF/main/manifests/bpt6k9604118j_server_annot.json) might be a direct call to the [end-point](https://gallicapix.bnf.fr/rest?run=exportAnnotationsIIIF.xq&corpus=vogue&id=bpt6k9604118j&locale=en) outputing the JSON data (see in [Mirador](https://manuscrits-france-angleterre.org/view3if/?target=https://raw.githubusercontent.com/altomator/IIIF/main/manifests/bpt6k9604118j_server_annot.json&page=22&lang=en)):
 
