@@ -199,11 +199,11 @@ Same experiment for a collection of [Paris maps](https://mirador.bnf.fr/?iiif-co
 
 ### AI Annotations
 #### Automatic annotation generation
-In this use case, computer vision models are used to detect objects in images. The [Roboflow](https://roboflow.com/) platform was used to train a model for detecting typographical elements (initial letters, illustrations, ornaments) in old printed works. Based on the segmentation data produced by the [model](https://app.roboflow.com/snooptypo/snooptypo/models), an IIIF annotation [file]((https://raw.githubusercontent.com/altomator/IIIF/main/annotations/btv1b86000632_iiif.json)) (IIIF Presentation API 2.0) is generated.           
+In this use case, computer vision models are used to detect objects in images. The [Roboflow](https://roboflow.com/) platform was used to train a model for detecting typographical elements (initial letters, illustrations, ornaments) in old printed works. Based on the segmentation data produced by the [model](https://app.roboflow.com/snooptypo/snooptypo/models), an IIIF annotation [file](https://raw.githubusercontent.com/altomator/IIIF/main/annotations/btv1b86000632_iiif.json) (IIIF Presentation API 2.0) is generated.           
 
 [![Open in Mirador](/images/typo.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json&page=5&lang=en)
 
-In this scenario, the manifest and its annotations are formally linked, using the otherContent feature. A link to the annotations file is added into the first canvas of the manifest:
+In this scenario, the manifest and its annotations are formally linked, using the `otherContent` feature. A link to the annotations file is added into the first canvas of the manifest:
 
 ```
 ...
