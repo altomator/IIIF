@@ -203,6 +203,8 @@ In this use case, computer vision models are used to detect objects in images. T
 
 [![Open in Mirador](/images/typo.jpg)](https://manuscrits-france-angleterre.org/view3if/?target=https://gallica.bnf.fr/iiif/ark:/12148/btv1b86000632/manifest.json&page=5&lang=en)
 
+(To display the annotations, just click the bubbles button in the upper left corner).
+
 In this scenario, the manifest and its annotations are formally linked, using the `otherContent` feature. A link to the annotations file is added into the first canvas of the manifest:
 
 ```
