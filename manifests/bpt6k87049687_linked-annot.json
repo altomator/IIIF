@@ -1,5 +1,5 @@
 {
-  "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k87049687/manifest.json",
+  "@id" : "https://raw.githubusercontent.com/altomator/IIIF/refs/heads/main/manifests/bpt6k87049687_linked-annot.json",
   "label" : "BnF, département Philosophie, histoire, sciences de l'homme, RES 4-LK2-699 (ALPHA)",
   "attribution" : "Bibliothèque nationale de France",
   "license" : "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
@@ -70,7 +70,7 @@
       } ],
       "otherContent": [
         {
-            "@id": "https://raw.githubusercontent.com/altomator/IIIF/main/annotations/bpt6k70569r_iiif.json",
+            "@id": "https://raw.githubusercontent.com/altomator/IIIF/refs/heads/main/annotations/bpt6k87049687_iiif-annot-v2.json",
             "@type": "sc:AnnotationList",
             "label": "Annotations produced by Roboflow, model: snooptypo/2"
         }
