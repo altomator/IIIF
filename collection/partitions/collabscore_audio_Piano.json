@@ -1,0 +1,143 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/partitions/collabscore_audio_Piano.json",
+  "type": "Collection",
+  "label": { "fr": [ "Partitions de Camille Saint-Saëns / projet ANR CollabScore : Piano" ], "en": [ "Camille Saint-Saëns musical scores / ANR project CollabScore: Piano" ] },
+  "thumbnail":
+  [
+    {
+      "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/330px-Musical_notes.svg.png",
+      "type": "Image",
+      "format": "image/png"
+    }
+  ],
+  "description": { "fr": [ "Contenu de la collection : Piano" ], "en": [ "Collection content: Piano" ] },
+  "attribution": { "fr": [ "Bibliothèque nationale de France" ], "en": [ "National Library of France" ] }, 
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "summary": { "fr": [ "<p>Cette collection présente une Sélection <a href='https://gallica.bnf.fr'>BnF Gallica</a> de <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=(notice%20all%20%22bpt6k8808500r%22%20or%20notice%20all%20%22bpt6k8816268z%22%20)'>Piano</a></p>"], "en": ["<p>This collection introduces a <a href='https://gallica.bnf.fr'>BnF Gallica</a> Selection of <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=(notice%20all%20%22bpt6k8808500r%22%20or%20notice%20all%20%22bpt6k8816268z%22%20)'>Piano</a></p>"]  },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+    "value": { "fr": [ "<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, sélection : <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=(notice%20all%20%22bpt6k8808500r%22%20or%20notice%20all%20%22bpt6k8816268z%22%20)'>Partitions de Camille Saint-Saëns / projet ANR CollabScore</a></p>"], "en": ["<p><a href='https://gallica.bnf.fr'>BnF Gallica</a>, selection: <a href='https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=(notice%20all%20%22bpt6k8808500r%22%20or%20notice%20all%20%22bpt6k8816268z%22%20)'>Camille Saint-Saëns musical scores / ANR project CollabScore</a></p>"]  }
+  },
+  "metadata": [
+      {
+        "label": { "fr": [ "Createur" ], "en": [ "Creator" ] },
+        "value": { "fr": [ "BnF Gallica" ], "en": [ "BnF Gallica" ] }
+      },
+      {
+        "label": { "fr": [ "Date" ], "en": [ "Date" ] },
+        "value": { "fr": [ "1870-1920" ], "en": [ "1870-1920" ] }
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=(notice%20all%20%22bpt6k8808500r%22%20or%20notice%20all%20%22bpt6k8816268z%22%20)",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore" ],"en": [ "Gallica selection: Camille Saint-Saëns musical scores / ANR project CollabScore" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "provider": [
+        {
+            "id": "https://gallica.bnf.fr/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "BNF Gallica"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://gallica.bnf.fr",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Page d'accueil Gallica"
+                        ],
+                        "en": [
+                            "Homepage for BNF Gallica"
+                        ]
+                    }
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Conditions d'utilisation des contenus de Gallica"
+                        ],
+                        "en": [
+                            "Gallica's contents terms and conditions of use"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=true&collapsing=false&version=1.2&query=(notice%20all%20%22bpt6k8808500r%22%20or%20notice%20all%20%22bpt6k8816268z%22%20)",
+			"format": "text/html",
+      "label": { "fr": [ "Sélection Gallica : Partitions de Camille Saint-Saëns / projet ANR CollabScore : Piano"],"en": [ "RELATED: Gallica selection: Camille Saint-Saëns musical scores / ANR project CollabScore: Piano" ] }
+		}],
+  
+  "items": [
+{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k8816268z/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "SOIREE DANS GRENADE : ESTAMPE N °2 / CLAUDE DEBUSSY ; CLAUDE DEBUSSY. DANSE ESPAGNOLE N °5 : 'ANDALUZA' / ENRIQUE GRANADOS ; ENRIQUE GRANADOS. RHAPSODIE D'AUVERGNE : OP. 73. VALSE MIGNONNE : OP. 104 / SAINT-SAENS ; C. SAINT-SAENS - 1959-01-01T00:00:00 - (Bibliothèque nationale de France, département Audiovisuel, C-21401)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k8816268z/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Audiovisuel, C-21401"], "en": ["Bibliothèque nationale de France, département Audiovisuel, C-21401"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1959-01-01T00:00:00"], "en": ["1959-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1959-01-01T00:00:00"
+	          
+	      },{
+	          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k8808500r/manifest.json",
+			  "type": "Manifest",
+	          "label": {"fr": [ "IMPROMPTU ; BALLABILE ; FEUILLET D'ALBUM ; AUBADE ; CAPRICE ; RONDE CHAMPETRE ; BOURREE FANTASQUE / Emmanuel CHABRIER. ETUDE en Forme de Valse, Op. 52 N °6. TOCCATA, Op. 72 N °3. THEME VARIE, Op. 97. ALLEGRO APPASSIONATO, Op. 70. TOCCATA, Op. 111 N °6 / Camille SAINT-SAENS ; Ginette Doyen, pianiste - 1958-01-01T00:00:00 - (Bibliothèque nationale de France, département Audiovisuel, B-2705)"] },
+			  "thumbnail": 
+				[
+    				{
+      				"id": "https://gallica.bnf.fr/ark://12148/bpt6k8808500r/f1/medres",
+      				"type": "Image",
+      				"format": "image/jpg"
+    				}
+  				],
+  			  "metadata": [
+    			{
+                    "label": { "fr": [ "Source" ], "en": [ "Attribution" ] },
+                    "value": { "fr": ["Bibliothèque nationale de France, département Audiovisuel, B-2705"], "en": ["Bibliothèque nationale de France, département Audiovisuel, B-2705"] }
+                  },
+                  {
+                    "label": { "fr": [ "Date de publication"], "en": [ "Publication Date" ] },
+                    "value": { "fr": ["1958-01-01T00:00:00"], "en": ["1958-01-01T00:00:00"] }
+                  }
+  				],
+			  "navDate": "1958-01-01T00:00:00"
+	          
+	      }]
+	 }
